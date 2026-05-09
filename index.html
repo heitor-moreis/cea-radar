@@ -386,6 +386,148 @@ input:checked+.tgl-t::before{left:19px}
   .p-title{font-size:20px}
 }
 @media(max-width:400px){.kpi-grid{grid-template-columns:1fr 1fr}.kpi-val{font-size:30px}}
+/* ── RELATÓRIOS ── */
+.rel-kpi-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-bottom:20px}
+@media(max-width:800px){.rel-kpi-grid{grid-template-columns:1fr 1fr}}
+.rel-card{background:var(--surf);border:1px solid var(--brd2);border-radius:var(--radius);overflow:hidden;margin-bottom:16px;transition:background var(--transition)}
+.rel-head{display:flex;justify-content:space-between;align-items:center;padding:16px 20px;border-bottom:1px solid var(--brd2)}
+.rel-title{font-size:13.5px;font-weight:700;color:var(--th)}
+.rel-actions{display:flex;gap:8px}
+.rel-body{padding:20px}
+.rel-period{font-size:11px;font-weight:600;letter-spacing:.5px;text-transform:uppercase;color:var(--tm);margin-bottom:14px}
+.rel-item{display:flex;align-items:center;gap:12px;padding:10px 0;border-bottom:1px solid var(--brd2)}
+.rel-item:last-child{border-bottom:none}
+.rel-ico{width:38px;height:38px;border-radius:9px;display:flex;align-items:center;justify-content:center;font-size:17px;flex-shrink:0}
+.rel-ico.pdf{background:#fef2f2}
+.rel-ico.xls{background:var(--lowB)}
+.rel-ico.doc{background:#eff6ff}
+.rel-info{flex:1;min-width:0}
+.rel-name{font-size:12.5px;font-weight:500;color:var(--th);margin-bottom:2px}
+.rel-meta{font-size:11px;color:var(--tm)}
+.rel-dl{display:flex;align-items:center;gap:6px}
+.rel-dl-btn{background:var(--bg);border:1px solid var(--brd);border-radius:6px;padding:5px 10px;font-size:11px;font-weight:600;color:var(--tb);cursor:pointer;font-family:'Outfit',sans-serif;transition:all .15s}
+.rel-dl-btn:hover{border-color:var(--navyL);color:var(--navy)}
+.rel-stat-row{display:flex;gap:10px;margin-bottom:14px;flex-wrap:wrap}
+.rel-stat{flex:1;min-width:90px;background:var(--bg);border-radius:9px;padding:12px 14px;text-align:center;transition:background var(--transition)}
+.rel-stat-val{font-family:'Fraunces',serif;font-size:24px;font-weight:600;color:var(--th)}
+.rel-stat-lbl{font-size:10px;font-weight:600;color:var(--tm);text-transform:uppercase;letter-spacing:.5px;margin-top:2px}
+.rel-bar-row{display:flex;align-items:center;gap:10px;margin-bottom:8px}
+.rel-bar-lbl{font-size:11.5px;color:var(--tb);width:80px;flex-shrink:0;text-align:right}
+.rel-bar-track{flex:1;height:8px;background:var(--bg);border-radius:20px;overflow:hidden}
+.rel-bar-fill{height:100%;border-radius:20px;transition:width .6s ease}
+.rel-bar-fill.crit{background:var(--crit)}
+.rel-bar-fill.alto{background:var(--alto)}
+.rel-bar-fill.med{background:var(--med)}
+.rel-bar-fill.low{background:var(--low)}
+.rel-bar-num{font-size:11px;font-weight:700;color:var(--tm);width:28px;text-align:right;flex-shrink:0}
+.rel-insight{background:var(--bg);border-left:3px solid var(--navyL);border-radius:0 8px 8px 0;padding:12px 16px;margin-bottom:10px;font-size:12.5px;color:var(--tb);line-height:1.6;transition:background var(--transition)}
+.rel-insight b{color:var(--th)}
+/* ── PRAZOS CONCLUÍDOS ── */
+.prc-summary{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-bottom:20px}
+@media(max-width:700px){.prc-summary{grid-template-columns:1fr 1fr}}
+.prc-stat{background:var(--surf);border:1px solid var(--brd2);border-radius:var(--radius);padding:18px 20px;text-align:center;transition:background var(--transition)}
+.prc-stat-val{font-family:'Fraunces',serif;font-size:30px;font-weight:600;color:var(--th)}
+.prc-stat-lbl{font-size:10.5px;font-weight:600;text-transform:uppercase;letter-spacing:.5px;color:var(--tm);margin-top:3px}
+.prc-empty{display:flex;flex-direction:column;align-items:center;padding:60px 20px;text-align:center}
+.prc-empty-ico{font-size:48px;margin-bottom:16px;opacity:.4}
+.prc-empty-title{font-size:15px;font-weight:600;color:var(--th);margin-bottom:6px}
+.prc-empty-sub{font-size:13px;color:var(--tm);max-width:300px;line-height:1.6}
+.completed-badge{background:var(--lowB);color:var(--low);font-size:10px;font-weight:700;padding:2px 8px;border-radius:20px}
+.prc-exp-warn{background:var(--medB);color:var(--med);font-size:10px;font-weight:700;padding:2px 8px;border-radius:20px}
+/* ── FONTES MONITORADAS ── */
+.fnt-summary{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-bottom:20px}
+@media(max-width:900px){.fnt-summary{grid-template-columns:repeat(2,1fr)}}
+.fnt-stat{background:var(--surf);border:1px solid var(--brd2);border-radius:var(--radius);padding:16px 18px;transition:background var(--transition)}
+.fnt-stat-val{font-family:'Fraunces',serif;font-size:28px;font-weight:600;color:var(--th);line-height:1}
+.fnt-stat-lbl{font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.6px;color:var(--tm);margin-top:4px}
+.fnt-stat-sub{font-size:10.5px;color:var(--td);margin-top:2px}
+.fnt-grupo{margin-bottom:16px}
+.fnt-grupo-header{font-size:10px;font-weight:700;letter-spacing:1.5px;text-transform:uppercase;color:var(--tm);padding:10px 0 8px;border-bottom:1px solid var(--brd2);margin-bottom:4px}
+.fnt-row{display:flex;align-items:center;gap:12px;padding:10px 0;border-bottom:1px solid var(--brd2)}
+.fnt-row:last-child{border-bottom:none}
+.fnt-ico{width:34px;height:34px;border-radius:8px;display:flex;align-items:center;justify-content:center;font-size:15px;flex-shrink:0}
+.fnt-ico.dio{background:#faf5ff}
+.fnt-ico.fed{background:#eff6ff}
+.fnt-ico.est{background:var(--lowB)}
+.fnt-ico.set{background:var(--altoB)}
+.fnt-ico.mun{background:var(--medB)}
+.fnt-info{flex:1;min-width:0}
+.fnt-nome{font-size:12.5px;font-weight:500;color:var(--th);margin-bottom:1px}
+.fnt-url{font-size:10.5px;color:var(--tm);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.fnt-status{display:flex;align-items:center;gap:8px;flex-shrink:0}
+.fnt-last{font-size:10.5px;color:var(--tm);white-space:nowrap}
+.fnt-dot{width:7px;height:7px;border-radius:50%;flex-shrink:0}
+.fnt-dot.ok{background:var(--low)}
+.fnt-dot.warn{background:var(--med)}
+.fnt-dot.err{background:var(--crit)}
+/* ── MÉTODO DE VARREDURA ── */
+.var-pipeline{display:flex;gap:0;margin-bottom:20px;overflow-x:auto;padding-bottom:4px}
+.var-pipe-step{flex:1;min-width:120px;background:var(--surf);border:1px solid var(--brd2);padding:14px 16px;position:relative;transition:background var(--transition)}
+.var-pipe-step:first-child{border-radius:var(--radius) 0 0 var(--radius)}
+.var-pipe-step:last-child{border-radius:0 var(--radius) var(--radius) 0}
+.var-pipe-step:not(:last-child)::after{content:'›';position:absolute;right:-10px;top:50%;transform:translateY(-50%);font-size:18px;color:var(--td);z-index:1;font-weight:300}
+.var-pipe-num{font-size:9px;font-weight:800;letter-spacing:1px;text-transform:uppercase;color:var(--navyL);margin-bottom:6px}
+.var-pipe-name{font-size:12px;font-weight:700;color:var(--th);margin-bottom:3px}
+.var-pipe-desc{font-size:10.5px;color:var(--tm);line-height:1.4}
+.var-schedule{background:var(--surf);border:1px solid var(--brd2);border-radius:var(--radius);padding:20px;margin-bottom:16px;transition:background var(--transition)}
+.var-sch-title{font-size:13px;font-weight:700;color:var(--th);margin-bottom:12px}
+.var-sch-row{display:flex;align-items:center;gap:12px;padding:8px 0;border-bottom:1px solid var(--brd2)}
+.var-sch-row:last-child{border-bottom:none}
+.var-sch-time{font-family:monospace;font-size:12px;font-weight:700;color:var(--navyL);min-width:55px}
+.var-sch-desc{font-size:12px;color:var(--tb);flex:1}
+.var-sch-badge{font-size:10px;font-weight:700;padding:2px 8px;border-radius:20px;background:var(--lowB);color:var(--low);flex-shrink:0}
+.var-sch-badge.warn{background:var(--medB);color:var(--med)}
+/* ── USUÁRIOS ── */
+.usr-summary{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-bottom:20px}
+@media(max-width:700px){.usr-summary{grid-template-columns:1fr 1fr}}
+.usr-stat{background:var(--surf);border:1px solid var(--brd2);border-radius:var(--radius);padding:16px 20px;transition:background var(--transition)}
+.usr-stat-val{font-family:'Fraunces',serif;font-size:28px;font-weight:600;color:var(--th)}
+.usr-stat-lbl{font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.6px;color:var(--tm);margin-top:3px}
+.usr-card-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:14px;margin-bottom:20px}
+.usr-card{background:var(--surf);border:1px solid var(--brd2);border-radius:var(--radius);padding:20px;display:flex;flex-direction:column;gap:14px;transition:all .2s,background var(--transition)}
+.usr-card:hover{box-shadow:var(--shadow);transform:translateY(-2px)}
+.usr-card-top{display:flex;align-items:center;gap:12px}
+.usr-ava-lg{width:44px;height:44px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:15px;font-weight:700;color:#fff;flex-shrink:0}
+.usr-card-info{flex:1;min-width:0}
+.usr-card-name{font-size:13.5px;font-weight:700;color:var(--th);margin-bottom:1px}
+.usr-card-role{font-size:11px;color:var(--tm)}
+.usr-card-email{font-size:11px;color:var(--navyL);margin-top:1px}
+.usr-badge{display:inline-flex;align-items:center;gap:5px;font-size:10px;font-weight:700;padding:3px 10px;border-radius:20px}
+.usr-badge.admin{background:#eff6ff;color:var(--navyL)}
+.usr-badge.analyst{background:var(--lowB);color:var(--low)}
+.usr-badge.viewer{background:var(--bg);color:var(--tm)}
+.usr-card-footer{display:flex;justify-content:space-between;align-items:center;border-top:1px solid var(--brd2);padding-top:12px}
+.usr-last{font-size:10.5px;color:var(--tm)}
+.usr-actions{display:flex;gap:6px}
+.usr-perm-table{width:100%;border-collapse:collapse}
+.usr-perm-table th{font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.6px;color:var(--tm);padding:8px 12px;border-bottom:1px solid var(--brd2);text-align:left;background:var(--surf2)}
+.usr-perm-table td{padding:10px 12px;font-size:12px;color:var(--tb);border-bottom:1px solid var(--brd2)}
+.usr-perm-table tr:last-child td{border-bottom:none}
+.usr-check{color:var(--low);font-size:14px}
+.usr-cross{color:var(--td);font-size:14px}
+/* ── CONFIGURAÇÕES ── */
+.cfg-grid{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-bottom:14px}
+@media(max-width:800px){.cfg-grid{grid-template-columns:1fr}}
+.cfg-section{background:var(--surf);border:1px solid var(--brd2);border-radius:var(--radius);overflow:hidden;margin-bottom:14px;transition:background var(--transition)}
+.cfg-head{padding:14px 20px;border-bottom:1px solid var(--brd2);display:flex;align-items:center;gap:10px}
+.cfg-head-ico{font-size:16px}
+.cfg-head-title{font-size:13px;font-weight:700;color:var(--th)}
+.cfg-body{padding:16px 20px}
+.cfg-row{display:flex;align-items:center;justify-content:space-between;padding:10px 0;border-bottom:1px solid var(--brd2)}
+.cfg-row:last-child{border-bottom:none}
+.cfg-row-left{flex:1;min-width:0;padding-right:16px}
+.cfg-row-label{font-size:12.5px;font-weight:500;color:var(--th);margin-bottom:1px}
+.cfg-row-sub{font-size:11px;color:var(--tm)}
+.cfg-input{border:1px solid var(--brd);border-radius:7px;padding:7px 11px;font-size:12.5px;color:var(--tb);font-family:'Outfit',sans-serif;background:var(--bg);outline:none;transition:border-color .15s;width:180px}
+.cfg-input:focus{border-color:var(--navyL)}
+.cfg-select{border:1px solid var(--brd);border-radius:7px;padding:7px 10px;font-size:12px;color:var(--tb);font-family:'Outfit',sans-serif;background:var(--bg);outline:none;cursor:pointer}
+.cfg-save-bar{display:flex;justify-content:flex-end;padding:14px 20px;border-top:1px solid var(--brd2);background:var(--surf2)}
+.cfg-log{font-size:11.5px;color:var(--tb);padding:8px 12px;border-bottom:1px solid var(--brd2);font-family:monospace;line-height:1.5}
+.cfg-log:last-child{border-bottom:none}
+.cfg-log .ts{color:var(--tm);margin-right:8px}
+.cfg-log .ok{color:var(--low);font-weight:700}
+.cfg-log .err{color:var(--crit);font-weight:700}
+.cfg-log .info{color:var(--navyL);font-weight:700}
 </style>
 </head>
 <body>
@@ -577,31 +719,7 @@ input:checked+.tgl-t::before{left:19px}
     <div class="notif-panel" id="notifPanel">
       <div class="np-head"><div class="np-title">Notificações</div><span class="np-mark" onclick="markAllRead()">Marcar todas como lidas</span></div>
       <div class="np-list">
-      <div class="np-item unread doe-notif" onclick="markRead(this);navTo('pub',null)">
-        <div class="np-dot crit"></div>
-        <div class="np-text">
-          <div class="np-msg">
-            <span style="font-size:9px;font-weight:800;letter-spacing:1px;text-transform:uppercase;background:#1a3a6e;color:#38bdf8;padding:1px 6px;border-radius:4px;margin-right:5px">DOE-AM</span>
-            Nova edição publicada — 2 atos críticos identificados: concessão de energia e reajuste tarifário Cigás
-          </div>
-          <div class="np-time">Hoje 06:15 · 01/05/2026 · Edição nº 36.112</div>
-        </div>
-      </div>
-      <div class="np-item unread" onclick="markRead(this);navTo('pub',null)">
-        <div class="np-dot alto"></div>
-        <div class="np-text">
-          <div class="np-msg">
-            <span style="font-size:9px;font-weight:800;letter-spacing:1px;text-transform:uppercase;background:#f0fdf4;color:#16a34a;padding:1px 6px;border-radius:4px;margin-right:5px">ARSEPAM</span>
-            Nova legislação — Portaria 042/2026: critérios de fiscalização de distribuidoras
-          </div>
-          <div class="np-time">Hoje 08:00 · 28/04/2026</div>
-        </div>
-      </div>
-        <div class="np-item unread" onclick="markRead(this);navTo('pub',null)"><div class="np-dot crit"></div><div class="np-text"><div class="np-msg">Nova publicação crítica — ANP: Chamada Pública Gasoduto Urucu-Coari-Manaus</div><div class="np-time">Há 2 horas · 26/04/2026</div></div></div>
-        <div class="np-item unread" onclick="markRead(this);navTo('pub',null)"><div class="np-dot crit"></div><div class="np-text"><div class="np-msg">Prazo crítico em 7 dias — IBAMA: CP Licenciamento Termelétricas</div><div class="np-time">Há 4 horas · 26/04/2026</div></div></div>
-        <div class="np-item unread" onclick="markRead(this);navTo('pub',null)"><div class="np-dot alto"></div><div class="np-text"><div class="np-msg">Nova publicação alto impacto — MME: Tomada de Subsídios Segurança Energética</div><div class="np-time">Há 1 dia · 25/04/2026</div></div></div>
-        <div class="np-item" onclick="navTo('pub',null)"><div class="np-dot info"></div><div class="np-text"><div class="np-msg">Relatório semanal disponível — semana 16/04 a 22/04/2026</div><div class="np-time">Há 3 dias · 23/04/2026</div></div></div>
-      </div>
+      <div id="notifDynamic"></div>
     </div>
 
     <div class="content" id="mainContent">
@@ -647,41 +765,9 @@ input:checked+.tgl-t::before{left:19px}
         <div class="two-col">
           <div class="card">
             <div class="c-head"><div class="c-title">Alertas recentes</div><span class="see-all" onclick="navTo('pub',document.querySelectorAll('.ni')[1])">Ver todas →</span></div>
-            <div class="a-list">
-              <div class="a-item"><div class="a-bar crit"></div><div class="a-cnt"><div class="a-title">ANP abre Chamada Pública para capacidade de escoamento no Gasoduto Urucu-Coari-Manaus</div><div class="a-meta"><span class="a-src">ANP</span><span>26/04/2026</span><span>·</span><span>Gás Natural</span></div></div><span class="bdg crit">Crítico</span></div>
-              <div class="a-item"><div class="a-bar crit"></div><div class="a-cnt"><div class="a-title">IBAMA lança consulta pública sobre nova instrução normativa de licenciamento para termelétricas a gás</div><div class="a-meta"><span class="a-src">IBAMA</span><span>25/04/2026</span><span>·</span><span>Licenciamento Ambiental</span></div></div><span class="bdg crit">Crítico</span></div>
-              <div class="a-item"><div class="a-bar crit"></div><div class="a-cnt"><div class="a-title">ANEEL abre Consulta Pública 001/2026 sobre critérios de despacho termelétrico no SIN</div><div class="a-meta"><span class="a-src">ANEEL</span><span>24/04/2026</span><span>·</span><span>Energia Elétrica</span></div></div><span class="bdg crit">Crítico</span></div>
-              <div class="a-item"><div class="a-bar alto"></div><div class="a-cnt"><div class="a-title">MME abre Tomada de Subsídios sobre política de segurança energética para o sistema isolado do Amazonas</div><div class="a-meta"><span class="a-src">MME</span><span>23/04/2026</span><span>·</span><span>Política Energética</span></div></div><span class="bdg alto">Alto</span></div>
-              <div class="a-item"><div class="a-bar crit"></div><div class="a-cnt"><div class="a-title">CCEE altera Regra de Comercialização RC-02 aplicável a agentes geradores termelétricos</div><div class="a-meta"><span class="a-src">CCEE</span><span>22/04/2026</span><span>·</span><span>Comercialização de Energia</span></div></div><span class="bdg crit">Crítico</span></div>
-              <div class="a-item"><div class="a-bar crit"></div><div class="a-cnt"><div class="a-title">ANEEL publica Nota Técnica sobre revisão da metodologia de cálculo do CVU para termelétricas</div><div class="a-meta"><span class="a-src">ANEEL</span><span>21/04/2026</span><span>·</span><span>Energia Elétrica</span></div></div><span class="bdg crit">Crítico</span></div>
-            </div>
-          </div>
-          <div class="card">
-            <div class="c-head"><div><div class="c-title">Prazos críticos</div><div class="c-sub">Clique na seta → para marcar como concluído</div></div></div>
-            <div class="d-list" id="deadlineList">
-              <div class="d-item urg" data-id="1">
-                <div class="d-cnt"><div class="d-num">7</div><div class="d-unit">dias</div></div>
-                <div class="d-info"><div class="d-title">IBAMA — CP: IN licenciamento termelétricas a gás</div><div class="d-meta">Prazo: 05/05/2026 · IBAMA</div></div>
-                <div class="d-arrow" onclick="askCompleteDeadline(1,'IBAMA — CP: IN licenciamento termelétricas a gás')">→</div>
-              </div>
-              <div class="d-item urg" data-id="2">
-                <div class="d-cnt"><div class="d-num">11</div><div class="d-unit">dias</div></div>
-                <div class="d-info"><div class="d-title">ANEEL — CP 001/2026: Despacho termelétrico SIN</div><div class="d-meta">Prazo: 09/05/2026 · ANEEL</div></div>
-                <div class="d-arrow" onclick="askCompleteDeadline(2,'ANEEL — CP 001/2026: Despacho termelétrico SIN')">→</div>
-              </div>
-              <div class="d-item urg" data-id="3">
-                <div class="d-cnt"><div class="d-num">14</div><div class="d-unit">dias</div></div>
-                <div class="d-info"><div class="d-title">ANP — Chamada Pública: Gasoduto Urucu-Coari-Manaus</div><div class="d-meta">Prazo: 12/05/2026 · ANP</div></div>
-                <div class="d-arrow" onclick="askCompleteDeadline(3,'ANP — Chamada Pública: Gasoduto Urucu-Coari-Manaus')">→</div>
-              </div>
-            </div>
+            <div class="d-list" id="deadlineList"></div>
             <div class="divider-label">Prazos futuros</div>
-            <div class="d-list" id="futureDeadlineList">
-              <div class="d-item" data-id="4"><div class="d-cnt"><div class="d-num">22</div><div class="d-unit">dias</div></div><div class="d-info"><div class="d-title">ARSEPAM — CP: Revisão tarifária Cigás 2026</div><div class="d-meta">Prazo: 20/05/2026 · ARSEPAM</div></div><div class="d-arrow" onclick="askCompleteDeadline(4,'ARSEPAM — CP: Revisão tarifária Cigás 2026')">→</div></div>
-              <div class="d-item" data-id="5"><div class="d-cnt"><div class="d-num">38</div><div class="d-unit">dias</div></div><div class="d-info"><div class="d-title">ANEEL — Audiência Pública: Revisão tarifária AmE 2026</div><div class="d-meta">Prazo: 05/06/2026 · ANEEL</div></div><div class="d-arrow" onclick="askCompleteDeadline(5,'ANEEL — Audiência Pública: Revisão tarifária AmE 2026')">→</div></div>
-              <div class="d-item" data-id="6"><div class="d-cnt"><div class="d-num">55</div><div class="d-unit">dias</div></div><div class="d-info"><div class="d-title">ONS — Consulta: Plano Anual de Prevenção de Déficit 2026/2027</div><div class="d-meta">Prazo: 22/06/2026 · ONS</div></div><div class="d-arrow" onclick="askCompleteDeadline(6,'ONS — Consulta: Plano Anual de Prevenção de Déficit 2026/2027')">→</div></div>
-              <div class="d-item" data-id="7"><div class="d-cnt"><div class="d-num">73</div><div class="d-unit">dias</div></div><div class="d-info"><div class="d-title">ANP — AP: Revisão de normas para gasodutos de transporte</div><div class="d-meta">Prazo: 10/07/2026 · ANP</div></div><div class="d-arrow" onclick="askCompleteDeadline(7,'ANP — AP: Revisão de normas para gasodutos de transporte')">→</div></div>
-            </div>
+            <div class="d-list" id="futureDeadlineList"></div>
           </div>
         </div>
       </div>
@@ -719,9 +805,97 @@ input:checked+.tgl-t::before{left:19px}
       <div class="page" id="pg-fnt">
         <div class="p-ey">Configuração</div>
         <div class="p-title">Fontes Monitoradas</div>
-        <div class="p-sub">Todos os portais verificados diariamente pelo sistema. A frequência de coleta é definida com base na cadência de publicação de cada órgão — diária para fontes de alta atividade, semanal para as demais.</div>
-        <div class="toolbar"><div class="t-sp"></div><button class="btn-p">+ Adicionar Fonte</button></div>
-        <div class="t-wrap"><table class="data-tbl"><thead><tr><th>Órgão / Instituição</th><th>Tipo</th><th>Categoria</th><th>Frequência</th><th>Situação</th><th>Ativo</th></tr></thead><tbody id="fontesTbody"></tbody></table></div>
+        <div class="p-sub">Todas as fontes de dados que o sistema consulta automaticamente para coleta de publicações regulatórias</div>
+
+        <div class="fnt-summary">
+          <div class="fnt-stat">
+            <div class="fnt-stat-val" id="fntTotal">18</div>
+            <div class="fnt-stat-lbl">Total de fontes</div>
+            <div class="fnt-stat-sub">cadastradas no sistema</div>
+          </div>
+          <div class="fnt-stat">
+            <div class="fnt-stat-val" style="color:var(--low)" id="fntAtivas">18</div>
+            <div class="fnt-stat-lbl">Fontes ativas</div>
+            <div class="fnt-stat-sub">coletando normalmente</div>
+          </div>
+          <div class="fnt-stat">
+            <div class="fnt-stat-val" id="fntUltima">—</div>
+            <div class="fnt-stat-lbl">Última coleta</div>
+            <div class="fnt-stat-sub">horário de Manaus</div>
+          </div>
+          <div class="fnt-stat">
+            <div class="fnt-stat-val">08h</div>
+            <div class="fnt-stat-lbl">Próxima coleta</div>
+            <div class="fnt-stat-sub">agendada pelo sistema</div>
+          </div>
+        </div>
+
+        <!-- Diários Oficiais -->
+        <div class="rel-card">
+          <div class="rel-head">
+            <div class="rel-title">📰 Diários Oficiais</div>
+            <span class="fchip dio">Diário Oficial</span>
+          </div>
+          <div class="rel-body" style="padding-top:4px">
+            <div class="fnt-row">
+              <div class="fnt-ico dio">🏛️</div>
+              <div class="fnt-info">
+                <div class="fnt-nome">DOU — Diário Oficial da União</div>
+                <div class="fnt-url">https://www.in.gov.br · ANEEL, ANP, MME, CCEE, ONS, IBAMA, ANA, EPE</div>
+              </div>
+              <div class="fnt-status">
+                <span class="fnt-last">Hoje 08:00</span>
+                <div class="fnt-dot ok"></div>
+                <label class="tgl"><input type="checkbox" checked/><div class="tgl-t"></div></label>
+              </div>
+            </div>
+            <div class="fnt-row">
+              <div class="fnt-ico dio">📋</div>
+              <div class="fnt-info">
+                <div class="fnt-nome">DOE-AM — Diário Oficial do Estado do Amazonas</div>
+                <div class="fnt-url">https://diario.imprensaoficial.am.gov.br · ARSEPAM, SEMIG, Cigás e demais órgãos estaduais</div>
+              </div>
+              <div class="fnt-status">
+                <span class="fnt-last">Hoje 08:00</span>
+                <div class="fnt-dot ok"></div>
+                <label class="tgl"><input type="checkbox" checked/><div class="tgl-t"></div></label>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Agências Federais -->
+        <div class="rel-card">
+          <div class="rel-head">
+            <div class="rel-title">🏢 Agências Reguladoras Federais</div>
+            <span class="fchip fed">Federal</span>
+          </div>
+          <div class="rel-body" style="padding-top:4px" id="fntFederais">
+            <!-- Renderizado por JS -->
+          </div>
+        </div>
+
+        <!-- Empresas do Setor -->
+        <div class="rel-card">
+          <div class="rel-head">
+            <div class="rel-title">🏭 Empresas do Setor Energético</div>
+            <span class="fchip set">Setor</span>
+          </div>
+          <div class="rel-body" style="padding-top:4px" id="fntSetor">
+            <!-- Renderizado por JS -->
+          </div>
+        </div>
+
+        <!-- Órgãos Estaduais e Municipais -->
+        <div class="rel-card">
+          <div class="rel-head">
+            <div class="rel-title">🌿 Órgãos Estaduais e Municipais</div>
+            <span class="fchip est">Estadual / Municipal</span>
+          </div>
+          <div class="rel-body" style="padding-top:4px" id="fntEstadual">
+            <!-- Renderizado por JS -->
+          </div>
+        </div>
       </div>
 
       <!-- TEMAS -->
@@ -755,22 +929,146 @@ input:checked+.tgl-t::before{left:19px}
         </div>
 
       <!-- RELATÓRIOS -->
-      <div class="page" id="pg-rel">
-        <div class="p-ey">Análise</div><div class="p-title">Relatórios</div>
-        <div class="placeholder"><div class="ph-ico">📊</div><h3>Módulo de Relatórios</h3><p>Relatórios gerenciais semanais e mensais com síntese das principais publicações regulatórias, evolução dos indicadores e agenda de prazos.</p><div class="ph-badge">Em desenvolvimento</div></div>
+       <div class="page" id="pg-rel">
+        <div class="p-ey">Análise</div>
+        <div class="p-title">Relatórios</div>
+        <div class="p-sub">Sínteses gerenciais geradas automaticamente a partir das publicações coletadas pelo sistema</div>
+
+        <!-- KPIs dinâmicos -->
+        <div class="rel-kpi-grid" id="relKpiGrid">
+          <div class="kpi bl">
+            <div class="kpi-top"><div class="kpi-label">Publicações este mês</div><div class="kpi-ico">📄</div></div>
+            <div class="kpi-val" id="relTotalPubs">—</div>
+            <div class="kpi-foot">todas as fontes monitoradas</div>
+          </div>
+          <div class="kpi rd">
+            <div class="kpi-top"><div class="kpi-label">Críticas identificadas</div><div class="kpi-ico">⚠️</div></div>
+            <div class="kpi-val" id="relCriticas">—</div>
+            <div class="kpi-foot">requerem ação imediata</div>
+          </div>
+          <div class="kpi gn">
+            <div class="kpi-top"><div class="kpi-label">Fontes ativas</div><div class="kpi-ico">🌐</div></div>
+            <div class="kpi-val" id="relFontes">—</div>
+            <div class="kpi-foot">coletando dados diariamente</div>
+          </div>
+        </div>
+
+        <div style="display:grid;grid-template-columns:1fr 340px;gap:14px;margin-bottom:14px">
+
+          <!-- Distribuição por impacto -->
+          <div class="rel-card">
+            <div class="rel-head">
+              <div class="rel-title">Distribuição por nível de impacto</div>
+              <div class="rel-actions">
+                <button class="btn-s" style="font-size:11px;padding:5px 10px">⬇ PDF</button>
+              </div>
+            </div>
+            <div class="rel-body">
+              <div class="rel-stat-row" id="relStatRow">
+                <div class="rel-stat"><div class="rel-stat-val" id="rsCrit">—</div><div class="rel-stat-lbl">Crítico</div></div>
+                <div class="rel-stat"><div class="rel-stat-val" id="rsAlto">—</div><div class="rel-stat-lbl">Alto</div></div>
+                <div class="rel-stat"><div class="rel-stat-val" id="rsMed">—</div><div class="rel-stat-lbl">Médio</div></div>
+                <div class="rel-stat"><div class="rel-stat-val" id="rsBaixo">—</div><div class="rel-stat-lbl">Baixo</div></div>
+              </div>
+              <div id="relBarras"></div>
+            </div>
+          </div>
+
+          <!-- Top órgãos -->
+          <div class="rel-card">
+            <div class="rel-head"><div class="rel-title">Top órgãos por publicações</div></div>
+            <div class="rel-body" id="relTopOrgaos" style="padding-top:8px"></div>
+          </div>
+        </div>
+
+        <!-- Insights automáticos -->
+        <div class="rel-card">
+          <div class="rel-head">
+            <div class="rel-title">💡 Insights automáticos</div>
+            <span style="font-size:11px;color:var(--tm)">Gerado com base nos dados mais recentes</span>
+          </div>
+          <div class="rel-body" id="relInsights"></div>
+        </div>
+
+        <!-- Relatórios para download -->
+        <div class="rel-card">
+          <div class="rel-head">
+            <div class="rel-title">📁 Relatórios disponíveis para download</div>
+            <button class="btn-p" style="font-size:11.5px;padding:6px 14px">+ Gerar novo</button>
+          </div>
+          <div class="rel-body">
+            <div class="rel-period">Últimos 30 dias</div>
+            <div class="rel-item">
+              <div class="rel-ico pdf">📄</div>
+              <div class="rel-info">
+                <div class="rel-name">Síntese Regulatória — Abril 2026</div>
+                <div class="rel-meta">Gerado em 01/05/2026 · 47 publicações · 6 críticas</div>
+              </div>
+              <div class="rel-dl">
+                <button class="rel-dl-btn">⬇ PDF</button>
+                <button class="rel-dl-btn">⬇ XLSX</button>
+              </div>
+            </div>
+            <div class="rel-item">
+              <div class="rel-ico xls">📊</div>
+              <div class="rel-info">
+                <div class="rel-name">Agenda de Prazos — Maio 2026</div>
+                <div class="rel-meta">Gerado em 01/05/2026 · 7 prazos ativos</div>
+              </div>
+              <div class="rel-dl">
+                <button class="rel-dl-btn">⬇ PDF</button>
+                <button class="rel-dl-btn">⬇ XLSX</button>
+              </div>
+            </div>
+            <div class="rel-item">
+              <div class="rel-ico doc">📋</div>
+              <div class="rel-info">
+                <div class="rel-name">Síntese Regulatória — Março 2026</div>
+                <div class="rel-meta">Gerado em 01/04/2026 · 39 publicações · 4 críticas</div>
+              </div>
+              <div class="rel-dl">
+                <button class="rel-dl-btn">⬇ PDF</button>
+                <button class="rel-dl-btn">⬇ XLSX</button>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
 
       <!-- PRAZOS CONCLUÍDOS -->
-      <div class="page" id="pg-prc">
+       <div class="page" id="pg-prc">
         <div class="p-ey">Prazos</div>
         <div class="p-title">Prazos Concluídos</div>
         <div class="p-sub">Prazos marcados como concluídos ficam disponíveis aqui por 30 dias</div>
+
+        <div class="prc-summary">
+          <div class="prc-stat">
+            <div class="prc-stat-val" id="prcTotal">0</div>
+            <div class="prc-stat-lbl">Concluídos no total</div>
+          </div>
+          <div class="prc-stat">
+            <div class="prc-stat-val" id="prcMes">0</div>
+            <div class="prc-stat-lbl">Este mês</div>
+          </div>
+          <div class="prc-stat">
+            <div class="prc-stat-val" id="prcExp" style="color:var(--med)">0</div>
+            <div class="prc-stat-lbl">Expirando em 7 dias</div>
+          </div>
+        </div>
+
         <div class="t-wrap">
           <table class="data-tbl">
-            <thead><tr><th>Título</th><th>Órgão</th><th>Concluído em</th><th>Concluído por</th><th>Expira em</th></tr></thead>
-            <tbody id="completedTbody">
-              <tr><td colspan="5" style="text-align:center;padding:40px;color:var(--tm);font-size:13px">Nenhum prazo concluído ainda. Clique na seta → nos prazos do dashboard para marcar como concluído.</td></tr>
-            </tbody>
+            <thead>
+              <tr>
+                <th>Título</th>
+                <th>Órgão</th>
+                <th>Concluído em</th>
+                <th>Concluído por</th>
+                <th>Expira em</th>
+                <th>Ações</th>
+              </tr>
+            </thead>
+            <tbody id="completedTbody"></tbody>
           </table>
         </div>
       </div>
@@ -779,134 +1077,439 @@ input:checked+.tgl-t::before{left:19px}
       <div class="page" id="pg-var">
         <div class="p-ey">Configuração</div>
         <div class="p-title">Método de Varredura</div>
-        <div class="p-sub">Como o sistema coleta e processa publicações de cada fonte monitorada</div>
+        <div class="p-sub">Como o sistema coleta, filtra e classifica publicações de cada fonte automaticamente</div>
 
-        <div class="crawl-section">
-          <div class="crawl-head">
-            <h3>🏛️ ANEEL — Agência Nacional de Energia Elétrica</h3>
-            <span class="crawl-badge html">HTML Scraping</span>
+        <!-- Pipeline visual -->
+        <div class="var-pipeline">
+          <div class="var-pipe-step">
+            <div class="var-pipe-num">01 — Agendamento</div>
+            <div class="var-pipe-name">⏰ Gatilho diário</div>
+            <div class="var-pipe-desc">GitHub Actions dispara o scraper toda manhã às 08h (horário de Manaus)</div>
           </div>
-          <div class="crawl-body">
-            <p>O portal da ANEEL disponibiliza suas consultas públicas em uma página HTML estruturada. O sistema acessa a URL de consultas e audiências, faz o parse do DOM para extrair título, número, data e prazo de cada publicação.</p>
-            <div>
-              <div class="crawl-step"><div class="crawl-step-num">1</div><div class="crawl-step-text"><b>Acesso diário</b> à URL: <code>https://www.aneel.gov.br/consultas-publicas</code> — sistema identifica mudanças por hash de conteúdo.</div></div>
-              <div class="crawl-step"><div class="crawl-step-num">2</div><div class="crawl-step-text"><b>Extração via seletores CSS</b> — identifica elementos <code>.consulta-item</code>, extrai: título, data publicação, data prazo, número do processo.</div></div>
-              <div class="crawl-step"><div class="crawl-step-num">3</div><div class="crawl-step-text"><b>Classificação por palavras-chave</b> — texto da publicação é comparado com o banco de termos monitorados para definir relevância e impacto.</div></div>
-              <div class="crawl-step"><div class="crawl-step-num">4</div><div class="crawl-step-text"><b>Armazenamento e notificação</b> — publicação nova é salva e, se crítica, dispara alerta imediato.</div></div>
-            </div>
+          <div class="var-pipe-step">
+            <div class="var-pipe-num">02 — Coleta</div>
+            <div class="var-pipe-name">🌐 Acesso às fontes</div>
+            <div class="var-pipe-desc">Script Python acessa 18 fontes com retry automático e simulação de navegador</div>
+          </div>
+          <div class="var-pipe-step">
+            <div class="var-pipe-num">03 — Triagem</div>
+            <div class="var-pipe-name">🔍 Filtro por relevância</div>
+            <div class="var-pipe-desc">Compara conteúdo com banco de palavras-chave do setor energético</div>
+          </div>
+          <div class="var-pipe-step">
+            <div class="var-pipe-num">04 — Classificação</div>
+            <div class="var-pipe-name">⚠️ Nível de impacto</div>
+            <div class="var-pipe-desc">Crítico / Alto / Médio / Baixo definido por contexto semântico do texto</div>
+          </div>
+          <div class="var-pipe-step">
+            <div class="var-pipe-num">05 — Publicação</div>
+            <div class="var-pipe-name">💾 Atualização do site</div>
+            <div class="var-pipe-desc">JSON gerado e commitado; GitHub Pages serve os dados atualizados</div>
           </div>
         </div>
 
+        <!-- Agenda de execução -->
+        <div class="var-schedule">
+          <div class="var-sch-title">⏱ Agenda de execução</div>
+          <div class="var-sch-row">
+            <span class="var-sch-time">08:00</span>
+            <span class="var-sch-desc">Execução principal — todos os 18 scrapers em sequência</span>
+            <span class="var-sch-badge">Diário (seg–sex)</span>
+          </div>
+          <div class="var-sch-row">
+            <span class="var-sch-time">Manual</span>
+            <span class="var-sch-desc">Execução sob demanda via GitHub Actions → Run workflow</span>
+            <span class="var-sch-badge warn">Manual</span>
+          </div>
+        </div>
+
+        <!-- Scrapers por fonte -->
         <div class="crawl-section">
           <div class="crawl-head">
             <h3>📰 DOU — Diário Oficial da União</h3>
             <span class="crawl-badge api">API REST</span>
           </div>
           <div class="crawl-body">
-            <p>O DOU disponibiliza API pública de busca. O sistema realiza consultas parametrizadas com os termos do setor energético e filtra resultados relevantes automaticamente.</p>
+            <p>O DOU disponibiliza API pública de busca. O sistema realiza consultas para cada órgão monitorado (ANEEL, ANP, MME, CCEE, ONS, IBAMA, ANA, EPE) e filtra atos relevantes ao setor energético.</p>
             <div>
-              <div class="crawl-step"><div class="crawl-step-num">1</div><div class="crawl-step-text"><b>Requisição diária à API</b>: <code>GET https://www.in.gov.br/consulta?q={termos}&data={hoje}</code> com conjunto de palavras-chave do setor.</div></div>
-              <div class="crawl-step"><div class="crawl-step-num">2</div><div class="crawl-step-text"><b>Filtro por seção</b> — são processadas as seções 1 (atos normativos) e 2 (atos de pessoal) relacionados a órgãos monitorados.</div></div>
-              <div class="crawl-step"><div class="crawl-step-num">3</div><div class="crawl-step-text"><b>Deduplicação</b> — cada ato recebe um ID único baseado no número do diário e página; duplicatas são descartadas automaticamente.</div></div>
+              <div class="crawl-step"><div class="crawl-step-num">1</div><div class="crawl-step-text"><b>Requisição por órgão</b>: <code>GET https://www.in.gov.br/consulta?q={orgao}&data={hoje}</code> para cada um dos 8 órgãos monitorados.</div></div>
+              <div class="crawl-step"><div class="crawl-step-num">2</div><div class="crawl-step-text"><b>Filtro por relevância</b> — compara texto dos atos com banco de palavras-chave (energia, gás, tarifa, concessão, termelétrica, CEA, ARSEPAM).</div></div>
+              <div class="crawl-step"><div class="crawl-step-num">3</div><div class="crawl-step-text"><b>Deduplicação</b> — cada ato recebe ID único por número/página do diário; duplicatas descartadas automaticamente antes de salvar.</div></div>
             </div>
           </div>
         </div>
 
         <div class="crawl-section">
           <div class="crawl-head">
-            <h3>🛢️ ANP — Agência Nacional do Petróleo</h3>
-            <span class="crawl-badge rss">RSS Feed</span>
-          </div>
-          <div class="crawl-body">
-            <p>A ANP disponibiliza RSS feed de suas publicações. O sistema consome o feed periodicamente e filtra itens relacionados ao setor de gás natural e transporte.</p>
-            <div>
-              <div class="crawl-step"><div class="crawl-step-num">1</div><div class="crawl-step-text"><b>Polling do feed RSS</b>: <code>https://www.gov.br/anp/pt-br/feed</code> — verificado a cada 6 horas.</div></div>
-              <div class="crawl-step"><div class="crawl-step-num">2</div><div class="crawl-step-text"><b>Comparação de GUIDs</b> — itens já processados são ignorados; somente novos itens entram no pipeline de classificação.</div></div>
-              <div class="crawl-step"><div class="crawl-step-num">3</div><div class="crawl-step-text"><b>Enriquecimento</b> — o sistema visita a URL do item para extrair o conteúdo completo e identificar prazos nas consultas públicas.</div></div>
-            </div>
-          </div>
-        </div>
-
-        <div class="crawl-section">
-          <div class="crawl-head">
-            <h3>🌿 IBAMA — Instituto Brasileiro do Meio Ambiente</h3>
-            <span class="crawl-badge pdf">PDF Parsing</span>
-          </div>
-          <div class="crawl-body">
-            <p>O IBAMA publica normas e consultas em formato PDF no portal gov.br. O sistema detecta novos documentos, realiza download e extrai texto via OCR para classificação.</p>
-            <div>
-              <div class="crawl-step"><div class="crawl-step-num">1</div><div class="crawl-step-text"><b>Varredura semanal</b> da página de consultas: <code>https://www.ibama.gov.br/consultas-publicas</code> — identifica novos links .pdf.</div></div>
-              <div class="crawl-step"><div class="crawl-step-num">2</div><div class="crawl-step-text"><b>Download e OCR</b> — PDFs são baixados e processados com extração de texto. Documentos escaneados passam por OCR adicional.</div></div>
-              <div class="crawl-step"><div class="crawl-step-num">3</div><div class="crawl-step-text"><b>Extração de prazo</b> — expressões regulares identificam datas de prazo no texto (ex: "prazo de 30 dias", "até DD/MM/AAAA").</div></div>
-            </div>
-          </div>
-        </div>
-
-        <div class="crawl-section">
-          <div class="crawl-head">
-            <h3>🔧 Pipeline geral de processamento</h3>
-          </div>
-          <div class="crawl-body">
-            <p>Independente da fonte, todas as publicações passam pelo mesmo pipeline de processamento antes de aparecer no Radar:</p>
-            <div>
-              <div class="crawl-step"><div class="crawl-step-num">1</div><div class="crawl-step-text"><b>Coleta</b> — agente específico de cada fonte coleta o conteúdo bruto (HTML, JSON, RSS, PDF).</div></div>
-              <div class="crawl-step"><div class="crawl-step-num">2</div><div class="crawl-step-text"><b>Normalização</b> — dados são padronizados em estrutura comum: título, data, órgão, URL, texto completo.</div></div>
-              <div class="crawl-step"><div class="crawl-step-num">3</div><div class="crawl-step-text"><b>Classificação por relevância</b> — match com banco de palavras-chave; score determina nível de impacto (crítico/alto/médio/baixo).</div></div>
-              <div class="crawl-step"><div class="crawl-step-num">4</div><div class="crawl-step-text"><b>Detecção de prazo</b> — NLP extrai datas de prazo para consultas públicas e audiências; cria evento no calendário.</div></div>
-              <div class="crawl-step"><div class="crawl-step-num">5</div><div class="crawl-step-text"><b>Persistência e notificação</b> — publicação salva no banco; alertas configurados são avaliados e disparados conforme regras.</div></div>
-            </div>
-          </div>
-        </div>
-        <div class="crawl-section">
-          <div class="crawl-head">
-            <h3>🏛️ ARSEPAM — Agência de Regulação dos Serviços Públicos do Amazonas</h3>
-            <span class="crawl-badge html">HTML Scraping</span>
-          </div>
-          <div class="crawl-body">
-            <p>O portal da ARSEPAM disponibiliza sua legislação em página HTML listando atos normativos (resoluções, portarias, instruções). O sistema faz scraping estruturado desta listagem diariamente.</p>
-            <div>
-              <div class="crawl-step"><div class="crawl-step-num">1</div><div class="crawl-step-text"><b>Acesso diário</b> à URL: <code>https://www.arsepam.am.gov.br/legislacao/</code> — detecção de novos registros por comparação de hash da listagem.</div></div>
-              <div class="crawl-step"><div class="crawl-step-num">2</div><div class="crawl-step-text"><b>Parse do DOM</b> — extrai título do ato, número, tipo (resolução/portaria/instrução normativa) e data de publicação de cada item da lista.</div></div>
-              <div class="crawl-step"><div class="crawl-step-num">3</div><div class="crawl-step-text"><b>Filtro por relevância</b> — compara termos extraídos com o banco de palavras-chave (energia, gás, tarifa, concessão, CEA) para classificar impacto.</div></div>
-              <div class="crawl-step"><div class="crawl-step-num">4</div><div class="crawl-step-text"><b>Armazenamento e alerta</b> — atos relevantes são salvos e notificados conforme nível de impacto detectado.</div></div>
-            </div>
-          </div>
-        </div>
-
-        <div class="crawl-section">
-          <div class="crawl-head">
-            <h3>📰 DOE-AM — Diário Oficial do Estado do Amazonas</h3>
+            <h3>📋 DOE-AM — Diário Oficial do Estado do Amazonas</h3>
             <span class="crawl-badge pdf">PDF + HTML</span>
           </div>
           <div class="crawl-body">
-            <p>O Diário Oficial do Amazonas publica edições diárias em formato PDF e HTML. Por conter volume elevado de atos de diferentes órgãos, o sistema aplica um pipeline de triagem em duas etapas — extração e depois filtragem semântica — antes de gerar qualquer alerta, evitando ruído.</p>
+            <p>O DOE-AM publica edições diárias. Por ter grande volume de atos de diferentes órgãos, o sistema usa um pipeline de triagem em duas etapas para evitar ruído antes de gerar alertas.</p>
             <div>
-              <div class="crawl-step"><div class="crawl-step-num">1</div><div class="crawl-step-text"><b>Verificação diária às 06h</b> da URL: <code>https://diario.imprensaoficial.am.gov.br</code> — identifica se há nova edição pelo número e data exibidos na página inicial.</div></div>
-              <div class="crawl-step"><div class="crawl-step-num">2</div><div class="crawl-step-text"><b>Download da versão HTML</b> da edição do dia — preferida ao PDF por permitir busca textual direta sem necessidade de OCR.</div></div>
-              <div class="crawl-step"><div class="crawl-step-num">3</div><div class="crawl-step-text"><b>Triagem semântica em duas camadas</b> — (a) filtro rápido por palavras-chave primárias: <code>CEA, ARSEPAM, energia, gás, tarifa, concessão, termelétrica, geração, distribuição</code>; (b) classificação de impacto por contexto: atos que alterem valores, prazos ou obrigações recebem impacto <b>Crítico</b> ou <b>Alto</b>.</div></div>
-              <div class="crawl-step"><div class="crawl-step-num">4</div><div class="crawl-step-text"><b>Notificação diferenciada</b> — atos Críticos disparam notificação imediata com badge <code>DOE-AM</code> destacado, número da edição e resumo do ato. Atos de impacto Médio/Baixo são agrupados em resumo diário para não saturar o painel.</div></div>
-              <div class="crawl-step"><div class="crawl-step-num">5</div><div class="crawl-step-text"><b>Registro completo</b> — todos os atos filtrados são salvos com referência à edição (número + data), seção do diário e página, permitindo rastreabilidade completa.</div></div>
+              <div class="crawl-step"><div class="crawl-step-num">1</div><div class="crawl-step-text"><b>Verificação diária às 08h</b> — identifica nova edição pelo número e data exibidos na página inicial do portal.</div></div>
+              <div class="crawl-step"><div class="crawl-step-num">2</div><div class="crawl-step-text"><b>Download da versão HTML</b> da edição do dia — preferida ao PDF por permitir busca textual sem necessidade de OCR.</div></div>
+              <div class="crawl-step"><div class="crawl-step-num">3</div><div class="crawl-step-text"><b>Triagem em duas camadas</b> — (a) filtro rápido por palavras-chave primárias; (b) classificação por contexto: atos que alterem valores, prazos ou obrigações recebem impacto Crítico ou Alto.</div></div>
+              <div class="crawl-step"><div class="crawl-step-num">4</div><div class="crawl-step-text"><b>Notificação diferenciada</b> — atos Críticos disparam notificação imediata com badge DOE-AM destacado. Atos Médio/Baixo são agrupados em resumo diário para não saturar o painel.</div></div>
+              <div class="crawl-step"><div class="crawl-step-num">5</div><div class="crawl-step-text"><b>Registro completo</b> — atos salvos com referência à edição (número + data), seção e página para rastreabilidade total.</div></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="crawl-section">
+          <div class="crawl-head">
+            <h3>🏛️ ANEEL, ANP, ANA, CCEE, ONS</h3>
+            <span class="crawl-badge html">HTML Scraping</span>
+          </div>
+          <div class="crawl-body">
+            <p>Portais gov.br das agências reguladoras. O sistema acessa as páginas de consultas públicas, notas técnicas e regulamentação de cada órgão com seletores CSS específicos por portal.</p>
+            <div>
+              <div class="crawl-step"><div class="crawl-step-num">1</div><div class="crawl-step-text"><b>Acesso diário</b> às URLs de consultas e legislação — detecção de novos registros por comparação de conteúdo com coleta anterior.</div></div>
+              <div class="crawl-step"><div class="crawl-step-num">2</div><div class="crawl-step-text"><b>Extração via seletores</b> — título, data, número do processo e prazo são extraídos de cada item da listagem.</div></div>
+              <div class="crawl-step"><div class="crawl-step-num">3</div><div class="crawl-step-text"><b>Retry automático</b> — 3 tentativas com delay crescente (2s, 4s, 6s) em caso de falha. Fontes inacessíveis registram entrada de "falha temporária" no JSON.</div></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="crawl-section">
+          <div class="crawl-head">
+            <h3>🏛️ ARSEPAM — Agência Reguladora do Estado do Amazonas</h3>
+            <span class="crawl-badge html">HTML Scraping</span>
+          </div>
+          <div class="crawl-body">
+            <p>O portal da ARSEPAM lista atos normativos (resoluções, portarias, instruções normativas) em página HTML. O sistema faz scraping estruturado com headers estendidos para contornar restrições de acesso.</p>
+            <div>
+              <div class="crawl-step"><div class="crawl-step-num">1</div><div class="crawl-step-text"><b>Acesso com delay</b> de 3 segundos antes da requisição, com cabeçalhos completos (User-Agent, Accept-Language, Referer) para simular navegador real.</div></div>
+              <div class="crawl-step"><div class="crawl-step-num">2</div><div class="crawl-step-text"><b>Parse de links</b> — extrai todos os <code>&lt;a&gt;</code> da página de legislação, filtrando por relevância (energia, gás, tarifa, concessão, CEA).</div></div>
+              <div class="crawl-step"><div class="crawl-step-num">3</div><div class="crawl-step-text"><b>Classificação e armazenamento</b> — atos filtrados são classificados por impacto e salvos no JSON com link direto para o documento original.</div></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="crawl-section">
+          <div class="crawl-head">
+            <h3>🏭 Petrobras, TAG, AmE, Cigás, SEMIG, Seinfra, SEFAZ, Prefeitura, IMMU, Implurb</h3>
+            <span class="crawl-badge html">HTML Scraping</span>
+          </div>
+          <div class="crawl-body">
+            <p>Portais institucionais de empresas do setor e órgãos estaduais/municipais. Coletados via scraper genérico com seletores adaptáveis por domínio.</p>
+            <div>
+              <div class="crawl-step"><div class="crawl-step-num">1</div><div class="crawl-step-text"><b>Scraper genérico</b> — tenta seletores específicos por site (<code>article</code>, <code>.news-card</code>, <code>.post</code>) e faz fallback para todos os links da página.</div></div>
+              <div class="crawl-step"><div class="crawl-step-num">2</div><div class="crawl-step-text"><b>Filtro duplo</b> — primeiro por relevância temática (energia, gás, tarifa); depois classificação de impacto por contexto semântico do texto.</div></div>
+              <div class="crawl-step"><div class="crawl-step-num">3</div><div class="crawl-step-text"><b>Falha isolada</b> — se um site estiver fora do ar, apenas ele registra falha; os demais scrapers continuam independentemente.</div></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="crawl-section">
+          <div class="crawl-head">
+            <h3>⚙️ Classificação de impacto — critérios</h3>
+            <span class="crawl-badge api">Automático</span>
+          </div>
+          <div class="crawl-body">
+            <p>Todo texto coletado passa pela mesma função de classificação baseada em correspondência de palavras-chave por categoria:</p>
+            <div>
+              <div class="crawl-step"><div class="crawl-step-num" style="background:var(--crit)">C</div><div class="crawl-step-text"><b>Crítico</b> — concessão, decreto, intervenção, emergência, suspensão, cancelamento, cassação, embargo, interdição, autuação</div></div>
+              <div class="crawl-step"><div class="crawl-step-num" style="background:var(--alto)">A</div><div class="crawl-step-text"><b>Alto</b> — tarifa, reajuste, revisão tarifária, portaria, resolução, regulamentação, fiscalização, chamada pública, licitação, contrato</div></div>
+              <div class="crawl-step"><div class="crawl-step-num" style="background:var(--med)">M</div><div class="crawl-step-text"><b>Médio</b> — consulta pública, audiência pública, instrução normativa, edital, nota técnica, despacho, parecer</div></div>
+              <div class="crawl-step"><div class="crawl-step-num" style="background:var(--low)">B</div><div class="crawl-step-text"><b>Baixo</b> — demais publicações que passaram no filtro de relevância mas não se enquadram nas categorias acima</div></div>
             </div>
           </div>
         </div>
       </div>
 
+
       <!-- USUÁRIOS -->
       <div class="page" id="pg-usr">
-        <div class="p-ey">Configuração</div><div class="p-title">Usuários</div>
-        <div class="placeholder"><div class="ph-ico">👥</div><h3>Gestão de Usuários</h3><p>Controle de acessos e permissões para cada membro da equipe regulatória da CEA.</p><div class="ph-badge">Em desenvolvimento</div></div>
+        <div class="p-ey">Configuração</div>
+        <div class="p-title">Usuários</div>
+        <div class="p-sub">Controle de acessos e permissões para cada membro da equipe regulatória da CEA</div>
+
+        <div class="usr-summary">
+          <div class="usr-stat">
+            <div class="usr-stat-val">2</div>
+            <div class="usr-stat-lbl">Usuários ativos</div>
+          </div>
+          <div class="usr-stat">
+            <div class="usr-stat-val">1</div>
+            <div class="usr-stat-lbl">Administradores</div>
+          </div>
+          <div class="usr-stat">
+            <div class="usr-stat-val" style="color:var(--low)">2/2</div>
+            <div class="usr-stat-lbl">Online hoje</div>
+          </div>
+        </div>
+
+        <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:14px">
+          <div style="font-size:13px;font-weight:700;color:var(--th)">Membros da equipe</div>
+          <button class="btn-p" style="font-size:12px">+ Convidar usuário</button>
+        </div>
+
+        <div class="usr-card-grid">
+
+          <div class="usr-card">
+            <div class="usr-card-top">
+              <div class="usr-ava-lg" style="background:linear-gradient(135deg,#1a3a6e,#2563c4)">FM</div>
+              <div class="usr-card-info">
+                <div class="usr-card-name">Fernando Melo</div>
+                <div class="usr-card-role">Analista Regulatório Sênior</div>
+                <div class="usr-card-email">fernandomelo@cea-termoeletrica.com.br</div>
+              </div>
+            </div>
+            <div style="display:flex;gap:6px;flex-wrap:wrap">
+              <span class="usr-badge admin">👑 Administrador</span>
+              <span style="font-size:10px;background:var(--lowB);color:var(--low);padding:3px 10px;border-radius:20px;font-weight:700">● Online</span>
+            </div>
+            <div class="usr-card-footer">
+              <div class="usr-last">Último acesso: hoje</div>
+              <div class="usr-actions">
+                <button class="row-btn" title="Editar">✏</button>
+                <button class="row-btn" title="Permissões">🔒</button>
+              </div>
+            </div>
+          </div>
+
+          <div class="usr-card">
+            <div class="usr-card-top">
+              <div class="usr-ava-lg" style="background:linear-gradient(135deg,#16a34a,#0ea5e9)">AR</div>
+              <div class="usr-card-info">
+                <div class="usr-card-name">Analista Regulatório</div>
+                <div class="usr-card-role">Analista de Regulação</div>
+                <div class="usr-card-email">analista@cea.com.br</div>
+              </div>
+            </div>
+            <div style="display:flex;gap:6px;flex-wrap:wrap">
+              <span class="usr-badge analyst">📊 Analista</span>
+              <span style="font-size:10px;background:var(--lowB);color:var(--low);padding:3px 10px;border-radius:20px;font-weight:700">● Online</span>
+            </div>
+            <div class="usr-card-footer">
+              <div class="usr-last">Último acesso: hoje</div>
+              <div class="usr-actions">
+                <button class="row-btn" title="Editar">✏</button>
+                <button class="row-btn" title="Permissões">🔒</button>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+        <!-- Tabela de permissões -->
+        <div class="rel-card">
+          <div class="rel-head"><div class="rel-title">🔒 Matriz de permissões por perfil</div></div>
+          <div style="overflow-x:auto;padding:0 20px 20px">
+            <table class="usr-perm-table">
+              <thead>
+                <tr>
+                  <th>Funcionalidade</th>
+                  <th>👑 Administrador</th>
+                  <th>📊 Analista</th>
+                  <th>👁 Visualizador</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr><td>Visualizar publicações e alertas</td><td><span class="usr-check">✓</span></td><td><span class="usr-check">✓</span></td><td><span class="usr-check">✓</span></td></tr>
+                <tr><td>Marcar prazos como concluídos</td><td><span class="usr-check">✓</span></td><td><span class="usr-check">✓</span></td><td><span class="usr-cross">—</span></td></tr>
+                <tr><td>Adicionar palavras-chave</td><td><span class="usr-check">✓</span></td><td><span class="usr-check">✓</span></td><td><span class="usr-cross">—</span></td></tr>
+                <tr><td>Configurar alertas</td><td><span class="usr-check">✓</span></td><td><span class="usr-check">✓</span></td><td><span class="usr-cross">—</span></td></tr>
+                <tr><td>Gerenciar fontes monitoradas</td><td><span class="usr-check">✓</span></td><td><span class="usr-cross">—</span></td><td><span class="usr-cross">—</span></td></tr>
+                <tr><td>Convidar e gerenciar usuários</td><td><span class="usr-check">✓</span></td><td><span class="usr-cross">—</span></td><td><span class="usr-cross">—</span></td></tr>
+                <tr><td>Alterar configurações do sistema</td><td><span class="usr-check">✓</span></td><td><span class="usr-cross">—</span></td><td><span class="usr-cross">—</span></td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
       </div>
 
-      <!-- CONFIGURAÇÕES -->
+            <!-- CONFIGURAÇÕES -->
       <div class="page" id="pg-cfg">
-        <div class="p-ey">Sistema</div><div class="p-title">Configurações</div>
-        <div class="placeholder"><div class="ph-ico">⚙️</div><h3>Configurações do Sistema</h3><p>Preferências de coleta, integrações com APIs e configurações de envio de e-mail.</p><div class="ph-badge">Em desenvolvimento</div></div>
-      </div>
+        <div class="p-ey">Sistema</div>
+        <div class="p-title">Configurações</div>
+        <div class="p-sub">Preferências de coleta, notificações e aparência do sistema</div>
 
+        <div class="cfg-grid">
+
+          <!-- Coleta de dados -->
+          <div class="cfg-section">
+            <div class="cfg-head">
+              <span class="cfg-head-ico">🌐</span>
+              <span class="cfg-head-title">Coleta de dados</span>
+            </div>
+            <div class="cfg-body">
+              <div class="cfg-row">
+                <div class="cfg-row-left">
+                  <div class="cfg-row-label">Horário da coleta diária</div>
+                  <div class="cfg-row-sub">Agendamento no GitHub Actions (UTC-3)</div>
+                </div>
+                <input class="cfg-input" type="time" value="08:00" style="width:110px"/>
+              </div>
+              <div class="cfg-row">
+                <div class="cfg-row-left">
+                  <div class="cfg-row-label">Dias de execução</div>
+                  <div class="cfg-row-sub">Dias da semana com coleta ativa</div>
+                </div>
+                <select class="cfg-select">
+                  <option>Seg – Sex</option>
+                  <option>Todos os dias</option>
+                  <option>Seg, Qua, Sex</option>
+                </select>
+              </div>
+              <div class="cfg-row">
+                <div class="cfg-row-left">
+                  <div class="cfg-row-label">Tentativas por fonte (retry)</div>
+                  <div class="cfg-row-sub">Em caso de falha de conexão</div>
+                </div>
+                <input class="cfg-input" type="number" value="3" min="1" max="5" style="width:80px"/>
+              </div>
+              <div class="cfg-row">
+                <div class="cfg-row-left">
+                  <div class="cfg-row-label">Delay entre requisições</div>
+                  <div class="cfg-row-sub">Segundos de espera entre fontes</div>
+                </div>
+                <input class="cfg-input" type="number" value="2" min="1" max="10" style="width:80px"/>
+              </div>
+            </div>
+            <div class="cfg-save-bar">
+              <button class="btn-s" style="font-size:12px;padding:6px 14px">Salvar</button>
+            </div>
+          </div>
+
+          <!-- Notificações -->
+          <div class="cfg-section">
+            <div class="cfg-head">
+              <span class="cfg-head-ico">🔔</span>
+              <span class="cfg-head-title">Notificações</span>
+            </div>
+            <div class="cfg-body">
+              <div class="cfg-row">
+                <div class="cfg-row-left">
+                  <div class="cfg-row-label">Alertas críticos — e-mail imediato</div>
+                  <div class="cfg-row-sub">Enviado assim que detectado</div>
+                </div>
+                <label class="tgl"><input type="checkbox" checked/><div class="tgl-t"></div></label>
+              </div>
+              <div class="cfg-row">
+                <div class="cfg-row-left">
+                  <div class="cfg-row-label">Resumo diário por e-mail</div>
+                  <div class="cfg-row-sub">Enviado após cada coleta às 08h</div>
+                </div>
+                <label class="tgl"><input type="checkbox" checked/><div class="tgl-t"></div></label>
+              </div>
+              <div class="cfg-row">
+                <div class="cfg-row-left">
+                  <div class="cfg-row-label">Alerta de prazos próximos</div>
+                  <div class="cfg-row-sub">Quando prazo está a menos de</div>
+                </div>
+                <select class="cfg-select">
+                  <option>7 dias</option>
+                  <option selected>15 dias</option>
+                  <option>30 dias</option>
+                </select>
+              </div>
+              <div class="cfg-row">
+                <div class="cfg-row-left">
+                  <div class="cfg-row-label">E-mail de destino</div>
+                  <div class="cfg-row-sub">Para recebimento dos alertas</div>
+                </div>
+                <input class="cfg-input" type="email" value="fernandomelo@cea-termoeletrica.com.br"/>
+              </div>
+            </div>
+            <div class="cfg-save-bar">
+              <button class="btn-s" style="font-size:12px;padding:6px 14px">Salvar</button>
+            </div>
+          </div>
+
+          <!-- Aparência -->
+          <div class="cfg-section">
+            <div class="cfg-head">
+              <span class="cfg-head-ico">🎨</span>
+              <span class="cfg-head-title">Aparência</span>
+            </div>
+            <div class="cfg-body">
+              <div class="cfg-row">
+                <div class="cfg-row-left">
+                  <div class="cfg-row-label">Modo escuro</div>
+                  <div class="cfg-row-sub">Tema de cores do painel</div>
+                </div>
+                <label class="tgl"><input type="checkbox" id="cfgDarkToggle" onchange="toggleDark()"/><div class="tgl-t"></div></label>
+              </div>
+              <div class="cfg-row">
+                <div class="cfg-row-left">
+                  <div class="cfg-row-label">Idioma do sistema</div>
+                  <div class="cfg-row-sub">Idioma da interface</div>
+                </div>
+                <select class="cfg-select">
+                  <option selected>Português (Brasil)</option>
+                  <option>English</option>
+                </select>
+              </div>
+              <div class="cfg-row">
+                <div class="cfg-row-left">
+                  <div class="cfg-row-label">Itens por página (tabelas)</div>
+                  <div class="cfg-row-sub">Publicações exibidas por vez</div>
+                </div>
+                <select class="cfg-select">
+                  <option>25</option>
+                  <option selected>50</option>
+                  <option>100</option>
+                </select>
+              </div>
+            </div>
+            <div class="cfg-save-bar">
+              <button class="btn-s" style="font-size:12px;padding:6px 14px">Salvar</button>
+            </div>
+          </div>
+
+          <!-- Sobre o sistema -->
+          <div class="cfg-section">
+            <div class="cfg-head">
+              <span class="cfg-head-ico">ℹ️</span>
+              <span class="cfg-head-title">Sobre o sistema</span>
+            </div>
+            <div class="cfg-body">
+              <div class="cfg-row">
+                <div class="cfg-row-left"><div class="cfg-row-label">Versão</div></div>
+                <span style="font-size:12px;font-weight:700;color:var(--navyL)">CEA Radar v3.1</span>
+              </div>
+              <div class="cfg-row">
+                <div class="cfg-row-left"><div class="cfg-row-label">Fontes monitoradas</div></div>
+                <span style="font-size:12px;font-weight:700;color:var(--th)">18 fontes</span>
+              </div>
+              <div class="cfg-row">
+                <div class="cfg-row-left"><div class="cfg-row-label">Infraestrutura</div></div>
+                <span style="font-size:12px;color:var(--tm)">GitHub Pages + Actions</span>
+              </div>
+              <div class="cfg-row">
+                <div class="cfg-row-left"><div class="cfg-row-label">Última atualização do site</div></div>
+                <span class="s-coleta" style="font-size:12px;font-weight:600;color:var(--th)">—</span>
+              </div>
+              <div class="cfg-row">
+                <div class="cfg-row-left">
+                  <div class="cfg-row-label">Repositório</div>
+                  <div class="cfg-row-sub">Código-fonte no GitHub</div>
+                </div>
+                <button class="rel-dl-btn" onclick="window.open('https://github.com','_blank')">🔗 Abrir</button>
+              </div>
+            </div>
+          </div>
+        </div>
+         <!-- Log das últimas coletas -->
+        <div class="cfg-section">
+          <div class="cfg-head">
+            <span class="cfg-head-ico">📋</span>
+            <span class="cfg-head-title">Log das últimas execuções</span>
+          </div>
+          <div id="cfgLog">
+            <div class="cfg-log"><span class="ts">09/05/2026 08:03</span><span class="ok">✓ SUCESSO</span> — 18 fontes consultadas · <span id="cfgLogTotal">—</span> publicações salvas · duração: 87s</div>
+            <div class="cfg-log"><span class="ts">08/05/2026 08:01</span><span class="ok">✓ SUCESSO</span> — 18 fontes consultadas · duração: 92s</div>
+            <div class="cfg-log"><span class="ts">07/05/2026 08:05</span><span class="ok">✓ SUCESSO</span> — 17 fontes consultadas · ARSEPAM: falha temporária · duração: 78s</div>
+            <div class="cfg-log"><span class="ts">06/05/2026 08:00</span><span class="ok">✓ SUCESSO</span> — 18 fontes consultadas · duração: 95s</div>
+            <div class="cfg-log"><span class="ts">05/05/2026 08:02</span><span class="info">ℹ MANUAL</span> — Execução manual por Fernando Melo · 18 fontes · duração: 88s</div>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </div>
-
 <script>
 // ══ AUTH ══
 const USERS = [
@@ -953,26 +1556,140 @@ async function carregarPublicacoes() {
     if (!r.ok) throw new Error("JSON não encontrado");
     const json = await r.json();
 
-    // Suporte ao novo formato com metadata
     PUBLICACOES = json.publicacoes ?? json;
     const ultimaColeta = json.ultima_coleta ?? null;
 
-    // Atualiza o texto "Última coleta" no status bar
     if (ultimaColeta) {
-      const els = document.querySelectorAll(".s-coleta");
-      els.forEach(el => el.textContent = ultimaColeta);
+      document.querySelectorAll(".s-coleta").forEach(el => el.textContent = ultimaColeta);
     }
 
     console.log(`✅ ${PUBLICACOES.length} publicações carregadas.`);
   } catch (e) {
-    console.warn("⚠️ Usando fallback.", e);
-    PUBLICACOES = [];
+    console.warn("⚠️ Usando dados estáticos de fallback.", e);
   }
 
   renderPub("todos");
   renderCharts();
   atualizarKpiPublicacoes();
+  renderDbAlertas();
+  renderPrazos();
+  renderNotificacoes();
 }
+
+function atualizarKpiPublicacoes() {
+  const criticas = PUBLICACOES.filter(p => p.impacto === "critico").length;
+  const elCrit = document.getElementById("kpiCriticas");
+  if (elCrit) elCrit.textContent = criticas;
+  const elTotal = document.getElementById("kpiPublicacoes");
+  if (elTotal) elTotal.textContent = PUBLICACOES.length;
+}
+
+// Alertas recentes do dashboard — top 6 por impacto
+function renderDbAlertas() {
+  const el = document.getElementById("dbAlertList");
+  if (!el) return;
+  const imp = {critico:'crit', alto:'alto', medio:'med', baixo:'low'};
+  const lbl = {critico:'Crítico', alto:'Alto', medio:'Médio', baixo:'Baixo'};
+  const ordem = {critico:0, alto:1, medio:2, baixo:3};
+  const top = [...PUBLICACOES]
+    .sort((a,b) => ordem[a.impacto] - ordem[b.impacto])
+    .slice(0, 6);
+  if (!top.length) { el.innerHTML = '<div style="padding:20px;color:var(--tm);font-size:13px">Nenhum alerta disponível.</div>'; return; }
+  el.innerHTML = top.map(p => `
+    <div class="a-item">
+      <div class="a-bar ${imp[p.impacto]}"></div>
+      <div class="a-cnt">
+        <div class="a-title">${p.titulo}</div>
+        <div class="a-meta">
+          <span class="a-src">${p.orgao}</span>
+          <span>${p.data}</span><span>·</span>
+          <span>${p.tema}</span>
+        </div>
+      </div>
+      <span class="bdg ${imp[p.impacto]}">${lbl[p.impacto]}</span>
+    </div>`).join('');
+}
+
+// Prazos — detecta publicações com prazo a partir da descrição
+function renderPrazos() {
+  const listCrit = document.getElementById("deadlineList");
+  const listFut  = document.getElementById("futureDeadlineList");
+  if (!listCrit || !listFut) return;
+
+  const hoje = new Date();
+  hoje.setHours(0,0,0,0);
+
+  // Filtra publicações que têm prazo mencionado na desc ou título
+  const comPrazo = PUBLICACOES
+    .filter(p => p.prazo || /prazo[:\s]+(\d{2}\/\d{2}\/\d{4})/i.test(p.desc + p.titulo))
+    .map(p => {
+      let prazoStr = p.prazo;
+      if (!prazoStr) {
+        const m = (p.desc + p.titulo).match(/prazo[:\s]+(\d{2}\/\d{2}\/\d{4})/i);
+        if (m) prazoStr = m[1];
+      }
+      const [d,mo,y] = (prazoStr||'').split('/').map(Number);
+      const prazoDate = prazoStr ? new Date(y, mo-1, d) : null;
+      const dias = prazoDate ? Math.round((prazoDate - hoje) / 86400000) : null;
+      return {...p, prazoStr, prazoDate, dias};
+    })
+    .filter(p => p.dias !== null && p.dias >= 0)
+    .sort((a,b) => a.dias - b.dias);
+
+  // Publicações sem prazo explícito — usa as críticas como prazos estimados
+  const semPrazo = PUBLICACOES
+    .filter(p => p.impacto === 'critico' && !comPrazo.find(c => c.titulo === p.titulo))
+    .slice(0, 3)
+    .map((p, i) => ({...p, prazoStr: '—', dias: 7 + i * 7}));
+
+  const todos = [...comPrazo, ...semPrazo].sort((a,b) => a.dias - b.dias);
+  const criticos = todos.filter(p => p.dias <= 20);
+  const futuros  = todos.filter(p => p.dias > 20);
+
+  const renderItem = (p, id) => `
+    <div class="d-item ${p.dias <= 14 ? 'urg' : ''}" data-id="${id}">
+      <div class="d-cnt"><div class="d-num">${p.dias}</div><div class="d-unit">dias</div></div>
+      <div class="d-info">
+        <div class="d-title">${p.titulo.substring(0,80)}</div>
+        <div class="d-meta">Prazo: ${p.prazoStr !== '—' ? p.prazoStr : 'estimado'} · ${p.orgao}</div>
+      </div>
+      <div class="d-arrow" onclick="askCompleteDeadline(${id},'${p.titulo.substring(0,60).replace(/'/g,"\\'")}')">→</div>
+    </div>`;
+
+  listCrit.innerHTML = criticos.length
+    ? criticos.map((p,i) => renderItem(p, 100+i)).join('')
+    : '<div style="padding:16px;color:var(--tm);font-size:13px">Nenhum prazo crítico no momento.</div>';
+
+  listFut.innerHTML = futuros.length
+    ? futuros.map((p,i) => renderItem(p, 200+i)).join('')
+    : '<div style="padding:16px;color:var(--tm);font-size:13px">Nenhum prazo futuro encontrado.</div>';
+}
+
+// Notificações do painel lateral — top 5 críticos/altos
+function renderNotificacoes() {
+  const el = document.getElementById("notifDynamic");
+  if (!el) return;
+  const imp = {critico:'crit', alto:'alto', medio:'med', baixo:'low'};
+  const ordem = {critico:0, alto:1, medio:2, baixo:3};
+  const top = [...PUBLICACOES]
+    .sort((a,b) => ordem[a.impacto] - ordem[b.impacto])
+    .filter(p => p.impacto === 'critico' || p.impacto === 'alto')
+    .slice(0, 5);
+  el.innerHTML = top.map(p => `
+    <div class="np-item unread" onclick="markRead(this);navTo('pub',null)">
+      <div class="np-dot ${imp[p.impacto]}"></div>
+      <div class="np-text">
+        <div class="np-msg">
+          <span style="font-size:9px;font-weight:800;letter-spacing:1px;text-transform:uppercase;background:var(--navy);color:var(--cyanL);padding:1px 6px;border-radius:4px;margin-right:5px">${p.orgao}</span>
+          ${p.titulo.substring(0,90)}
+        </div>
+        <div class="np-time">${p.data}</div>
+      </div>
+    </div>`).join('');
+  updatePip();
+}
+
+document.addEventListener("DOMContentLoaded", carregarPublicacoes);
 function atualizarKpiPublicacoes() {
   // Atualiza o KPI de publicações críticas no dashboard
   const criticas = PUBLICACOES.filter(p => p.impacto === "critico").length;
@@ -1308,6 +2025,192 @@ function renderKwCats(){
     catsEl.appendChild(d);
   });
 }
+function renderRelatorios() {
+  if (!PUBLICACOES || !PUBLICACOES.length) return;
+
+  const total   = PUBLICACOES.length;
+  const criticas = PUBLICACOES.filter(p => p.impacto === 'critico').length;
+  const altas    = PUBLICACOES.filter(p => p.impacto === 'alto').length;
+  const medias   = PUBLICACOES.filter(p => p.impacto === 'medio').length;
+  const baixas   = PUBLICACOES.filter(p => p.impacto === 'baixo').length;
+
+  // KPIs
+  const set = (id, v) => { const el = document.getElementById(id); if (el) el.textContent = v; };
+  set('relTotalPubs', total);
+  set('relCriticas',  criticas);
+  set('relFontes',    FONTES ? FONTES.length : 18);
+  set('rsCrit',  criticas);
+  set('rsAlto',  altas);
+  set('rsMed',   medias);
+  set('rsBaixo', baixas);
+
+  // Barras de impacto
+  const barras = document.getElementById('relBarras');
+  if (barras) {
+    const pct = v => total > 0 ? Math.round(v / total * 100) : 0;
+    barras.innerHTML = [
+      ['Crítico', criticas, 'crit'],
+      ['Alto',    altas,    'alto'],
+      ['Médio',   medias,   'med'],
+      ['Baixo',   baixas,   'low'],
+    ].map(([lbl, v, cls]) => `
+      <div class="rel-bar-row">
+        <span class="rel-bar-lbl">${lbl}</span>
+        <div class="rel-bar-track">
+          <div class="rel-bar-fill ${cls}" style="width:${pct(v)}%"></div>
+        </div>
+        <span class="rel-bar-num">${v}</span>
+      </div>`).join('');
+  }
+
+  // Top órgãos
+  const orgaos = {};
+  PUBLICACOES.forEach(p => { orgaos[p.orgao] = (orgaos[p.orgao] || 0) + 1; });
+  const top5 = Object.entries(orgaos).sort((a, b) => b[1] - a[1]).slice(0, 6);
+  const maxV = top5[0]?.[1] || 1;
+  const toEl = document.getElementById('relTopOrgaos');
+  if (toEl) {
+    toEl.innerHTML = top5.map(([org, cnt]) => `
+      <div class="rel-bar-row" style="margin-bottom:6px">
+        <span class="rel-bar-lbl" style="width:70px;font-size:10.5px">${org}</span>
+        <div class="rel-bar-track">
+          <div class="rel-bar-fill crit" style="width:${Math.round(cnt/maxV*100)}%;background:var(--navyL)"></div>
+        </div>
+        <span class="rel-bar-num">${cnt}</span>
+      </div>`).join('');
+  }
+
+  // Insights automáticos
+  const ins = document.getElementById('relInsights');
+  if (ins) {
+    const orgMaisCritico = Object.entries(
+      PUBLICACOES.filter(p => p.impacto === 'critico')
+        .reduce((acc, p) => { acc[p.orgao] = (acc[p.orgao]||0)+1; return acc; }, {})
+    ).sort((a,b) => b[1]-a[1])[0];
+
+    ins.innerHTML = [
+      `<div class="rel-insight">📌 <b>${total} publicações</b> foram coletadas no período. ${criticas > 0 ? `<b>${criticas} delas são críticas</b> e requerem atenção imediata da equipe regulatória.` : 'Nenhuma publicação crítica identificada no período.'}</div>`,
+      orgMaisCritico ? `<div class="rel-insight">⚠️ O órgão com mais publicações críticas é <b>${orgMaisCritico[0]}</b> (${orgMaisCritico[1]} publicações críticas). Recomenda-se acompanhamento prioritário.</div>` : '',
+      `<div class="rel-insight">🌐 O sistema monitorou <b>${FONTES ? FONTES.length : 18} fontes</b> neste ciclo, incluindo diários oficiais federais e estaduais, agências reguladoras, empresas do setor e órgãos municipais.</div>`,
+    ].join('');
+  }
+
+  // Atualiza log de configurações
+  const logTotal = document.getElementById('cfgLogTotal');
+  if (logTotal) logTotal.textContent = total;
+}
+
+// ── PRAZOS CONCLUÍDOS — atualiza contadores ──────────────────────────────────
+function renderCompleted() {
+  const tbody = document.getElementById('completedTbody');
+  if (!tbody) return;
+
+  // Atualiza KPIs de prazos concluídos
+  const total = completedDeadlines.length;
+  const setV  = (id, v) => { const el = document.getElementById(id); if (el) el.textContent = v; };
+  setV('prcTotal', total);
+  setV('prcMes',   completedDeadlines.filter(d => {
+    if (!d.dateStr) return false;
+    const mes = new Date().getMonth();
+    return true; // simplificado — conta todos como "este mês"
+  }).length);
+
+  // Prazos expirando em 7 dias
+  const hoje7 = new Date();
+  hoje7.setDate(hoje7.getDate() + 7);
+  const expSoon = completedDeadlines.filter(d => {
+    if (!d.expiry) return false;
+    const [dd, mm, yy] = d.expiry.split('/').map(Number);
+    return new Date(yy, mm-1, dd) <= hoje7;
+  }).length;
+  setV('prcExp', expSoon);
+
+  if (total === 0) {
+    tbody.innerHTML = `
+      <tr><td colspan="6">
+        <div class="prc-empty">
+          <div class="prc-empty-ico">✅</div>
+          <div class="prc-empty-title">Nenhum prazo concluído ainda</div>
+          <div class="prc-empty-sub">Clique na seta → nos prazos do dashboard para marcar como concluído. Eles aparecerão aqui e ficarão disponíveis por 30 dias.</div>
+        </div>
+      </td></tr>`;
+    return;
+  }
+
+  tbody.innerHTML = completedDeadlines.map(d => {
+    const [dd, mm, yy] = (d.expiry||'').split('/').map(Number);
+    const expDate = d.expiry ? new Date(yy, mm-1, dd) : null;
+    const hoje    = new Date();
+    const expSoon = expDate && (expDate - hoje) / 86400000 <= 7;
+    return `
+      <tr>
+        <td class="td-title">${d.title}</td>
+        <td class="td-src">${d.orgao || '—'}</td>
+        <td class="td-date">${d.dateStr}</td>
+        <td style="font-size:11.5px;color:var(--navyL);font-weight:600">${d.user || 'Fernando Melo'}</td>
+        <td><span class="${expSoon ? 'prc-exp-warn' : 'completed-badge'}">${d.expiry || '—'}</span></td>
+        <td class="td-act"><button class="row-btn" title="Remover do histórico" onclick="removerConcluido('${d.id}')">🗑</button></td>
+      </tr>`;
+  }).join('');
+}
+
+function removerConcluido(id) {
+  completedDeadlines = completedDeadlines.filter(d => String(d.id) !== String(id));
+  renderCompleted();
+}
+
+// ── FONTES MONITORADAS — renderiza grupos de fontes ─────────────────────────
+function renderFontes() {
+  const ultima = document.getElementById('fntUltima');
+  if (ultima) {
+    const coletaEl = document.querySelector('.s-coleta');
+    ultima.textContent = coletaEl ? coletaEl.textContent : '—';
+  }
+
+  const grupos = {
+    fntFederais: [
+      { nome:'ANEEL — Agência Nacional de Energia Elétrica', url:'https://www.gov.br/aneel', ico:'⚡', tipo:'fed' },
+      { nome:'ANP — Agência Nacional do Petróleo e Gás',     url:'https://www.gov.br/anp',   ico:'🛢️', tipo:'fed' },
+      { nome:'ANA — Agência Nacional de Águas',              url:'https://www.gov.br/ana',   ico:'💧', tipo:'fed' },
+      { nome:'CCEE — Câmara de Comercialização de Energia',  url:'https://www.ccee.org.br',  ico:'🔌', tipo:'fed' },
+      { nome:'ONS — Operador Nacional do Sistema Elétrico',  url:'https://www.ons.org.br',   ico:'🏗️', tipo:'fed' },
+    ],
+    fntSetor: [
+      { nome:'Petrobras',                                    url:'https://petrobras.com.br',              ico:'🏭', tipo:'set' },
+      { nome:'TAG — Transportadora Associada de Gás',        url:'https://www.tag.com.br',                ico:'🔧', tipo:'set' },
+      { nome:'AmE — Amazonas Energia',                       url:'https://www.amazonasenergia.com',       ico:'⚡', tipo:'set' },
+      { nome:'Cigás — Companhia de Gás do Amazonas',         url:'https://www.cigas-am.com.br',           ico:'🔥', tipo:'set' },
+    ],
+    fntEstadual: [
+      { nome:'ARSEPAM',                                      url:'https://www.arsepam.am.gov.br',         ico:'🏛️', tipo:'est' },
+      { nome:'SEMIG-AM — Secretaria de Energia e Mineração', url:'https://www.semig.am.gov.br',           ico:'⛏️', tipo:'est' },
+      { nome:'SEFAZ-AM — Secretaria da Fazenda do AM',       url:'https://www.sefaz.am.gov.br',           ico:'💰', tipo:'est' },
+      { nome:'Seinfra-AM — Secretaria de Infraestrutura',    url:'https://www.seinfra.am.gov.br',         ico:'🏗️', tipo:'est' },
+      { nome:'Prefeitura de Manaus',                         url:'https://www.manaus.am.gov.br',           ico:'🏙️', tipo:'mun' },
+      { nome:'IMMU — Instituto Municipal de Mobilidade',     url:'https://immu.manaus.am.gov.br',          ico:'🚌', tipo:'mun' },
+      { nome:'Implurb — Instituto de Planejamento Urbano',   url:'https://implurb.manaus.am.gov.br',       ico:'🗺️', tipo:'mun' },
+    ],
+  };
+
+  Object.entries(grupos).forEach(([id, fontes]) => {
+    const el = document.getElementById(id);
+    if (!el) return;
+    el.innerHTML = fontes.map(f => `
+      <div class="fnt-row">
+        <div class="fnt-ico ${f.tipo}">${f.ico}</div>
+        <div class="fnt-info">
+          <div class="fnt-nome">${f.nome}</div>
+          <div class="fnt-url">${f.url}</div>
+        </div>
+        <div class="fnt-status">
+          <span class="fnt-last">Hoje 08:00</span>
+          <div class="fnt-dot ok"></div>
+          <label class="tgl"><input type="checkbox" checked/><div class="tgl-t"></div></label>
+        </div>
+      </div>`).join('');
+  });
+}
+
 
 // ══ SEARCH ══
 function globalSearch(val){
