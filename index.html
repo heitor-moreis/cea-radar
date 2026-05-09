@@ -612,7 +612,7 @@ input:checked+.tgl-t::before{left:19px}
         <div class="p-title">Dashboard Regulatório</div>
         <div class="p-sub">Monitoramento contínuo do setor energético da CEA — atualizado em 28/04/2026 às 08:00</div>
         <div class="status-bar">
-          <span class="s-live">Sistema ativo</span><span>·</span><span>Última coleta: <b>01/05/2026 06:15</b></span><span>·</span><span><b>17</b> fontes monitoradas</span><span>·</span><span><b>4</b> consultas públicas abertas</span><span>·</span><span><b>DOE-AM</b> edição nº 36.112 disponível</span>
+          <span class="s-live">Sistema ativo</span><span>·</span><span>Última coleta: <b class="s-coleta">—</b></span><span>·</span><span><b>17</b> fontes monitoradas</span><span>·</span><span><b>4</b> consultas públicas abertas</span><span>·</span><span><b>DOE-AM</b> edição nº 36.112 disponível</span>
         </div>
         <div class="kpi-grid">
           <div class="kpi bl"><div class="kpi-top"><div class="kpi-label">Publicações (30 dias)</div><div class="kpi-ico">📄</div></div><div class="kpi-val">47</div><div class="kpi-foot"><span class="kch up">↑ 12%</span>vs. mês anterior</div></div>
@@ -949,33 +949,30 @@ let PUBLICACOES = [];
 
 async function carregarPublicacoes() {
   try {
-    const r = await fetch("data/publicacoes.json?v=" + Date.now()); // evita cache
+    const r = await fetch("data/publicacoes.json?v=" + Date.now());
     if (!r.ok) throw new Error("JSON não encontrado");
-    PUBLICACOES = await r.json();
-    console.log(`✅ ${PUBLICACOES.length} publicações carregadas do JSON.`);
+    const json = await r.json();
+
+    // Suporte ao novo formato com metadata
+    PUBLICACOES = json.publicacoes ?? json;
+    const ultimaColeta = json.ultima_coleta ?? null;
+
+    // Atualiza o texto "Última coleta" no status bar
+    if (ultimaColeta) {
+      const els = document.querySelectorAll(".s-coleta");
+      els.forEach(el => el.textContent = ultimaColeta);
+    }
+
+    console.log(`✅ ${PUBLICACOES.length} publicações carregadas.`);
   } catch (e) {
-    console.warn("⚠️ Usando dados locais de fallback.", e);
-    // Fallback: dados estáticos caso o fetch falhe (ex: rodar local sem servidor)
-    PUBLICACOES = [
-      {
-        titulo: "Dados em atualização — próxima coleta às 08h",
-        orgao: "Sistema",
-        tema: "—",
-        data: new Date().toLocaleDateString("pt-BR"),
-        impacto: "baixo",
-        tags: ["baixo"],
-        url: "#",
-        desc: "Os dados serão carregados automaticamente na próxima execução agendada."
-      }
-    ];
+    console.warn("⚠️ Usando fallback.", e);
+    PUBLICACOES = [];
   }
 
-  // Após carregar, inicializa tudo que depende de PUBLICACOES
   renderPub("todos");
   renderCharts();
   atualizarKpiPublicacoes();
 }
-
 function atualizarKpiPublicacoes() {
   // Atualiza o KPI de publicações críticas no dashboard
   const criticas = PUBLICACOES.filter(p => p.impacto === "critico").length;
