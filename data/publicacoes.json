@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "titulo": "DOE-AM Edição nº  — Nenhum ato relevante identificado hoje",
+    "orgao": "DOE-AM",
+    "tema": "Atos Oficiais Estaduais",
+    "data": "09/05/2026",
+    "impacto": "baixo",
+    "tags": [
+      "baixo",
+      "diario-oficial"
+    ],
+    "url": "https://diario.imprensaoficial.am.gov.br",
+    "desc": "Edição do dia verificada. Nenhum ato com palavras-chave relevantes foi encontrado nesta edição."
+  }
+]
