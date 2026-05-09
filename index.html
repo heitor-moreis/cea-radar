@@ -577,31 +577,7 @@ input:checked+.tgl-t::before{left:19px}
     <div class="notif-panel" id="notifPanel">
       <div class="np-head"><div class="np-title">Notificações</div><span class="np-mark" onclick="markAllRead()">Marcar todas como lidas</span></div>
       <div class="np-list">
-      <div class="np-item unread doe-notif" onclick="markRead(this);navTo('pub',null)">
-        <div class="np-dot crit"></div>
-        <div class="np-text">
-          <div class="np-msg">
-            <span style="font-size:9px;font-weight:800;letter-spacing:1px;text-transform:uppercase;background:#1a3a6e;color:#38bdf8;padding:1px 6px;border-radius:4px;margin-right:5px">DOE-AM</span>
-            Nova edição publicada — 2 atos críticos identificados: concessão de energia e reajuste tarifário Cigás
-          </div>
-          <div class="np-time">Hoje 06:15 · 01/05/2026 · Edição nº 36.112</div>
-        </div>
-      </div>
-      <div class="np-item unread" onclick="markRead(this);navTo('pub',null)">
-        <div class="np-dot alto"></div>
-        <div class="np-text">
-          <div class="np-msg">
-            <span style="font-size:9px;font-weight:800;letter-spacing:1px;text-transform:uppercase;background:#f0fdf4;color:#16a34a;padding:1px 6px;border-radius:4px;margin-right:5px">ARSEPAM</span>
-            Nova legislação — Portaria 042/2026: critérios de fiscalização de distribuidoras
-          </div>
-          <div class="np-time">Hoje 08:00 · 28/04/2026</div>
-        </div>
-      </div>
-        <div class="np-item unread" onclick="markRead(this);navTo('pub',null)"><div class="np-dot crit"></div><div class="np-text"><div class="np-msg">Nova publicação crítica — ANP: Chamada Pública Gasoduto Urucu-Coari-Manaus</div><div class="np-time">Há 2 horas · 26/04/2026</div></div></div>
-        <div class="np-item unread" onclick="markRead(this);navTo('pub',null)"><div class="np-dot crit"></div><div class="np-text"><div class="np-msg">Prazo crítico em 7 dias — IBAMA: CP Licenciamento Termelétricas</div><div class="np-time">Há 4 horas · 26/04/2026</div></div></div>
-        <div class="np-item unread" onclick="markRead(this);navTo('pub',null)"><div class="np-dot alto"></div><div class="np-text"><div class="np-msg">Nova publicação alto impacto — MME: Tomada de Subsídios Segurança Energética</div><div class="np-time">Há 1 dia · 25/04/2026</div></div></div>
-        <div class="np-item" onclick="navTo('pub',null)"><div class="np-dot info"></div><div class="np-text"><div class="np-msg">Relatório semanal disponível — semana 16/04 a 22/04/2026</div><div class="np-time">Há 3 dias · 23/04/2026</div></div></div>
-      </div>
+      <div id="notifDynamic"></div>
     </div>
 
     <div class="content" id="mainContent">
@@ -647,41 +623,9 @@ input:checked+.tgl-t::before{left:19px}
         <div class="two-col">
           <div class="card">
             <div class="c-head"><div class="c-title">Alertas recentes</div><span class="see-all" onclick="navTo('pub',document.querySelectorAll('.ni')[1])">Ver todas →</span></div>
-            <div class="a-list">
-              <div class="a-item"><div class="a-bar crit"></div><div class="a-cnt"><div class="a-title">ANP abre Chamada Pública para capacidade de escoamento no Gasoduto Urucu-Coari-Manaus</div><div class="a-meta"><span class="a-src">ANP</span><span>26/04/2026</span><span>·</span><span>Gás Natural</span></div></div><span class="bdg crit">Crítico</span></div>
-              <div class="a-item"><div class="a-bar crit"></div><div class="a-cnt"><div class="a-title">IBAMA lança consulta pública sobre nova instrução normativa de licenciamento para termelétricas a gás</div><div class="a-meta"><span class="a-src">IBAMA</span><span>25/04/2026</span><span>·</span><span>Licenciamento Ambiental</span></div></div><span class="bdg crit">Crítico</span></div>
-              <div class="a-item"><div class="a-bar crit"></div><div class="a-cnt"><div class="a-title">ANEEL abre Consulta Pública 001/2026 sobre critérios de despacho termelétrico no SIN</div><div class="a-meta"><span class="a-src">ANEEL</span><span>24/04/2026</span><span>·</span><span>Energia Elétrica</span></div></div><span class="bdg crit">Crítico</span></div>
-              <div class="a-item"><div class="a-bar alto"></div><div class="a-cnt"><div class="a-title">MME abre Tomada de Subsídios sobre política de segurança energética para o sistema isolado do Amazonas</div><div class="a-meta"><span class="a-src">MME</span><span>23/04/2026</span><span>·</span><span>Política Energética</span></div></div><span class="bdg alto">Alto</span></div>
-              <div class="a-item"><div class="a-bar crit"></div><div class="a-cnt"><div class="a-title">CCEE altera Regra de Comercialização RC-02 aplicável a agentes geradores termelétricos</div><div class="a-meta"><span class="a-src">CCEE</span><span>22/04/2026</span><span>·</span><span>Comercialização de Energia</span></div></div><span class="bdg crit">Crítico</span></div>
-              <div class="a-item"><div class="a-bar crit"></div><div class="a-cnt"><div class="a-title">ANEEL publica Nota Técnica sobre revisão da metodologia de cálculo do CVU para termelétricas</div><div class="a-meta"><span class="a-src">ANEEL</span><span>21/04/2026</span><span>·</span><span>Energia Elétrica</span></div></div><span class="bdg crit">Crítico</span></div>
-            </div>
-          </div>
-          <div class="card">
-            <div class="c-head"><div><div class="c-title">Prazos críticos</div><div class="c-sub">Clique na seta → para marcar como concluído</div></div></div>
-            <div class="d-list" id="deadlineList">
-              <div class="d-item urg" data-id="1">
-                <div class="d-cnt"><div class="d-num">7</div><div class="d-unit">dias</div></div>
-                <div class="d-info"><div class="d-title">IBAMA — CP: IN licenciamento termelétricas a gás</div><div class="d-meta">Prazo: 05/05/2026 · IBAMA</div></div>
-                <div class="d-arrow" onclick="askCompleteDeadline(1,'IBAMA — CP: IN licenciamento termelétricas a gás')">→</div>
-              </div>
-              <div class="d-item urg" data-id="2">
-                <div class="d-cnt"><div class="d-num">11</div><div class="d-unit">dias</div></div>
-                <div class="d-info"><div class="d-title">ANEEL — CP 001/2026: Despacho termelétrico SIN</div><div class="d-meta">Prazo: 09/05/2026 · ANEEL</div></div>
-                <div class="d-arrow" onclick="askCompleteDeadline(2,'ANEEL — CP 001/2026: Despacho termelétrico SIN')">→</div>
-              </div>
-              <div class="d-item urg" data-id="3">
-                <div class="d-cnt"><div class="d-num">14</div><div class="d-unit">dias</div></div>
-                <div class="d-info"><div class="d-title">ANP — Chamada Pública: Gasoduto Urucu-Coari-Manaus</div><div class="d-meta">Prazo: 12/05/2026 · ANP</div></div>
-                <div class="d-arrow" onclick="askCompleteDeadline(3,'ANP — Chamada Pública: Gasoduto Urucu-Coari-Manaus')">→</div>
-              </div>
-            </div>
+            <div class="d-list" id="deadlineList"></div>
             <div class="divider-label">Prazos futuros</div>
-            <div class="d-list" id="futureDeadlineList">
-              <div class="d-item" data-id="4"><div class="d-cnt"><div class="d-num">22</div><div class="d-unit">dias</div></div><div class="d-info"><div class="d-title">ARSEPAM — CP: Revisão tarifária Cigás 2026</div><div class="d-meta">Prazo: 20/05/2026 · ARSEPAM</div></div><div class="d-arrow" onclick="askCompleteDeadline(4,'ARSEPAM — CP: Revisão tarifária Cigás 2026')">→</div></div>
-              <div class="d-item" data-id="5"><div class="d-cnt"><div class="d-num">38</div><div class="d-unit">dias</div></div><div class="d-info"><div class="d-title">ANEEL — Audiência Pública: Revisão tarifária AmE 2026</div><div class="d-meta">Prazo: 05/06/2026 · ANEEL</div></div><div class="d-arrow" onclick="askCompleteDeadline(5,'ANEEL — Audiência Pública: Revisão tarifária AmE 2026')">→</div></div>
-              <div class="d-item" data-id="6"><div class="d-cnt"><div class="d-num">55</div><div class="d-unit">dias</div></div><div class="d-info"><div class="d-title">ONS — Consulta: Plano Anual de Prevenção de Déficit 2026/2027</div><div class="d-meta">Prazo: 22/06/2026 · ONS</div></div><div class="d-arrow" onclick="askCompleteDeadline(6,'ONS — Consulta: Plano Anual de Prevenção de Déficit 2026/2027')">→</div></div>
-              <div class="d-item" data-id="7"><div class="d-cnt"><div class="d-num">73</div><div class="d-unit">dias</div></div><div class="d-info"><div class="d-title">ANP — AP: Revisão de normas para gasodutos de transporte</div><div class="d-meta">Prazo: 10/07/2026 · ANP</div></div><div class="d-arrow" onclick="askCompleteDeadline(7,'ANP — AP: Revisão de normas para gasodutos de transporte')">→</div></div>
-            </div>
+            <div class="d-list" id="futureDeadlineList"></div>
           </div>
         </div>
       </div>
@@ -953,26 +897,140 @@ async function carregarPublicacoes() {
     if (!r.ok) throw new Error("JSON não encontrado");
     const json = await r.json();
 
-    // Suporte ao novo formato com metadata
     PUBLICACOES = json.publicacoes ?? json;
     const ultimaColeta = json.ultima_coleta ?? null;
 
-    // Atualiza o texto "Última coleta" no status bar
     if (ultimaColeta) {
-      const els = document.querySelectorAll(".s-coleta");
-      els.forEach(el => el.textContent = ultimaColeta);
+      document.querySelectorAll(".s-coleta").forEach(el => el.textContent = ultimaColeta);
     }
 
     console.log(`✅ ${PUBLICACOES.length} publicações carregadas.`);
   } catch (e) {
-    console.warn("⚠️ Usando fallback.", e);
-    PUBLICACOES = [];
+    console.warn("⚠️ Usando dados estáticos de fallback.", e);
   }
 
   renderPub("todos");
   renderCharts();
   atualizarKpiPublicacoes();
+  renderDbAlertas();
+  renderPrazos();
+  renderNotificacoes();
 }
+
+function atualizarKpiPublicacoes() {
+  const criticas = PUBLICACOES.filter(p => p.impacto === "critico").length;
+  const elCrit = document.getElementById("kpiCriticas");
+  if (elCrit) elCrit.textContent = criticas;
+  const elTotal = document.getElementById("kpiPublicacoes");
+  if (elTotal) elTotal.textContent = PUBLICACOES.length;
+}
+
+// Alertas recentes do dashboard — top 6 por impacto
+function renderDbAlertas() {
+  const el = document.getElementById("dbAlertList");
+  if (!el) return;
+  const imp = {critico:'crit', alto:'alto', medio:'med', baixo:'low'};
+  const lbl = {critico:'Crítico', alto:'Alto', medio:'Médio', baixo:'Baixo'};
+  const ordem = {critico:0, alto:1, medio:2, baixo:3};
+  const top = [...PUBLICACOES]
+    .sort((a,b) => ordem[a.impacto] - ordem[b.impacto])
+    .slice(0, 6);
+  if (!top.length) { el.innerHTML = '<div style="padding:20px;color:var(--tm);font-size:13px">Nenhum alerta disponível.</div>'; return; }
+  el.innerHTML = top.map(p => `
+    <div class="a-item">
+      <div class="a-bar ${imp[p.impacto]}"></div>
+      <div class="a-cnt">
+        <div class="a-title">${p.titulo}</div>
+        <div class="a-meta">
+          <span class="a-src">${p.orgao}</span>
+          <span>${p.data}</span><span>·</span>
+          <span>${p.tema}</span>
+        </div>
+      </div>
+      <span class="bdg ${imp[p.impacto]}">${lbl[p.impacto]}</span>
+    </div>`).join('');
+}
+
+// Prazos — detecta publicações com prazo a partir da descrição
+function renderPrazos() {
+  const listCrit = document.getElementById("deadlineList");
+  const listFut  = document.getElementById("futureDeadlineList");
+  if (!listCrit || !listFut) return;
+
+  const hoje = new Date();
+  hoje.setHours(0,0,0,0);
+
+  // Filtra publicações que têm prazo mencionado na desc ou título
+  const comPrazo = PUBLICACOES
+    .filter(p => p.prazo || /prazo[:\s]+(\d{2}\/\d{2}\/\d{4})/i.test(p.desc + p.titulo))
+    .map(p => {
+      let prazoStr = p.prazo;
+      if (!prazoStr) {
+        const m = (p.desc + p.titulo).match(/prazo[:\s]+(\d{2}\/\d{2}\/\d{4})/i);
+        if (m) prazoStr = m[1];
+      }
+      const [d,mo,y] = (prazoStr||'').split('/').map(Number);
+      const prazoDate = prazoStr ? new Date(y, mo-1, d) : null;
+      const dias = prazoDate ? Math.round((prazoDate - hoje) / 86400000) : null;
+      return {...p, prazoStr, prazoDate, dias};
+    })
+    .filter(p => p.dias !== null && p.dias >= 0)
+    .sort((a,b) => a.dias - b.dias);
+
+  // Publicações sem prazo explícito — usa as críticas como prazos estimados
+  const semPrazo = PUBLICACOES
+    .filter(p => p.impacto === 'critico' && !comPrazo.find(c => c.titulo === p.titulo))
+    .slice(0, 3)
+    .map((p, i) => ({...p, prazoStr: '—', dias: 7 + i * 7}));
+
+  const todos = [...comPrazo, ...semPrazo].sort((a,b) => a.dias - b.dias);
+  const criticos = todos.filter(p => p.dias <= 20);
+  const futuros  = todos.filter(p => p.dias > 20);
+
+  const renderItem = (p, id) => `
+    <div class="d-item ${p.dias <= 14 ? 'urg' : ''}" data-id="${id}">
+      <div class="d-cnt"><div class="d-num">${p.dias}</div><div class="d-unit">dias</div></div>
+      <div class="d-info">
+        <div class="d-title">${p.titulo.substring(0,80)}</div>
+        <div class="d-meta">Prazo: ${p.prazoStr !== '—' ? p.prazoStr : 'estimado'} · ${p.orgao}</div>
+      </div>
+      <div class="d-arrow" onclick="askCompleteDeadline(${id},'${p.titulo.substring(0,60).replace(/'/g,"\\'")}')">→</div>
+    </div>`;
+
+  listCrit.innerHTML = criticos.length
+    ? criticos.map((p,i) => renderItem(p, 100+i)).join('')
+    : '<div style="padding:16px;color:var(--tm);font-size:13px">Nenhum prazo crítico no momento.</div>';
+
+  listFut.innerHTML = futuros.length
+    ? futuros.map((p,i) => renderItem(p, 200+i)).join('')
+    : '<div style="padding:16px;color:var(--tm);font-size:13px">Nenhum prazo futuro encontrado.</div>';
+}
+
+// Notificações do painel lateral — top 5 críticos/altos
+function renderNotificacoes() {
+  const el = document.getElementById("notifDynamic");
+  if (!el) return;
+  const imp = {critico:'crit', alto:'alto', medio:'med', baixo:'low'};
+  const ordem = {critico:0, alto:1, medio:2, baixo:3};
+  const top = [...PUBLICACOES]
+    .sort((a,b) => ordem[a.impacto] - ordem[b.impacto])
+    .filter(p => p.impacto === 'critico' || p.impacto === 'alto')
+    .slice(0, 5);
+  el.innerHTML = top.map(p => `
+    <div class="np-item unread" onclick="markRead(this);navTo('pub',null)">
+      <div class="np-dot ${imp[p.impacto]}"></div>
+      <div class="np-text">
+        <div class="np-msg">
+          <span style="font-size:9px;font-weight:800;letter-spacing:1px;text-transform:uppercase;background:var(--navy);color:var(--cyanL);padding:1px 6px;border-radius:4px;margin-right:5px">${p.orgao}</span>
+          ${p.titulo.substring(0,90)}
+        </div>
+        <div class="np-time">${p.data}</div>
+      </div>
+    </div>`).join('');
+  updatePip();
+}
+
+document.addEventListener("DOMContentLoaded", carregarPublicacoes);
 function atualizarKpiPublicacoes() {
   // Atualiza o KPI de publicações críticas no dashboard
   const criticas = PUBLICACOES.filter(p => p.impacto === "critico").length;
