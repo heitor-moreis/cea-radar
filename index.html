@@ -1559,6 +1559,17 @@ async function carregarPublicacoes() {
     const json = await r.json();
 
     PUBLICACOES = json.publicacoes ?? json;
+    // Regenera ORGAO_PUBS com dados reais
+    window.ORGAO_PUBS = {
+      'ANEEL':   PUBLICACOES.filter(p=>p.orgao==='ANEEL'),
+      'ANP':     PUBLICACOES.filter(p=>p.orgao==='ANP'),
+      'MME':     PUBLICACOES.filter(p=>p.orgao==='MME'),
+      'CCEE':    PUBLICACOES.filter(p=>p.orgao==='CCEE'),
+      'ONS':     PUBLICACOES.filter(p=>p.orgao==='ONS'),
+      'IBAMA':   PUBLICACOES.filter(p=>p.orgao==='IBAMA'),
+      'ARSEPAM': PUBLICACOES.filter(p=>p.orgao==='ARSEPAM'),
+      'Gov. AM': [...PUBLICACOES.filter(p=>p.orgao==='DOE-AM'),...PUBLICACOES.filter(p=>p.orgao==='DOU')],
+    };
     const ultimaColeta = json.ultima_coleta ?? null;
 
     if (ultimaColeta) {
@@ -1567,7 +1578,14 @@ async function carregarPublicacoes() {
 
     console.log(`✅ ${PUBLICACOES.length} publicações carregadas.`);
   } catch (e) {
-    console.warn("⚠️ Usando dados estáticos de fallback.", e);
+    console.warn("⚠️ JSON não encontrado, usando fallback.", e);
+    PUBLICACOES = [
+      {titulo:'CP 001/2026 — Critérios de despacho termelétrico no SIN',orgao:'ANEEL',tema:'Energia Elétrica',data:'24/04/2026',impacto:'critico',tags:['critico','energia'],url:'#',desc:'Fallback local.'},
+      {titulo:'Chamada Pública — Gasoduto Urucu-Coari-Manaus',orgao:'ANP',tema:'Gás Natural',data:'26/04/2026',impacto:'critico',tags:['critico','gas'],url:'#',desc:'Fallback local.'},
+      {titulo:'Tomada de Subsídios — Segurança energética AM',orgao:'MME',tema:'Política Energética',data:'23/04/2026',impacto:'alto',tags:['alto'],url:'#',desc:'Fallback local.'},
+      {titulo:'Alteração Regra RC-02 — agentes termelétricos',orgao:'CCEE',tema:'Comercialização',data:'22/04/2026',impacto:'critico',tags:['critico'],url:'#',desc:'Fallback local.'},
+      {titulo:'Consulta Pública — IN licenciamento termelétricas',orgao:'IBAMA',tema:'Meio Ambiente',data:'25/04/2026',impacto:'critico',tags:['critico'],url:'#',desc:'Fallback local.'},
+    ];
   }
 
   renderPub("todos");
@@ -1691,7 +1709,6 @@ function renderNotificacoes() {
   updatePip();
 }
 
-document.addEventListener("DOMContentLoaded", carregarPublicacoes);
 function atualizarKpiPublicacoes() {
   // Atualiza o KPI de publicações críticas no dashboard
   const criticas = PUBLICACOES.filter(p => p.impacto === "critico").length;
@@ -1706,16 +1723,6 @@ function atualizarKpiPublicacoes() {
 // Inicia o carregamento assim que a página abre
 document.addEventListener("DOMContentLoaded", carregarPublicacoes);
 
-const ORGAO_PUBS = {
-  'ANEEL':PUBLICACOES.filter(p=>p.orgao==='ANEEL'),
-  'ANP':PUBLICACOES.filter(p=>p.orgao==='ANP'),
-  'MME':PUBLICACOES.filter(p=>p.orgao==='MME'),
-  'CCEE':PUBLICACOES.filter(p=>p.orgao==='CCEE'),
-  'ONS':PUBLICACOES.filter(p=>p.orgao==='ONS'),
-  'IBAMA':PUBLICACOES.filter(p=>p.orgao==='IBAMA'),
-  'ARSEPAM':PUBLICACOES.filter(p=>p.orgao==='ARSEPAM'),
-  'Gov. AM':[...PUBLICACOES.filter(p=>p.orgao==='DOE-AM'),...PUBLICACOES.filter(p=>p.orgao==='DOU')],
-};
 
 const ALERTAS=[
   {nome:'Publicações Críticas',desc:'Dispara imediatamente quando qualquer publicação com nível de impacto Crítico é detectada.',tag:'Crítico',tagCls:'red',canal:'E-mail + Plataforma',ultima:'26/04/2026 às 13:23',ativo:true},
