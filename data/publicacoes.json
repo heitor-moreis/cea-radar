@@ -1,25 +1,37 @@
 {
-  "ultima_coleta": "15/05/2026 17:20",
-  "total": 60,
+  "ultima_coleta": "18/05/2026 18:21",
+  "total": 42,
   "fontes": 18,
   "publicacoes": [
     {
-      "titulo": "Nota Prefeitura informa suspensão temporária dos atendimentos da USF Lourenço Borghi nesta sexta-feira 14/05/2026 17h37",
+      "titulo": "Nota Prefeitura informa suspensão temporária nos atendimentos da USF N 48, no Lago Azul 18/05/2026 11h52",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "15/05/2026",
+      "data": "18/05/2026",
       "impacto": "critico",
       "tags": [
         "critico"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/nota/suspensao-temporaria-usf/",
-      "desc": "Nota Prefeitura informa suspensão temporária dos atendimentos da USF Lourenço Borghi nesta sexta-feira 14/05/2026 17h37"
+      "url": "https://www.manaus.am.gov.br/noticia/nota/prefeitura-atendimento-suspensao-temporaria-unidadedesaude-lagoazul/",
+      "desc": "Nota Prefeitura informa suspensão temporária nos atendimentos da USF N 48, no Lago Azul 18/05/2026 11h52"
+    },
+    {
+      "titulo": "Nota Prefeitura informa suspensão temporária de mamografia na Unidade Móvel de Saúde da Mulher da zona Oeste 18/05/2026 11h07",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "18/05/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/nota/prefeitura-unidadedamulher-oeste-mamografia/",
+      "desc": "Nota Prefeitura informa suspensão temporária de mamografia na Unidade Móvel de Saúde da Mulher da zona Oeste 18/05/2026 11h07"
     },
     {
       "titulo": "Licitações e Contratos",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "15/05/2026",
+      "data": "18/05/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -31,7 +43,7 @@
       "titulo": "MINUTAS DE CONTRATOS",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "15/05/2026",
+      "data": "18/05/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -43,7 +55,7 @@
       "titulo": "CONTRATOS DE PUBLICIDADE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "15/05/2026",
+      "data": "18/05/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -52,22 +64,22 @@
       "desc": "CONTRATOS DE PUBLICIDADE"
     },
     {
-      "titulo": "Semig participa de Audiência Pública sobre Política Estadual de Fertilizantes do Amazonas na Aleam 12/05/2026 - 14:08",
-      "orgao": "SEMIG",
-      "tema": "Política Energética / AM",
-      "data": "15/05/2026",
-      "impacto": "medio",
+      "titulo": "Fiscalização Prefeitura soma mais de 24 mil ações fiscais no Implurb para controle urbano nos últimos cinco anos",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "18/05/2026",
+      "impacto": "alto",
       "tags": [
-        "medio"
+        "alto"
       ],
-      "url": "https://www.semig.am.gov.br/semig-participa-de-audiencia-publica-sobre-politica-estadual-de-fertilizantes-do-amazonas-na-aleam/",
-      "desc": "Semig participa de Audiência Pública sobre Política Estadual de Fertilizantes do Amazonas na Aleam 12/05/2026 - 14:08"
+      "url": "https://www.manaus.am.gov.br/noticia/fiscalizacao/acoes-fiscais-implurb-controle-urbano/",
+      "desc": "Fiscalização Prefeitura soma mais de 24 mil ações fiscais no Implurb para controle urbano nos últimos cinco anos"
     },
     {
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "15/05/2026",
+      "data": "18/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -76,23 +88,23 @@
       "desc": "DOU — Página verificada sem atos relevantes hoje."
     },
     {
-      "titulo": "DOE-AM — Gmail Imagens Fazer login Fazer upload da imagem Fazer upload do arquivo Modo IA Ver mais Excluir Excluir Denunciar previsões inad",
+      "titulo": "DOE-AM — Gmail Imagens Fazer login No que você está pensando? Get help with learning, planning, writing, and more Transform your ideas into",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "15/05/2026",
+      "data": "18/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
         "estadual"
       ],
       "url": "https://diario.imprensaoficial.am.gov.br/portal/edicoes/download/0",
-      "desc": "Gmail Imagens Fazer login Fazer upload da imagem Fazer upload do arquivo Modo IA Ver mais Excluir Excluir Denunciar previsões inadequadas Disponibilizado pelo Google em: English Sobre Publicidade Negócios Como funciona a Pesquisa Privacidade Termos Configurações Configurações de Pesquisa Pesquisa avançada Seus dados na Pesquisa Histórico de pesquisa Ajuda da pesquisa Enviar feedback Tema escuro: desativado"
+      "desc": "Gmail Imagens Fazer login No que você está pensando? Get help with learning, planning, writing, and more Transform your ideas into images Fazer upload da imagem Fazer upload do arquivo Ferramentas 🍌 Criar imagens Modo IA 🍌 Criar Remover Criar Imagens Ver mais Excluir Excluir Denunciar previsões inadequadas Disponibilizado pelo Google em: English Sobre Publicidade Negócios Como funciona a Pesquisa Privacidade Termos Configurações Configurações de Pesquisa Pesquisa avançada Seus dados na Pesquisa "
     },
     {
       "titulo": "DOE-AM — Sobre Publicidade Negócios Como funciona a Pesquisa Privacidade Termos Configurações Configurações de Pesquisa Pesquisa avançada S",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "15/05/2026",
+      "data": "18/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -105,7 +117,7 @@
       "titulo": "DOE-AM — Sobre Publicidade Negócios Como funciona a Pesquisa",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "15/05/2026",
+      "data": "18/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -118,7 +130,7 @@
       "titulo": "ANEEL — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "15/05/2026",
+      "data": "18/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -130,7 +142,7 @@
       "titulo": "ANP — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "15/05/2026",
+      "data": "18/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -142,7 +154,7 @@
       "titulo": "ANA — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "15/05/2026",
+      "data": "18/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -154,7 +166,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "15/05/2026",
+      "data": "18/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -166,7 +178,7 @@
       "titulo": "ONS — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "15/05/2026",
+      "data": "18/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -178,7 +190,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "15/05/2026",
+      "data": "18/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -190,7 +202,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "15/05/2026",
+      "data": "18/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -202,7 +214,7 @@
       "titulo": "AmE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "15/05/2026",
+      "data": "18/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -214,7 +226,7 @@
       "titulo": "COGERAÇÃO DE ENERGIA",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "15/05/2026",
+      "data": "18/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -226,7 +238,7 @@
       "titulo": "GÁS RESIDENCIAL",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "15/05/2026",
+      "data": "18/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -238,7 +250,7 @@
       "titulo": "Com apoio do Governo do Amazonas, “Amazônia das Palavras” percorre sete municípios do estado",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "15/05/2026",
+      "data": "18/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -250,7 +262,7 @@
       "titulo": "Centro de Controle Operacional da Cigás avança com geotecnologia e sistemas integrados",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "15/05/2026",
+      "data": "18/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -262,7 +274,7 @@
       "titulo": "Novo investimento da Cigás, City Gate Vila Buriti vai ampliar serviço público de distribuição de gás natural em Manaus",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "15/05/2026",
+      "data": "18/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -274,7 +286,7 @@
       "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "15/05/2026",
+      "data": "18/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -283,202 +295,22 @@
       "desc": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
-      "titulo": "SEMIG Secretaria de Estado de Energia, Mineração e Gás",
+      "titulo": "SEMIG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "15/05/2026",
+      "data": "18/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
       "url": "https://www.semig.am.gov.br",
-      "desc": "SEMIG Secretaria de Estado de Energia, Mineração e Gás"
-    },
-    {
-      "titulo": "Instagram SEMIG",
-      "orgao": "SEMIG",
-      "tema": "Política Energética / AM",
-      "data": "15/05/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.instagram.com/semig.am",
-      "desc": "Instagram SEMIG"
-    },
-    {
-      "titulo": "Estrutura Organizacional",
-      "orgao": "SEMIG",
-      "tema": "Política Energética / AM",
-      "data": "15/05/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://semig.am.gov.br/estrutura",
-      "desc": "Estrutura Organizacional"
-    },
-    {
-      "titulo": "E-mail Integra Amazonas",
-      "orgao": "SEMIG",
-      "tema": "Política Energética / AM",
-      "data": "15/05/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.office.com/?auth=2&home=1",
-      "desc": "E-mail Integra Amazonas"
-    },
-    {
-      "titulo": "Amazonas Óleo, Gás & Energia 2026 fortalece ambiente de negócios e projeta o estado como polo estratégico no cenário energético 30/03/2026 - 10:58",
-      "orgao": "SEMIG",
-      "tema": "Política Energética / AM",
-      "data": "15/05/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.semig.am.gov.br/amazonas-oleo-gas-energia-2026-fortalece-ambiente-de-negocios-e-projeta-o-estado-como-polo-estrategico-no-cenario-energetico/",
-      "desc": "Amazonas Óleo, Gás & Energia 2026 fortalece ambiente de negócios e projeta o estado como polo estratégico no cenário energético 30/03/2026 - 10:58"
-    },
-    {
-      "titulo": "Semig realiza entregas de calcário e revitaliza espaço comunitário em ações voltadas ao fortalecimento da agricultura familiar 17/03/2026 - 12:32",
-      "orgao": "SEMIG",
-      "tema": "Política Energética / AM",
-      "data": "15/05/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.semig.am.gov.br/semig-realiza-entregas-de-calcario-e-revitaliza-espaco-comunitario-em-acoes-voltadas-ao-fortalecimento-da-agricultura-familiar/",
-      "desc": "Semig realiza entregas de calcário e revitaliza espaço comunitário em ações voltadas ao fortalecimento da agricultura familiar 17/03/2026 - 12:32"
-    },
-    {
-      "titulo": "SEMIG conquista selos Ouro, Prata e Bronze no Prêmio da Qualidade do Sistema de Gestão 16/03/2026 - 12:02",
-      "orgao": "SEMIG",
-      "tema": "Política Energética / AM",
-      "data": "15/05/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.semig.am.gov.br/semig-conquista-selos-ouro-prata-e-bronze-no-premio-da-qualidade-do-sistema-de-gestao/",
-      "desc": "SEMIG conquista selos Ouro, Prata e Bronze no Prêmio da Qualidade do Sistema de Gestão 16/03/2026 - 12:02"
-    },
-    {
-      "titulo": "semig.am Secretaria de Estado de Energia, Mineração e Gás do Amazonas",
-      "orgao": "SEMIG",
-      "tema": "Política Energética / AM",
-      "data": "15/05/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.instagram.com/semig.am/",
-      "desc": "semig.am Secretaria de Estado de Energia, Mineração e Gás do Amazonas"
-    },
-    {
-      "titulo": "A Semig participou, nesta segunda-feira (11/05), d",
-      "orgao": "SEMIG",
-      "tema": "Política Energética / AM",
-      "data": "15/05/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.instagram.com/p/DYPjltUFrw6/",
-      "desc": "A Semig participou, nesta segunda-feira (11/05), d"
-    },
-    {
-      "titulo": "A Semig esteve reunida, nesta sexta-feira (08/05),",
-      "orgao": "SEMIG",
-      "tema": "Política Energética / AM",
-      "data": "15/05/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.instagram.com/p/DYIPlFwAdGF/",
-      "desc": "A Semig esteve reunida, nesta sexta-feira (08/05),"
-    },
-    {
-      "titulo": "A Semig convida você para participar da  𝐀𝐮",
-      "orgao": "SEMIG",
-      "tema": "Política Energética / AM",
-      "data": "15/05/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.instagram.com/p/DYCbLwUAVWY/",
-      "desc": "A Semig convida você para participar da  𝐀𝐮"
-    },
-    {
-      "titulo": "A Semig destaca um novo avanço no Complexo Termel",
-      "orgao": "SEMIG",
-      "tema": "Política Energética / AM",
-      "data": "15/05/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.instagram.com/p/DYATAyEgTZd/",
-      "desc": "A Semig destaca um novo avanço no Complexo Termel"
-    },
-    {
-      "titulo": "A Semig participou, nesta manhã (05/05), de uma r",
-      "orgao": "SEMIG",
-      "tema": "Política Energética / AM",
-      "data": "15/05/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.instagram.com/p/DX-DO5DFqzq/",
-      "desc": "A Semig participou, nesta manhã (05/05), de uma r"
-    },
-    {
-      "titulo": "A Semig participou, nesta segunda-feira (04/05), d",
-      "orgao": "SEMIG",
-      "tema": "Política Energética / AM",
-      "data": "15/05/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.instagram.com/p/DX9wc95FiQR/",
-      "desc": "A Semig participou, nesta segunda-feira (04/05), d"
-    },
-    {
-      "titulo": "semig@semig.am.gov.br",
-      "orgao": "SEMIG",
-      "tema": "Política Energética / AM",
-      "data": "15/05/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.semig.am.gov.br",
-      "desc": "semig@semig.am.gov.br"
-    },
-    {
-      "titulo": "Proporcionado por GDPR Cookie Compliance",
-      "orgao": "SEMIG",
-      "tema": "Política Energética / AM",
-      "data": "15/05/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://wordpress.org/plugins/gdpr-cookie-compliance/",
-      "desc": "Proporcionado por GDPR Cookie Compliance"
+      "desc": "SEMIG — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
       "titulo": "SEFAZ-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "15/05/2026",
+      "data": "18/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -490,7 +322,7 @@
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "15/05/2026",
+      "data": "18/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -502,7 +334,7 @@
       "titulo": "Obras Prefeitura de Manaus chega quase à metade da execução da cúpula da Oca Niemeyer no parque Encontro das Águas Rosa Almeida",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "15/05/2026",
+      "data": "18/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -514,7 +346,7 @@
       "titulo": "Reunião Prefeito Renato Junior debate com setor produtivo soluções que estimulem a economia da capital durante encontro na Associação Comercial do Amazonas",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "15/05/2026",
+      "data": "18/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -523,166 +355,118 @@
       "desc": "Reunião Prefeito Renato Junior debate com setor produtivo soluções que estimulem a economia da capital durante encontro na Associação Comercial do Amazonas"
     },
     {
-      "titulo": "Cultura Prefeitura de Manaus realiza 24ª ‘Semana Nacional de Museus’ com atividades voltadas à memória, diversidade e identidade amazônica",
+      "titulo": "Oportunidade Sine Manaus oferta 303 vagas de emprego nesta terça–feira, 19/5",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "15/05/2026",
+      "data": "18/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/cultura/prefeitura-manauscult-semanademuseus/",
-      "desc": "Cultura Prefeitura de Manaus realiza 24ª ‘Semana Nacional de Museus’ com atividades voltadas à memória, diversidade e identidade amazônica"
+      "url": "https://www.manaus.am.gov.br/noticia/oportunidade/prefeitura-semtepi-sine-manaus-vagas1905/",
+      "desc": "Oportunidade Sine Manaus oferta 303 vagas de emprego nesta terça–feira, 19/5"
     },
     {
-      "titulo": "Ação Alunos aprendem regras de trânsito em ação da Prefeitura de Manaus",
+      "titulo": "Trânsito Prefeitura de Manaus moderniza sinalização das avenidas Mário Ypiranga Monteiro e Governador José Lindoso",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "15/05/2026",
+      "data": "18/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/acao/regras-transito-acao-prefeitura/",
-      "desc": "Ação Alunos aprendem regras de trânsito em ação da Prefeitura de Manaus"
+      "url": "https://www.manaus.am.gov.br/noticia/transito/prefeitura-immu-sinalizacao-avenidas/",
+      "desc": "Trânsito Prefeitura de Manaus moderniza sinalização das avenidas Mário Ypiranga Monteiro e Governador José Lindoso"
     },
     {
-      "titulo": "Celebração Creche municipal promove manhã de afeto e integração entre famílias e crianças em Manaus",
+      "titulo": "Eventos Com apoio da Prefeitura de Manaus, Liga Independente dos Grupos Folclóricos realiza ‘Arraial da Economia Criativa’ na Ponta Negra 18/05/2026 11h53",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "15/05/2026",
+      "data": "18/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/celebracao/prefeitura-semed-celebracaocreche/",
-      "desc": "Celebração Creche municipal promove manhã de afeto e integração entre famílias e crianças em Manaus"
+      "url": "https://www.manaus.am.gov.br/noticia/eventos/apoio-arraial-da-economia-criativa-ponta-negra/",
+      "desc": "Eventos Com apoio da Prefeitura de Manaus, Liga Independente dos Grupos Folclóricos realiza ‘Arraial da Economia Criativa’ na Ponta Negra 18/05/2026 11h53"
     },
     {
-      "titulo": "Centro Histórico Prefeitura de Manaus participa de encontro internacional sobre revitalização de áreas centrais 15/05/2026 11h45",
+      "titulo": "Licenciamento Prefeitura de Manaus tem alta de 11% em abril em número de CITs emitidas no Implurb 18/05/2026 11h45",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "15/05/2026",
+      "data": "18/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/centro-historico/prefeitura-implurb-encontrointernacional/",
-      "desc": "Centro Histórico Prefeitura de Manaus participa de encontro internacional sobre revitalização de áreas centrais 15/05/2026 11h45"
+      "url": "https://www.manaus.am.gov.br/noticia/licenciamento/alta-11-abril-cits/",
+      "desc": "Licenciamento Prefeitura de Manaus tem alta de 11% em abril em número de CITs emitidas no Implurb 18/05/2026 11h45"
     },
     {
-      "titulo": "Planejamento Urbano Prefeitura de Manaus mobiliza força-tarefa técnica do Implurb para revisão do Plano Diretor 15/05/2026 9h46",
+      "titulo": "Urbanismo Prefeitura de Manaus avança com estudos técnicos sobre áreas de expansão do Distrito Industrial 18/05/2026 11h14",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "15/05/2026",
+      "data": "18/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/planejamento-urbano/prefeitura-implurb-revisaoplanodiretor/",
-      "desc": "Planejamento Urbano Prefeitura de Manaus mobiliza força-tarefa técnica do Implurb para revisão do Plano Diretor 15/05/2026 9h46"
+      "url": "https://www.manaus.am.gov.br/noticia/urbanismo/prefeitura-implurb-expansao-distrito/",
+      "desc": "Urbanismo Prefeitura de Manaus avança com estudos técnicos sobre áreas de expansão do Distrito Industrial 18/05/2026 11h14"
     },
     {
-      "titulo": "Modernização Prefeitura de Manaus alcança 75% da aplicação de geomanta na avenida Mário Ypiranga Monteiro e reforça segurança viária na zona Centro-Sul 14/05/2026 19h41",
+      "titulo": "Concorrência Três unidades da Prefeitura de Manaus disputam concurso nacional de alimentação escolar 18/05/2026 10h59",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "15/05/2026",
+      "data": "18/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/modernizacao/75-da-aplicacao-de-geomanta/",
-      "desc": "Modernização Prefeitura de Manaus alcança 75% da aplicação de geomanta na avenida Mário Ypiranga Monteiro e reforça segurança viária na zona Centro-Sul 14/05/2026 19h41"
+      "url": "https://www.manaus.am.gov.br/noticia/concorrencia/prefeitura-semed-concurso-alimentacaoescolar/",
+      "desc": "Concorrência Três unidades da Prefeitura de Manaus disputam concurso nacional de alimentação escolar 18/05/2026 10h59"
     },
     {
-      "titulo": "Recuperação Prefeitura de Manaus leva asfalto à lagoa do Japiim e promove acessibilidade em espaço de lazer da população 14/05/2026 19h28",
+      "titulo": "Campanha Prefeitura de Manaus promove ação educativa na ‘Faixa Liberada’ da avenida Getúlio Vargas 17/05/2026 15h01",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "15/05/2026",
+      "data": "18/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/recuperacao/asfalto-acessibilidade-em-espaco-de-lazer/",
-      "desc": "Recuperação Prefeitura de Manaus leva asfalto à lagoa do Japiim e promove acessibilidade em espaço de lazer da população 14/05/2026 19h28"
+      "url": "https://www.manaus.am.gov.br/noticia/campanha/prefeitura-immu-maioamarelo-faixa-liberada/",
+      "desc": "Campanha Prefeitura de Manaus promove ação educativa na ‘Faixa Liberada’ da avenida Getúlio Vargas 17/05/2026 15h01"
     },
     {
-      "titulo": "Serviços Prefeitura de Manaus atua em pronta resposta com recuperação de drenagem em importante via do centro histórico 14/05/2026 18h59",
+      "titulo": "Oportunidade Sine Manaus oferta 400 vagas de emprego nesta segunda–feira, 18/5 17/05/2026 11h28",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "15/05/2026",
+      "data": "18/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/servicos/pronta-resposta-recuperacao-de-drenagem/",
-      "desc": "Serviços Prefeitura de Manaus atua em pronta resposta com recuperação de drenagem em importante via do centro histórico 14/05/2026 18h59"
+      "url": "https://www.manaus.am.gov.br/noticia/oportunidade/prefeitura-semtepi-sine-manaus-1805/",
+      "desc": "Oportunidade Sine Manaus oferta 400 vagas de emprego nesta segunda–feira, 18/5 17/05/2026 11h28"
     },
     {
-      "titulo": "Operação Prefeitura de Manaus combate depósito e comercialização irregular de resíduos em operação integrada 14/05/2026 18h49",
+      "titulo": "Mobilidade Prefeitura de Manaus intensifica operação ‘Tapa-Buracos’ na zona Norte e recupera corredor viário no Cidade de Deus 16/05/2026 14h46",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "15/05/2026",
+      "data": "18/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/operacao/combate-deposito-e-comercializacao-irregular/",
-      "desc": "Operação Prefeitura de Manaus combate depósito e comercialização irregular de resíduos em operação integrada 14/05/2026 18h49"
-    },
-    {
-      "titulo": "Infraestrutura Prefeitura de Manaus leva recapeamento à Vila Nazaré e Travessa Saturnino, no Centro 14/05/2026 18h15",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "15/05/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/infraestrutura/servicos-recapeamento-seminf-2/",
-      "desc": "Infraestrutura Prefeitura de Manaus leva recapeamento à Vila Nazaré e Travessa Saturnino, no Centro 14/05/2026 18h15"
-    },
-    {
-      "titulo": "Mobilidade Prefeitura de Manaus implanta nova ponte no bairro Jorge Teixeira e garante mais acessibilidade e segurança para moradores 14/05/2026 18h08",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "15/05/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/mobilidade/nova-ponte-no-bairro-jorge-teixeira/",
-      "desc": "Mobilidade Prefeitura de Manaus implanta nova ponte no bairro Jorge Teixeira e garante mais acessibilidade e segurança para moradores 14/05/2026 18h08"
-    },
-    {
-      "titulo": "Palestra Manausprev fortalece conexão com universitários e contribui para conhecimento em gestão pública 14/05/2026 17h28",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "15/05/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/palestra/manausprev-palestra-conhecimento-gestao-publica/",
-      "desc": "Palestra Manausprev fortalece conexão com universitários e contribui para conhecimento em gestão pública 14/05/2026 17h28"
-    },
-    {
-      "titulo": "Serviços Prefeitura de Manaus amplia recuperação asfáltica no Riacho Doce e fortalece infraestrutura na zona Norte 14/05/2026 17h18",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "15/05/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/servicos/recuperacao-asfaltica-no-riacho-doce/",
-      "desc": "Serviços Prefeitura de Manaus amplia recuperação asfáltica no Riacho Doce e fortalece infraestrutura na zona Norte 14/05/2026 17h18"
+      "url": "https://www.manaus.am.gov.br/noticia/mobilidade/prefeitura-seminf-operacao-tapa-buracos-zonanorte/",
+      "desc": "Mobilidade Prefeitura de Manaus intensifica operação ‘Tapa-Buracos’ na zona Norte e recupera corredor viário no Cidade de Deus 16/05/2026 14h46"
     },
     {
       "titulo": "IMMU — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "15/05/2026",
+      "data": "18/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -694,7 +478,7 @@
       "titulo": "Turismo Prefeitura acelera obras do parque Encontro das Águas Rosa Almeida e consolida novo cartão-postal de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "15/05/2026",
+      "data": "18/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -706,7 +490,7 @@
       "titulo": "Manaus Prefeitura conclui etapa de contenção no parque Encontro das Águas Rosa Almeida com mais de 260 estacas",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "15/05/2026",
+      "data": "18/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -718,7 +502,7 @@
       "titulo": "Obras Prefeitura de Manaus avança em obras de engenharia e na Oca Niemeyer no parque Encontro das Águas Rosa Almeida",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "15/05/2026",
+      "data": "18/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
