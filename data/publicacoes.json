@@ -1,25 +1,37 @@
 {
-  "ultima_coleta": "21/05/2026 14:02",
-  "total": 43,
+  "ultima_coleta": "22/05/2026 13:30",
+  "total": 45,
   "fontes": 18,
   "publicacoes": [
     {
-      "titulo": "Manaus Prefeitura de Manaus inicia intervenção viária na avenida Coronel Teixeira para obras do complexo viário ‘Passarão’",
+      "titulo": "Intervenção Prefeitura de Manaus recupera drenagem profunda no bairro Alvorada após fortes chuvas",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "21/05/2026",
+      "data": "22/05/2026",
       "impacto": "critico",
       "tags": [
         "critico"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/manaus/prefeitura-intervencao-passarao/",
-      "desc": "Manaus Prefeitura de Manaus inicia intervenção viária na avenida Coronel Teixeira para obras do complexo viário ‘Passarão’"
+      "url": "https://www.manaus.am.gov.br/noticia/intervencao/recuperacao-drenagem-profunda-4/",
+      "desc": "Intervenção Prefeitura de Manaus recupera drenagem profunda no bairro Alvorada após fortes chuvas"
+    },
+    {
+      "titulo": "Nota Prefeitura de Manaus informa interdição temporária da plataforma de ônibus Santos Dumont para avanço das obras da nova passarela 21/05/2026 16h20",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "22/05/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/nota/interdicao-temporaria-plataforma-de-onibus/",
+      "desc": "Nota Prefeitura de Manaus informa interdição temporária da plataforma de ônibus Santos Dumont para avanço das obras da nova passarela 21/05/2026 16h20"
     },
     {
       "titulo": "Licitações e Contratos",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "21/05/2026",
+      "data": "22/05/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -31,7 +43,7 @@
       "titulo": "MINUTAS DE CONTRATOS",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "21/05/2026",
+      "data": "22/05/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -43,7 +55,7 @@
       "titulo": "CONTRATOS DE PUBLICIDADE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "21/05/2026",
+      "data": "22/05/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -52,34 +64,10 @@
       "desc": "CONTRATOS DE PUBLICIDADE"
     },
     {
-      "titulo": "Fiscalização Prefeito Renato Junior fiscaliza obras da nova USF de Flores que será referência para mais de 66 mil famílias",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "21/05/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/fiscalizacao/fiscalizacao-obras-nova-usf-flores/",
-      "desc": "Fiscalização Prefeito Renato Junior fiscaliza obras da nova USF de Flores que será referência para mais de 66 mil famílias"
-    },
-    {
-      "titulo": "Fiscalização Ageman vistoria abastecimento irregular de água no conjunto Francisca Mendes 2 20/05/2026 16h42",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "21/05/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/fiscalizacao/vistoria-abastecimento-irregular-agua-conjunto-francisca-mendes-2/",
-      "desc": "Fiscalização Ageman vistoria abastecimento irregular de água no conjunto Francisca Mendes 2 20/05/2026 16h42"
-    },
-    {
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "21/05/2026",
+      "data": "22/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -88,49 +76,23 @@
       "desc": "DOU — Página verificada sem atos relevantes hoje."
     },
     {
-      "titulo": "DOE-AM — Gmail Imagens Fazer login No que você está pensando? Get help with learning, planning, writing, and more Transform your ideas into",
+      "titulo": "DOE-AM — Gmail Imagens Fazer login No que você está pensando? Fazer upload da imagem Fazer upload do arquivo Ferramentas 🍌 Criar imagens Mo",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "21/05/2026",
+      "data": "22/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
         "estadual"
       ],
       "url": "https://diario.imprensaoficial.am.gov.br/portal/edicoes/download/0",
-      "desc": "Gmail Imagens Fazer login No que você está pensando? Get help with learning, planning, writing, and more Transform your ideas into images Adicionar imagens Adicionar arquivos Ferramentas 🍌 Criar imagens Modo IA 🍌 Criar Remover Criar Imagens Ver mais Excluir Excluir Denunciar previsões inadequadas Disponibilizado pelo Google em: English Sobre Publicidade Negócios Como funciona a Pesquisa Privacidade Termos Configurações Configurações de Pesquisa Pesquisa avançada Seus dados na Pesquisa Histórico "
-    },
-    {
-      "titulo": "DOE-AM — Adicionar imagens Adicionar arquivos Ferramentas 🍌 Criar imagens Modo IA 🍌 Criar Remover Criar Imagens Ver mais Excluir Excluir De",
-      "orgao": "DOE-AM",
-      "tema": "Atos Oficiais Estaduais",
-      "data": "21/05/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo",
-        "estadual"
-      ],
-      "url": "https://diario.imprensaoficial.am.gov.br/portal/edicoes/download/0",
-      "desc": "Adicionar imagens Adicionar arquivos Ferramentas 🍌 Criar imagens Modo IA 🍌 Criar Remover Criar Imagens Ver mais Excluir Excluir Denunciar previsões inadequadas"
-    },
-    {
-      "titulo": "DOE-AM — Adicionar imagens Adicionar arquivos Ferramentas 🍌 Criar imagens",
-      "orgao": "DOE-AM",
-      "tema": "Atos Oficiais Estaduais",
-      "data": "21/05/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo",
-        "estadual"
-      ],
-      "url": "https://diario.imprensaoficial.am.gov.br/portal/edicoes/download/0",
-      "desc": "Adicionar imagens Adicionar arquivos Ferramentas 🍌 Criar imagens"
+      "desc": "Gmail Imagens Fazer login No que você está pensando? Fazer upload da imagem Fazer upload do arquivo Ferramentas 🍌 Criar imagens Modo IA 🍌 Criar Remover Criar Imagens Ver mais Excluir Excluir Denunciar previsões inadequadas Disponibilizado pelo Google em: English Sobre Publicidade Negócios Como funciona a Pesquisa Privacidade Termos Configurações Configurações de Pesquisa Pesquisa avançada Seus dados na Pesquisa Histórico de pesquisa Ajuda da pesquisa Enviar feedback Tema escuro: desativado"
     },
     {
       "titulo": "DOE-AM — Sobre Publicidade Negócios Como funciona a Pesquisa Privacidade Termos Configurações Configurações de Pesquisa Pesquisa avançada S",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "21/05/2026",
+      "data": "22/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -143,7 +105,7 @@
       "titulo": "DOE-AM — Sobre Publicidade Negócios Como funciona a Pesquisa",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "21/05/2026",
+      "data": "22/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -156,7 +118,7 @@
       "titulo": "ANEEL — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "21/05/2026",
+      "data": "22/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -168,7 +130,7 @@
       "titulo": "ANP — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "21/05/2026",
+      "data": "22/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -180,7 +142,7 @@
       "titulo": "ANA — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "21/05/2026",
+      "data": "22/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -192,7 +154,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "21/05/2026",
+      "data": "22/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -204,7 +166,7 @@
       "titulo": "ONS — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "21/05/2026",
+      "data": "22/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -216,7 +178,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "21/05/2026",
+      "data": "22/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -228,7 +190,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "21/05/2026",
+      "data": "22/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -240,7 +202,7 @@
       "titulo": "AmE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "21/05/2026",
+      "data": "22/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -252,7 +214,7 @@
       "titulo": "COGERAÇÃO DE ENERGIA",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "21/05/2026",
+      "data": "22/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -264,7 +226,7 @@
       "titulo": "GÁS RESIDENCIAL",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "21/05/2026",
+      "data": "22/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -273,10 +235,22 @@
       "desc": "GÁS RESIDENCIAL"
     },
     {
+      "titulo": "Cigás realiza visita técnica à Ciama para troca de experiências sobre controle interno, ética e ouvidoria",
+      "orgao": "Cigás",
+      "tema": "Gás Natural / AM",
+      "data": "22/05/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.cigas.com.br/post/cigás-realiza-visita-técnica-à-ciama-para-troca-de-experiências-sobre-controle-interno-ética-e-ouvi",
+      "desc": "Cigás realiza visita técnica à Ciama para troca de experiências sobre controle interno, ética e ouvidoria"
+    },
+    {
       "titulo": "Com apoio do Governo do Amazonas, “Amazônia das Palavras” percorre sete municípios do estado",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "21/05/2026",
+      "data": "22/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -288,7 +262,7 @@
       "titulo": "Centro de Controle Operacional da Cigás avança com geotecnologia e sistemas integrados",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "21/05/2026",
+      "data": "22/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -297,22 +271,10 @@
       "desc": "Centro de Controle Operacional da Cigás avança com geotecnologia e sistemas integrados"
     },
     {
-      "titulo": "Novo investimento da Cigás, City Gate Vila Buriti vai ampliar serviço público de distribuição de gás natural em Manaus",
-      "orgao": "Cigás",
-      "tema": "Gás Natural / AM",
-      "data": "21/05/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.cigas.com.br/post/novo-investimento-da-cigás-city-gate-vila-buriti-vai-ampliar-serviço-público-de-distribuição-de-gás",
-      "desc": "Novo investimento da Cigás, City Gate Vila Buriti vai ampliar serviço público de distribuição de gás natural em Manaus"
-    },
-    {
       "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "21/05/2026",
+      "data": "22/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -324,7 +286,7 @@
       "titulo": "SEMIG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "21/05/2026",
+      "data": "22/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -336,7 +298,7 @@
       "titulo": "SEFAZ-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "21/05/2026",
+      "data": "22/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -348,7 +310,7 @@
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "21/05/2026",
+      "data": "22/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -357,106 +319,154 @@
       "desc": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
-      "titulo": "Patrimônio Prefeitura embarga demolição irregular de imóvel no Centro Histórico de Manaus",
+      "titulo": "Destaque Samu Manaus conquista pela sexta vez selo máximo de qualidade no atendimento a casos de AVC",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "21/05/2026",
+      "data": "22/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/patrimonio/prefeitura-implurb-embargo-centro/",
-      "desc": "Patrimônio Prefeitura embarga demolição irregular de imóvel no Centro Histórico de Manaus"
+      "url": "https://www.manaus.am.gov.br/noticia/destaque/samu-manaus-selo-maximo-atendimento-casos-avc/",
+      "desc": "Destaque Samu Manaus conquista pela sexta vez selo máximo de qualidade no atendimento a casos de AVC"
     },
     {
-      "titulo": "Abastecimento Prefeitura de Manaus entrega mais de 7,5 toneladas de alimentos para 19 escolas do rio Amazonas",
+      "titulo": "Reconhecimento Moura Tapajóz é o único hospital do Amazonas a alcançar 100% de conformidade em Segurança do Paciente",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "21/05/2026",
+      "data": "22/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/abastecimento/toneladas-de-alimentos-para-19-escolas/",
-      "desc": "Abastecimento Prefeitura de Manaus entrega mais de 7,5 toneladas de alimentos para 19 escolas do rio Amazonas"
+      "url": "https://www.manaus.am.gov.br/noticia/reconhecimento/moura-tapajoz-unico-hospital-amazonas-seguranca-do-paciente/",
+      "desc": "Reconhecimento Moura Tapajóz é o único hospital do Amazonas a alcançar 100% de conformidade em Segurança do Paciente"
     },
     {
-      "titulo": "Eventos Manausprev leva educação financeira e previdenciária a estudantes de Direito em ação nacional 20/05/2026 17h00",
+      "titulo": "Eventos Prefeito Renato Junior confirma apoio à ‘Marcha para Jesus’ na edição de 40 anos em Manaus e fortalece compromisso com liberdade religiosa",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "21/05/2026",
+      "data": "22/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/eventos/manausprev-acao-nacional/",
-      "desc": "Eventos Manausprev leva educação financeira e previdenciária a estudantes de Direito em ação nacional 20/05/2026 17h00"
+      "url": "https://www.manaus.am.gov.br/noticia/eventos/apoio-a-marcha-para-jesus/",
+      "desc": "Eventos Prefeito Renato Junior confirma apoio à ‘Marcha para Jesus’ na edição de 40 anos em Manaus e fortalece compromisso com liberdade religiosa"
     },
     {
-      "titulo": "Nota Ronda Ostensiva Municipal detém indivíduo por tráfico de entorpecentes na zona Norte 20/05/2026 16h00",
+      "titulo": "Compromisso Prefeito Renato Junior atende pedido comunitário e determina construção de escada de acesso na zona Norte",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "21/05/2026",
+      "data": "22/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/nota/atuacao-ronda-ostensiva-municipal/",
-      "desc": "Nota Ronda Ostensiva Municipal detém indivíduo por tráfico de entorpecentes na zona Norte 20/05/2026 16h00"
+      "url": "https://www.manaus.am.gov.br/noticia/compromisso/construcao-de-escada-de-acesso-na-zona-norte/",
+      "desc": "Compromisso Prefeito Renato Junior atende pedido comunitário e determina construção de escada de acesso na zona Norte"
     },
     {
-      "titulo": "Reunião Prefeitura de Manaus e CGU Regional no Amazonas reafirmam parceria para fortalecer controle social por meio da Ouvidoria-Geral 20/05/2026 14h28",
+      "titulo": "Infraestrutura Prefeitura de Manaus intensifica recuperação de drenagem no centro histórico após fortes chuvas e reforça combate ao descarte irregular de lixo 21/05/2026 19h02",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "21/05/2026",
+      "data": "22/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/reuniao/parceria-ouvidoria-geral-e-cgu-regional-am/",
-      "desc": "Reunião Prefeitura de Manaus e CGU Regional no Amazonas reafirmam parceria para fortalecer controle social por meio da Ouvidoria-Geral 20/05/2026 14h28"
+      "url": "https://www.manaus.am.gov.br/noticia/infraestrutura/recuperacao-de-drenagem-no-centro-historico/",
+      "desc": "Infraestrutura Prefeitura de Manaus intensifica recuperação de drenagem no centro histórico após fortes chuvas e reforça combate ao descarte irregular de lixo 21/05/2026 19h02"
     },
     {
-      "titulo": "Integração Prefeitura de Manaus compartilha experiências em mesas de negociação do SUS em evento em São Paulo 20/05/2026 13h45",
+      "titulo": "Serviços Prefeitura de Manaus recupera galeria subterrânea no bairro São José Operário e reforça segurança na região 21/05/2026 18h49",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "21/05/2026",
+      "data": "22/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/integracao/prefeitura-semsa-encontro-nacional-das-mesas-de-negociacao-permanente-do-sus/",
-      "desc": "Integração Prefeitura de Manaus compartilha experiências em mesas de negociação do SUS em evento em São Paulo 20/05/2026 13h45"
+      "url": "https://www.manaus.am.gov.br/noticia/servicos/recuperacao-galeria-subterranea-2/",
+      "desc": "Serviços Prefeitura de Manaus recupera galeria subterrânea no bairro São José Operário e reforça segurança na região 21/05/2026 18h49"
     },
     {
-      "titulo": "Oportunidade Sine Manaus oferta 519 vagas de emprego nesta quinta–feira, 21/5 20/05/2026 13h29",
+      "titulo": "Infraestrutura Prefeitura de Manaus intensifica recuperação asfáltica na avenida Comendador José Cruz e transforma mobilidade no Lago Azul 21/05/2026 18h13",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "21/05/2026",
+      "data": "22/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/oportunidade/prefeitura-semtepi-sine-manaus-vagas2105/",
-      "desc": "Oportunidade Sine Manaus oferta 519 vagas de emprego nesta quinta–feira, 21/5 20/05/2026 13h29"
+      "url": "https://www.manaus.am.gov.br/noticia/infraestrutura/recuperacao-asfaltica-lago-azul/",
+      "desc": "Infraestrutura Prefeitura de Manaus intensifica recuperação asfáltica na avenida Comendador José Cruz e transforma mobilidade no Lago Azul 21/05/2026 18h13"
     },
     {
-      "titulo": "Conscientização Estudantes da Prefeitura de Manaus vivenciam experiência ambiental e deixam legado sustentável no Instituto Soka Amazônia 20/05/2026 11h41",
+      "titulo": "Ação Prefeitura de Manaus intensifica recuperação asfáltica no ramal Chico Mendes e garante mais mobilidade no Puraquequara 21/05/2026 17h43",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "21/05/2026",
+      "data": "22/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/conscientizacao/prefeitura-semed-experiencia-ambiental-visitasoka/",
-      "desc": "Conscientização Estudantes da Prefeitura de Manaus vivenciam experiência ambiental e deixam legado sustentável no Instituto Soka Amazônia 20/05/2026 11h41"
+      "url": "https://www.manaus.am.gov.br/noticia/acao/recuperacao-asfaltica-ramal-chico-mendes/",
+      "desc": "Ação Prefeitura de Manaus intensifica recuperação asfáltica no ramal Chico Mendes e garante mais mobilidade no Puraquequara 21/05/2026 17h43"
+    },
+    {
+      "titulo": "Atenção primária Profissionais de saúde da prefeitura orientam para prevenção e controle da hipertensão arterial 21/05/2026 17h04",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "22/05/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/atencao-primaria/prevencao-e-controle-da-hipertensao-arterial/",
+      "desc": "Atenção primária Profissionais de saúde da prefeitura orientam para prevenção e controle da hipertensão arterial 21/05/2026 17h04"
+    },
+    {
+      "titulo": "Nota Prefeitura de Manaus altera itinerários de ônibus durante festejo de santa Rita de Cássia no bairro Cachoeirinha 21/05/2026 16h53",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "22/05/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/nota/itinerarios-onibus-festejo-santa-rita-de-cassia/",
+      "desc": "Nota Prefeitura de Manaus altera itinerários de ônibus durante festejo de santa Rita de Cássia no bairro Cachoeirinha 21/05/2026 16h53"
+    },
+    {
+      "titulo": "Destaque Prefeitura de Manaus tem pesquisa sobre mobilidade urbana publicada em congresso internacional 21/05/2026 16h31",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "22/05/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/destaque/pesquisa-mobilidade-urbana-publicada-congresso-internacional/",
+      "desc": "Destaque Prefeitura de Manaus tem pesquisa sobre mobilidade urbana publicada em congresso internacional 21/05/2026 16h31"
+    },
+    {
+      "titulo": "Atividades Prefeitura de Manaus promove integração e lazer para idosas em visita ao Musa 21/05/2026 16h05",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "22/05/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/atividades/integracao-lazer-idosas-musa/",
+      "desc": "Atividades Prefeitura de Manaus promove integração e lazer para idosas em visita ao Musa 21/05/2026 16h05"
     },
     {
       "titulo": "IMMU — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "21/05/2026",
+      "data": "22/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -468,7 +478,7 @@
       "titulo": "Obras Prefeitura de Manaus chega quase à metade da execução da cúpula da Oca Niemeyer no parque Encontro das Águas Rosa Almeida",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "21/05/2026",
+      "data": "22/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -480,7 +490,7 @@
       "titulo": "Turismo Prefeitura acelera obras do parque Encontro das Águas Rosa Almeida e consolida novo cartão-postal de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "21/05/2026",
+      "data": "22/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -492,7 +502,7 @@
       "titulo": "Manaus Prefeitura conclui etapa de contenção no parque Encontro das Águas Rosa Almeida com mais de 260 estacas",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "21/05/2026",
+      "data": "22/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -504,7 +514,7 @@
       "titulo": "Obras Prefeitura de Manaus avança em obras de engenharia e na Oca Niemeyer no parque Encontro das Águas Rosa Almeida",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "21/05/2026",
+      "data": "22/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -513,16 +523,28 @@
       "desc": "Obras Prefeitura de Manaus avança em obras de engenharia e na Oca Niemeyer no parque Encontro das Águas Rosa Almeida"
     },
     {
-      "titulo": "Ação Conjunta Prefeitura de Manaus embarga obra de faculdade que causou cratera em rua do bairro Nossa Senhora das Graças",
+      "titulo": "Licenciamento Prefeitura de Manaus registra alta de 6% em área regularizada com Habite-se no primeiro quadrimestre de 2026",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "21/05/2026",
+      "data": "22/05/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/implurb/embarga-obra-manaus/",
-      "desc": "Ação Conjunta Prefeitura de Manaus embarga obra de faculdade que causou cratera em rua do bairro Nossa Senhora das Graças"
+      "url": "https://www.manaus.am.gov.br/implurb/prefeitura-implurb-habite-se-4/",
+      "desc": "Licenciamento Prefeitura de Manaus registra alta de 6% em área regularizada com Habite-se no primeiro quadrimestre de 2026"
+    },
+    {
+      "titulo": "Patrimônio Prefeitura embarga demolição irregular de imóvel no Centro Histórico de Manaus",
+      "orgao": "Implurb",
+      "tema": "Planejamento Urbano",
+      "data": "22/05/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/implurb/prefeitura-implurb-embarga-centro/",
+      "desc": "Patrimônio Prefeitura embarga demolição irregular de imóvel no Centro Histórico de Manaus"
     }
   ]
 }
