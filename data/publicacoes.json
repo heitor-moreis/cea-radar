@@ -1,37 +1,205 @@
 {
-  "ultima_coleta": "23/06/2026 13:48",
-  "total": 63,
+  "ultima_coleta": "24/06/2026 13:21",
+  "total": 145,
   "fontes": 18,
   "publicacoes": [
     {
-      "titulo": "Intervenção Prefeitura de Manaus avança com obra de contenção de erosão e reforça segurança no bairro São José Operário 22/06/2026 18h59",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "23/06/2026",
+      "titulo": "DECRETO ESTADUAL N.º 42.916 – 23.10.2020",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
       "impacto": "critico",
       "tags": [
         "critico"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/intervencao/obra-de-contencao-de-erosao/",
-      "desc": "Intervenção Prefeitura de Manaus avança com obra de contenção de erosão e reforça segurança no bairro São José Operário 22/06/2026 18h59"
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2022/07/Estatuto-da-ARSEPAM-aprovado-em-2020-1-2.pdf",
+      "desc": "DECRETO ESTADUAL N.º 42.916 – 23.10.2020"
     },
     {
-      "titulo": "Intervenção Prefeitura de Manaus atua com recuperação de galeria subterrânea no bairro Planalto, zona Centro-Oeste 22/06/2026 18h14",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "23/06/2026",
+      "titulo": "DECRETO FEDERAL Nº 7.382 – 02.12.2010 – Regulamenta os Capítulos I a VII e VIII da Lei Nº 11.909 de 2009",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
       "impacto": "critico",
       "tags": [
         "critico"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/intervencao/recuperacao-de-galeria-subterranea-planalto/",
-      "desc": "Intervenção Prefeitura de Manaus atua com recuperação de galeria subterrânea no bairro Planalto, zona Centro-Oeste 22/06/2026 18h14"
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2021/06/DECRETO-FEDERAL-No-7.382-02.12.2010-Regulamenta-os-Capitulos-I-a-VII-e-VIII-da-Lei-No-11.909-de-2009.pdf",
+      "desc": "DECRETO FEDERAL Nº 7.382 – 02.12.2010 – Regulamenta os Capítulos I a VII e VIII da Lei Nº 11.909 de 2009"
+    },
+    {
+      "titulo": "CONTRATO DE CONCESSÃO CIGÁS – 18.11.2002 – Contrato de concessão para a exploração de serviços públicos de gás entre o Estado do Amazonas e a Cigás",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2023/01/Contrato-de-concessao-CIGAS.pdf",
+      "desc": "CONTRATO DE CONCESSÃO CIGÁS – 18.11.2002 – Contrato de concessão para a exploração de serviços públicos de gás entre o Estado do Amazonas e a Cigás"
+    },
+    {
+      "titulo": "DECRETO Nº 42.500 – 14.07.2020",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2021/06/DECRETO-No-42.500-14.07.2020-Dispoe-sobre-medidas-para-autorizacao-do-servico-de-transporte-hidroviario-intermunicipal-no-Amazonas.pdf",
+      "desc": "DECRETO Nº 42.500 – 14.07.2020"
+    },
+    {
+      "titulo": "DECRETO N° 45.110 – 14.01.2022",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2022/02/diario_am_2022-01-14_completo-1.pdf",
+      "desc": "DECRETO N° 45.110 – 14.01.2022"
+    },
+    {
+      "titulo": "PORTARIA N. 003.2021 – 34441 – Concessão de Gratificação Técnico-Administrativa a servidores 220121",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2021/07/PORTARIA-N.-003.2021-34441-Concessao-de-Gratificacao-Tecnico-Administrativa-a-servidores-220121.pdf",
+      "desc": "PORTARIA N. 003.2021 – 34441 – Concessão de Gratificação Técnico-Administrativa a servidores 220121"
+    },
+    {
+      "titulo": "DECRETO Nº 42.185 – 14.04.2020- Atualiza as medidas complementares temporárias, para enfrentamento da emergência de saúde pública",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2021/06/DECRETO-No-42.185-14.04.2020-Atualiza-as-medidas-complementares-temporarias-para-enfrentamento-da-emergencia-de-saude-publica.pdf",
+      "desc": "DECRETO Nº 42.185 – 14.04.2020- Atualiza as medidas complementares temporárias, para enfrentamento da emergência de saúde pública"
+    },
+    {
+      "titulo": "DECRETO Nº 42.158 – 04.04.2020- Atualiza as medidas complementares temporárias, para enfrentamento da emergência de saúde pública",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2021/06/DECRETO-No-42.158-04.04.2020-Atualiza-as-medidas-complementares-temporarias-para-enfrentamento-da-emergencia-de-saude-publica.pdf",
+      "desc": "DECRETO Nº 42.158 – 04.04.2020- Atualiza as medidas complementares temporárias, para enfrentamento da emergência de saúde pública"
+    },
+    {
+      "titulo": "DECRETO Nº 42.145 – 31.03.2020-Prorroga a suspensão das atividades que especifica, no âmbito do Estado do Amazonas",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2021/06/DECRETO-No-42.145-31.03.2020-Prorroga-a-suspensao-das-atividades-que-especifica-no-ambito-do-Estado-do-Amazonas.pdf",
+      "desc": "DECRETO Nº 42.145 – 31.03.2020-Prorroga a suspensão das atividades que especifica, no âmbito do Estado do Amazonas"
+    },
+    {
+      "titulo": "DECRETO Nº 42. 303 – 20.05.2020 – Revoga o Art 7° do Decreto N° 42.278 de 13 de maio de 2020",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2021/06/DECRETO-No-42.-303-20.05.2020-Revoga-o-Art-7°-do-Decreto-N°-42.278-de-13-de-maio-de-2020.pdf",
+      "desc": "DECRETO Nº 42. 303 – 20.05.2020 – Revoga o Art 7° do Decreto N° 42.278 de 13 de maio de 2020"
+    },
+    {
+      "titulo": "DECRETO Nº 42.330 – 28.05.2020 – Suspensão do funcionamento de estabelecimentos comerciais, serviços não essenciais, transporte fluvial, dentre outros",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2021/06/DECRETO-No-42.330-28.05.2020-Suspensao-do-funcionamento-de-estabelecimentos-comerciais-servicos-nao-essenciais-transporte-fluvial-dentre-outros.pdf",
+      "desc": "DECRETO Nº 42.330 – 28.05.2020 – Suspensão do funcionamento de estabelecimentos comerciais, serviços não essenciais, transporte fluvial, dentre outros"
+    },
+    {
+      "titulo": "DECRETO N° 42. 087 – 19.03.2020 – Dispõe sobre a susoensão o transporte fluvial de passageiros em embarcações- exceto urgências",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2021/06/DECRETO-N°-42.-087-19.03.2020-Dispoe-sobre-a-susoensao-o-transporte-fluvial-de-passageiros-em-embarcacoes-exceto-urgencias.pdf",
+      "desc": "DECRETO N° 42. 087 – 19.03.2020 – Dispõe sobre a susoensão o transporte fluvial de passageiros em embarcações- exceto urgências"
+    },
+    {
+      "titulo": "DECRETO N° 42. 216-20.04.2020- Prorroga a suspensão de funcionamento de todos os estabelecimentos comerciais e da outras providenci",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2021/06/DECRETO-N°-42.-216-20.04.2020-Prorroga-a-suspensao-de-funcionamento-de-todos-os-estabelecimentos-comerciais-e-da-outras-providenci.pdf",
+      "desc": "DECRETO N° 42. 216-20.04.2020- Prorroga a suspensão de funcionamento de todos os estabelecimentos comerciais e da outras providenci"
+    },
+    {
+      "titulo": "DECRETO N° 42. 247 – 30.05.2020 – Prorroga até 13 de maio de 2020 a suspensão do funcionamento de estabelecimentos comerciais e de serviços não essenciais",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2021/06/DECRETO-N°-42.-247-30.05.2020-Prorroga-ate-13-de-maio-de-2020-a-suspensao-do-funcionamento-de-estabelecimentos-comerciais-e-de-servicos-nao-essenciais.pdf",
+      "desc": "DECRETO N° 42. 247 – 30.05.2020 – Prorroga até 13 de maio de 2020 a suspensão do funcionamento de estabelecimentos comerciais e de serviços não essenciais"
+    },
+    {
+      "titulo": "DECRETO N° 42.098 – 20.03.2020- Dispõe sobre medidas complementares temporárias, para enfrentamento da emergência de saúde pública",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2021/06/DECRETO-N°-42.098-20.03.2020-Dispoe-sobre-medidas-complementares-temporarias-para-enfrentamento-da-emergencia-de-saude-publica.pdf",
+      "desc": "DECRETO N° 42.098 – 20.03.2020- Dispõe sobre medidas complementares temporárias, para enfrentamento da emergência de saúde pública"
+    },
+    {
+      "titulo": "DECRETO N°42. 278 – 13.05.2020 – Prorroga até 31 de maio de 2020 a suspensão do funcionamento de estabelecimentos comerciais e de serviços não essenciais",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2021/06/DECRETO-N°42.-278-13.05.2020-Prorroga-ate-31-de-maio-de-2020-a-suspensao-do-funcionamento-de-estabelecimentos-comerciais-e-de-servicos-nao-essenciais.pdf",
+      "desc": "DECRETO N°42. 278 – 13.05.2020 – Prorroga até 31 de maio de 2020 a suspensão do funcionamento de estabelecimentos comerciais e de serviços não essenciais"
     },
     {
       "titulo": "Licitações e Contratos",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -43,7 +211,7 @@
       "titulo": "MINUTAS DE CONTRATOS",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -55,7 +223,7 @@
       "titulo": "CONTRATOS DE PUBLICIDADE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -64,22 +232,682 @@
       "desc": "CONTRATOS DE PUBLICIDADE"
     },
     {
-      "titulo": "Vigilância Sanitária Fiscalização da Visa Manaus interdita açougue na zona Oeste por irregularidades sanitárias 22/06/2026 16h19",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "23/06/2026",
+      "titulo": "RESOLUÇÃO Nº 008/2023 – CERCON/ARSEPAM",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
       "impacto": "alto",
       "tags": [
         "alto"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/vigilancia-sanitaria/visa-manaus-interdita-acougue-na-zona-oeste/",
-      "desc": "Vigilância Sanitária Fiscalização da Visa Manaus interdita açougue na zona Oeste por irregularidades sanitárias 22/06/2026 16h19"
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2023/11/Paginas-de-diario_am_2023-11-16_versao_1_1.pdf",
+      "desc": "RESOLUÇÃO Nº 008/2023 – CERCON/ARSEPAM"
+    },
+    {
+      "titulo": "RESOLUÇÃO Nº 004.2019 – ARSAM. CERCON.IPEM –",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2021/07/RESOLUCAO-No-004.2019-ARSAM.-CERCON.IPEM_.pdf",
+      "desc": "RESOLUÇÃO Nº 004.2019 – ARSAM. CERCON.IPEM –"
+    },
+    {
+      "titulo": "RESOLUÇÃO N° 003/2022 – CERCON/ARSEPAM –",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2022/07/Resolucao-no-003.2022-CERCON.ARSEPAM-1.pdf",
+      "desc": "RESOLUÇÃO N° 003/2022 – CERCON/ARSEPAM –"
+    },
+    {
+      "titulo": "RESOLUÇÃO Nº 003/2023 – CERCON/ARSEPAM –",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2023/06/Resolucao-003-2023-arsepam.pdf",
+      "desc": "RESOLUÇÃO Nº 003/2023 – CERCON/ARSEPAM –"
+    },
+    {
+      "titulo": "RESOLUÇÃO Nº 004/2023 – CERCON/ARSEPAM –",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2023/08/RESOLUCAO-N.o-0042023-CERCONARSEPAM.pdf",
+      "desc": "RESOLUÇÃO Nº 004/2023 – CERCON/ARSEPAM –"
+    },
+    {
+      "titulo": "RESOLUÇÃO Nº 005/2023 – CERCON/ARSEPAM –",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2023/08/RESOLUCAO-0052023-CERCONARSEPAM.pdf",
+      "desc": "RESOLUÇÃO Nº 005/2023 – CERCON/ARSEPAM –"
+    },
+    {
+      "titulo": "RESOLUÇÃO Nº 004/2024 – CERCON/ARSEPAM/IPEM",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2024/07/RESOLUCAO-N°-004-2024-ARSEPAM-CERCON-IPEM-DOE.pdf",
+      "desc": "RESOLUÇÃO Nº 004/2024 – CERCON/ARSEPAM/IPEM"
+    },
+    {
+      "titulo": "Resolução N° 005/2024 CERCON / ARSEPAM",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2024/09/RESOLUCAO-005.2024-CERCON.ARSEPAM.pdf",
+      "desc": "Resolução N° 005/2024 CERCON / ARSEPAM"
+    },
+    {
+      "titulo": "RESOLUÇÃO Nº 003/2026 – CERCON/ARSEPAM –",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2026/06/RESOLUCAO-No-003-2026-CERCON-ARSEPAM.pdf",
+      "desc": "RESOLUÇÃO Nº 003/2026 – CERCON/ARSEPAM –"
+    },
+    {
+      "titulo": "EXTRATO DA MINUTA PADRÃO DO CONTRATO DE PRESTAÇÃO DE SERVIÇO DE MOVIMENTAÇÃO DE GÁS.",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2024/05/Extrato-da-Minuta-Padrao-do-Contrato-de-Prestacao-de-Servico-de-Movimentacao-de-Gas.-2.pdf",
+      "desc": "EXTRATO DA MINUTA PADRÃO DO CONTRATO DE PRESTAÇÃO DE SERVIÇO DE MOVIMENTAÇÃO DE GÁS."
+    },
+    {
+      "titulo": "MINUTA PADRÃO DO CONTRATO DE PRESTAÇÃO DE SERVIÇO DE MOVIMENTAÇÃO DE GÁS.",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2026/05/01.05.016509.000009_2026_81_Anexo-4.pdf",
+      "desc": "MINUTA PADRÃO DO CONTRATO DE PRESTAÇÃO DE SERVIÇO DE MOVIMENTAÇÃO DE GÁS."
+    },
+    {
+      "titulo": "EXTRATO DA MINUTA PADRÃO DO CONTRATO DE OPERAÇÃO E MANUTENÇÃO REFERENTE AO SERVIÇO DE MOVIMENTAÇÃO DE GÁS.",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2024/05/Extrato-da-Minuta-Padrao-do-Contrato-de-Operacao-e-Manutencao-Referente-ao-Servico-de-Movimentacao-de-Gas.-2.pdf",
+      "desc": "EXTRATO DA MINUTA PADRÃO DO CONTRATO DE OPERAÇÃO E MANUTENÇÃO REFERENTE AO SERVIÇO DE MOVIMENTAÇÃO DE GÁS."
+    },
+    {
+      "titulo": "MINUTA PADRÃO DO CONTRATO DE OPERAÇÃO E MANUTENÇÃO REFERENTE AO SERVIÇO DE MOVIMENTAÇÃO DE GÁS.",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2026/05/01.05.016509.000009_2026_81_Anexo-2.pdf",
+      "desc": "MINUTA PADRÃO DO CONTRATO DE OPERAÇÃO E MANUTENÇÃO REFERENTE AO SERVIÇO DE MOVIMENTAÇÃO DE GÁS."
+    },
+    {
+      "titulo": "PORTARIA 171/2024 – GDP/ARSEPAM –",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2024/12/PORTARIA-COMERCIALIZADOR-PETROBRAS-1.pdf",
+      "desc": "PORTARIA 171/2024 – GDP/ARSEPAM –"
+    },
+    {
+      "titulo": "PORTARIA Nº 170/2024 – GDP/ARSEPAM – Dispõe sobre o deferimento do enquadramento como Consumidor Livre à Companhia Energética Amazonense – CEA S.A. no Estado do Amazonas.",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2024/12/PORTARIA-CONSUMIDOR-LIVRE-CEA.pdf",
+      "desc": "PORTARIA Nº 170/2024 – GDP/ARSEPAM – Dispõe sobre o deferimento do enquadramento como Consumidor Livre à Companhia Energética Amazonense – CEA S.A. no Estado do Amazonas."
+    },
+    {
+      "titulo": "NOTA TÉCNICA Nº 002/2024 – DERE/ DTEC/ ARSEPAM – Solicitação de enquadramento como Consumidor Livre de gás natural da Companhia Energética Amazonense S.A.",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2024/12/01.06.011209.001440_2023_07_Nota_Tecnica.pdf",
+      "desc": "NOTA TÉCNICA Nº 002/2024 – DERE/ DTEC/ ARSEPAM – Solicitação de enquadramento como Consumidor Livre de gás natural da Companhia Energética Amazonense S.A."
+    },
+    {
+      "titulo": "https://www.cigas-am.com.br/tabela-tarifaria",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.cigas.com.br/tabela-tarifaria",
+      "desc": "https://www.cigas-am.com.br/tabela-tarifaria"
+    },
+    {
+      "titulo": "Resolução nº 001.2017 – CERCON",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2021/07/Resolucao-no-001.2017-CERCON.pdf",
+      "desc": "Resolução nº 001.2017 – CERCON"
+    },
+    {
+      "titulo": "Resolução nº 002.2018 – CERCON",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2021/07/Resolucao-no-002.2018-CERCON.pdf",
+      "desc": "Resolução nº 002.2018 – CERCON"
+    },
+    {
+      "titulo": "RESOLUÇÃO Nº 05 – 19.06.2018 – Institui o serviço de transporte semiurbano intermunicipal",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2021/06/3o-RESOLUCAO-CERCON-No-05-19.06.2018-Institui-o-servico-de-transporte-semiurbano-intermunicipal.pdf",
+      "desc": "RESOLUÇÃO Nº 05 – 19.06.2018 – Institui o serviço de transporte semiurbano intermunicipal"
+    },
+    {
+      "titulo": "RESOLUÇÃO Nº 01 – 26.01.2018 – Reajuste tarifário transporte rodoviário intermunicipal de passageiros regular",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2021/06/RESOLUCAO-No-01-26.01.2018-Reajuste-tarifario-transporte-rodoviario-intermunicipal-de-passageiros-regular.pdf",
+      "desc": "RESOLUÇÃO Nº 01 – 26.01.2018 – Reajuste tarifário transporte rodoviário intermunicipal de passageiros regular"
+    },
+    {
+      "titulo": "RESOLUÇÃO Nº 010 – 27.12.2018 – Reajuste tarifário transporte rodoviário intermunicipal semiurbano",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2021/06/RESOLUCAO-No-010-27.12.2018-Reajuste-tarifario-transporte-rodoviario-intermunicipal-semiurbano.pdf",
+      "desc": "RESOLUÇÃO Nº 010 – 27.12.2018 – Reajuste tarifário transporte rodoviário intermunicipal semiurbano"
+    },
+    {
+      "titulo": "RESOLUÇÃO Nº 05 – 06.08.2019 – Passe Legal Intermunicipal",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2021/06/RESOLUCAO-CERCON-No-05-06.08.2019-Passe-Legal-Intermunicipal.pdf",
+      "desc": "RESOLUÇÃO Nº 05 – 06.08.2019 – Passe Legal Intermunicipal"
+    },
+    {
+      "titulo": "RESOLUÇÃO Nº 02 – 07.03.2019 – Cadastro obrigatório crianças e adolescentes",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2021/06/RESOLUCAO-CERCON-No-02-07.03.2019-Cadastro-obrigatorio-criancas-e-adolescentes.pdf",
+      "desc": "RESOLUÇÃO Nº 02 – 07.03.2019 – Cadastro obrigatório crianças e adolescentes"
+    },
+    {
+      "titulo": "RESOLUÇÃO Nº 06 – 31.12.2019 – Coeficiente tarifário médio de transporte rodoviário intermunicipal para cálculo de penas pecuniárias",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2021/06/RESOLUCAO-No-06-31.12.2019-Coeficiente-tarifario-medio-de-transporte-rodoviario-intermunicipal-para-calculo-de-penas-pecuniarias.pdf",
+      "desc": "RESOLUÇÃO Nº 06 – 31.12.2019 – Coeficiente tarifário médio de transporte rodoviário intermunicipal para cálculo de penas pecuniárias"
+    },
+    {
+      "titulo": "RESOLUÇÃO N˚ 002/2021 – CERCON/ARSEPAM",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2021/09/Resolucao-N˚-0022021-CERCONARSEPAM.pdf",
+      "desc": "RESOLUÇÃO N˚ 002/2021 – CERCON/ARSEPAM"
+    },
+    {
+      "titulo": "RESOLUÇÃO N˚ 003/2021 – CERCON/ARSEPAM – Prorrogação dos efeitos do art. 4º da Resolução n.º002/2021",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2021/12/RESOLUCAO-N-003-PRORROGACAO-LIT.pdf",
+      "desc": "RESOLUÇÃO N˚ 003/2021 – CERCON/ARSEPAM – Prorrogação dos efeitos do art. 4º da Resolução n.º002/2021"
+    },
+    {
+      "titulo": "RESOLUÇÃO N˚ 004/2021 – CERCON/ARSEPAM – Identidade visual dos veículos autorizados à prestação dos Serviços de Transporte Rodoviário Intermunicipal de Passageiros do Estado do Ama",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2021/12/RESOLUCAO-N-004.2021-IDENTIDADE-VISUAL-1-mesclado.pdf",
+      "desc": "RESOLUÇÃO N˚ 004/2021 – CERCON/ARSEPAM – Identidade visual dos veículos autorizados à prestação dos Serviços de Transporte Rodoviário Intermunicipal de Passageiros do Estado do Amazonas"
+    },
+    {
+      "titulo": "RESOLUÇÃO N° 001/2022 – CERCON/ARSEPAM – Os artigos 2º, 3º e 4º da Resolução n.º 002/2021 – CERCON/ARSEPAM, de 31 de agosto de 2021, passam a vigorar com as seguintes alterações",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2022/03/RESOLUÇÃO-0012022-PUBLICADA-1.pdf",
+      "desc": "RESOLUÇÃO N° 001/2022 – CERCON/ARSEPAM – Os artigos 2º, 3º e 4º da Resolução n.º 002/2021 – CERCON/ARSEPAM, de 31 de agosto de 2021, passam a vigorar com as seguintes alterações"
+    },
+    {
+      "titulo": "RESOLUÇÃO Nº 002/2022 – CERCON/ARSEPAM – ALTERA A RESOLUÇÃO N° 002/2021 – CERCON/ARSEPAM, DE 31 DE AGOSTO DE 2021, E DÁ OUTRAS PROVIDÊNCIAS",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2022/10/RESOLUCAO-n.002-2022-CERCON-ARSEPAM-1.pdf",
+      "desc": "RESOLUÇÃO Nº 002/2022 – CERCON/ARSEPAM – ALTERA A RESOLUÇÃO N° 002/2021 – CERCON/ARSEPAM, DE 31 DE AGOSTO DE 2021, E DÁ OUTRAS PROVIDÊNCIAS"
+    },
+    {
+      "titulo": "RESOLUÇÃO Nº 001/2023 – CERCON/ARSEPAM – REVOGA A RESOLUÇÃO Nº 007/2020- CERCON/ARSEPAM E DÁ OUTRAS PROVIDÊNCIAS",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2023/02/Resolucao-Cercon-01-0023.pdf",
+      "desc": "RESOLUÇÃO Nº 001/2023 – CERCON/ARSEPAM – REVOGA A RESOLUÇÃO Nº 007/2020- CERCON/ARSEPAM E DÁ OUTRAS PROVIDÊNCIAS"
+    },
+    {
+      "titulo": "RESOLUÇÃO Nº 002/2023 – CERCON/ARSEPAM – ESTABELECE O REAJUSTE SOBRE OS VALORES DAS TARIFAS DO SERVIÇO PÚBLICO DE TRANSPORTE RODOVIÁRIO INTERMUNICIPAL COLETIVO DE PASSAGEIROS DO ES",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2023/03/RESOLUCAO-No-002-2023-CERCON-ARSEPAM.pdf",
+      "desc": "RESOLUÇÃO Nº 002/2023 – CERCON/ARSEPAM – ESTABELECE O REAJUSTE SOBRE OS VALORES DAS TARIFAS DO SERVIÇO PÚBLICO DE TRANSPORTE RODOVIÁRIO INTERMUNICIPAL COLETIVO DE PASSAGEIROS DO ESTADO DO AMAZONAS"
+    },
+    {
+      "titulo": "RESOLUÇÃO Nº 006/2023-CERCON/ARSEPAM – ALTERA A RESOLUÇÃO Nº 005/2020-CERCON/ARSEPAM, QUE DISPÕE SOBRE OS PROCEDIMENTOS A SEREM OBSERVADOS PARA OS SERVIÇOS DE TRANSPORTE RODOVIÁRIO",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2023/10/Resolucao-n.-006-2023-CERCON-ARSEPAM-2.pdf",
+      "desc": "RESOLUÇÃO Nº 006/2023-CERCON/ARSEPAM – ALTERA A RESOLUÇÃO Nº 005/2020-CERCON/ARSEPAM, QUE DISPÕE SOBRE OS PROCEDIMENTOS A SEREM OBSERVADOS PARA OS SERVIÇOS DE TRANSPORTE RODOVIÁRIO INTERMUNICIPAL DE PASSAGEIROS POR FRETAMENTO DO ESTADO DO AMAZONAS."
+    },
+    {
+      "titulo": "RESOLUÇÃO Nº 001/2024 – CERCON/ARSEPAM – DISPÕE SOBRE OS PROCEDIMENTOS DE APURAÇÃO E APLICAÇÃO DE PENALIDADES AOS PRESTADORES DO SERVIÇO PÚBLICO DE TRANSPORTE RODOVIÁRIO INTERMUNIC",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2024/03/RESOLUCAO-No-001.2024-–-CERCON.ARSEPAM-DOE-1.pdf",
+      "desc": "RESOLUÇÃO Nº 001/2024 – CERCON/ARSEPAM – DISPÕE SOBRE OS PROCEDIMENTOS DE APURAÇÃO E APLICAÇÃO DE PENALIDADES AOS PRESTADORES DO SERVIÇO PÚBLICO DE TRANSPORTE RODOVIÁRIO INTERMUNICIPAL COLETIVO DE PASSAGEIROS DO ESTADO DO AMAZONAS."
+    },
+    {
+      "titulo": "RESOLUÇÃO Nº 003/2024 – CERCON/ARSEPAM – DISPÕE SOBRE O TRANSPORTE DE ANIMAIS DOMÉSTICOS, CÃES-GUIA E ANIMAIS DE ASSISTÊNCIA EMOCIONAL EM VEÍCULOS QUE REALIZAM SERVIÇO DE TRANSPORT",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2024/06/RESOLUCAO-No-003-2024-CERCON-ARSEPAM.pdf",
+      "desc": "RESOLUÇÃO Nº 003/2024 – CERCON/ARSEPAM – DISPÕE SOBRE O TRANSPORTE DE ANIMAIS DOMÉSTICOS, CÃES-GUIA E ANIMAIS DE ASSISTÊNCIA EMOCIONAL EM VEÍCULOS QUE REALIZAM SERVIÇO DE TRANSPORTE RODOVIÁRIO INTERMUNICIPAL COLETIVO DE PASSAGEIROS DO ESTADO DO AMAZONAS."
+    },
+    {
+      "titulo": "RESOLUÇÃO Nº 006/2024 – CERCON/ARSEPAM – Dispõe sobre critérios para o cadastro/ recadastro e autorização dos serviços de transporte rodoviário intermunicipal de passageiros do",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2024/12/MEMO_N_067_2024_DETR_ARSEPAM_Publicacao_no_DOE.pdf",
+      "desc": "RESOLUÇÃO Nº 006/2024 – CERCON/ARSEPAM – Dispõe sobre critérios para o cadastro/ recadastro e autorização dos serviços de transporte rodoviário intermunicipal de passageiros do"
+    },
+    {
+      "titulo": "RESOLUÇÃO Nº 001/20255 – CERCON/ARSEPAM – Dispõe sobre a identidade visual dos",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2025/04/MEMO_N_007_2025_DETR_ARSEPAM_Publicacao_no_DOE-2.pdf",
+      "desc": "RESOLUÇÃO Nº 001/20255 – CERCON/ARSEPAM – Dispõe sobre a identidade visual dos"
+    },
+    {
+      "titulo": "RESOLUÇÃO Nº 002/2025 – CERCON/ARSEPAM",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2025/04/RESOLUCAO-No-002-2025-CERCON-ARSEPAM-1.pdf",
+      "desc": "RESOLUÇÃO Nº 002/2025 – CERCON/ARSEPAM"
+    },
+    {
+      "titulo": "RESOLUÇÃO Nº 001/2026 – CERCON/ARSEPAM",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2026/02/RESOLUCAO-No-001-2026-CERCON-ARSEPAM.pdf",
+      "desc": "RESOLUÇÃO Nº 001/2026 – CERCON/ARSEPAM"
+    },
+    {
+      "titulo": "RESOLUÇÃO Nº 002/2026 – CERCON/ARSEPAM –",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2026/06/RESOLUCAO-No-002-2026-CERCON-ARSEPAM.pdf",
+      "desc": "RESOLUÇÃO Nº 002/2026 – CERCON/ARSEPAM –"
+    },
+    {
+      "titulo": "INFORMAÇÕES REFERENTES À APLICAÇÃO DE MULTA AO TRIP, CONFORME RESOLUÇÃO Nº 006/2020-CERCON/ARSEPAM",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2025/10/VALORES-DE-MULTA-SERVICO-FRETAMENTO-1.pdf",
+      "desc": "INFORMAÇÕES REFERENTES À APLICAÇÃO DE MULTA AO TRIP, CONFORME RESOLUÇÃO Nº 006/2020-CERCON/ARSEPAM"
+    },
+    {
+      "titulo": "RESOLUÇÃO – N.º 007/2023",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2023/11/01.06.011209.001528_2023_10_Publicacao_no_DOE-2-3.pdf",
+      "desc": "RESOLUÇÃO – N.º 007/2023"
+    },
+    {
+      "titulo": "RESOLUÇÃO – N° 002/2024",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2024/04/RESOLUCAO-002-2024.pdf",
+      "desc": "RESOLUÇÃO – N° 002/2024"
+    },
+    {
+      "titulo": "RESOLUÇÃO Nº 003/2025-CERCON/ARSEPAM",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2025/08/RESOLUCAO-No-003-2025-CERCON-ARSEPAM-1-1.pdf",
+      "desc": "RESOLUÇÃO Nº 003/2025-CERCON/ARSEPAM"
+    },
+    {
+      "titulo": "RESOLUÇÃO Nº 004/2025 – CERCON/ARSEPAM",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2026/01/RESOLUCAO-No-004-2025-CERCON-ARSEPAM.pdf",
+      "desc": "RESOLUÇÃO Nº 004/2025 – CERCON/ARSEPAM"
+    },
+    {
+      "titulo": "RESOLUÇÃO Nº 004/2026-CERCON/ARSEPAM –",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2026/06/RESOLUCAO-No-004-2026-CERCON-ARSEPAM.pdf",
+      "desc": "RESOLUÇÃO Nº 004/2026-CERCON/ARSEPAM –"
+    },
+    {
+      "titulo": "PORTARIA Nº 090/2025-ARSEPAM – Esquema operacional das embarcações autorizadas a operar",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2025/06/poder_executivo_-_secao_ii.pdf",
+      "desc": "PORTARIA Nº 090/2025-ARSEPAM – Esquema operacional das embarcações autorizadas a operar"
+    },
+    {
+      "titulo": "PORTARIA N. 001.2021 – 34408 – Designa servidor para Diretoria Técnica da Arsepam interinamente 110121",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2021/07/PORTARIA-N.-001.2021-34408-Designa-servidor-para-Diretoria-Tecnica-da-Arsepam-interinamente-110121.pdf",
+      "desc": "PORTARIA N. 001.2021 – 34408 – Designa servidor para Diretoria Técnica da Arsepam interinamente 110121"
+    },
+    {
+      "titulo": "PORTARIA N. 002.2021 – 34410 – Diretrizes para o funcionamento, em caráter excepcional dos serviços de transporte fluvial intermunicipal 130121",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2021/07/PORTARIA-N.-002.2021-34410-Diretrizes-para-o-funcionamento-em-carater-excepcional-dos-servicos-de-transporte-fluvial-intermunicipal-130121.pdf",
+      "desc": "PORTARIA N. 002.2021 – 34410 – Diretrizes para o funcionamento, em caráter excepcional dos serviços de transporte fluvial intermunicipal 130121"
+    },
+    {
+      "titulo": "PORTARIA N. 007.2021 – 34448 – Concede destaque crédito orcamentário à Seinfra para execução de infraestrutura de container 020321",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2021/07/PORTARIA-N.-007.2021-34448-Concede-destaque-credito-orcamentario-a-Seinfra-para-execucao-de-infraestrutura-de-container-020321.pdf",
+      "desc": "PORTARIA N. 007.2021 – 34448 – Concede destaque crédito orcamentário à Seinfra para execução de infraestrutura de container 020321"
+    },
+    {
+      "titulo": "PORTARIA N. 008.2021 – 34449 – Designa servidor para chefia do departamento de transporte rodoviário da Arsepam 030321",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2021/07/PORTARIA-N.-008.2021-34449-Designa-servidor-para-chefia-do-departamento-de-transporte-rodoviario-da-Arsepam-030321.pdf",
+      "desc": "PORTARIA N. 008.2021 – 34449 – Designa servidor para chefia do departamento de transporte rodoviário da Arsepam 030321"
+    },
+    {
+      "titulo": "PORTARIA N. 009.2021 – 34501 – Atribui Gratificação Técnico-Administrativa a servidor 130521",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2021/07/PORTARIA-N.-009.2021-34501-Atribui-Gratificacao-Tecnico-Administrativa-a-servidor-130521.pdf",
+      "desc": "PORTARIA N. 009.2021 – 34501 – Atribui Gratificação Técnico-Administrativa a servidor 130521"
+    },
+    {
+      "titulo": "PORTARIA N.º 073/2025-ARSEPAM – DEFERIMENTO DO REGISTRO DE AUTORIZAÇÃO DE COMERCIALIZADOR DE GÁS NATURAL DA ENEVA S.A.",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2025/05/PORTARIA-N.o-073.2025-ARSEPAM-1.pdf",
+      "desc": "PORTARIA N.º 073/2025-ARSEPAM – DEFERIMENTO DO REGISTRO DE AUTORIZAÇÃO DE COMERCIALIZADOR DE GÁS NATURAL DA ENEVA S.A."
+    },
+    {
+      "titulo": "RESOLUÇÃO Nº 02 – 16.07.2015 – Criação do CIOP’s",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2021/06/1.-RESOLUCAO-No-02-16.07.2015-Criacao-do-CIOPs.pdf",
+      "desc": "RESOLUÇÃO Nº 02 – 16.07.2015 – Criação do CIOP’s"
+    },
+    {
+      "titulo": "PORTARIA Nº 036 – 28.04.2018 – Regimento Interno",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2021/06/3.-PORTARIA-No-036-28.04.2018-Regimento-Interno.pdf",
+      "desc": "PORTARIA Nº 036 – 28.04.2018 – Regimento Interno"
+    },
+    {
+      "titulo": "Sistema de Gestão de Contratos – SGC",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "http://sistemas.sefaz.am.gov.br/sgc-am/login.do",
+      "desc": "Sistema de Gestão de Contratos – SGC"
     },
     {
       "titulo": "Fiscalização Prefeitura e Iphan embargam demolição irregular de imóvel no Centro Histórico de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -91,7 +919,7 @@
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -103,7 +931,7 @@
       "titulo": "DOE-AM — Gmail Imagens Fazer login No que você está pensando? Fazer upload da imagem Fazer upload do arquivo Ferramentas 🍌 Criar imagens Mo",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -116,7 +944,7 @@
       "titulo": "DOE-AM — Sobre Publicidade Negócios Como funciona a Pesquisa Privacidade Termos Configurações Configurações de Pesquisa Pesquisa avançada S",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -129,7 +957,7 @@
       "titulo": "DOE-AM — Sobre Publicidade Negócios Como funciona a Pesquisa",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -142,7 +970,7 @@
       "titulo": "ANEEL — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -154,7 +982,7 @@
       "titulo": "ANP — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -166,7 +994,7 @@
       "titulo": "ANA — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -178,7 +1006,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -190,7 +1018,7 @@
       "titulo": "ONS — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -202,7 +1030,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -214,7 +1042,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -226,7 +1054,7 @@
       "titulo": "AmE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -238,7 +1066,7 @@
       "titulo": "COGERAÇÃO DE ENERGIA",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -250,7 +1078,7 @@
       "titulo": "GÁS RESIDENCIAL",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -262,7 +1090,7 @@
       "titulo": "Estudantes do curso de Engenharia de Petróleo e Gás da UFAM visitam a Cigás",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -274,7 +1102,7 @@
       "titulo": "Uso de gás natural no Amazonas evita a emissão de 7,5 milhões de toneladas de gases de efeito estufa",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -286,7 +1114,7 @@
       "titulo": "Cigás impulsiona segurança e economia em pequenos negócios de Manaus",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -295,22 +1123,130 @@
       "desc": "Cigás impulsiona segurança e economia em pequenos negócios de Manaus"
     },
     {
-      "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
+      "titulo": "Ouvidoria Arsepam",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.arsepam.am.gov.br/legislacao/",
-      "desc": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã."
+      "url": "https://www.arsepam.am.gov.br/ouvidoria-arsepam/",
+      "desc": "Ouvidoria Arsepam"
+    },
+    {
+      "titulo": "Relatórios Institucionais Arsepam",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.arsepam.am.gov.br/relatorios-institucionais-arsepam/",
+      "desc": "Relatórios Institucionais Arsepam"
+    },
+    {
+      "titulo": "MANUAL DE PROCEDIMENTOS DA COMPANHIA DE GÁS DO AMAZONAS",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2023/10/MANUAL-DE-PROCEDIMENTO-CIGAS_-VERSAO-VF.pdf",
+      "desc": "MANUAL DE PROCEDIMENTOS DA COMPANHIA DE GÁS DO AMAZONAS"
+    },
+    {
+      "titulo": "EXTRATO DO MANUAL DE PROCEDIMENTOS DA COMPANHIA DE GÁS DO AMAZONAS",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2023/11/Paginas-de-Diario-Oficial-do-Estado-do-Amazonas_2023-10-31-extrato-2.pdf",
+      "desc": "EXTRATO DO MANUAL DE PROCEDIMENTOS DA COMPANHIA DE GÁS DO AMAZONAS"
+    },
+    {
+      "titulo": "EXTRATO DAS CONDIÇÕES DE PRESTAÇÃO DO SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO PELA CIGÁS AO USUÁRIO, PARA O SEGMENTO RESIDENCIAL.",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2023/11/Paginas-de-Diario-Oficial-do-Estado-do-Amazonas_2023-10-31.pdf",
+      "desc": "EXTRATO DAS CONDIÇÕES DE PRESTAÇÃO DO SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO PELA CIGÁS AO USUÁRIO, PARA O SEGMENTO RESIDENCIAL."
+    },
+    {
+      "titulo": "Dispõe sobre o deferimento do Registro de Autorização de Comercializador de Gás Natural à Petrobras no Estado do Amazonas.",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2024/12/PORTARIA-COMERCIALIZADOR-PETROBRAS-1.pdf",
+      "desc": "Dispõe sobre o deferimento do Registro de Autorização de Comercializador de Gás Natural à Petrobras no Estado do Amazonas."
+    },
+    {
+      "titulo": "Deliberação N° 001 / 2025 – RTO 2025 CIGÁS",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2025/12/Deliberacao-n001-2025-RTO-2025-CIGAS.pdf",
+      "desc": "Deliberação N° 001 / 2025 – RTO 2025 CIGÁS"
+    },
+    {
+      "titulo": "007 – 02.09.2020 – Redução excepcional e temporária da taxa de regulação",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2021/06/Resolucao-no-007.2020-Reducao-excepcional-e-temporaria-da-taxa-de-regulacao.pdf",
+      "desc": "007 – 02.09.2020 – Redução excepcional e temporária da taxa de regulação"
+    },
+    {
+      "titulo": "na linha Manaus – Parintins, no período de 23 a 27 de junho de 2025",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.arsepam.am.gov.br/wp-content/uploads/2025/06/poder_executivo_-_secao_ii.pdf",
+      "desc": "na linha Manaus – Parintins, no período de 23 a 27 de junho de 2025"
+    },
+    {
+      "titulo": "Conheça seus direitos com Arsepam",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "24/06/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.arsepam.am.gov.br/conheca-seus-direitos-com-arsepam/",
+      "desc": "Conheça seus direitos com Arsepam"
     },
     {
       "titulo": "SEMIG Secretaria de Estado de Energia, Mineração e Gás",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -322,7 +1258,7 @@
       "titulo": "Instagram SEMIG",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -334,7 +1270,7 @@
       "titulo": "Estrutura Organizacional",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -346,7 +1282,7 @@
       "titulo": "E-mail Integra Amazonas",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -358,7 +1294,7 @@
       "titulo": "Semig destaca avanço do setor de gás natural com licença concedida à Eneva em Silves 19/06/2026 - 11:31",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -370,7 +1306,7 @@
       "titulo": "Semig e Comissão de Energia da Aleam identificam mais de 200 famílias sem energia elétrica no Alto Solimões 29/05/2026 - 12:28",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -382,7 +1318,7 @@
       "titulo": "Chegada do gás natural à UTE Manaus I marca avanço histórico para o setor energético do Amazonas 26/05/2026 - 12:48",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -394,7 +1330,7 @@
       "titulo": "“Semig nas Escolas” leva conhecimento sobre energia, mineração e gás à Escola Estadual Tiradentes 21/05/2026 - 12:13",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -406,7 +1342,7 @@
       "titulo": "semig.am Secretaria de Estado de Energia, Mineração e Gás do Amazonas",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -418,7 +1354,7 @@
       "titulo": "A Semig participou nesta segunda-feira (22/06), de",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -430,7 +1366,7 @@
       "titulo": "A Semig participou da 320ª Reunião Ordinária do",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -442,7 +1378,7 @@
       "titulo": "Por trás da distribuição e do desenvolvimento d",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -454,7 +1390,7 @@
       "titulo": "A Secretaria de Estado de Energia, Mineração e G",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -466,7 +1402,7 @@
       "titulo": "semig@semig.am.gov.br",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -478,7 +1414,7 @@
       "titulo": "Proporcionado por GDPR Cookie Compliance",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -490,7 +1426,7 @@
       "titulo": "SEFAZ-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -502,7 +1438,7 @@
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -511,10 +1447,22 @@
       "desc": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
+      "titulo": "Eleição Prefeitura de Manaus participa de oficialização de novos desembargadores do TJ-AM",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "24/06/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/eleicao/prefeitura-pgm-desembargadorestj/",
+      "desc": "Eleição Prefeitura de Manaus participa de oficialização de novos desembargadores do TJ-AM"
+    },
+    {
       "titulo": "Chamamento Público Prefeito Renato Junior anuncia nova convocação de mais de 90 profissionais de saúde para reforçar a rede municipal de Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -526,7 +1474,7 @@
       "titulo": "Modernização Prefeito Renato Junior entrega a USF Santos Dumont e amplia atendimento de saúde para 25 mil pessoas na zona Centro-Oeste de Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -538,7 +1486,7 @@
       "titulo": "Sustentabilidade Prefeito Renato Junior realiza visita técnica ao Inpa e fortalece o diálogo e compromisso com o meio ambiente em Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -550,7 +1498,7 @@
       "titulo": "Revitalização Prefeito Renato Junior assina ordem de serviço para revitalização do Campo da Torre e amplia acesso a práticas esportivas e de lazer para os moradores da zona Norte",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -559,142 +1507,178 @@
       "desc": "Revitalização Prefeito Renato Junior assina ordem de serviço para revitalização do Campo da Torre e amplia acesso a práticas esportivas e de lazer para os moradores da zona Norte"
     },
     {
-      "titulo": "Serviços Ageman e ManausLuz discutem implantação de QR Code em postes para agilizar atendimento à população",
+      "titulo": "Nota Prefeitura de Manaus altera horário de funcionamento das unidades de saúde na tarde desta quarta-feira",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/servicos/ageman-manausluz-qrcode-atendimento/",
-      "desc": "Serviços Ageman e ManausLuz discutem implantação de QR Code em postes para agilizar atendimento à população"
+      "url": "https://www.manaus.am.gov.br/noticia/nota/prefeitura-semsa-funcionamento-unidades/",
+      "desc": "Nota Prefeitura de Manaus altera horário de funcionamento das unidades de saúde na tarde desta quarta-feira"
     },
     {
-      "titulo": "Mobilização Prefeitura de Manaus realiza blitz educativa para reforçar combate à violência contra a pessoa idosa no bairro Compensa",
+      "titulo": "Destaque Manipuladoras de alimentos da rede municipal de ensino recebem prêmio nacional da Alimentação Escolar do FNDE",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/mobilizacao/blitz-educativa-na-avenida-brasil/",
-      "desc": "Mobilização Prefeitura de Manaus realiza blitz educativa para reforçar combate à violência contra a pessoa idosa no bairro Compensa"
+      "url": "https://www.manaus.am.gov.br/noticia/destaque/premio-nacional-da-alimentacao-escolar-do-fnde/",
+      "desc": "Destaque Manipuladoras de alimentos da rede municipal de ensino recebem prêmio nacional da Alimentação Escolar do FNDE"
     },
     {
-      "titulo": "Revitalização Prefeitura de Manaus avança com reforma do Campo Coração do Zumbi e transforma importante espaço de esporte e lazer da comunidade 22/06/2026 20h10",
+      "titulo": "Mobilização Prefeitura de Manaus intensifica campanha ‘Junho Violeta’ no Terminal 5 e reforça a proteção aos direitos da pessoa idosa",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/revitalizacao/reforma-do-campo-coracao-do-zumbi/",
-      "desc": "Revitalização Prefeitura de Manaus avança com reforma do Campo Coração do Zumbi e transforma importante espaço de esporte e lazer da comunidade 22/06/2026 20h10"
+      "url": "https://www.manaus.am.gov.br/noticia/mobilizacao/campanha-junho-violeta-no-terminal-5/",
+      "desc": "Mobilização Prefeitura de Manaus intensifica campanha ‘Junho Violeta’ no Terminal 5 e reforça a proteção aos direitos da pessoa idosa"
     },
     {
-      "titulo": "Recuperação Prefeitura de Manaus intensifica recuperação asfáltica na comunidade Riacho Doce e fortalece mobilidade na zona Norte 22/06/2026 19h03",
+      "titulo": "Solenidade Prefeitura de Manaus participa de solenidade de posse do juiz federal Érico Pinheiro no TRE-AM 23/06/2026 19h44",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/recuperacao/recuperacao-asfaltica-na-comunidade-riacho-doce/",
-      "desc": "Recuperação Prefeitura de Manaus intensifica recuperação asfáltica na comunidade Riacho Doce e fortalece mobilidade na zona Norte 22/06/2026 19h03"
+      "url": "https://www.manaus.am.gov.br/noticia/solenidade/solenidade-de-posse-do-juiz-federal-erico-pinheiro-no-tre-am/",
+      "desc": "Solenidade Prefeitura de Manaus participa de solenidade de posse do juiz federal Érico Pinheiro no TRE-AM 23/06/2026 19h44"
     },
     {
-      "titulo": "Recuperação Prefeitura de Manaus intensifica manutenção asfáltica no bairro Flores e melhora mobilidade na zona Centro-Sul 22/06/2026 18h30",
+      "titulo": "Nota Prefeitura de Manaus informa que parque Gigantes da Floresta estará fechado para manutenção nesta quarta-feira, 24/6 23/06/2026 17h52",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/recuperacao/manutencao-asfaltica-no-bairro-flores/",
-      "desc": "Recuperação Prefeitura de Manaus intensifica manutenção asfáltica no bairro Flores e melhora mobilidade na zona Centro-Sul 22/06/2026 18h30"
+      "url": "https://www.manaus.am.gov.br/noticia/nota/parque-gigantes-da-floresta-3/",
+      "desc": "Nota Prefeitura de Manaus informa que parque Gigantes da Floresta estará fechado para manutenção nesta quarta-feira, 24/6 23/06/2026 17h52"
     },
     {
-      "titulo": "Serviços Prefeitura de Manaus intensifica obras de drenagem e recuperação viária na avenida Rodrigo Otávio 22/06/2026 18h00",
+      "titulo": "Competição Prefeitura de Manaus promove campeonato de robótica e incentiva inovação entre estudantes 23/06/2026 17h48",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/servicos/recuperacao-viaria-avenida-rodrigo-otavio/",
-      "desc": "Serviços Prefeitura de Manaus intensifica obras de drenagem e recuperação viária na avenida Rodrigo Otávio 22/06/2026 18h00"
+      "url": "https://www.manaus.am.gov.br/noticia/competicao/campeonato-robotica/",
+      "desc": "Competição Prefeitura de Manaus promove campeonato de robótica e incentiva inovação entre estudantes 23/06/2026 17h48"
     },
     {
-      "titulo": "Ordenamento Urbano Prefeitura realiza operação ‘Parintins 2026’ para garantir fluidez e segurança nos acessos aos portos e aeroporto de Manaus 22/06/2026 17h14",
+      "titulo": "Operação Prefeitura mantém mais de 150 frentes de limpeza urbana em Manaus e reforça serviços em todas as zonas da cidade 23/06/2026 17h21",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/ordenamento-urbano/operacao-parintins-2026/",
-      "desc": "Ordenamento Urbano Prefeitura realiza operação ‘Parintins 2026’ para garantir fluidez e segurança nos acessos aos portos e aeroporto de Manaus 22/06/2026 17h14"
+      "url": "https://www.manaus.am.gov.br/noticia/operacao/mais-de-150-frentes-de-limpeza-urbana-em-manaus/",
+      "desc": "Operação Prefeitura mantém mais de 150 frentes de limpeza urbana em Manaus e reforça serviços em todas as zonas da cidade 23/06/2026 17h21"
     },
     {
-      "titulo": "Prevenção Prefeitura de Manaus inicia nova etapa fluvial de vacinação antirrábica animal 22/06/2026 15h58",
+      "titulo": "Reunião Prefeitura de Manaus e Iphan-AM alinham ações para fortalecer preservação e desenvolvimento do centro histórico da capital 23/06/2026 16h20",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/prevencao/etapa-fluvial-de-vacinacao-antirrabica-animal/",
-      "desc": "Prevenção Prefeitura de Manaus inicia nova etapa fluvial de vacinação antirrábica animal 22/06/2026 15h58"
+      "url": "https://www.manaus.am.gov.br/noticia/reuniao/alinhamento-acoes-centro-historico-capital/",
+      "desc": "Reunião Prefeitura de Manaus e Iphan-AM alinham ações para fortalecer preservação e desenvolvimento do centro histórico da capital 23/06/2026 16h20"
     },
     {
-      "titulo": "Operação Prefeitura de Manaus realiza serviços de limpeza e manutenção no T5, na zona Leste 22/06/2026 15h26",
+      "titulo": "Economia Criativa ‘Feirinha da Manausprev’ valoriza talentos e incentiva o empreendedorismo de aposentados e pensionistas 23/06/2026 16h19",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/operacao/servicos-de-limpeza-e-manutencao-no-t5/",
-      "desc": "Operação Prefeitura de Manaus realiza serviços de limpeza e manutenção no T5, na zona Leste 22/06/2026 15h26"
+      "url": "https://www.manaus.am.gov.br/noticia/economia-criativa/feirinha-da-manausprev-empreendedorismo/",
+      "desc": "Economia Criativa ‘Feirinha da Manausprev’ valoriza talentos e incentiva o empreendedorismo de aposentados e pensionistas 23/06/2026 16h19"
     },
     {
-      "titulo": "Educação Prefeitura de Manaus inicia formação de equipe que atuará no núcleo de atendimento aos estudantes com altas habilidades 22/06/2026 15h11",
+      "titulo": "Operação Prefeitura avança com nova etapa de sinalização e reforça segurança viária em todas as zonas de Manaus 23/06/2026 15h52",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/educacao/prefeitura-semed-formacao-nucleoaltashabilidades/",
-      "desc": "Educação Prefeitura de Manaus inicia formação de equipe que atuará no núcleo de atendimento aos estudantes com altas habilidades 22/06/2026 15h11"
+      "url": "https://www.manaus.am.gov.br/noticia/operacao/nova-etapa-sinalizacao/",
+      "desc": "Operação Prefeitura avança com nova etapa de sinalização e reforça segurança viária em todas as zonas de Manaus 23/06/2026 15h52"
     },
     {
-      "titulo": "Segurança Prefeitura de Manaus inicia curso de Uso Diferenciado da Força e amplia capacitação da Guarda Municipal 22/06/2026 14h26",
+      "titulo": "Inclusão Prefeitura de Manaus fortalece acolhimento e educação ambiental com participação em projeto nacional sobre migração e refúgio 23/06/2026 15h31",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/seguranca/prefeitura-semseg-curso-municipiomaisseguro/",
-      "desc": "Segurança Prefeitura de Manaus inicia curso de Uso Diferenciado da Força e amplia capacitação da Guarda Municipal 22/06/2026 14h26"
+      "url": "https://www.manaus.am.gov.br/noticia/inclusao/prefeitura-semed-waldirgarcia-projeto-nacional/",
+      "desc": "Inclusão Prefeitura de Manaus fortalece acolhimento e educação ambiental com participação em projeto nacional sobre migração e refúgio 23/06/2026 15h31"
+    },
+    {
+      "titulo": "Conscientização Alunos da zona Oeste recebem projeto ‘Trânsito na Escola’ da Prefeitura de Manaus 23/06/2026 15h11",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "24/06/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/conscientizacao/prefeitura-immu-transito-na-escola/",
+      "desc": "Conscientização Alunos da zona Oeste recebem projeto ‘Trânsito na Escola’ da Prefeitura de Manaus 23/06/2026 15h11"
+    },
+    {
+      "titulo": "Atividades Prefeitura de Manaus realiza disputas de judô no encerramento da 27ª edição das Municipíadas da rede municipal de ensino 23/06/2026 14h27",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "24/06/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/atividades/disputas-judo-encerramento-27a-municipiadas/",
+      "desc": "Atividades Prefeitura de Manaus realiza disputas de judô no encerramento da 27ª edição das Municipíadas da rede municipal de ensino 23/06/2026 14h27"
+    },
+    {
+      "titulo": "Oportunidade Sine Manaus oferta 615 vagas de emprego nesta quarta–feira, 24/6 23/06/2026 13h40",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "24/06/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/oportunidade/prefeitura-semtepi-sine-manaus-vagas2406/",
+      "desc": "Oportunidade Sine Manaus oferta 615 vagas de emprego nesta quarta–feira, 24/6 23/06/2026 13h40"
     },
     {
       "titulo": "IMMU — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -706,7 +1690,7 @@
       "titulo": "Obras Prefeitura de Manaus chega quase à metade da execução da cúpula da Oca Niemeyer no parque Encontro das Águas Rosa Almeida",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -718,7 +1702,7 @@
       "titulo": "Turismo Prefeitura acelera obras do parque Encontro das Águas Rosa Almeida e consolida novo cartão-postal de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -730,7 +1714,7 @@
       "titulo": "Manaus Prefeitura conclui etapa de contenção no parque Encontro das Águas Rosa Almeida com mais de 260 estacas",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -742,7 +1726,7 @@
       "titulo": "Obras Prefeitura de Manaus avança em obras de engenharia e na Oca Niemeyer no parque Encontro das Águas Rosa Almeida",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -751,16 +1735,16 @@
       "desc": "Obras Prefeitura de Manaus avança em obras de engenharia e na Oca Niemeyer no parque Encontro das Águas Rosa Almeida"
     },
     {
-      "titulo": "Balanço Prefeitura de Manaus emite mais de 13 mil Certidões de Endereço no Implurb",
+      "titulo": "Balanço Implurb chega a quase 310 mil atendimentos em toda gestão dentro do sistema de licenciamento urbano da Prefeitura de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "23/06/2026",
+      "data": "24/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/implurb/prefeitura-certidoes-de-endereco-implurb/",
-      "desc": "Balanço Prefeitura de Manaus emite mais de 13 mil Certidões de Endereço no Implurb"
+      "url": "https://www.manaus.am.gov.br/implurb/prefeitura-implurb-atendimento/",
+      "desc": "Balanço Implurb chega a quase 310 mil atendimentos em toda gestão dentro do sistema de licenciamento urbano da Prefeitura de Manaus"
     }
   ]
 }
