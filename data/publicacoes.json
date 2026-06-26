@@ -1,20 +1,8 @@
 {
-  "ultima_coleta": "26/06/2026 00:15",
+  "ultima_coleta": "26/06/2026 13:11",
   "total": 61,
   "fontes": 18,
   "publicacoes": [
-    {
-      "titulo": "Nota Prefeitura de Manaus informa suspensão de atendimento na USF Áugias Gadelha nesta quinta-feira 25/06/2026 9h38",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "26/06/2026",
-      "impacto": "critico",
-      "tags": [
-        "critico"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/nota/prefeitura-semsa-suspensao-de-atendimento-augiasgadelha/",
-      "desc": "Nota Prefeitura de Manaus informa suspensão de atendimento na USF Áugias Gadelha nesta quinta-feira 25/06/2026 9h38"
-    },
     {
       "titulo": "Licitações e Contratos",
       "orgao": "Cigás",
@@ -523,6 +511,18 @@
       "desc": "Chamamento Público Prefeito Renato Junior anuncia nova convocação de mais de 90 profissionais de saúde para reforçar a rede municipal de Manaus"
     },
     {
+      "titulo": "Sensibilização Prefeitura de Manaus promove caminhada de combate à violência contra a pessoa idosa em alusão ao Dia D da operação ‘Virtude’",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "26/06/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/sensibilizacao/caminhada-de-combate-a-violencia-contra-a-pessoa-idosa/",
+      "desc": "Sensibilização Prefeitura de Manaus promove caminhada de combate à violência contra a pessoa idosa em alusão ao Dia D da operação ‘Virtude’"
+    },
+    {
       "titulo": "Serviços Prefeitura inicia programa ‘Manaus que a Gente Cuida’ no bairro Cidade de Deus com recuperação viária e aprimoramento da drenagem urbana",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
@@ -547,7 +547,7 @@
       "desc": "Obras Prefeitura de Manaus inicia operação de ampliação de drenagem na comunidade Parque Riachuelo, no Tarumã"
     },
     {
-      "titulo": "Irregularidade Ageman notifica Águas de Manaus por falhas na recomposição asfáltica e vazamento no bairro Planalto",
+      "titulo": "Irregularidade Ageman notifica Águas de Manaus por falhas na recomposição asfáltica e vazamento no bairro Planalto 25/06/2026 18h29",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
       "data": "26/06/2026",
@@ -556,7 +556,7 @@
         "baixo"
       ],
       "url": "https://www.manaus.am.gov.br/noticia/irregularidade/notifica-aguas-de-manaus-por-falhas-na-recomposicao-asfaltica/",
-      "desc": "Irregularidade Ageman notifica Águas de Manaus por falhas na recomposição asfáltica e vazamento no bairro Planalto"
+      "desc": "Irregularidade Ageman notifica Águas de Manaus por falhas na recomposição asfáltica e vazamento no bairro Planalto 25/06/2026 18h29"
     },
     {
       "titulo": "Infraestrutura Prefeitura de Manaus intensifica obras no bairro Cidade Nova e transforma mobilidade com nova frente de recuperação asfáltica 25/06/2026 17h06",
