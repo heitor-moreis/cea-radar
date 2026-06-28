@@ -730,6 +730,25 @@ input:checked+.tgl-t::before{left:19px}
         <div class="status-bar">
           <span class="s-live">Sistema ativo</span><span>·</span><span>Última coleta: <b class="s-coleta">—</b></span><span>·</span><span><b>17</b> fontes monitoradas</span><span>·</span><span><b>4</b> consultas públicas abertas</span><span>·</span><span><b>DOE-AM</b> edição nº 36.112 disponível</span>
         </div>
+        <button id="btnScraping" onclick="dispararScraping()" style="
+          margin-left:auto;
+          background:var(--navy);
+          color:#fff;
+          border:none;
+          border-radius:6px;
+          padding:5px 14px;
+          font-size:11.5px;
+          font-weight:700;
+          font-family:'Outfit',sans-serif;
+          cursor:pointer;
+          display:flex;
+          align-items:center;
+          gap:6px;
+          transition:background .15s;
+          flex-shrink:0;
+        " onmouseover="this.style.background='#2563c4'" onmouseout="this.style.background='var(--navy)'">
+          🔄 <span id="btnScrapingLabel">Atualizar dados</span>
+        </button>
         <div class="kpi-grid">
         <div class="kpi bl"><div class="kpi-top"><div class="kpi-label">Publicações (30 dias)</div><div class="kpi-ico">📄</div></div><div class="kpi-val" id="kpiPublicacoes">—</div><div class="kpi-foot">todas as fontes monitoradas</div></div>
         <div class="kpi rd"><div class="kpi-top"><div class="kpi-label">Publicações Críticas</div><div class="kpi-ico">⚠️</div></div><div class="kpi-val" id="kpiCriticas">—</div><div class="kpi-foot">requerem ação imediata</div></div>
@@ -1513,7 +1532,73 @@ input:checked+.tgl-t::before{left:19px}
   </div>
 </div>
 <script>
+  
 // ══ AUTH ══
+const GH_TOKEN = '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'; 
+const GH_OWNER = 'heitor-moreis';   
+const GH_REPO  = 'cea-radar';       
+const GH_WORKFLOW = 'scraping.yml'; 
+
+async function dispararScraping() {
+  const btn   = document.getElementById('btnScraping');
+  const label = document.getElementById('btnScrapingLabel');
+  btn.disabled = true;
+  btn.style.opacity = '0.7';
+  label.textContent = 'Iniciando...';
+
+  try {
+    const resp = await fetch(
+      `https://api.github.com/repos/${GH_OWNER}/${GH_REPO}/actions/workflows/${GH_WORKFLOW}/dispatches`,
+      {
+        method: 'POST',
+        headers: {
+          'Authorization': `Bearer ${GH_TOKEN}`,
+          'Accept': 'application/vnd.github+json',
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ ref: 'main' }),
+      }
+    );
+
+    if (resp.status === 204) {
+      label.textContent = '⏳ Coletando dados...';
+      btn.style.background = '#16a34a';
+      btn.onmouseover = null;
+      btn.onmouseout  = null;
+      let segundos = 90;
+      const intervalo = setInterval(() => {
+        segundos--;
+        label.textContent = `⏳ Aguardando... ${segundos}s`;
+        if (segundos <= 0) {
+          clearInterval(intervalo);
+          label.textContent = '🔄 Atualizar dados';
+          btn.disabled = false;
+          btn.style.opacity = '1';
+          btn.style.background = 'var(--navy)';
+          btn.onmouseover = () => btn.style.background = '#2563c4';
+          btn.onmouseout  = () => btn.style.background = 'var(--navy)';
+          carregarPublicacoes();
+        }
+      }, 1000);
+
+    } else {
+      throw new Error(`Status ${resp.status}`);
+    }
+
+  } catch (e) {
+    console.error('Erro ao disparar scraping:', e);
+    label.textContent = '❌ Erro — tente novamente';
+    btn.style.background = '#dc2626';
+    setTimeout(() => {
+      label.textContent = '🔄 Atualizar dados';
+      btn.disabled = false;
+      btn.style.opacity = '1';
+      btn.style.background = 'var(--navy)';
+      btn.onmouseover = () => btn.style.background = '#2563c4';
+      btn.onmouseout  = () => btn.style.background = 'var(--navy)';
+    }, 3000);
+  }
+}
 const USERS = [
   {email:'fernandomelo@cea-termoeletrica.com.br', pass:'fernandomelo01', name:'Fernando Melo'},
   {email:'analista@cea.com.br', pass:'password', name:'Analista Regulatório'}
