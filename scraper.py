@@ -321,7 +321,7 @@ def scrape_aneel() -> list[dict]:
 
     # URL correta para consultas e audiências públicas
     resultados += scrape_generico(
-        url="https://www.gov.br/aneel/pt-br/acesso-a-informacao/participacao-social/consultas-publicas",
+        url="https://antigo.aneel.gov.br/consultas-publicas",
         orgao="ANEEL",
         tema="Energia Elétrica",
         seletores=[".tileItem", ".summary", "article", "li.tileItem", ".tile-title"],
@@ -329,7 +329,7 @@ def scrape_aneel() -> list[dict]:
     )
     # Notas técnicas
     resultados += scrape_generico(
-        url="https://www.gov.br/aneel/pt-br/assuntos/notas-tecnicas",
+        url="https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/?idAreaNoticia=425",
         orgao="ANEEL",
         tema="Energia Elétrica",
         seletores=[".tileItem", "article", "li.tileItem"],
@@ -351,7 +351,7 @@ def scrape_anp() -> list[dict]:
     """ANP — Legislação, normas e chamadas públicas."""
     print("\n[ANP] Iniciando...")
     resultados = scrape_generico(
-        url="https://www.gov.br/anp/pt-br/assuntos/legislacao-e-normas/normas",
+        url="https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados",
         orgao="ANP",
         tema="Gás Natural / Petróleo",
         seletores=[".tileItem", ".summary", "article", "li.tileItem"],
@@ -359,7 +359,7 @@ def scrape_anp() -> list[dict]:
     )
     if len(resultados) < 3:
         resultados += scrape_generico(
-            url="https://www.gov.br/anp/pt-br/assuntos/capacidade-de-escoamento",
+            url="https://www.gov.br/anp/pt-br/servicos/rodadas-anp/avisos",
             orgao="ANP",
             tema="Gás Natural / Petróleo — Capacidade Escoamento",
             seletores=[".tileItem", "article", "li"],
@@ -372,7 +372,7 @@ def scrape_ana() -> list[dict]:
     """ANA — Outorgas e regulação de recursos hídricos."""
     print("\n[ANA] Iniciando...")
     return scrape_generico(
-        url="https://www.gov.br/ana/pt-br/assuntos/regulacao/outorga",
+        url="https://www.gov.br/ana/pt-br/assuntos/noticias-e-eventos/noticias",
         orgao="ANA",
         tema="Recursos Hídricos",
         seletores=[".tileItem", "article", ".listing-item", "li.tileItem"],
@@ -384,7 +384,7 @@ def scrape_ccee() -> list[dict]:
     """CCEE — Regras e procedimentos de comercialização."""
     print("\n[CCEE] Iniciando...")
     resultados = scrape_generico(
-        url="https://www.ccee.org.br/web/guest/regulacao/regras-e-procedimentos",
+        url="https://www.ccee.org.br/busca-ccee?q=&dtIni=&dtFim=&structure=ccee-noticias&ordenacao=Mais%20recentes",
         orgao="CCEE",
         tema="Comercialização de Energia",
         seletores=[".portlet-body a", "article", ".asset-abstract", ".journal-content-article a"],
@@ -392,7 +392,7 @@ def scrape_ccee() -> list[dict]:
     )
     if len(resultados) < 3:
         resultados += scrape_generico(
-            url="https://www.ccee.org.br/web/guest/publicacoes-e-servicos/publicacoes/noticias",
+            url="https://www.ccee.org.br/web/guest/acervo-ccee",
             orgao="CCEE",
             tema="Comercialização de Energia",
             seletores=["article", ".portlet-body a"],
@@ -405,7 +405,7 @@ def scrape_ons() -> list[dict]:
     """ONS — Resoluções e publicações sobre operação do sistema."""
     print("\n[ONS] Iniciando...")
     resultados = scrape_generico(
-        url="https://www.ons.org.br/paginas/sobre-o-ons/normas-e-publicacoes/resolucoes",
+        url="https://www.ons.org.br/paginas/imprensa/noticias",
         orgao="ONS",
         tema="Operação do Sistema",
         seletores=["table tr", ".listagem a", "article", "li a"],
@@ -413,7 +413,7 @@ def scrape_ons() -> list[dict]:
     )
     if len(resultados) < 3:
         resultados += scrape_generico(
-            url="https://www.ons.org.br/paginas/sobre-o-ons/normas-e-publicacoes/publicacoes",
+            url="https://www.ons.org.br/paginas/imprensa/noticias",
             orgao="ONS",
             tema="Operação do Sistema",
             seletores=["article", "li a", "table tr"],
@@ -438,7 +438,7 @@ def scrape_petrobras() -> list[dict]:
     """Petrobras — Notícias e comunicados relevantes."""
     print("\n[Petrobras] Iniciando...")
     return scrape_generico(
-        url="https://petrobras.com.br/noticias",
+        url="https://petrobras.com.br",
         orgao="Petrobras",
         tema="Petróleo e Gás",
         seletores=["article", ".news-card", ".card-noticia", ".card"],
@@ -451,7 +451,7 @@ def scrape_ame() -> list[dict]:
     print("\n[AmE] Iniciando...")
     # URL principal atualizada
     resultados = scrape_generico(
-        url="https://www.amazonasenergia.com/noticias",
+        url="https://website.ambarenergia-am.com.br/informacoes/destaques/",
         orgao="AmE",
         tema="Energia Elétrica / AM",
         seletores=["article", ".post", ".news-item", ".card"],
@@ -486,7 +486,7 @@ def scrape_arsepam() -> list[dict]:
     import time as _time
     _time.sleep(3)  # delay extra por restrições do site
     return scrape_generico(
-        url="https://www.arsepam.am.gov.br/legislacao/",
+        url="https://www.arsepam.am.gov.br/category/noticias/",
         orgao="ARSEPAM",
         tema="Regulação Estadual / AM",
         seletores=[".entry-content a", ".legislacao a", "table tr td a", "li a", "article a"],
@@ -498,7 +498,7 @@ def scrape_semig() -> list[dict]:
     """SEMIG — Secretaria de Energia, Mineração e Gás do AM."""
     print("\n[SEMIG] Iniciando...")
     return scrape_generico(
-        url="https://www.semig.am.gov.br",
+        url="https://www.semig.am.gov.br/category/noticias/",
         orgao="SEMIG",
         tema="Política Energética / AM",
         seletores=["article", ".post", ".noticia", "a"],
@@ -510,7 +510,7 @@ def scrape_prefeitura_manaus() -> list[dict]:
     """Prefeitura de Manaus — Notícias relevantes."""
     print("\n[Prefeitura Manaus] Iniciando...")
     return scrape_generico(
-        url="https://www.manaus.am.gov.br/noticia",
+        url="https://www.manaus.am.gov.br/noticias/",
         orgao="Prefeitura Manaus",
         tema="Gestão Municipal",
         seletores=["article", ".noticia", ".card", "li"],
@@ -522,7 +522,7 @@ def scrape_immu() -> list[dict]:
     """IMMU — Instituto Municipal de Mobilidade Urbana."""
     print("\n[IMMU] Iniciando...")
     return scrape_generico(
-        url="https://immu.manaus.am.gov.br",
+        url="https://www.manaus.am.gov.br/immu/noticias/",
         orgao="IMMU",
         tema="Mobilidade Urbana",
         seletores=["article", ".post", "a"],
@@ -534,7 +534,7 @@ def scrape_implurb() -> list[dict]:
     """Implurb — Instituto Municipal de Planejamento Urbano."""
     print("\n[Implurb] Iniciando...")
     return scrape_generico(
-        url="https://implurb.manaus.am.gov.br",
+        url="https://www.manaus.am.gov.br/implurb/noticias/",
         orgao="Implurb",
         tema="Planejamento Urbano",
         seletores=["article", ".post", "a"],
@@ -546,7 +546,7 @@ def scrape_sefaz_am() -> list[dict]:
     """SEFAZ-AM — Legislação tributária do Amazonas."""
     print("\n[SEFAZ-AM] Iniciando...")
     return scrape_generico(
-        url="https://www.sefaz.am.gov.br/area/legislacao",
+        url="https://www.sefaz.am.gov.br/noticias",
         orgao="SEFAZ-AM",
         tema="Tributação / AM",
         seletores=[".legislacao a", "table tr td a", "li a", "article"],
@@ -558,7 +558,7 @@ def scrape_seinfra_am() -> list[dict]:
     """Seinfra-AM — Secretaria de Infraestrutura."""
     print("\n[Seinfra-AM] Iniciando...")
     return scrape_generico(
-        url="https://www.seinfra.am.gov.br",
+        url="https://www.seinfra.am.gov.br/category/noticias/",
         orgao="Seinfra-AM",
         tema="Infraestrutura / AM",
         seletores=["article", ".post", "a"],
