@@ -1,13 +1,129 @@
 {
-  "ultima_coleta": "26/06/2026 13:11",
-  "total": 61,
+  "ultima_coleta": "28/06/2026 07:32",
+  "mes_ano": "Jun/2026",
+  "total": 41,
   "fontes": 18,
+  "fontes_com_falha": [],
+  "stats": {
+    "critico": 6,
+    "alto": 2,
+    "medio": 1,
+    "baixo": 32,
+    "consultas_abertas": 4
+  },
+  "por_orgao": {
+    "Cigás": 6,
+    "SEMIG": 6,
+    "AmE": 5,
+    "Prefeitura Manaus": 5,
+    "IMMU": 4,
+    "Implurb": 3,
+    "DOU": 1,
+    "DOE-AM": 1,
+    "ANEEL": 1,
+    "ANP": 1,
+    "ANA": 1,
+    "CCEE": 1,
+    "ONS": 1,
+    "Petrobras": 1,
+    "TAG": 1,
+    "ARSEPAM": 1,
+    "SEFAZ-AM": 1,
+    "Seinfra-AM": 1
+  },
   "publicacoes": [
+    {
+      "titulo": "RECOMPRA DE AÇÕES SISTEMA DE ANÁLISE DE PROJETOS Home A Empresa Nossa Gente Sua conta Informações Atendimento Informações Notícias Alteração de Carga Cadastro de Equipamento Vital ",
+      "orgao": "AmE",
+      "tema": "Energia Elétrica / AM",
+      "data": "28/06/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico",
+        "energia",
+        "gas",
+        "consulta",
+        "tarifa",
+        "ambiental"
+      ],
+      "url": "https://website.ambarenergia-am.com.br",
+      "desc": "RECOMPRA DE AÇÕES SISTEMA DE ANÁLISE DE PROJETOS Home A Empresa Nossa Gente Sua conta Informações Atendimento Informações Notícias Alteração de Carga Cadastro de Equipamento Vital Cliente Alta Tensão Cliente Mercado Livre Compartilhamento de infraestruturas Contrato Contribuição de Iluminação Pública por Município Decretos de Situação de Emergência Desligamentos Programados Despesas Associadas a CCC Dicas de Consumo Consciente Dicas de Segurança Direitos e Deveres Furto de energia elétrica é cri"
+    },
+    {
+      "titulo": "Informações Notícias Alteração de Carga Cadastro de Equipamento Vital Cliente Alta Tensão Cliente Mercado Livre Compartilhamento de infraestruturas Contrato Contribuição de Ilumina",
+      "orgao": "AmE",
+      "tema": "Energia Elétrica / AM",
+      "data": "28/06/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico",
+        "energia",
+        "gas",
+        "consulta",
+        "tarifa",
+        "ambiental"
+      ],
+      "url": "https://website.ambarenergia-am.com.br/informacoes/alteracao-de-carga/",
+      "desc": "Informações Notícias Alteração de Carga Cadastro de Equipamento Vital Cliente Alta Tensão Cliente Mercado Livre Compartilhamento de infraestruturas Contrato Contribuição de Iluminação Pública por Município Decretos de Situação de Emergência Desligamentos Programados Despesas Associadas a CCC Dicas de Consumo Consciente Dicas de Segurança Direitos e Deveres Furto de energia elétrica é crime Iluminação Pública Indicadores de Continuidade Ligação Nova Ligação Provisória Localizar App na Loja Micro/"
+    },
+    {
+      "titulo": "Alteração de Carga Cadastro de Equipamento Vital Cliente Alta Tensão Cliente Mercado Livre Compartilhamento de infraestruturas Contrato Contribuição de Iluminação Pública por Munic",
+      "orgao": "AmE",
+      "tema": "Energia Elétrica / AM",
+      "data": "28/06/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico",
+        "energia",
+        "gas",
+        "consulta",
+        "tarifa",
+        "ambiental"
+      ],
+      "url": "https://website.ambarenergia-am.com.br/informacoes/alteracao-de-carga/",
+      "desc": "Alteração de Carga Cadastro de Equipamento Vital Cliente Alta Tensão Cliente Mercado Livre Compartilhamento de infraestruturas Contrato Contribuição de Iluminação Pública por Município Decretos de Situação de Emergência Desligamentos Programados Despesas Associadas a CCC Dicas de Consumo Consciente Dicas de Segurança Direitos e Deveres Furto de energia elétrica é crime Iluminação Pública Indicadores de Continuidade Ligação Nova Ligação Provisória Localizar App na Loja Micro/Minigeração Distribuí"
+    },
+    {
+      "titulo": "Decretos de Situação de Emergência",
+      "orgao": "AmE",
+      "tema": "Energia Elétrica / AM",
+      "data": "28/06/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico"
+      ],
+      "url": "https://website.ambarenergia-am.com.br/informacoes/decretos-de-situacao-de-emergencia/",
+      "desc": "Decretos de Situação de Emergência"
+    },
+    {
+      "titulo": "Manaus Prefeitura de Manaus inicia intervenção viária na avenida Coronel Teixeira para obras do complexo viário ‘Passarão’",
+      "orgao": "IMMU",
+      "tema": "Mobilidade Urbana",
+      "data": "28/06/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico"
+      ],
+      "url": "https://www.manaus.am.gov.br/immu/manaus/prefeitura-intervencao-passarao/",
+      "desc": "Manaus Prefeitura de Manaus inicia intervenção viária na avenida Coronel Teixeira para obras do complexo viário ‘Passarão’"
+    },
+    {
+      "titulo": "INTERVENÇÃO VIÁRIA Prefeitura de Manaus reforça operação de trânsito para corridas no fim de semana",
+      "orgao": "IMMU",
+      "tema": "Mobilidade Urbana",
+      "data": "28/06/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico"
+      ],
+      "url": "https://www.manaus.am.gov.br/immu/nota/prefeitura-immu-operacao-de-transito-corridas/",
+      "desc": "INTERVENÇÃO VIÁRIA Prefeitura de Manaus reforça operação de trânsito para corridas no fim de semana"
+    },
     {
       "titulo": "Licitações e Contratos",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "26/06/2026",
+      "data": "28/06/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -16,34 +132,35 @@
       "desc": "Licitações e Contratos"
     },
     {
-      "titulo": "MINUTAS DE CONTRATOS",
-      "orgao": "Cigás",
-      "tema": "Gás Natural / AM",
-      "data": "26/06/2026",
+      "titulo": "Operação Responsável por obra irregular é preso em flagrante pela Guarda Municipal após desobedecer fiscalização do Implurb",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "28/06/2026",
       "impacto": "alto",
       "tags": [
         "alto"
       ],
-      "url": "https://www.cigas.com.br/minutas-de-contratos",
-      "desc": "MINUTAS DE CONTRATOS"
+      "url": "https://www.manaus.am.gov.br/noticia/operacao/prefeitura-implurb-guarda-fiscalizacao/",
+      "desc": "Operação Responsável por obra irregular é preso em flagrante pela Guarda Municipal após desobedecer fiscalização do Implurb"
     },
     {
-      "titulo": "CONTRATOS DE PUBLICIDADE",
-      "orgao": "Cigás",
-      "tema": "Gás Natural / AM",
-      "data": "26/06/2026",
-      "impacto": "alto",
+      "titulo": "12 de maio de 2026 | 14:08 Semig participa de Audiência Pública sobre Política Estadual de Fertilizantes do Amazonas na Aleam Compartilhar Tweet",
+      "orgao": "SEMIG",
+      "tema": "Política Energética / AM",
+      "data": "28/06/2026",
+      "impacto": "medio",
       "tags": [
-        "alto"
+        "medio",
+        "consulta"
       ],
-      "url": "https://www.cigas.com.br/contratos-de-publicidade",
-      "desc": "CONTRATOS DE PUBLICIDADE"
+      "url": "https://www.semig.am.gov.br/semig-participa-de-audiencia-publica-sobre-politica-estadual-de-fertilizantes-do-amazonas-na-aleam/",
+      "desc": "12 de maio de 2026 | 14:08 Semig participa de Audiência Pública sobre Política Estadual de Fertilizantes do Amazonas na Aleam Compartilhar Tweet"
     },
     {
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "26/06/2026",
+      "data": "28/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -52,121 +169,95 @@
       "desc": "DOU — Página verificada sem atos relevantes hoje."
     },
     {
-      "titulo": "DOE-AM — Gmail Imagens Fazer login No que você está pensando? Fazer upload da imagem Fazer upload do arquivo Ferramentas 🍌 Criar imagens Mo",
+      "titulo": "DOE-AM — Verificado hoje sem atos relevantes identificados",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "26/06/2026",
+      "data": "28/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
         "estadual"
       ],
       "url": "https://diario.imprensaoficial.am.gov.br/portal/edicoes/download/0",
-      "desc": "Gmail Imagens Fazer login No que você está pensando? Fazer upload da imagem Fazer upload do arquivo Ferramentas 🍌 Criar imagens Modo IA 🍌 Criar Remover Criar Imagens Ver mais Excluir Excluir Denunciar previsões inadequadas Disponibilizado pelo Google em: English Sobre Publicidade Negócios Como funciona a Pesquisa Privacidade Termos Configurações Configurações de Pesquisa Pesquisa avançada Seus dados na Pesquisa Histórico de pesquisa Ajuda da pesquisa Enviar feedback Tema escuro: desativado"
-    },
-    {
-      "titulo": "DOE-AM — Sobre Publicidade Negócios Como funciona a Pesquisa Privacidade Termos Configurações Configurações de Pesquisa Pesquisa avançada S",
-      "orgao": "DOE-AM",
-      "tema": "Atos Oficiais Estaduais",
-      "data": "26/06/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo",
-        "estadual"
-      ],
-      "url": "https://diario.imprensaoficial.am.gov.br/portal/edicoes/download/0",
-      "desc": "Sobre Publicidade Negócios Como funciona a Pesquisa Privacidade Termos Configurações Configurações de Pesquisa Pesquisa avançada Seus dados na Pesquisa Histórico de pesquisa Ajuda da pesquisa Enviar feedback Tema escuro: desativado"
-    },
-    {
-      "titulo": "DOE-AM — Sobre Publicidade Negócios Como funciona a Pesquisa",
-      "orgao": "DOE-AM",
-      "tema": "Atos Oficiais Estaduais",
-      "data": "26/06/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo",
-        "estadual"
-      ],
-      "url": "https://diario.imprensaoficial.am.gov.br/portal/edicoes/download/0",
-      "desc": "Sobre Publicidade Negócios Como funciona a Pesquisa"
+      "desc": "Edição do dia verificada. Nenhum ato com palavras-chave relevantes foi encontrado nesta edição."
     },
     {
       "titulo": "ANEEL — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "26/06/2026",
+      "data": "28/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/consultas-e-audiencias-publicas",
+      "url": "https://antigo.aneel.gov.br/consultas-publicas",
       "desc": "ANEEL — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
       "titulo": "ANP — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "26/06/2026",
+      "data": "28/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.gov.br/anp/pt-br/assuntos/legislacao-e-normas",
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados",
       "desc": "ANP — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
       "titulo": "ANA — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "26/06/2026",
+      "data": "28/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.gov.br/ana/pt-br/assuntos/regulacao/outorga",
+      "url": "https://www.gov.br/ana/pt-br/assuntos/noticias-e-eventos/noticias",
       "desc": "ANA — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "26/06/2026",
+      "data": "28/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.ccee.org.br/web/guest/regulacao/regras-e-procedimentos",
+      "url": "https://www.ccee.org.br/busca-ccee?q=&dtIni=&dtFim=&structure=ccee-noticias&ordenacao=Mais%20recentes",
       "desc": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
-      "titulo": "ONS — Falha temporária de acesso. Próxima tentativa amanhã.",
+      "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "26/06/2026",
+      "data": "28/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.ons.org.br/paginas/sobre-o-ons/normas-e-publicacoes/resolucoes",
-      "desc": "ONS — Falha temporária de acesso. Próxima tentativa amanhã."
+      "url": "https://www.ons.org.br/paginas/imprensa/noticias",
+      "desc": "ONS — Página verificada sem atos relevantes hoje."
     },
     {
-      "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
+      "titulo": "Petrobras — Página verificada sem atos relevantes hoje.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "26/06/2026",
+      "data": "28/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://petrobras.com.br/noticias",
-      "desc": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã."
+      "url": "https://petrobras.com.br",
+      "desc": "Petrobras — Página verificada sem atos relevantes hoje."
     },
     {
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "26/06/2026",
+      "data": "28/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -175,25 +266,26 @@
       "desc": "TAG — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
-      "titulo": "AmE — Falha temporária de acesso. Próxima tentativa amanhã.",
+      "titulo": "Dicas de Consumo Consciente",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "26/06/2026",
+      "data": "28/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.amazonasenergia.com/noticias",
-      "desc": "AmE — Falha temporária de acesso. Próxima tentativa amanhã."
+      "url": "https://website.ambarenergia-am.com.br/informacoes/dicas-de-consumo-consciente/",
+      "desc": "Dicas de Consumo Consciente"
     },
     {
       "titulo": "COGERAÇÃO DE ENERGIA",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "26/06/2026",
+      "data": "28/06/2026",
       "impacto": "baixo",
       "tags": [
-        "baixo"
+        "baixo",
+        "energia"
       ],
       "url": "https://www.cigas.com.br/cogeracao",
       "desc": "COGERAÇÃO DE ENERGIA"
@@ -202,10 +294,11 @@
       "titulo": "GÁS RESIDENCIAL",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "26/06/2026",
+      "data": "28/06/2026",
       "impacto": "baixo",
       "tags": [
-        "baixo"
+        "baixo",
+        "gas"
       ],
       "url": "https://www.cigas.com.br/gas-residencial",
       "desc": "GÁS RESIDENCIAL"
@@ -214,10 +307,11 @@
       "titulo": "Estudantes do curso de Engenharia de Petróleo e Gás da UFAM visitam a Cigás",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "26/06/2026",
+      "data": "28/06/2026",
       "impacto": "baixo",
       "tags": [
-        "baixo"
+        "baixo",
+        "gas"
       ],
       "url": "https://www.cigas.com.br/post/estudantes-do-curso-de-engenharia-de-petróleo-e-gás-da-ufam-visitam-a-cigás",
       "desc": "Estudantes do curso de Engenharia de Petróleo e Gás da UFAM visitam a Cigás"
@@ -226,10 +320,11 @@
       "titulo": "Uso de gás natural no Amazonas evita a emissão de 7,5 milhões de toneladas de gases de efeito estufa",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "26/06/2026",
+      "data": "28/06/2026",
       "impacto": "baixo",
       "tags": [
-        "baixo"
+        "baixo",
+        "gas"
       ],
       "url": "https://www.cigas.com.br/post/uso-de-gás-natural-no-amazonas-evita-a-emissão-de-7-5-milhões-de-toneladas-de-gases-de-efeito-estufa",
       "desc": "Uso de gás natural no Amazonas evita a emissão de 7,5 milhões de toneladas de gases de efeito estufa"
@@ -238,10 +333,11 @@
       "titulo": "Cigás impulsiona segurança e economia em pequenos negócios de Manaus",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "26/06/2026",
+      "data": "28/06/2026",
       "impacto": "baixo",
       "tags": [
-        "baixo"
+        "baixo",
+        "gas"
       ],
       "url": "https://www.cigas.com.br/post/cigás-impulsiona-segurança-e-economia-em-pequenos-negócios-de-manaus",
       "desc": "Cigás impulsiona segurança e economia em pequenos negócios de Manaus"
@@ -250,223 +346,134 @@
       "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "26/06/2026",
+      "data": "28/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.arsepam.am.gov.br/legislacao/",
+      "url": "https://www.arsepam.am.gov.br/category/noticias/",
       "desc": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
-      "titulo": "SEMIG Secretaria de Estado de Energia, Mineração e Gás",
+      "titulo": "19 de junho de 2026 | 11:31 Semig destaca avanço do setor de gás natural com licença concedida à Eneva em Silves Compartilhar Tweet",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "26/06/2026",
+      "data": "28/06/2026",
       "impacto": "baixo",
       "tags": [
-        "baixo"
-      ],
-      "url": "https://www.semig.am.gov.br",
-      "desc": "SEMIG Secretaria de Estado de Energia, Mineração e Gás"
-    },
-    {
-      "titulo": "Instagram SEMIG",
-      "orgao": "SEMIG",
-      "tema": "Política Energética / AM",
-      "data": "26/06/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.instagram.com/semig.am",
-      "desc": "Instagram SEMIG"
-    },
-    {
-      "titulo": "Estrutura Organizacional",
-      "orgao": "SEMIG",
-      "tema": "Política Energética / AM",
-      "data": "26/06/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://semig.am.gov.br/estrutura",
-      "desc": "Estrutura Organizacional"
-    },
-    {
-      "titulo": "E-mail Integra Amazonas",
-      "orgao": "SEMIG",
-      "tema": "Política Energética / AM",
-      "data": "26/06/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.office.com/?auth=2&home=1",
-      "desc": "E-mail Integra Amazonas"
-    },
-    {
-      "titulo": "Semig destaca avanço do setor de gás natural com licença concedida à Eneva em Silves 19/06/2026 - 11:31",
-      "orgao": "SEMIG",
-      "tema": "Política Energética / AM",
-      "data": "26/06/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
+        "baixo",
+        "gas"
       ],
       "url": "https://www.semig.am.gov.br/semig-destaca-avanco-do-setor-de-gas-natural-com-licenca-concedida-a-eneva-em-silves/",
-      "desc": "Semig destaca avanço do setor de gás natural com licença concedida à Eneva em Silves 19/06/2026 - 11:31"
+      "desc": "19 de junho de 2026 | 11:31 Semig destaca avanço do setor de gás natural com licença concedida à Eneva em Silves Compartilhar Tweet"
     },
     {
-      "titulo": "Semig e Comissão de Energia da Aleam identificam mais de 200 famílias sem energia elétrica no Alto Solimões 29/05/2026 - 12:28",
+      "titulo": "29 de maio de 2026 | 12:28 Semig e Comissão de Energia da Aleam identificam mais de 200 famílias sem energia elétrica no Alto Solimões Compartilhar Tweet",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "26/06/2026",
+      "data": "28/06/2026",
       "impacto": "baixo",
       "tags": [
-        "baixo"
+        "baixo",
+        "energia"
       ],
       "url": "https://www.semig.am.gov.br/semig-e-comissao-de-energia-da-aleam-identificam-mais-de-200-familias-sem-energia-eletrica-no-alto-solimoes/",
-      "desc": "Semig e Comissão de Energia da Aleam identificam mais de 200 famílias sem energia elétrica no Alto Solimões 29/05/2026 - 12:28"
+      "desc": "29 de maio de 2026 | 12:28 Semig e Comissão de Energia da Aleam identificam mais de 200 famílias sem energia elétrica no Alto Solimões Compartilhar Tweet"
     },
     {
-      "titulo": "Chegada do gás natural à UTE Manaus I marca avanço histórico para o setor energético do Amazonas 26/05/2026 - 12:48",
+      "titulo": "26 de maio de 2026 | 12:48 Chegada do gás natural à UTE Manaus I marca avanço histórico para o setor energético do Amazonas Compartilhar Tweet",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "26/06/2026",
+      "data": "28/06/2026",
       "impacto": "baixo",
       "tags": [
-        "baixo"
+        "baixo",
+        "gas"
       ],
       "url": "https://www.semig.am.gov.br/chegada-do-gas-natural-a-ute-manaus-i-marca-avanco-historico-para-o-setor-energetico-do-amazonas/",
-      "desc": "Chegada do gás natural à UTE Manaus I marca avanço histórico para o setor energético do Amazonas 26/05/2026 - 12:48"
+      "desc": "26 de maio de 2026 | 12:48 Chegada do gás natural à UTE Manaus I marca avanço histórico para o setor energético do Amazonas Compartilhar Tweet"
     },
     {
-      "titulo": "“Semig nas Escolas” leva conhecimento sobre energia, mineração e gás à Escola Estadual Tiradentes 21/05/2026 - 12:13",
+      "titulo": "21 de maio de 2026 | 12:13 “Semig nas Escolas” leva conhecimento sobre energia, mineração e gás à Escola Estadual Tiradentes Compartilhar Tweet",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "26/06/2026",
+      "data": "28/06/2026",
       "impacto": "baixo",
       "tags": [
-        "baixo"
+        "baixo",
+        "energia",
+        "gas"
       ],
       "url": "https://www.semig.am.gov.br/semig-nas-escolas-leva-conhecimento-sobre-energia-mineracao-e-gas-a-escola-estadual-tiradentes/",
-      "desc": "“Semig nas Escolas” leva conhecimento sobre energia, mineração e gás à Escola Estadual Tiradentes 21/05/2026 - 12:13"
+      "desc": "21 de maio de 2026 | 12:13 “Semig nas Escolas” leva conhecimento sobre energia, mineração e gás à Escola Estadual Tiradentes Compartilhar Tweet"
     },
     {
-      "titulo": "semig.am Secretaria de Estado de Energia, Mineração e Gás do Amazonas",
+      "titulo": "20 de maio de 2026 | 13:45 Semig nas Escolas leva conhecimento sobre energia, mineração e gás a estudantes da zona centro-sul de Manaus Compartilhar Tweet",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "26/06/2026",
+      "data": "28/06/2026",
       "impacto": "baixo",
       "tags": [
-        "baixo"
+        "baixo",
+        "energia",
+        "gas"
       ],
-      "url": "https://www.instagram.com/semig.am/",
-      "desc": "semig.am Secretaria de Estado de Energia, Mineração e Gás do Amazonas"
+      "url": "https://www.semig.am.gov.br/semig-nas-escolas-leva-conhecimento-sobre-energia-mineracao-e-gas-a-estudantes-da-zona-centro-sul-de-manaus/",
+      "desc": "20 de maio de 2026 | 13:45 Semig nas Escolas leva conhecimento sobre energia, mineração e gás a estudantes da zona centro-sul de Manaus Compartilhar Tweet"
     },
     {
-      "titulo": "A Semig participou nesta segunda-feira (22/06), de",
-      "orgao": "SEMIG",
-      "tema": "Política Energética / AM",
-      "data": "26/06/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.instagram.com/p/DZ5bUqvhbl1/",
-      "desc": "A Semig participou nesta segunda-feira (22/06), de"
-    },
-    {
-      "titulo": "A Semig participou da 320ª Reunião Ordinária do",
-      "orgao": "SEMIG",
-      "tema": "Política Energética / AM",
-      "data": "26/06/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.instagram.com/p/DZu7n6YFkSP/",
-      "desc": "A Semig participou da 320ª Reunião Ordinária do"
-    },
-    {
-      "titulo": "Por trás da distribuição e do desenvolvimento d",
-      "orgao": "SEMIG",
-      "tema": "Política Energética / AM",
-      "data": "26/06/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.instagram.com/p/DZsSxe2lpRR/",
-      "desc": "Por trás da distribuição e do desenvolvimento d"
-    },
-    {
-      "titulo": "A Secretaria de Estado de Energia, Mineração e G",
-      "orgao": "SEMIG",
-      "tema": "Política Energética / AM",
-      "data": "26/06/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.instagram.com/reel/DZr3797BfQS/",
-      "desc": "A Secretaria de Estado de Energia, Mineração e G"
-    },
-    {
-      "titulo": "semig@semig.am.gov.br",
-      "orgao": "SEMIG",
-      "tema": "Política Energética / AM",
-      "data": "26/06/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.semig.am.gov.br",
-      "desc": "semig@semig.am.gov.br"
-    },
-    {
-      "titulo": "Proporcionado por GDPR Cookie Compliance",
-      "orgao": "SEMIG",
-      "tema": "Política Energética / AM",
-      "data": "26/06/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://wordpress.org/plugins/gdpr-cookie-compliance/",
-      "desc": "Proporcionado por GDPR Cookie Compliance"
-    },
-    {
-      "titulo": "SEFAZ-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
+      "titulo": "Prêmio Estadual de Educação Fiscal é lançado no Amazonas e está com inscrições abertas",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "26/06/2026",
+      "data": "28/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.sefaz.am.gov.br/area/legislacao",
-      "desc": "SEFAZ-AM — Falha temporária de acesso. Próxima tentativa amanhã."
+      "url": "https://www.sefaz.am.gov.br/noticias/33253",
+      "desc": "Prêmio Estadual de Educação Fiscal é lançado no Amazonas e está com inscrições abertas"
     },
     {
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "26/06/2026",
+      "data": "28/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.seinfra.am.gov.br",
+      "url": "https://www.seinfra.am.gov.br/category/noticias/",
       "desc": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã."
+    },
+    {
+      "titulo": "Ação Prefeitura de Manaus inicia carregamento de caminhões em operação humanitária para a Venezuela",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "28/06/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/acao/prefeitura-carregamento-ajudavenezuela/",
+      "desc": "Ação Prefeitura de Manaus inicia carregamento de caminhões em operação humanitária para a Venezuela"
+    },
+    {
+      "titulo": "Irregularidade Prefeito Renato Junior flagra obra embargada da Águas de Manaus, faz cobrança ao presidente da concessionária e cobra respeito por Manaus",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "28/06/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/irregularidade/flagrante-obra-embargada-aguas-de-manaus/",
+      "desc": "Irregularidade Prefeito Renato Junior flagra obra embargada da Águas de Manaus, faz cobrança ao presidente da concessionária e cobra respeito por Manaus"
     },
     {
       "titulo": "Ação Conjunta Prefeitura intensifica operação ‘Centro Mais Seguro’ e reforça ordenamento urbano, assistência social e mobilidade na região central de Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "26/06/2026",
+      "data": "28/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -475,214 +482,58 @@
       "desc": "Ação Conjunta Prefeitura intensifica operação ‘Centro Mais Seguro’ e reforça ordenamento urbano, assistência social e mobilidade na região central de Manaus"
     },
     {
-      "titulo": "Cooperação Prefeito Renato Junior recebe pesquisadores do Inpa e anuncia agenda conjunta para recuperação ambiental, mobilidade e turismo em Manaus",
+      "titulo": "Serviços Prefeitura de Manaus realiza operação ‘Tapa-Buracos’ na avenida Camapuã em momento de baixo fluxo de veículos",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "26/06/2026",
+      "data": "28/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/cooperacao/prefeito-agenda-conjunta-para-recuperacao-ambiental-mobilidade-e-turismo-em-manaus/",
-      "desc": "Cooperação Prefeito Renato Junior recebe pesquisadores do Inpa e anuncia agenda conjunta para recuperação ambiental, mobilidade e turismo em Manaus"
+      "url": "https://www.manaus.am.gov.br/noticia/servicos/prefeitura-seminf-tapa-buracos-camapua/",
+      "desc": "Serviços Prefeitura de Manaus realiza operação ‘Tapa-Buracos’ na avenida Camapuã em momento de baixo fluxo de veículos"
     },
     {
-      "titulo": "Eleição Prefeitura de Manaus participa de oficialização de novos desembargadores do TJ-AM",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "26/06/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/eleicao/prefeitura-pgm-desembargadorestj/",
-      "desc": "Eleição Prefeitura de Manaus participa de oficialização de novos desembargadores do TJ-AM"
-    },
-    {
-      "titulo": "Chamamento Público Prefeito Renato Junior anuncia nova convocação de mais de 90 profissionais de saúde para reforçar a rede municipal de Manaus",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "26/06/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/chamamento-publico/anuncio-nova-convocacao-profissionais-de-saude/",
-      "desc": "Chamamento Público Prefeito Renato Junior anuncia nova convocação de mais de 90 profissionais de saúde para reforçar a rede municipal de Manaus"
-    },
-    {
-      "titulo": "Sensibilização Prefeitura de Manaus promove caminhada de combate à violência contra a pessoa idosa em alusão ao Dia D da operação ‘Virtude’",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "26/06/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/sensibilizacao/caminhada-de-combate-a-violencia-contra-a-pessoa-idosa/",
-      "desc": "Sensibilização Prefeitura de Manaus promove caminhada de combate à violência contra a pessoa idosa em alusão ao Dia D da operação ‘Virtude’"
-    },
-    {
-      "titulo": "Serviços Prefeitura inicia programa ‘Manaus que a Gente Cuida’ no bairro Cidade de Deus com recuperação viária e aprimoramento da drenagem urbana",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "26/06/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/servicos/programa-manaus-que-a-gente-cuida-2/",
-      "desc": "Serviços Prefeitura inicia programa ‘Manaus que a Gente Cuida’ no bairro Cidade de Deus com recuperação viária e aprimoramento da drenagem urbana"
-    },
-    {
-      "titulo": "Obras Prefeitura de Manaus inicia operação de ampliação de drenagem na comunidade Parque Riachuelo, no Tarumã",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "26/06/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/obras/ampliacao-de-drenagem-na-comunidade-parque-riachuelo/",
-      "desc": "Obras Prefeitura de Manaus inicia operação de ampliação de drenagem na comunidade Parque Riachuelo, no Tarumã"
-    },
-    {
-      "titulo": "Irregularidade Ageman notifica Águas de Manaus por falhas na recomposição asfáltica e vazamento no bairro Planalto 25/06/2026 18h29",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "26/06/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/irregularidade/notifica-aguas-de-manaus-por-falhas-na-recomposicao-asfaltica/",
-      "desc": "Irregularidade Ageman notifica Águas de Manaus por falhas na recomposição asfáltica e vazamento no bairro Planalto 25/06/2026 18h29"
-    },
-    {
-      "titulo": "Infraestrutura Prefeitura de Manaus intensifica obras no bairro Cidade Nova e transforma mobilidade com nova frente de recuperação asfáltica 25/06/2026 17h06",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "26/06/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/infraestrutura/obras-no-bairro-cidade-nova/",
-      "desc": "Infraestrutura Prefeitura de Manaus intensifica obras no bairro Cidade Nova e transforma mobilidade com nova frente de recuperação asfáltica 25/06/2026 17h06"
-    },
-    {
-      "titulo": "Ordenamento Urbano Prefeitura de Manaus realiza nova ação para remover faixas, banners e lambe-lambes instalados em locais proibidos da capital 25/06/2026 16h21",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "26/06/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/ordenamento-urbano/remover-faixas-banners-e-lambe-lambes-instalados/",
-      "desc": "Ordenamento Urbano Prefeitura de Manaus realiza nova ação para remover faixas, banners e lambe-lambes instalados em locais proibidos da capital 25/06/2026 16h21"
-    },
-    {
-      "titulo": "Oportunidade Sine Manaus oferta 573 vagas de emprego nesta sexta–feira, 26/6 25/06/2026 13h11",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "26/06/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/oportunidade/prefeitura-semtepi-sine-manaus-vagas2606/",
-      "desc": "Oportunidade Sine Manaus oferta 573 vagas de emprego nesta sexta–feira, 26/6 25/06/2026 13h11"
-    },
-    {
-      "titulo": "Levantamento Procon Manaus monitora preços e identifica variação entre combustíveis em junho 25/06/2026 13h10",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "26/06/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/levantamento/procon-manaus-precos-combustiveis-junho/",
-      "desc": "Levantamento Procon Manaus monitora preços e identifica variação entre combustíveis em junho 25/06/2026 13h10"
-    },
-    {
-      "titulo": "Capacitação Samu Manaus promove oficina para servidores da Maternidade Dr. Moura Tapajóz 25/06/2026 12h08",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "26/06/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/capacitacao/prefeitura-semsa-samu-mmt/",
-      "desc": "Capacitação Samu Manaus promove oficina para servidores da Maternidade Dr. Moura Tapajóz 25/06/2026 12h08"
-    },
-    {
-      "titulo": "Consolidação Prefeitura de Manaus fortalece integridade pública com lançamento do ‘Manual de Prevenção de Conflito de Interesses’ 25/06/2026 12h01",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "26/06/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/consolidacao/integridade-publica-lancamento-manual/",
-      "desc": "Consolidação Prefeitura de Manaus fortalece integridade pública com lançamento do ‘Manual de Prevenção de Conflito de Interesses’ 25/06/2026 12h01"
-    },
-    {
-      "titulo": "Nota Prefeitura de Manaus informa que vacina contra o HPV segue disponível para crianças, adolescentes e grupos prioritários 25/06/2026 10h53",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "26/06/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/nota/prefeitura-semsa-vacina-hpv/",
-      "desc": "Nota Prefeitura de Manaus informa que vacina contra o HPV segue disponível para crianças, adolescentes e grupos prioritários 25/06/2026 10h53"
-    },
-    {
-      "titulo": "Nota Guarda Municipal realiza prisão de um indivíduo por tráfico de entorpecentes na zona Sul 25/06/2026 10h39",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "26/06/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/nota/prefeitura-guarda-municipal-romu-acaozonasul/",
-      "desc": "Nota Guarda Municipal realiza prisão de um indivíduo por tráfico de entorpecentes na zona Sul 25/06/2026 10h39"
-    },
-    {
-      "titulo": "Nota Prefeitura de Manaus alerta para risco de chuva intensa nesta quinta-feira 25/06/2026 10h02",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "26/06/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/nota/prefeitura-defesacivil-alerta-chuva2506/",
-      "desc": "Nota Prefeitura de Manaus alerta para risco de chuva intensa nesta quinta-feira 25/06/2026 10h02"
-    },
-    {
-      "titulo": "IMMU — Falha temporária de acesso. Próxima tentativa amanhã.",
+      "titulo": "Transporte Prefeitura de Manaus amplia linhas expressas e reduz tempo de viagem em até 50 minutos para usuários das zonas Norte e Leste",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "26/06/2026",
+      "data": "28/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://immu.manaus.am.gov.br",
-      "desc": "IMMU — Falha temporária de acesso. Próxima tentativa amanhã."
+      "url": "https://www.manaus.am.gov.br/immu/noticia-transporte/prefeitura-immu-linhas-expressas/",
+      "desc": "Transporte Prefeitura de Manaus amplia linhas expressas e reduz tempo de viagem em até 50 minutos para usuários das zonas Norte e Leste"
+    },
+    {
+      "titulo": "Ação Prefeitura de Manaus intensifica revitalização de caixas amarelas para aumentar segurança viária e fluidez no trânsito",
+      "orgao": "IMMU",
+      "tema": "Mobilidade Urbana",
+      "data": "28/06/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/immu/acao/prefeitura-immu-revitalizacao-sinalizacao-3/",
+      "desc": "Ação Prefeitura de Manaus intensifica revitalização de caixas amarelas para aumentar segurança viária e fluidez no trânsito"
+    },
+    {
+      "titulo": "Cooperação Prefeito Renato Junior recebe pesquisadores do Inpa e anuncia agenda conjunta para recuperação ambiental, mobilidade e turismo em Manaus",
+      "orgao": "Implurb",
+      "tema": "Planejamento Urbano",
+      "data": "28/06/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/implurb/prefeito-agenda-conjunta-para-recuperacao-ambiental-mobilidade-e-turismo-em-manaus/",
+      "desc": "Cooperação Prefeito Renato Junior recebe pesquisadores do Inpa e anuncia agenda conjunta para recuperação ambiental, mobilidade e turismo em Manaus"
     },
     {
       "titulo": "Obras Prefeitura de Manaus chega quase à metade da execução da cúpula da Oca Niemeyer no parque Encontro das Águas Rosa Almeida",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "26/06/2026",
+      "data": "28/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -694,49 +545,13 @@
       "titulo": "Turismo Prefeitura acelera obras do parque Encontro das Águas Rosa Almeida e consolida novo cartão-postal de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "26/06/2026",
+      "data": "28/06/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
       "url": "https://www.manaus.am.gov.br/implurb/prefeitura-implurb-obras-parqueencontrodasaguas/",
       "desc": "Turismo Prefeitura acelera obras do parque Encontro das Águas Rosa Almeida e consolida novo cartão-postal de Manaus"
-    },
-    {
-      "titulo": "Manaus Prefeitura conclui etapa de contenção no parque Encontro das Águas Rosa Almeida com mais de 260 estacas",
-      "orgao": "Implurb",
-      "tema": "Planejamento Urbano",
-      "data": "26/06/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/implurb/prefeitura-implurb-contencao-parque-encontro-das-aguas/",
-      "desc": "Manaus Prefeitura conclui etapa de contenção no parque Encontro das Águas Rosa Almeida com mais de 260 estacas"
-    },
-    {
-      "titulo": "Irregularidade Prefeitura de Manaus multa Águas de Manaus por obra irregular no bairro Lírio do Vale",
-      "orgao": "Implurb",
-      "tema": "Planejamento Urbano",
-      "data": "26/06/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/implurb/obra-irregular-no-bairro-lirio-do-vale/",
-      "desc": "Irregularidade Prefeitura de Manaus multa Águas de Manaus por obra irregular no bairro Lírio do Vale"
-    },
-    {
-      "titulo": "Planejamento Urbano Prefeitura de Manaus mais que dobra número de demolições administrativas em 2026",
-      "orgao": "Implurb",
-      "tema": "Planejamento Urbano",
-      "data": "26/06/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/implurb/prefeitura-implurb-demolicoesadministrativas/",
-      "desc": "Planejamento Urbano Prefeitura de Manaus mais que dobra número de demolições administrativas em 2026"
     }
   ]
 }
