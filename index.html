@@ -731,8 +731,8 @@ input:checked+.tgl-t::before{left:19px}
           <span class="s-live">Sistema ativo</span><span>·</span><span>Última coleta: <b class="s-coleta">—</b></span><span>·</span><span><b>17</b> fontes monitoradas</span><span>·</span><span><b>4</b> consultas públicas abertas</span><span>·</span><span><b>DOE-AM</b> edição nº 36.112 disponível</span>
         </div>
         <div class="kpi-grid">
-          <div class="kpi bl"><div class="kpi-top"><div class="kpi-label">Publicações (30 dias)</div><div class="kpi-ico">📄</div></div><div class="kpi-val">47</div><div class="kpi-foot"><span class="kch up">↑ 12%</span>vs. mês anterior</div></div>
-          <div class="kpi rd"><div class="kpi-top"><div class="kpi-label">Publicações Críticas</div><div class="kpi-ico">⚠️</div></div><div class="kpi-val">6</div><div class="kpi-foot"><span class="kch dn">↑ 3</span>novas esta semana</div></div>
+        <div class="kpi bl"><div class="kpi-top"><div class="kpi-label">Publicações (30 dias)</div><div class="kpi-ico">📄</div></div><div class="kpi-val" id="kpiPublicacoes">—</div><div class="kpi-foot">todas as fontes monitoradas</div></div>
+        <div class="kpi rd"><div class="kpi-top"><div class="kpi-label">Publicações Críticas</div><div class="kpi-ico">⚠️</div></div><div class="kpi-val" id="kpiCriticas">—</div><div class="kpi-foot">requerem ação imediata</div></div>
           <div class="kpi gn"><div class="kpi-top"><div class="kpi-label">Consultas Abertas</div><div class="kpi-ico">💬</div></div><div class="kpi-val">4</div><div class="kpi-foot">2 com prazo em menos de 15 dias</div></div>
           <div class="kpi am"><div class="kpi-top"><div class="kpi-label">Fontes Ativas</div><div class="kpi-ico">🌐</div></div><div class="kpi-val">15</div><div class="kpi-foot">10 federais · 7 estaduais/privadas</div></div>
         </div>
@@ -752,16 +752,18 @@ input:checked+.tgl-t::before{left:19px}
               </div></div>
             </div>
             <div class="c-chart" style="display:flex;justify-content:center"><canvas id="donutChart" height="170" width="170"></canvas></div>
-            <div class="c-legend">
-              <div class="leg-item"><div class="leg-dot" style="background:#dc2626"></div>Crítico (45%)</div>
-              <div class="leg-item"><div class="leg-dot" style="background:#ea580c"></div>Alto (25%)</div>
-              <div class="leg-item"><div class="leg-dot" style="background:#ca8a04"></div>Médio (20%)</div>
-              <div class="leg-item"><div class="leg-dot" style="background:#16a34a"></div>Baixo (10%)</div>
+            <div class="c-legend" id="donutLegend">
+              <div class="leg-item"><div class="leg-dot" style="background:#dc2626"></div><span id="lgCrit">Crítico</span></div>
+              <div class="leg-item"><div class="leg-dot" style="background:#ea580c"></div><span id="lgAlto">Alto</span></div>
+              <div class="leg-item"><div class="leg-dot" style="background:#ca8a04"></div><span id="lgMed">Médio</span></div>
+              <div class="leg-item"><div class="leg-dot" style="background:#16a34a"></div><span id="lgBaixo">Baixo</span></div>
             </div>
           </div>
         </div>
         <div class="two-col">
           <div class="card">
+            <div class="a-list" id="dbAlertList"></div>
+            <div class="divider-label" style="margin-top:14px">Prazos críticos</div>
             <div class="c-head"><div class="c-title">Alertas recentes</div><span class="see-all" onclick="navTo('pub',document.querySelectorAll('.ni')[1])">Ver todas →</span></div>
             <div class="d-list" id="deadlineList"></div>
             <div class="divider-label">Prazos futuros</div>
@@ -1590,6 +1592,8 @@ async function carregarPublicacoes() {
   renderCharts();
   atualizarKpiPublicacoes();
   renderDbAlertas();
+  renderRelatorios();
+  renderFontes();
   renderPrazos();
   renderNotificacoes();
 }
@@ -1982,7 +1986,13 @@ function closePubModalBtn(){document.getElementById('pubModal').classList.remove
 function showKwDetail(term,el){
   document.querySelectorAll('.kw-tag').forEach(k=>k.classList.remove('sel'));el.classList.add('sel');
   document.getElementById('kwDetailTitle').textContent=term;
-  const pubs=KW_PUBS[term]||[];
+  const termLower = term.toLowerCase();
+  const pubs = PUBLICACOES.filter(p =>
+    p.titulo.toLowerCase().includes(termLower) ||
+    p.tema.toLowerCase().includes(termLower) ||
+    p.desc.toLowerCase().includes(termLower) ||
+    (p.tags && p.tags.some(t => t.toLowerCase().includes(termLower)))
+  );
   const crit=pubs.filter(p=>p.impacto==='critico').length;
   const withPrazo=pubs.filter(p=>p.prazo).length;
   document.getElementById('kwStats').innerHTML=`<div class="kwd-stat"><div class="kwd-sval">${pubs.length}</div><div class="kwd-slbl">Publicações</div></div><div class="kwd-stat"><div class="kwd-sval" style="color:var(--crit)">${crit}</div><div class="kwd-slbl">Críticas</div></div><div class="kwd-stat"><div class="kwd-sval" style="color:var(--alto)">${withPrazo}</div><div class="kwd-slbl">Com prazo ativo</div></div>`;
@@ -2286,6 +2296,15 @@ function renderCharts(){
     data:(()=>{const imp={critico:0,alto:0,medio:0,baixo:0};PUBLICACOES.forEach(p=>{if(imp[p.impacto]!==undefined)imp[p.impacto]++;});const total=Object.values(imp).reduce((a,b)=>a+b,0)||1;return{labels:['Crítico','Alto','Médio','Baixo'],datasets:[{data:[Math.round(imp.critico/total*100),Math.round(imp.alto/total*100),Math.round(imp.medio/total*100),Math.round(imp.baixo/total*100)],backgroundColor:['#dc2626','#ea580c','#ca8a04','#16a34a'],borderWidth:4,borderColor:dark?'#162236':'#ffffff',hoverOffset:7}]};})(),
     options:{cutout:'67%',plugins:{legend:{display:false},tooltip:{callbacks:{label:c=>` ${c.label}: ${c.parsed}%`}}}}
   });
+  const imp2={critico:0,alto:0,medio:0,baixo:0};
+  PUBLICACOES.forEach(p=>{if(imp2[p.impacto]!==undefined)imp2[p.impacto]++;});
+  const tot2=Object.values(imp2).reduce((a,b)=>a+b,0)||1;
+  const pct=v=>Math.round(v/tot2*100);
+  const elLg=id=>document.getElementById(id);
+  if(elLg('lgCrit'))elLg('lgCrit').textContent=`Crítico (${pct(imp2.critico)}%)`;
+  if(elLg('lgAlto'))elLg('lgAlto').textContent=`Alto (${pct(imp2.alto)}%)`;
+  if(elLg('lgMed'))elLg('lgMed').textContent=`Médio (${pct(imp2.medio)}%)`;
+  if(elLg('lgBaixo'))elLg('lgBaixo').textContent=`Baixo (${pct(imp2.baixo)}%)`;
 }
 window.addEventListener('load',renderCharts);
 
