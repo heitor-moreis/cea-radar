@@ -1533,10 +1533,10 @@ input:checked+.tgl-t::before{left:19px}
 </div>
 <script>
   
-// ══ AUTH ══
-const GH_TOKEN = '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';
-const GH_OWNER = 'heitor-moreis';
-const GH_REPO  = 'cea-radar';
+const GH_TOKEN   = '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';
+const GH_OWNER   = 'heitor-moreis';
+const GH_REPO    = 'cea-radar';
+const GH_WORKFLOW = 'scraping.yml';
 
 async function dispararScraping() {
   const btn   = document.getElementById('btnScraping');
@@ -1546,7 +1546,7 @@ async function dispararScraping() {
   label.textContent = 'Iniciando...';
   try {
     const resp = await fetch(
-      `https://api.github.com/repos/${GH_OWNER}/${GH_REPO}/dispatches`,
+      `https://api.github.com/repos/${GH_OWNER}/${GH_REPO}/actions/workflows/${GH_WORKFLOW}/dispatches`,
       {
         method: 'POST',
         headers: {
@@ -1554,10 +1554,9 @@ async function dispararScraping() {
           'Accept': 'application/vnd.github+json',
           'Content-Type': 'application/json',
         },
-        body: JSON.stringify({ event_type: 'iniciar-scraping' }),
+        body: JSON.stringify({ ref: 'main' }),
       }
     );
-
     if (resp.status === 204) {
       label.textContent = '⏳ Coletando dados...';
       btn.style.background = '#16a34a';
@@ -1578,11 +1577,9 @@ async function dispararScraping() {
           carregarPublicacoes();
         }
       }, 1000);
-
     } else {
       throw new Error(`Status ${resp.status}`);
     }
-
   } catch (e) {
     console.error('Erro ao disparar scraping:', e);
     label.textContent = '❌ Erro — tente novamente';
@@ -1597,6 +1594,7 @@ async function dispararScraping() {
     }, 3000);
   }
 }
+  
 const USERS = [
   {email:'fernandomelo@cea-termoeletrica.com.br', pass:'fernandomelo01', name:'Fernando Melo'},
   {email:'analista@cea.com.br', pass:'password', name:'Analista Regulatório'}
