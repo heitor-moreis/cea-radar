@@ -1,5 +1,5 @@
 {
-  "ultima_coleta": "01/07/2026 06:40",
+  "ultima_coleta": "01/07/2026 13:45",
   "mes_ano": "Jul/2026",
   "total": 42,
   "fontes": 18,
@@ -422,6 +422,18 @@
       "desc": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
+      "titulo": "Operação Ajuda humanitária da Prefeitura de Manaus chega à fronteira e começa a ser distribuída na Venezuela",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "01/07/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/operacao/prefeitura-ajudahumanitaria-venezuela/",
+      "desc": "Operação Ajuda humanitária da Prefeitura de Manaus chega à fronteira e começa a ser distribuída na Venezuela"
+    },
+    {
       "titulo": "Manaus Com apoio da Prefeitura de Manaus, ‘Ruas da Copa’ reúnem torcedores e movimentam economia em dia de classificação da Seleção Brasileira de Futebol",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
@@ -468,18 +480,6 @@
       ],
       "url": "https://www.manaus.am.gov.br/noticia/acao-conjunta/prefeito-renato-junior-faixa-liberada-cidadededeus/",
       "desc": "Ação Conjunta Prefeito Renato Junior estreia faixa liberada itinerante no Cidade de Deus, apresenta balanço preliminar das ações do ‘Manaus que a Gente Cuida’ e anuncia extensão dos serviços"
-    },
-    {
-      "titulo": "Mobilização Prefeitura de Manaus reforça combate à violência contra a pessoa idosa com ação educativa no Terminal de Integração 4",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "01/07/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/mobilizacao/acao-educativa-no-terminal-de-integracao-4/",
-      "desc": "Mobilização Prefeitura de Manaus reforça combate à violência contra a pessoa idosa com ação educativa no Terminal de Integração 4"
     },
     {
       "titulo": "Transporte Prefeitura de Manaus amplia linhas expressas e reduz tempo de viagem em até 50 minutos para usuários das zonas Norte e Leste",
