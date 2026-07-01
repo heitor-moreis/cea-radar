@@ -1,0 +1,24 @@
+name: Disparo Manual via Site
+
+on:
+  repository_dispatch:
+    types: [iniciar-scraping]
+
+jobs:
+  scraping:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install requests beautifulsoup4
+      - run: python scraper.py
+      - run: |
+          git config user.name "cea-radar-bot"
+          git config user.email "bot@cea-radar.com"
+          git add data/publicacoes.json
+          git diff --cached --quiet || git commit -m "📰 Atualização manual — $(date +'%d/%m/%Y %H:%M')"
+          git push
