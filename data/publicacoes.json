@@ -1,5 +1,5 @@
 {
-  "ultima_coleta": "02/07/2026 13:05",
+  "ultima_coleta": "02/07/2026 21:49",
   "mes_ano": "Jul/2026",
   "total": 42,
   "fontes": 18,
@@ -267,6 +267,19 @@
       "desc": "GÁS RESIDENCIAL"
     },
     {
+      "titulo": "Investimento de R$ 9 milhões da Cigás viabiliza implantação do Gasoduto Distrito Portuário",
+      "orgao": "Cigás",
+      "tema": "Gás Natural / AM",
+      "data": "02/07/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo",
+        "gas"
+      ],
+      "url": "https://www.cigas.com.br/post/investimento-de-r-9-milhões-da-cigás-viabiliza-implantação-do-gasoduto-distrito-portuário",
+      "desc": "Investimento de R$ 9 milhões da Cigás viabiliza implantação do Gasoduto Distrito Portuário"
+    },
+    {
       "titulo": "Cigás conclui interligação da estação da UTE Manaus 1 ao Centro de Controle Operacional",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
@@ -291,19 +304,6 @@
       ],
       "url": "https://www.cigas.com.br/post/estudantes-do-curso-de-engenharia-de-petróleo-e-gás-da-ufam-visitam-a-cigás",
       "desc": "Estudantes do curso de Engenharia de Petróleo e Gás da UFAM visitam a Cigás"
-    },
-    {
-      "titulo": "Uso de gás natural no Amazonas evita a emissão de 7,5 milhões de toneladas de gases de efeito estufa",
-      "orgao": "Cigás",
-      "tema": "Gás Natural / AM",
-      "data": "02/07/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo",
-        "gas"
-      ],
-      "url": "https://www.cigas.com.br/post/uso-de-gás-natural-no-amazonas-evita-a-emissão-de-7-5-milhões-de-toneladas-de-gases-de-efeito-estufa",
-      "desc": "Uso de gás natural no Amazonas evita a emissão de 7,5 milhões de toneladas de gases de efeito estufa"
     },
     {
       "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
@@ -395,7 +395,7 @@
       "desc": "21 de maio de 2026 | 12:13 “Semig nas Escolas” leva conhecimento sobre energia, mineração e gás à Escola Estadual Tiradentes Compartilhar Tweet"
     },
     {
-      "titulo": "Prêmio Estadual de Educação Fiscal é lançado no Amazonas e está com inscrições abertas",
+      "titulo": "SEFAZ-AM — Página verificada sem atos relevantes hoje.",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
       "data": "02/07/2026",
@@ -403,8 +403,8 @@
       "tags": [
         "baixo"
       ],
-      "url": "https://www.sefaz.am.gov.br/noticias/33253",
-      "desc": "Prêmio Estadual de Educação Fiscal é lançado no Amazonas e está com inscrições abertas"
+      "url": "https://www.sefaz.am.gov.br/noticias",
+      "desc": "SEFAZ-AM — Página verificada sem atos relevantes hoje."
     },
     {
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
@@ -419,6 +419,18 @@
       "desc": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
+      "titulo": "Trabalho Integrado Prefeito Renato Junior inicia operação asfáltica e de limpeza no Jorge Teixeira e leva mais de 30 ações do ‘Manaus que a Gente Cuida’ para a população",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "02/07/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/trabalho-integrado/acoes-do-manaus-que-a-gente-cuida/",
+      "desc": "Trabalho Integrado Prefeito Renato Junior inicia operação asfáltica e de limpeza no Jorge Teixeira e leva mais de 30 ações do ‘Manaus que a Gente Cuida’ para a população"
+    },
+    {
       "titulo": "Gastronomia Prefeito Renato Junior anuncia criação de rua gastronômica no Centro e amplia espaços de convivência e oportunidades em Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
@@ -427,7 +439,7 @@
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/gastronomia/rua-gastronomica-no-centro/",
+      "url": "https://www.manaus.am.gov.br/noticia/gastronomia/prefeito-renato-junior-rua-gastronomica-no-centro/",
       "desc": "Gastronomia Prefeito Renato Junior anuncia criação de rua gastronômica no Centro e amplia espaços de convivência e oportunidades em Manaus"
     },
     {
@@ -443,7 +455,7 @@
       "desc": "Patrimônio Prefeito Renato Junior anuncia instalação de polo digital no Centro Histórico de Manaus e restauro do Casarão de São Vicente"
     },
     {
-      "titulo": "Operação Ajuda humanitária da Prefeitura de Manaus chega à fronteira e começa a ser distribuída na Venezuela",
+      "titulo": "Sustentabilidade Prefeitura de Manaus avança em agenda climática com avaliação internacional de edifícios sustentáveis",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
       "data": "02/07/2026",
@@ -451,11 +463,11 @@
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/operacao/prefeitura-ajuda-humanitaria-venezuela/",
-      "desc": "Operação Ajuda humanitária da Prefeitura de Manaus chega à fronteira e começa a ser distribuída na Venezuela"
+      "url": "https://www.manaus.am.gov.br/noticia/sustentabilidade/agenda-climatica-implurb/",
+      "desc": "Sustentabilidade Prefeitura de Manaus avança em agenda climática com avaliação internacional de edifícios sustentáveis"
     },
     {
-      "titulo": "Manaus Com apoio da Prefeitura de Manaus, ‘Ruas da Copa’ reúnem torcedores e movimentam economia em dia de classificação da Seleção Brasileira de Futebol",
+      "titulo": "Oportunidade Sine Manaus oferta 707 vagas de emprego nesta sexta–feira, 3/7 02/07/2026 15h42",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
       "data": "02/07/2026",
@@ -463,20 +475,8 @@
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/manaus/prefeitura-ruas-da-copa-zonasul/",
-      "desc": "Manaus Com apoio da Prefeitura de Manaus, ‘Ruas da Copa’ reúnem torcedores e movimentam economia em dia de classificação da Seleção Brasileira de Futebol"
-    },
-    {
-      "titulo": "Serviços Prefeitura de Manaus intensifica limpeza urbana com mutirão no Distrito Industrial",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "02/07/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/servicos/mutirao-no-distrito-industrial/",
-      "desc": "Serviços Prefeitura de Manaus intensifica limpeza urbana com mutirão no Distrito Industrial"
+      "url": "https://www.manaus.am.gov.br/noticia/oportunidade/707-vagas-de-emprego-nesta-sexta-feira/",
+      "desc": "Oportunidade Sine Manaus oferta 707 vagas de emprego nesta sexta–feira, 3/7 02/07/2026 15h42"
     },
     {
       "titulo": "Transporte Prefeitura de Manaus amplia linhas expressas e reduz tempo de viagem em até 50 minutos para usuários das zonas Norte e Leste",
