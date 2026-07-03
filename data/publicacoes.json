@@ -1,5 +1,5 @@
 {
-  "ultima_coleta": "02/07/2026 21:49",
+  "ultima_coleta": "03/07/2026 13:05",
   "mes_ano": "Jul/2026",
   "total": 42,
   "fontes": 18,
@@ -36,7 +36,7 @@
       "titulo": "RECOMPRA DE AÇÕES SISTEMA DE ANÁLISE DE PROJETOS Home A Empresa Nossa Gente Sua conta Informações Atendimento Informações Notícias Alteração de Carga Cadastro de Equipamento Vital ",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "02/07/2026",
+      "data": "03/07/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -53,7 +53,7 @@
       "titulo": "Informações Notícias Alteração de Carga Cadastro de Equipamento Vital Cliente Alta Tensão Cliente Mercado Livre Compartilhamento de infraestruturas Contrato Contribuição de Ilumina",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "02/07/2026",
+      "data": "03/07/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -70,7 +70,7 @@
       "titulo": "Alteração de Carga Cadastro de Equipamento Vital Cliente Alta Tensão Cliente Mercado Livre Compartilhamento de infraestruturas Contrato Contribuição de Iluminação Pública por Munic",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "02/07/2026",
+      "data": "03/07/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -87,7 +87,7 @@
       "titulo": "Decretos de Situação de Emergência",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "02/07/2026",
+      "data": "03/07/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -99,7 +99,7 @@
       "titulo": "Manaus Prefeitura de Manaus inicia intervenção viária na avenida Coronel Teixeira para obras do complexo viário ‘Passarão’",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "02/07/2026",
+      "data": "03/07/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -111,7 +111,7 @@
       "titulo": "Licitações e Contratos",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "02/07/2026",
+      "data": "03/07/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -123,7 +123,7 @@
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "02/07/2026",
+      "data": "03/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -135,7 +135,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes identificados",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "02/07/2026",
+      "data": "03/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -148,7 +148,7 @@
       "titulo": "ANEEL — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "02/07/2026",
+      "data": "03/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -160,7 +160,7 @@
       "titulo": "ANP — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "02/07/2026",
+      "data": "03/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -172,7 +172,7 @@
       "titulo": "ANA — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "02/07/2026",
+      "data": "03/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -184,7 +184,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "02/07/2026",
+      "data": "03/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -196,7 +196,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "02/07/2026",
+      "data": "03/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -208,7 +208,7 @@
       "titulo": "Petrobras — Página verificada sem atos relevantes hoje.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "02/07/2026",
+      "data": "03/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -220,7 +220,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "02/07/2026",
+      "data": "03/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -232,7 +232,7 @@
       "titulo": "Dicas de Consumo Consciente",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "02/07/2026",
+      "data": "03/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -244,7 +244,7 @@
       "titulo": "COGERAÇÃO DE ENERGIA",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "02/07/2026",
+      "data": "03/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -257,7 +257,7 @@
       "titulo": "GÁS RESIDENCIAL",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "02/07/2026",
+      "data": "03/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -270,7 +270,7 @@
       "titulo": "Investimento de R$ 9 milhões da Cigás viabiliza implantação do Gasoduto Distrito Portuário",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "02/07/2026",
+      "data": "03/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -283,7 +283,7 @@
       "titulo": "Cigás conclui interligação da estação da UTE Manaus 1 ao Centro de Controle Operacional",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "02/07/2026",
+      "data": "03/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -296,7 +296,7 @@
       "titulo": "Estudantes do curso de Engenharia de Petróleo e Gás da UFAM visitam a Cigás",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "02/07/2026",
+      "data": "03/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -309,7 +309,7 @@
       "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "02/07/2026",
+      "data": "03/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -321,7 +321,7 @@
       "titulo": "1 de julho de 2026 | 13:18 Semig garante mais comodidade ao público com lounges e pontos de recarga em Parintins Compartilhar Tweet",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "02/07/2026",
+      "data": "03/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -333,7 +333,7 @@
       "titulo": "1 de julho de 2026 | 11:04 Festival de Parintins 2026: Experiência de realidade virtual é destaque no estande da Semig no Turistódromo Compartilhar Tweet",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "02/07/2026",
+      "data": "03/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -345,7 +345,7 @@
       "titulo": "19 de junho de 2026 | 11:31 Semig destaca avanço do setor de gás natural com licença concedida à Eneva em Silves Compartilhar Tweet",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "02/07/2026",
+      "data": "03/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -358,7 +358,7 @@
       "titulo": "29 de maio de 2026 | 12:28 Semig e Comissão de Energia da Aleam identificam mais de 200 famílias sem energia elétrica no Alto Solimões Compartilhar Tweet",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "02/07/2026",
+      "data": "03/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -371,7 +371,7 @@
       "titulo": "26 de maio de 2026 | 12:48 Chegada do gás natural à UTE Manaus I marca avanço histórico para o setor energético do Amazonas Compartilhar Tweet",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "02/07/2026",
+      "data": "03/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -384,7 +384,7 @@
       "titulo": "21 de maio de 2026 | 12:13 “Semig nas Escolas” leva conhecimento sobre energia, mineração e gás à Escola Estadual Tiradentes Compartilhar Tweet",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "02/07/2026",
+      "data": "03/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -398,7 +398,7 @@
       "titulo": "SEFAZ-AM — Página verificada sem atos relevantes hoje.",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "02/07/2026",
+      "data": "03/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -410,7 +410,7 @@
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "02/07/2026",
+      "data": "03/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -419,10 +419,23 @@
       "desc": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
+      "titulo": "Alimentação Prefeito Renato Junior começa distribuição gratuita de jaraqui nos bairros de Manaus e amplia ações de segurança alimentar",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "03/07/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo",
+        "energia"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/alimentacao/distribuicao-gratuita-de-jaraqui/",
+      "desc": "Alimentação Prefeito Renato Junior começa distribuição gratuita de jaraqui nos bairros de Manaus e amplia ações de segurança alimentar"
+    },
+    {
       "titulo": "Trabalho Integrado Prefeito Renato Junior inicia operação asfáltica e de limpeza no Jorge Teixeira e leva mais de 30 ações do ‘Manaus que a Gente Cuida’ para a população",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "02/07/2026",
+      "data": "03/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -434,7 +447,7 @@
       "titulo": "Gastronomia Prefeito Renato Junior anuncia criação de rua gastronômica no Centro e amplia espaços de convivência e oportunidades em Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "02/07/2026",
+      "data": "03/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -443,46 +456,34 @@
       "desc": "Gastronomia Prefeito Renato Junior anuncia criação de rua gastronômica no Centro e amplia espaços de convivência e oportunidades em Manaus"
     },
     {
-      "titulo": "Patrimônio Prefeito Renato Junior anuncia instalação de polo digital no Centro Histórico de Manaus e restauro do Casarão de São Vicente",
+      "titulo": "Operação Prefeitura de Manaus leva programa ‘Manaus que a Gente Cuida’ ao Jorge Teixeira e intensifica melhorias na infraestrutura da zona Leste",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "02/07/2026",
+      "data": "03/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/patrimonio/instalacao-de-polo-digital-restauro-do-casarao-de-sao-vicente/",
-      "desc": "Patrimônio Prefeito Renato Junior anuncia instalação de polo digital no Centro Histórico de Manaus e restauro do Casarão de São Vicente"
+      "url": "https://www.manaus.am.gov.br/noticia/operacao/programa-manaus-que-a-gente-cuida-ao-jorge-teixeira/",
+      "desc": "Operação Prefeitura de Manaus leva programa ‘Manaus que a Gente Cuida’ ao Jorge Teixeira e intensifica melhorias na infraestrutura da zona Leste"
     },
     {
-      "titulo": "Sustentabilidade Prefeitura de Manaus avança em agenda climática com avaliação internacional de edifícios sustentáveis",
+      "titulo": "Recuperação Prefeitura de Manaus intensifica operação ‘Tapa-Buracos’ no Novo Aleixo e reforça segurança viária para moradores",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "02/07/2026",
+      "data": "03/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/sustentabilidade/agenda-climatica-implurb/",
-      "desc": "Sustentabilidade Prefeitura de Manaus avança em agenda climática com avaliação internacional de edifícios sustentáveis"
-    },
-    {
-      "titulo": "Oportunidade Sine Manaus oferta 707 vagas de emprego nesta sexta–feira, 3/7 02/07/2026 15h42",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "02/07/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/oportunidade/707-vagas-de-emprego-nesta-sexta-feira/",
-      "desc": "Oportunidade Sine Manaus oferta 707 vagas de emprego nesta sexta–feira, 3/7 02/07/2026 15h42"
+      "url": "https://www.manaus.am.gov.br/noticia/recuperacao/operacao-tapa-buracos-no-novo-aleixo/",
+      "desc": "Recuperação Prefeitura de Manaus intensifica operação ‘Tapa-Buracos’ no Novo Aleixo e reforça segurança viária para moradores"
     },
     {
       "titulo": "Transporte Prefeitura de Manaus amplia linhas expressas e reduz tempo de viagem em até 50 minutos para usuários das zonas Norte e Leste",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "02/07/2026",
+      "data": "03/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -494,7 +495,7 @@
       "titulo": "Modernização Prefeitura inicia implantação de nova programação semafórica para ampliar fluidez no trânsito de Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "02/07/2026",
+      "data": "03/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -506,7 +507,7 @@
       "titulo": "Ação Conjunta Prefeitura de Manaus realiza ordenamento e atendimento social a pessoas em situação de rua no Centro",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "02/07/2026",
+      "data": "03/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -518,7 +519,7 @@
       "titulo": "Ação Conjunta Prefeitura intensifica operação ‘Centro Mais Seguro’ e reforça ordenamento urbano, assistência social e mobilidade na região central de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "02/07/2026",
+      "data": "03/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -530,7 +531,7 @@
       "titulo": "Cooperação Prefeito Renato Junior recebe pesquisadores do Inpa e anuncia agenda conjunta para recuperação ambiental, mobilidade e turismo em Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "02/07/2026",
+      "data": "03/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -542,7 +543,7 @@
       "titulo": "Obras Prefeitura de Manaus chega quase à metade da execução da cúpula da Oca Niemeyer no parque Encontro das Águas Rosa Almeida",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "02/07/2026",
+      "data": "03/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -554,7 +555,7 @@
       "titulo": "Turismo Prefeitura acelera obras do parque Encontro das Águas Rosa Almeida e consolida novo cartão-postal de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "02/07/2026",
+      "data": "03/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
