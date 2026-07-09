@@ -1,28 +1,28 @@
 {
-  "ultima_coleta": "08/07/2026 12:24",
+  "ultima_coleta": "09/07/2026 13:47",
   "mes_ano": "Jul/2026",
-  "total": 39,
+  "total": 50,
   "fontes": 18,
   "fontes_com_falha": [],
   "stats": {
-    "critico": 5,
-    "alto": 3,
-    "medio": 1,
-    "baixo": 30,
-    "consultas_abertas": 3
+    "critico": 7,
+    "alto": 4,
+    "medio": 3,
+    "baixo": 36,
+    "consultas_abertas": 5
   },
   "por_orgao": {
+    "ANP": 8,
     "Cigás": 6,
     "AmE": 5,
     "Prefeitura Manaus": 5,
+    "ANEEL": 4,
     "IMMU": 4,
     "Implurb": 4,
     "SEMIG": 3,
+    "ANA": 2,
     "DOU": 1,
     "DOE-AM": 1,
-    "ANEEL": 1,
-    "ANP": 1,
-    "ANA": 1,
     "CCEE": 1,
     "ONS": 1,
     "Petrobras": 1,
@@ -33,10 +33,41 @@
   },
   "publicacoes": [
     {
+      "titulo": "Acesso à Informação Institucional A ANEEL Missão, Visão e Valores Estrutura Organizacional Competências Base Jurídica Gestão Estratégica Governança Regulatória Horário de Atendimen",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "09/07/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico",
+        "energia",
+        "consulta",
+        "tarifa"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/acesso-a-informacao",
+      "desc": "Acesso à Informação Institucional A ANEEL Missão, Visão e Valores Estrutura Organizacional Competências Base Jurídica Gestão Estratégica Governança Regulatória Horário de Atendimento Colegiados Quem é Quem Relacionamentos Histórico Ações e Programas Carta de Serviços Concessões de Recursos Financeiros ou Renúncias de Receitas ESG Planejamento de Tecnologia da Informação Programa de Eficiência Energética Programa de Gestão Programa de Integridade Programa de Pesquisa, Desenvolvimento e Inovação ("
+    },
+    {
+      "titulo": "Assuntos Análise de Impacto Regulatório (AIR) Armazenamento e movimentação de produtos líquidos Comunicação e investigação de incidentes Oleodutos de Transporte e Transferência Ter",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "09/07/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico",
+        "energia",
+        "gas",
+        "consulta",
+        "ambiental"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/assuntos",
+      "desc": "Assuntos Análise de Impacto Regulatório (AIR) Armazenamento e movimentação de produtos líquidos Comunicação e investigação de incidentes Oleodutos de Transporte e Transferência Terminais de Petróleo e Combustíveis Líquidos Transporte a granel por meio aquaviário Comunicação de Incidentes Relatórios de investigação de incidentes Consultas e Audiências Públicas Consultas e Audiências Públicas Consulta Prévia Consulta de Interesse Tomada Pública de Contribuições Manuais para Audiências Públicas CCU"
+    },
+    {
       "titulo": "RECOMPRA DE AÇÕES SISTEMA DE ANÁLISE DE PROJETOS Home A Empresa Nossa Gente Sua conta Informações Atendimento Informações Notícias Alteração de Carga Cadastro de Equipamento Vital ",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "08/07/2026",
+      "data": "09/07/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -53,7 +84,7 @@
       "titulo": "Informações Notícias Alteração de Carga Cadastro de Equipamento Vital Cliente Alta Tensão Cliente Mercado Livre Compartilhamento de infraestruturas Contrato Contribuição de Ilumina",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "08/07/2026",
+      "data": "09/07/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -70,7 +101,7 @@
       "titulo": "Alteração de Carga Cadastro de Equipamento Vital Cliente Alta Tensão Cliente Mercado Livre Compartilhamento de infraestruturas Contrato Contribuição de Iluminação Pública por Munic",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "08/07/2026",
+      "data": "09/07/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -87,7 +118,7 @@
       "titulo": "Decretos de Situação de Emergência",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "08/07/2026",
+      "data": "09/07/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -99,7 +130,7 @@
       "titulo": "Manaus Prefeitura de Manaus inicia intervenção viária na avenida Coronel Teixeira para obras do complexo viário ‘Passarão’",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "08/07/2026",
+      "data": "09/07/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -111,7 +142,7 @@
       "titulo": "Licitações e Contratos",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "08/07/2026",
+      "data": "09/07/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -123,7 +154,7 @@
       "titulo": "MINUTAS DE CONTRATOS",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "08/07/2026",
+      "data": "09/07/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -135,7 +166,7 @@
       "titulo": "CONTRATOS DE PUBLICIDADE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "08/07/2026",
+      "data": "09/07/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -144,10 +175,46 @@
       "desc": "CONTRATOS DE PUBLICIDADE"
     },
     {
+      "titulo": "Fiscalização Operação ‘Carga Pesada’ da prefeitura resulta em 13 veículos retidos na zona Sul de Manaus",
+      "orgao": "IMMU",
+      "tema": "Mobilidade Urbana",
+      "data": "09/07/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.manaus.am.gov.br/immu/fiscalizacao/operacao-carga-pesada-13-veiculos-retidos/",
+      "desc": "Fiscalização Operação ‘Carga Pesada’ da prefeitura resulta em 13 veículos retidos na zona Sul de Manaus"
+    },
+    {
+      "titulo": "Comunicação de Incidentes Relatórios de investigação de incidentes",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "09/07/2026",
+      "impacto": "medio",
+      "tags": [
+        "medio"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/assuntos/comunicacao-de-incidentes",
+      "desc": "Comunicação de Incidentes Relatórios de investigação de incidentes"
+    },
+    {
+      "titulo": "Relatórios de investigação de incidentes",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "09/07/2026",
+      "impacto": "medio",
+      "tags": [
+        "medio"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/assuntos/comunicacao-de-incidentes/relatorios-de-investigacao-de-incidentes",
+      "desc": "Relatórios de investigação de incidentes"
+    },
+    {
       "titulo": "RELATÓRIO DE ADMINISTRAÇÃO E SUSTENTABILIDADE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "08/07/2026",
+      "data": "09/07/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -159,7 +226,7 @@
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "08/07/2026",
+      "data": "09/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -171,7 +238,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes identificados",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "08/07/2026",
+      "data": "09/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -181,46 +248,135 @@
       "desc": "Edição do dia verificada. Nenhum ato com palavras-chave relevantes foi encontrado nesta edição."
     },
     {
-      "titulo": "ANEEL — Falha temporária de acesso. Próxima tentativa amanhã.",
+      "titulo": "Abrir menu principal de navegação Agência Nacional de Energia Elétrica Termos mais buscados imposto de renda assinatura mei inss enem Termos mais buscados imposto de renda assinatu",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "08/07/2026",
+      "data": "09/07/2026",
       "impacto": "baixo",
       "tags": [
-        "baixo"
+        "baixo",
+        "energia"
       ],
-      "url": "https://antigo.aneel.gov.br/consultas-publicas",
-      "desc": "ANEEL — Falha temporária de acesso. Próxima tentativa amanhã."
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias",
+      "desc": "Abrir menu principal de navegação Agência Nacional de Energia Elétrica Termos mais buscados imposto de renda assinatura mei inss enem Termos mais buscados imposto de renda assinatura mei"
     },
     {
-      "titulo": "ANP — Falha temporária de acesso. Próxima tentativa amanhã.",
+      "titulo": "Abrir menu principal de navegação Agência Nacional de Energia Elétrica",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "09/07/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo",
+        "energia"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias",
+      "desc": "Abrir menu principal de navegação Agência Nacional de Energia Elétrica"
+    },
+    {
+      "titulo": "Agência Nacional de Energia Elétrica",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "09/07/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo",
+        "energia"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br",
+      "desc": "Agência Nacional de Energia Elétrica"
+    },
+    {
+      "titulo": "Abrir menu principal de navegação Agência Nacional do Petróleo, Gás Natural e Biocombustíveis Termos mais buscados imposto de renda assinatura mei inss enem Termos mais buscados im",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "08/07/2026",
+      "data": "09/07/2026",
       "impacto": "baixo",
       "tags": [
-        "baixo"
+        "baixo",
+        "gas"
       ],
       "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados",
-      "desc": "ANP — Falha temporária de acesso. Próxima tentativa amanhã."
+      "desc": "Abrir menu principal de navegação Agência Nacional do Petróleo, Gás Natural e Biocombustíveis Termos mais buscados imposto de renda assinatura mei inss enem Termos mais buscados imposto de renda assinatura mei"
     },
     {
-      "titulo": "ANA — Falha temporária de acesso. Próxima tentativa amanhã.",
-      "orgao": "ANA",
-      "tema": "Recursos Hídricos",
-      "data": "08/07/2026",
+      "titulo": "Agência Nacional do Petróleo, Gás Natural e Biocombustíveis",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "09/07/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo",
+        "gas"
+      ],
+      "url": "https://www.gov.br/anp/pt-br",
+      "desc": "Agência Nacional do Petróleo, Gás Natural e Biocombustíveis"
+    },
+    {
+      "titulo": "Armazenamento e movimentação de produtos líquidos Comunicação e investigação de incidentes Oleodutos de Transporte e Transferência Terminais de Petróleo e Combustíveis Líquidos Tra",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "09/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.gov.br/ana/pt-br/assuntos/noticias-e-eventos/noticias",
-      "desc": "ANA — Falha temporária de acesso. Próxima tentativa amanhã."
+      "url": "https://www.gov.br/anp/pt-br/assuntos/armazenamento-e-movimentacao-de-produtos-liquidos",
+      "desc": "Armazenamento e movimentação de produtos líquidos Comunicação e investigação de incidentes Oleodutos de Transporte e Transferência Terminais de Petróleo e Combustíveis Líquidos Transporte a granel por meio aquaviário"
+    },
+    {
+      "titulo": "Terminais de Petróleo e Combustíveis Líquidos",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "09/07/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/assuntos/armazenamento-e-movimentacao-de-produtos-liquidos/terminais-de-petroleo-e-combustiveis-liquidos",
+      "desc": "Terminais de Petróleo e Combustíveis Líquidos"
+    },
+    {
+      "titulo": "Consultas e Audiências Públicas Consultas e Audiências Públicas Consulta Prévia Consulta de Interesse Tomada Pública de Contribuições Manuais para Audiências Públicas",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "09/07/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/assuntos/consultas-e-audiencias-publicas",
+      "desc": "Consultas e Audiências Públicas Consultas e Audiências Públicas Consulta Prévia Consulta de Interesse Tomada Pública de Contribuições Manuais para Audiências Públicas"
+    },
+    {
+      "titulo": "GOV.BR Serviços Buscar serviços por Categorias Órgãos Estados Serviços por público alvo Cidadãos Empresas Órgãos e Entidades Públicas Demais segmentos (ONGs, organizações sociais, ",
+      "orgao": "ANA",
+      "tema": "Recursos Hídricos",
+      "data": "09/07/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.gov.br/ana",
+      "desc": "GOV.BR Serviços Buscar serviços por Categorias Órgãos Estados Serviços por público alvo Cidadãos Empresas Órgãos e Entidades Públicas Demais segmentos (ONGs, organizações sociais, etc) Servidor Público Temas em Destaque Orçamento Nacional Redes de Atendimento da Administração Pública Federal Proteção de Dados Pessoais Serviços para Imigrantes Política e Orçamento Educacionais Educação Profissional e Tecnológica Educação Profissional para Jovens e Adultos Trabalho e Emprego Serviços para Pessoas "
+    },
+    {
+      "titulo": "Consultar minhas solicitações",
+      "orgao": "ANA",
+      "tema": "Recursos Hídricos",
+      "data": "09/07/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-plataforma-de-automacao/cidadao/consultar-as-minhas-solicitacoes",
+      "desc": "Consultar minhas solicitações"
     },
     {
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "08/07/2026",
+      "data": "09/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -232,7 +388,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "08/07/2026",
+      "data": "09/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -241,22 +397,22 @@
       "desc": "ONS — Página verificada sem atos relevantes hoje."
     },
     {
-      "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
+      "titulo": "Petrobras — Página verificada sem atos relevantes hoje.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "08/07/2026",
+      "data": "09/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
       "url": "https://petrobras.com.br",
-      "desc": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã."
+      "desc": "Petrobras — Página verificada sem atos relevantes hoje."
     },
     {
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "08/07/2026",
+      "data": "09/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -268,7 +424,7 @@
       "titulo": "Dicas de Consumo Consciente",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "08/07/2026",
+      "data": "09/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -280,7 +436,7 @@
       "titulo": "COGERAÇÃO DE ENERGIA",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "08/07/2026",
+      "data": "09/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -293,7 +449,7 @@
       "titulo": "GÁS RESIDENCIAL",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "08/07/2026",
+      "data": "09/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -306,7 +462,7 @@
       "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "08/07/2026",
+      "data": "09/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -318,7 +474,7 @@
       "titulo": "SEMIG Secretaria de Estado de Energia, Mineração e Gás",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "08/07/2026",
+      "data": "09/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -332,7 +488,7 @@
       "titulo": "E-mail Integra Amazonas",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "08/07/2026",
+      "data": "09/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -344,7 +500,7 @@
       "titulo": "semig@semig.am.gov.br",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "08/07/2026",
+      "data": "09/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -356,7 +512,7 @@
       "titulo": "SEFAZ-AM — Página verificada sem atos relevantes hoje.",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "08/07/2026",
+      "data": "09/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -368,7 +524,7 @@
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "08/07/2026",
+      "data": "09/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -377,70 +533,70 @@
       "desc": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
-      "titulo": "Comércio Prefeito Renato Junior entrega primeiras 26 bancas padronizadas para camelôs do centro de Manaus",
+      "titulo": "100 dias Modernização tecnológica e frentes de obras marcam avanços da gestão do prefeito Renato Junior em infraestrutura e limpeza urbana em Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "08/07/2026",
+      "data": "09/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/comercio/entrega-bancas-padronizadas-camelos-centro/",
-      "desc": "Comércio Prefeito Renato Junior entrega primeiras 26 bancas padronizadas para camelôs do centro de Manaus"
+      "url": "https://www.manaus.am.gov.br/noticia/100-dias/avancos-da-gestao-do-prefeito-renato-junior/",
+      "desc": "100 dias Modernização tecnológica e frentes de obras marcam avanços da gestão do prefeito Renato Junior em infraestrutura e limpeza urbana em Manaus"
     },
     {
-      "titulo": "Limpeza Prefeito Renato Junior inicia semana dos 100 dias acompanhando trabalho dos garis da Semulsp no centro de Manaus",
+      "titulo": "100 dias Prefeito Renato Junior consolida investimentos na educação e saúde com foco na igualdade e no respeito ao cidadão",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "08/07/2026",
+      "data": "09/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/limpeza/prefeito-acompanhando-trabalho-garis/",
-      "desc": "Limpeza Prefeito Renato Junior inicia semana dos 100 dias acompanhando trabalho dos garis da Semulsp no centro de Manaus"
+      "url": "https://www.manaus.am.gov.br/noticia/100-dias/investimentos-na-educacao-e-saude/",
+      "desc": "100 dias Prefeito Renato Junior consolida investimentos na educação e saúde com foco na igualdade e no respeito ao cidadão"
     },
     {
-      "titulo": "Limpeza Prefeitura de Manaus intensifica ações de conservação e manutenção nas margens do igarapé do Passarinho",
+      "titulo": "100 dias ‘Manaus que a Gente Cuida’, ‘Jaraqui da Gente’, ‘Centro Mais Seguro’, ‘Morar Melhor’ e ‘Casa Manauara’ avançam nas áreas social e habitacional e consolidam gestão do prefe",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "08/07/2026",
+      "data": "09/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/limpeza/acoes-margens-igarape-do-passarinho/",
-      "desc": "Limpeza Prefeitura de Manaus intensifica ações de conservação e manutenção nas margens do igarapé do Passarinho"
+      "url": "https://www.manaus.am.gov.br/noticia/100-dias/areas-social-e-habitacional/",
+      "desc": "100 dias ‘Manaus que a Gente Cuida’, ‘Jaraqui da Gente’, ‘Centro Mais Seguro’, ‘Morar Melhor’ e ‘Casa Manauara’ avançam nas áreas social e habitacional e consolidam gestão do prefeito Renato Junior"
     },
     {
-      "titulo": "INCENTIVO Prefeitura de Manaus leva orientações sobre segurança digital e prevenção a golpes para pessoas idosas da zona Norte",
+      "titulo": "100 dias Prefeito Renato Junior apresenta balanço de ações e entregas e reconhece compromisso dos trabalhadores municipais para avanço de Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "08/07/2026",
+      "data": "09/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/incentivo/orientacoes-sobre-seguranca-digital/",
-      "desc": "INCENTIVO Prefeitura de Manaus leva orientações sobre segurança digital e prevenção a golpes para pessoas idosas da zona Norte"
+      "url": "https://www.manaus.am.gov.br/noticia/100-dias/primeiros-100-dias-da-gestao/",
+      "desc": "100 dias Prefeito Renato Junior apresenta balanço de ações e entregas e reconhece compromisso dos trabalhadores municipais para avanço de Manaus"
     },
     {
-      "titulo": "Serviços Prefeitura de Manaus intensifica recuperação asfáltica no bairro Cidade Nova e fortalece a mobilidade na zona Norte",
+      "titulo": "Recuperação Prefeitura de Manaus transforma mobilidade no bairro Tarumã com recuperação asfáltica de via importante para a comunidade",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "08/07/2026",
+      "data": "09/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/servicos/recuperacao-asfaltica-no-bairro-cidade-nova/",
-      "desc": "Serviços Prefeitura de Manaus intensifica recuperação asfáltica no bairro Cidade Nova e fortalece a mobilidade na zona Norte"
+      "url": "https://www.manaus.am.gov.br/noticia/recuperacao/mobilidade-no-bairro-taruma/",
+      "desc": "Recuperação Prefeitura de Manaus transforma mobilidade no bairro Tarumã com recuperação asfáltica de via importante para a comunidade"
     },
     {
       "titulo": "Transporte Prefeitura de Manaus amplia linhas expressas e reduz tempo de viagem em até 50 minutos para usuários das zonas Norte e Leste",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "08/07/2026",
+      "data": "09/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -449,34 +605,22 @@
       "desc": "Transporte Prefeitura de Manaus amplia linhas expressas e reduz tempo de viagem em até 50 minutos para usuários das zonas Norte e Leste"
     },
     {
-      "titulo": "Operação Prefeitura de Manaus amplia sinalização viária para reduzir riscos no trânsito",
+      "titulo": "Conscientização Prefeitura leva projeto ‘Trânsito na Escola’ a estudantes da zona Leste de Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "08/07/2026",
+      "data": "09/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/immu/operacao/sinalizacao-viaria-reducao-riscos-transito/",
-      "desc": "Operação Prefeitura de Manaus amplia sinalização viária para reduzir riscos no trânsito"
-    },
-    {
-      "titulo": "Tecnologia Prefeitura de Manaus amplia sistema de inteligência artificial nos terminais e estações de transferência para reforçar a segurança dos passageiros",
-      "orgao": "IMMU",
-      "tema": "Mobilidade Urbana",
-      "data": "08/07/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/immu/noticia-tecnologia/sistema-inteligencia-artificial-terminais-estacoes-transferencia/",
-      "desc": "Tecnologia Prefeitura de Manaus amplia sistema de inteligência artificial nos terminais e estações de transferência para reforçar a segurança dos passageiros"
+      "url": "https://www.manaus.am.gov.br/immu/conscientizacao/projeto-transito-na-escola-zona-leste/",
+      "desc": "Conscientização Prefeitura leva projeto ‘Trânsito na Escola’ a estudantes da zona Leste de Manaus"
     },
     {
       "titulo": "Ação Conjunta Prefeitura intensifica operação ‘Centro Mais Seguro’ e reforça ordenamento urbano, assistência social e mobilidade na região central de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "08/07/2026",
+      "data": "09/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -488,7 +632,7 @@
       "titulo": "Cooperação Prefeito Renato Junior recebe pesquisadores do Inpa e anuncia agenda conjunta para recuperação ambiental, mobilidade e turismo em Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "08/07/2026",
+      "data": "09/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -500,7 +644,7 @@
       "titulo": "Obras Prefeitura de Manaus chega quase à metade da execução da cúpula da Oca Niemeyer no parque Encontro das Águas Rosa Almeida",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "08/07/2026",
+      "data": "09/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -512,7 +656,7 @@
       "titulo": "Turismo Prefeitura acelera obras do parque Encontro das Águas Rosa Almeida e consolida novo cartão-postal de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "08/07/2026",
+      "data": "09/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
