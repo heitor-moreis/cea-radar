@@ -1,9 +1,8 @@
 import json
 import re
 import time
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
-from datetime import timezone, timedelta
 
 import requests
 from bs4 import BeautifulSoup
@@ -19,6 +18,20 @@ HEADERS = {
     "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
     "Referer": "https://www.google.com",
 }
+
+# ── Fuso horário de Manaus ───────────────────────────────────────────────────
+MANAUS_TZ = timezone(timedelta(hours=-4))
+
+def agora_manaus():
+    return datetime.now(tz=MANAUS_TZ)
+
+def hoje() -> str:
+    return agora_manaus().strftime("%d/%m/%Y")
+
+def hoje_mes_ano() -> str:
+    meses = ["Jan","Fev","Mar","Abr","Mai","Jun","Jul","Ago","Set","Out","Nov","Dez"]
+    now = agora_manaus()
+    return f"{meses[now.month-1]}/{now.year}"
 
 # ── Classificação de impacto ─────────────────────────────────────────────────
 KW_CRITICO = [
@@ -47,7 +60,6 @@ KW_RELEVANCIA = [
     "despacho", "cde", "lrcap", "pld", "acl", "acr",
 ]
 
-# ── Mapeamento de palavras-chave para tags (para uso no index.html) ─────────
 def extrair_tags(texto: str, impacto: str) -> list[str]:
     t = texto.lower()
     tags = [impacto]
@@ -61,7 +73,7 @@ def extrair_tags(texto: str, impacto: str) -> list[str]:
         tags.append("tarifa")
     if any(k in t for k in ["meio ambiente", "licenciamento", "ibama"]):
         tags.append("ambiental")
-    return list(dict.fromkeys(tags))  # remove duplicatas mantendo ordem
+    return list(dict.fromkeys(tags))
 
 def classificar_impacto(texto: str) -> str:
     t = texto.lower()
@@ -77,33 +89,7 @@ def is_relevante(texto: str) -> bool:
     t = texto.lower()
     return any(k in t for k in KW_RELEVANCIA + KW_CRITICO + KW_ALTO + KW_MEDIO)
 
-MANAUS_TZ = timezone(timedelta(hours=-4))
-
-def agora_manaus():
-    return datetime.now(tz=MANAUS_TZ)
-
-def hoje() -> str:
-    return agora_manaus().strftime("%d/%m/%Y")
-
-def hoje_mes_ano() -> str:
-    meses = ["Jan","Fev","Mar","Abr","Mai","Jun","Jul","Ago","Set","Out","Nov","Dez"]
-    now = agora_manaus()
-    return f"{meses[now.month-1]}/{now.year}"
-
-def get(url: str, timeout: int = 25) -> requests.Response | None:
-    """Requisição com retry automático e delay entre tentativas."""
-    for tentativa in range(3):
-        try:
-            time.sleep(2 + tentativa * 2)
-            r = requests.get(url, headers=HEADERS, timeout=timeout, allow_redirects=True)
-            r.raise_for_status()
-            return r
-        except Exception as e:
-            print(f"  ↳ Tentativa {tentativa+1}/3 falhou: {e}")
-    return None
-
 def normalizar_url(href: str, base_url: str) -> str:
-    """Normaliza URLs relativas para absolutas."""
     if not href:
         return base_url
     href = href.strip()
@@ -118,61 +104,171 @@ def normalizar_url(href: str, base_url: str) -> str:
         return base_url
     return base_url.rstrip("/") + "/" + href
 
-def scrape_generico(url: str, orgao: str, tema: str,
-                    seletores: list[str] | None = None,
-                    limite: int = 15) -> list[dict]:
-    """Scraper genérico reutilizável para qualquer site."""
+def get(url: str, timeout: int = 25) -> requests.Response | None:
+    for tentativa in range(3):
+        try:
+            time.sleep(2 + tentativa * 2)
+            r = requests.get(url, headers=HEADERS, timeout=timeout, allow_redirects=True)
+            r.raise_for_status()
+            return r
+        except Exception as e:
+            print(f"  ↳ Tentativa {tentativa+1}/3 falhou: {e}")
+    return None
+
+def extrair_conteudo_artigo(soup: BeautifulSoup) -> str:
+    """Extrai o texto principal de um artigo individual."""
+    # Tenta seletores comuns de conteúdo de artigo
+    for sel in [
+        "article", ".article-body", ".entry-content", ".content-body",
+        ".noticia-conteudo", ".post-content", ".materia-conteudo",
+        "main p", ".texto", "#conteudo", ".corpo-noticia",
+    ]:
+        el = soup.select_one(sel)
+        if el:
+            texto = el.get_text(" ", strip=True)
+            if len(texto) > 100:
+                return texto[:800]
+    # Fallback: pega todos os parágrafos
+    paragrafos = [p.get_text(" ", strip=True) for p in soup.find_all("p") if len(p.get_text(strip=True)) > 50]
+    return " ".join(paragrafos[:5])[:800]
+
+def scrape_com_artigos(
+    url_listagem: str,
+    orgao: str,
+    tema: str,
+    seletores_lista: list[str],
+    limite: int = 10,
+    seguir_links: bool = True,
+) -> list[dict]:
+    """
+    Scraper de dois níveis:
+    1. Acessa a página de listagem e coleta links de artigos relevantes
+    2. Entra em cada artigo e extrai título, descrição e URL específica
+    """
     publicacoes = []
-    r = get(url)
+
+    r = get(url_listagem)
     if not r:
         print(f"  [{orgao}] Inacessível.")
-        return registrar_falha(orgao, tema, url)
+        return registrar_falha(orgao, tema, url_listagem)
 
     soup = BeautifulSoup(r.text, "html.parser")
 
-    # Tenta seletores específicos primeiro, depois fallback geral
-    itens = []
-    for sel in (seletores or []):
+    # Coleta candidatos a artigos na listagem
+    candidatos = []
+    for sel in seletores_lista:
         itens = soup.select(sel)
         if itens:
-            break
-    if not itens:
-        itens = soup.find_all(["a", "li", "article", "div"], limit=150)
+            for item in itens:
+                link_tag = item if item.name == "a" else item.find("a")
+                if not link_tag or not link_tag.get("href"):
+                    continue
+                href = normalizar_url(link_tag["href"], url_listagem)
+                titulo_bruto = link_tag.get_text(" ", strip=True) or item.get_text(" ", strip=True)
+                # Filtra por relevância já no título antes de entrar no artigo
+                if len(titulo_bruto) > 10 and is_relevante(titulo_bruto):
+                    candidatos.append((href, titulo_bruto[:200]))
+            if candidatos:
+                break
 
-    vistos = set()
-    for item in itens:
-        texto = item.get_text(" ", strip=True)
-        if len(texto) < 15 or texto in vistos:
+    # Fallback: busca todos os links relevantes da página
+    if not candidatos:
+        for a in soup.find_all("a", href=True):
+            texto = a.get_text(" ", strip=True)
+            if len(texto) > 15 and is_relevante(texto):
+                href = normalizar_url(a["href"], url_listagem)
+                # Ignora links que são a própria página ou âncoras
+                if href != url_listagem and "#" not in href.split("?")[0][-5:]:
+                    candidatos.append((href, texto[:200]))
+
+    # Remove duplicatas de URL
+    vistos_url = set()
+    candidatos_unicos = []
+    for href, titulo in candidatos:
+        if href not in vistos_url:
+            vistos_url.add(href)
+            candidatos_unicos.append((href, titulo))
+
+    print(f"  [{orgao}] {len(candidatos_unicos)} candidatos encontrados na listagem.")
+
+    # Entra em cada artigo para extrair conteúdo e URL específica
+    for href, titulo_listagem in candidatos_unicos[:limite]:
+        if not seguir_links:
+            # Sem seguir link — usa o título da listagem diretamente
+            impacto = classificar_impacto(titulo_listagem)
+            publicacoes.append({
+                "titulo":  titulo_listagem,
+                "orgao":   orgao,
+                "tema":    tema,
+                "data":    hoje(),
+                "impacto": impacto,
+                "tags":    extrair_tags(titulo_listagem, impacto),
+                "url":     href,
+                "desc":    titulo_listagem,
+            })
             continue
-        if not is_relevante(texto):
+
+        # Entra no artigo
+        r_art = get(href)
+        if not r_art:
+            # Se não conseguiu acessar, usa o que tem da listagem
+            impacto = classificar_impacto(titulo_listagem)
+            publicacoes.append({
+                "titulo":  titulo_listagem,
+                "orgao":   orgao,
+                "tema":    tema,
+                "data":    hoje(),
+                "impacto": impacto,
+                "tags":    extrair_tags(titulo_listagem, impacto),
+                "url":     href,
+                "desc":    titulo_listagem,
+            })
             continue
-        vistos.add(texto)
 
-        # Extrai o melhor link disponível
-        link_tag = item if item.name == "a" else item.find("a")
-        href = normalizar_url(link_tag["href"] if link_tag and link_tag.get("href") else "", url)
+        soup_art = BeautifulSoup(r_art.text, "html.parser")
 
-        impacto = classificar_impacto(texto)
+        # Tenta pegar o título real do artigo
+        titulo_real = titulo_listagem
+        for sel_titulo in ["h1", ".article-title", ".entry-title", ".titulo-noticia", ".page-title"]:
+            el = soup_art.select_one(sel_titulo)
+            if el:
+                t = el.get_text(" ", strip=True)
+                if len(t) > 10:
+                    titulo_real = t[:200]
+                    break
+
+        # Extrai conteúdo do artigo
+        desc = extrair_conteudo_artigo(soup_art)
+        if not desc:
+            desc = titulo_real
+
+        # Usa o conteúdo completo para classificar impacto com mais precisão
+        texto_completo = titulo_real + " " + desc
+        impacto = classificar_impacto(texto_completo)
+
+        # Só salva se ainda for relevante após ver o artigo completo
+        if not is_relevante(texto_completo):
+            continue
+
         publicacoes.append({
-            "titulo":  texto[:180],
+            "titulo":  titulo_real,
             "orgao":   orgao,
             "tema":    tema,
             "data":    hoje(),
             "impacto": impacto,
-            "tags":    extrair_tags(texto, impacto),
-            "url":     href,
-            "desc":    texto[:500],
+            "tags":    extrair_tags(texto_completo, impacto),
+            "url":     href,          # ← URL específica do artigo
+            "desc":    desc,
         })
-        if len(publicacoes) >= limite:
-            break
 
-    print(f"  [{orgao}] {len(publicacoes)} itens relevantes.")
+        time.sleep(1)  # delay entre artigos
+
+    print(f"  [{orgao}] {len(publicacoes)} publicações relevantes após leitura dos artigos.")
     if not publicacoes:
-        return registrar_falha(orgao, tema, url, sem_conteudo=True)
+        return registrar_falha(orgao, tema, url_listagem, sem_conteudo=True)
     return publicacoes
 
-def registrar_falha(orgao: str, tema: str, url: str,
-                    sem_conteudo: bool = False) -> list[dict]:
+def registrar_falha(orgao: str, tema: str, url: str, sem_conteudo: bool = False) -> list[dict]:
     msg = (
         f"{orgao} — Página verificada sem atos relevantes hoje."
         if sem_conteudo else
@@ -195,7 +291,7 @@ def registrar_falha(orgao: str, tema: str, url: str,
 # ════════════════════════════════════════════════════════════════════════════
 
 def scrape_dou() -> list[dict]:
-    """Diário Oficial da União — busca por órgãos do setor energético."""
+    """Diário Oficial da União."""
     print("\n[DOU] Iniciando...")
     url_base = "https://www.in.gov.br"
     publicacoes = []
@@ -210,21 +306,19 @@ def scrape_dou() -> list[dict]:
         if not r:
             continue
         soup = BeautifulSoup(r.text, "html.parser")
-
-        # Tenta múltiplos seletores de resultado
         resultados = (
             soup.select(".resultado-item") or
             soup.select("article") or
             soup.select(".resultado") or
             soup.find_all("li", class_=re.compile("resultado|item"))
         )
-
         for item in resultados:
             texto = item.get_text(" ", strip=True)
             if len(texto) < 20 or not is_relevante(texto):
                 continue
             link = item.find("a")
             href = normalizar_url(link["href"] if link and link.get("href") else "", url_base)
+            # Para o DOU, o link já é direto para o ato oficial
             impacto = classificar_impacto(texto)
             publicacoes.append({
                 "titulo":  f"DOU — {orgao}: {texto[:140]}",
@@ -258,13 +352,11 @@ def scrape_doe_am() -> list[dict]:
     soup = BeautifulSoup(r.text, "html.parser")
     texto_pagina = soup.get_text(" ", strip=True)
 
-    # Detecta número da edição
     edicao_num = ""
     match = re.search(r"[Ee]di[çc][aã]o\s+n[º°.]?\s*([\d\.]+)", texto_pagina)
     if match:
         edicao_num = match.group(1)
 
-    # Tenta encontrar link para a edição do dia
     link_edicao = url
     for a in soup.find_all("a", href=True):
         href_lower = a["href"].lower()
@@ -274,7 +366,6 @@ def scrape_doe_am() -> list[dict]:
                 link_edicao = candidate
                 break
 
-    # Tenta acessar a edição para extrair atos
     r2 = get(link_edicao) if link_edicao != url else None
     soup2 = BeautifulSoup(r2.text, "html.parser") if r2 else soup
 
@@ -287,7 +378,6 @@ def scrape_doe_am() -> list[dict]:
         if not is_relevante(texto):
             continue
 
-        # Tenta extrair link do bloco
         link = bloco.find("a")
         href = normalizar_url(link["href"] if link and link.get("href") else "", link_edicao)
 
@@ -307,232 +397,208 @@ def scrape_doe_am() -> list[dict]:
     print(f"  [DOE-AM] {len(publicacoes)} atos relevantes encontrados.")
     if not publicacoes:
         publicacoes.append({
-            "titulo":  f"DOE-AM{' Edição nº ' + edicao_num if edicao_num else ''} — Verificado hoje sem atos relevantes identificados",
+            "titulo":  f"DOE-AM{' Edição nº ' + edicao_num if edicao_num else ''} — Verificado hoje sem atos relevantes",
             "orgao":   "DOE-AM",
             "tema":    "Atos Oficiais Estaduais",
             "data":    hoje(),
             "impacto": "baixo",
             "tags":    ["baixo", "estadual"],
             "url":     link_edicao,
-            "desc":    "Edição do dia verificada. Nenhum ato com palavras-chave relevantes foi encontrado nesta edição.",
+            "desc":    "Edição do dia verificada. Nenhum ato relevante encontrado.",
         })
     return publicacoes[:25]
 
 
 def scrape_aneel() -> list[dict]:
-    """ANEEL — Consultas públicas e notas técnicas."""
+    """ANEEL — Notícias e consultas públicas com links diretos."""
     print("\n[ANEEL] Iniciando...")
-    resultados = []
-
-    # URL correta para consultas e audiências públicas
-    resultados += scrape_generico(
-        url="https://www.gov.br/aneel/pt-br/assuntos/noticias",
+    return scrape_com_artigos(
+        url_listagem="https://www.gov.br/aneel/pt-br/assuntos/noticias",
         orgao="ANEEL",
         tema="Energia Elétrica",
-        seletores=[".tileItem", ".summary", "article", "li.tileItem", ".tile-title"],
-        limite=10,
+        seletores_lista=[".tileItem a", "article a", "h2 a", "h3 a", ".summary a"],
+        limite=8,
     )
-    return resultados
 
 
 def scrape_anp() -> list[dict]:
-    """ANP — Legislação, normas e chamadas públicas."""
+    """ANP — Notícias e comunicados com links diretos."""
     print("\n[ANP] Iniciando...")
-    resultados = scrape_generico(
-        url="https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados",
+    return scrape_com_artigos(
+        url_listagem="https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados",
         orgao="ANP",
         tema="Gás Natural / Petróleo",
-        seletores=[".tileItem", ".summary", "article", "li.tileItem"],
-        limite=10,
+        seletores_lista=[".tileItem a", "article a", "h2 a", "h3 a", ".summary a"],
+        limite=8,
     )
-    return resultados
 
 
 def scrape_ana() -> list[dict]:
-    """ANA — Outorgas e regulação de recursos hídricos."""
+    """ANA — Notícias com links diretos."""
     print("\n[ANA] Iniciando...")
-    return scrape_generico(
-        url="https://www.gov.br/ana/pt-br/assuntos/noticias-e-eventos/noticias",
+    return scrape_com_artigos(
+        url_listagem="https://www.gov.br/ana/pt-br/assuntos/noticias-e-eventos/noticias",
         orgao="ANA",
         tema="Recursos Hídricos",
-        seletores=[".tileItem", "article", ".listing-item", "li.tileItem"],
-        limite=8,
+        seletores_lista=[".tileItem a", "article a", "h2 a", "h3 a"],
+        limite=6,
     )
 
 
 def scrape_ccee() -> list[dict]:
-    """CCEE — Regras e procedimentos de comercialização."""
+    """CCEE — Notícias com links diretos."""
     print("\n[CCEE] Iniciando...")
-    resultados = scrape_generico(
-        url="https://www.ccee.org.br/busca-ccee?q=&dtIni=&dtFim=&structure=ccee-noticias&ordenacao=Mais%20recentes",
+    return scrape_com_artigos(
+        url_listagem="https://www.ccee.org.br/busca-ccee?q=&dtIni=&dtFim=&structure=ccee-noticias&ordenacao=Mais%20recentes",
         orgao="CCEE",
         tema="Comercialização de Energia",
-        seletores=[".portlet-body a", "article", ".asset-abstract", ".journal-content-article a"],
+        seletores_lista=[".asset-title a", "h2 a", "h3 a", "article a", ".portlet-body a"],
         limite=8,
     )
-    if len(resultados) < 3:
-        resultados += scrape_generico(
-            url="https://www.ccee.org.br/web/guest/acervo-ccee",
-            orgao="CCEE",
-            tema="Comercialização de Energia",
-            seletores=["article", ".portlet-body a"],
-            limite=5,
-        )
-    return resultados
 
 
 def scrape_ons() -> list[dict]:
-    """ONS — Resoluções e publicações sobre operação do sistema."""
+    """ONS — Notícias com links diretos."""
     print("\n[ONS] Iniciando...")
-    resultados = scrape_generico(
-        url="https://www.ons.org.br/paginas/imprensa/noticias",
+    return scrape_com_artigos(
+        url_listagem="https://www.ons.org.br/paginas/imprensa/noticias",
         orgao="ONS",
         tema="Operação do Sistema",
-        seletores=["table tr", ".listagem a", "article", "li a"],
-        limite=8,
+        seletores_lista=["article a", "h2 a", "h3 a", ".listagem a", "li a"],
+        limite=6,
     )
-    if len(resultados) < 3:
-        resultados += scrape_generico(
-            url="https://www.ons.org.br/paginas/imprensa/noticias",
-            orgao="ONS",
-            tema="Operação do Sistema",
-            seletores=["article", "li a", "table tr"],
-            limite=5,
-        )
-    return resultados
 
 
 def scrape_tag() -> list[dict]:
-    """TAG — Transportadora Associada de Gás."""
+    """TAG — Notícias com links diretos."""
     print("\n[TAG] Iniciando...")
-    return scrape_generico(
-        url="https://www.tag.com.br/noticias",
+    return scrape_com_artigos(
+        url_listagem="https://www.tag.com.br/noticias",
         orgao="TAG",
         tema="Transporte de Gás",
-        seletores=[".news-item", "article", ".post", ".card"],
-        limite=6,
-    )
-
-
-def scrape_petrobras() -> list[dict]:
-    """Petrobras — Notícias e comunicados relevantes."""
-    print("\n[Petrobras] Iniciando...")
-    return scrape_generico(
-        url="https://petrobras.com.br",
-        orgao="Petrobras",
-        tema="Petróleo e Gás",
-        seletores=["article", ".news-card", ".card-noticia", ".card"],
-        limite=6,
-    )
-
-
-def scrape_ame() -> list[dict]:
-    """Amazonas Energia — Distribuidora local."""
-    print("\n[AmE] Iniciando...")
-    # URL principal atualizada
-    resultados = scrape_generico(
-        url="https://website.ambarenergia-am.com.br/informacoes/destaques/",
-        orgao="AmE",
-        tema="Energia Elétrica / AM",
-        seletores=["article", ".post", ".news-item", ".card"],
-        limite=6,
-    )
-
-def scrape_cigas() -> list[dict]:
-    """Cigás — Companhia de Gás do Amazonas."""
-    print("\n[Cigás] Iniciando...")
-    return scrape_generico(
-        url="https://www.cigas-am.com.br",
-        orgao="Cigás",
-        tema="Gás Natural / AM",
-        seletores=["article", ".post", ".news-card", ".noticia", "a"],
-        limite=6,
-    )
-
-
-def scrape_arsepam() -> list[dict]:
-    """ARSEPAM — Legislação e regulação estadual AM."""
-    print("\n[ARSEPAM] Iniciando...")
-    import time as _time
-    _time.sleep(3)  # delay extra por restrições do site
-    return scrape_generico(
-        url="https://www.arsepam.am.gov.br/category/noticias/",
-        orgao="ARSEPAM",
-        tema="Regulação Estadual / AM",
-        seletores=[".entry-content a", ".legislacao a", "table tr td a", "li a", "article a"],
-        limite=10,
-    )
-
-
-def scrape_semig() -> list[dict]:
-    """SEMIG — Secretaria de Energia, Mineração e Gás do AM."""
-    print("\n[SEMIG] Iniciando...")
-    return scrape_generico(
-        url="https://www.semig.am.gov.br/category/noticias/",
-        orgao="SEMIG",
-        tema="Política Energética / AM",
-        seletores=["article", ".post", ".noticia", "a"],
-        limite=6,
-    )
-
-
-def scrape_prefeitura_manaus() -> list[dict]:
-    """Prefeitura de Manaus — Notícias relevantes."""
-    print("\n[Prefeitura Manaus] Iniciando...")
-    return scrape_generico(
-        url="https://www.manaus.am.gov.br/noticias/",
-        orgao="Prefeitura Manaus",
-        tema="Gestão Municipal",
-        seletores=["article", ".noticia", ".card", "li"],
+        seletores_lista=["article a", "h2 a", "h3 a", ".news-item a", ".card a"],
         limite=5,
     )
 
 
+def scrape_petrobras() -> list[dict]:
+    """Petrobras — Notícias com links diretos."""
+    print("\n[Petrobras] Iniciando...")
+    return scrape_com_artigos(
+        url_listagem="https://petrobras.com.br/noticias",
+        orgao="Petrobras",
+        tema="Petróleo e Gás",
+        seletores_lista=["article a", "h2 a", "h3 a", ".news-card a", ".card a"],
+        limite=5,
+    )
+
+
+def scrape_ame() -> list[dict]:
+    """Amazonas Energia — Notícias com links diretos."""
+    print("\n[AmE] Iniciando...")
+    return scrape_com_artigos(
+        url_listagem="https://website.ambarenergia-am.com.br/informacoes/destaques/",
+        orgao="AmE",
+        tema="Energia Elétrica / AM",
+        seletores_lista=["article a", "h2 a", "h3 a", ".post a", ".card a"],
+        limite=5,
+    )
+
+
+def scrape_cigas() -> list[dict]:
+    """Cigás — Notícias com links diretos."""
+    print("\n[Cigás] Iniciando...")
+    return scrape_com_artigos(
+        url_listagem="https://www.cigas-am.com.br",
+        orgao="Cigás",
+        tema="Gás Natural / AM",
+        seletores_lista=["article a", "h2 a", "h3 a", ".noticia a", ".post a"],
+        limite=5,
+    )
+
+
+def scrape_arsepam() -> list[dict]:
+    """ARSEPAM — Notícias e legislação com links diretos."""
+    print("\n[ARSEPAM] Iniciando...")
+    time.sleep(3)
+    return scrape_com_artigos(
+        url_listagem="https://www.arsepam.am.gov.br/category/noticias/",
+        orgao="ARSEPAM",
+        tema="Regulação Estadual / AM",
+        seletores_lista=["article a", "h2 a", "h3 a", ".entry-title a", "li a"],
+        limite=8,
+    )
+
+
+def scrape_semig() -> list[dict]:
+    """SEMIG — Notícias com links diretos."""
+    print("\n[SEMIG] Iniciando...")
+    return scrape_com_artigos(
+        url_listagem="https://www.semig.am.gov.br/category/noticias/",
+        orgao="SEMIG",
+        tema="Política Energética / AM",
+        seletores_lista=["article a", "h2 a", "h3 a", ".post a"],
+        limite=5,
+    )
+
+
+def scrape_prefeitura_manaus() -> list[dict]:
+    """Prefeitura de Manaus — Notícias com links diretos."""
+    print("\n[Prefeitura Manaus] Iniciando...")
+    return scrape_com_artigos(
+        url_listagem="https://www.manaus.am.gov.br/noticias/",
+        orgao="Prefeitura Manaus",
+        tema="Gestão Municipal",
+        seletores_lista=["article a", "h2 a", "h3 a", ".noticia a", ".card a"],
+        limite=4,
+    )
+
+
 def scrape_immu() -> list[dict]:
-    """IMMU — Instituto Municipal de Mobilidade Urbana."""
+    """IMMU — Notícias com links diretos."""
     print("\n[IMMU] Iniciando...")
-    return scrape_generico(
-        url="https://www.manaus.am.gov.br/immu/noticias/",
+    return scrape_com_artigos(
+        url_listagem="https://www.manaus.am.gov.br/immu/noticias/",
         orgao="IMMU",
         tema="Mobilidade Urbana",
-        seletores=["article", ".post", "a"],
-        limite=4,
+        seletores_lista=["article a", "h2 a", "h3 a", ".post a"],
+        limite=3,
     )
 
 
 def scrape_implurb() -> list[dict]:
-    """Implurb — Instituto Municipal de Planejamento Urbano."""
+    """Implurb — Notícias com links diretos."""
     print("\n[Implurb] Iniciando...")
-    return scrape_generico(
-        url="https://www.manaus.am.gov.br/implurb/noticias/",
+    return scrape_com_artigos(
+        url_listagem="https://www.manaus.am.gov.br/implurb/noticias/",
         orgao="Implurb",
         tema="Planejamento Urbano",
-        seletores=["article", ".post", "a"],
-        limite=4,
+        seletores_lista=["article a", "h2 a", "h3 a", ".post a"],
+        limite=3,
     )
 
 
 def scrape_sefaz_am() -> list[dict]:
-    """SEFAZ-AM — Legislação tributária do Amazonas."""
+    """SEFAZ-AM — Notícias com links diretos."""
     print("\n[SEFAZ-AM] Iniciando...")
-    return scrape_generico(
-        url="https://www.sefaz.am.gov.br/noticias",
+    return scrape_com_artigos(
+        url_listagem="https://www.sefaz.am.gov.br/noticias",
         orgao="SEFAZ-AM",
         tema="Tributação / AM",
-        seletores=[".legislacao a", "table tr td a", "li a", "article"],
-        limite=6,
+        seletores_lista=["article a", "h2 a", "h3 a", "li a", "table tr td a"],
+        limite=4,
     )
 
 
 def scrape_seinfra_am() -> list[dict]:
-    """Seinfra-AM — Secretaria de Infraestrutura."""
+    """Seinfra-AM — Notícias com links diretos."""
     print("\n[Seinfra-AM] Iniciando...")
-    return scrape_generico(
-        url="https://www.seinfra.am.gov.br/category/noticias/",
+    return scrape_com_artigos(
+        url_listagem="https://www.seinfra.am.gov.br/category/noticias/",
         orgao="Seinfra-AM",
         tema="Infraestrutura / AM",
-        seletores=["article", ".post", "a"],
-        limite=4,
+        seletores_lista=["article a", "h2 a", "h3 a", ".post a"],
+        limite=3,
     )
 
 
@@ -547,26 +613,21 @@ def main():
     print(f"{'='*55}")
 
     scrapers = [
-        # Diários Oficiais (prioridade máxima)
         scrape_dou,
         scrape_doe_am,
-        # Agências reguladoras federais
         scrape_aneel,
         scrape_anp,
         scrape_ana,
         scrape_ccee,
         scrape_ons,
-        # Empresas do setor
         scrape_petrobras,
         scrape_tag,
         scrape_ame,
         scrape_cigas,
-        # Órgãos estaduais AM
         scrape_arsepam,
         scrape_semig,
         scrape_sefaz_am,
         scrape_seinfra_am,
-        # Municipais
         scrape_prefeitura_manaus,
         scrape_immu,
         scrape_implurb,
@@ -577,67 +638,70 @@ def main():
     for fn in scrapers:
         try:
             resultado = fn()
-            todas.extend(resultado)
+            if resultado:
+                todas.extend(resultado)
         except Exception as e:
             nome = fn.__name__.replace("scrape_", "").upper()
             print(f"  ⚠️  Erro inesperado em {fn.__name__}: {e}")
             falhas.append(nome)
 
-    # Ordena: críticos primeiro, depois alto, médio, baixo; desempate por data desc
+    # Ordena por impacto
     ordem = {"critico": 0, "alto": 1, "medio": 2, "baixo": 3}
     todas.sort(key=lambda p: (ordem.get(p["impacto"], 9), p["data"]))
 
-    # Remove duplicatas pelo título (primeiros 80 chars, case-insensitive)
-    vistos = set()
+    # Remove duplicatas por URL e por título
+    vistos_url   = set()
+    vistos_titulo = set()
     unicas = []
     for p in todas:
-        chave = p["titulo"][:80].lower().strip()
-        if chave not in vistos:
-            vistos.add(chave)
+        chave_url    = p["url"].strip().lower()
+        chave_titulo = p["titulo"][:80].lower().strip()
+        if chave_url not in vistos_url and chave_titulo not in vistos_titulo:
+            vistos_url.add(chave_url)
+            vistos_titulo.add(chave_titulo)
             unicas.append(p)
 
-    # Remove entradas de falha se houver publicações reais do mesmo órgão
-    orgaos_com_dados = {p["orgao"] for p in unicas if "falha" not in p["titulo"].lower() and "verificado" not in p["titulo"].lower()}
+    # Remove entradas de falha se houver dados reais do mesmo órgão
+    orgaos_com_dados = {
+        p["orgao"] for p in unicas
+        if "falha" not in p["titulo"].lower() and "verificado" not in p["titulo"].lower()
+    }
     unicas_filtradas = [
         p for p in unicas
-        if not (("falha" in p["titulo"].lower() or "verificado" in p["titulo"].lower())
-                and p["orgao"] in orgaos_com_dados)
+        if not (
+            ("falha" in p["titulo"].lower() or "verificado" in p["titulo"].lower())
+            and p["orgao"] in orgaos_com_dados
+        )
     ]
 
     fim = agora_manaus()
 
-    # Estatísticas para o dashboard
-    total = len(unicas_filtradas)
-    criticas = sum(1 for p in unicas_filtradas if p["impacto"] == "critico")
-    altas = sum(1 for p in unicas_filtradas if p["impacto"] == "alto")
-    medias = sum(1 for p in unicas_filtradas if p["impacto"] == "medio")
-    baixas = sum(1 for p in unicas_filtradas if p["impacto"] == "baixo")
+    total     = len(unicas_filtradas)
+    criticas  = sum(1 for p in unicas_filtradas if p["impacto"] == "critico")
+    altas     = sum(1 for p in unicas_filtradas if p["impacto"] == "alto")
+    medias    = sum(1 for p in unicas_filtradas if p["impacto"] == "medio")
+    baixas    = sum(1 for p in unicas_filtradas if p["impacto"] == "baixo")
     consultas = sum(1 for p in unicas_filtradas if "consulta" in p["tags"])
 
-    # Contagem por órgão para o gráfico de barras
     por_orgao = {}
     for p in unicas_filtradas:
         por_orgao[p["orgao"]] = por_orgao.get(p["orgao"], 0) + 1
 
     saida = {
-        # Metadados para o dashboard
-        "ultima_coleta":   fim.strftime("%d/%m/%Y %H:%M"),
-        "mes_ano":         hoje_mes_ano(),
-        "total":           total,
-        "fontes":          len(scrapers),
+        "ultima_coleta":    fim.strftime("%d/%m/%Y %H:%M"),
+        "mes_ano":          hoje_mes_ano(),
+        "total":            total,
+        "fontes":           len(scrapers),
         "fontes_com_falha": falhas,
-        # Estatísticas de impacto
         "stats": {
-            "critico": criticas,
-            "alto":    altas,
-            "medio":   medias,
-            "baixo":   baixas,
+            "critico":           criticas,
+            "alto":              altas,
+            "medio":             medias,
+            "baixo":             baixas,
             "consultas_abertas": consultas,
         },
-        # Contagem por órgão (para gráfico de barras)
-        "por_orgao": dict(sorted(por_orgao.items(), key=lambda x: x[1], reverse=True)),
-        # Publicações completas
-        "publicacoes": unicas_filtradas,
+        "por_orgao":    dict(sorted(por_orgao.items(), key=lambda x: x[1], reverse=True)),
+        "publicacoes":  unicas_filtradas,
     }
 
     out = Path("data/publicacoes.json")
