@@ -3,6 +3,7 @@ import re
 import time
 from datetime import datetime
 from pathlib import Path
+from datetime import timezone, timedelta
 
 import requests
 from bs4 import BeautifulSoup
@@ -76,13 +77,17 @@ def is_relevante(texto: str) -> bool:
     t = texto.lower()
     return any(k in t for k in KW_RELEVANCIA + KW_CRITICO + KW_ALTO + KW_MEDIO)
 
+MANAUS_TZ = timezone(timedelta(hours=-3))
+
+def agora_manaus():
+    return datetime.now(tz=MANAUS_TZ)
+
 def hoje() -> str:
-    return datetime.now().strftime("%d/%m/%Y")
+    return agora_manaus().strftime("%d/%m/%Y")
 
 def hoje_mes_ano() -> str:
-    """Retorna mês/ano para exibição no dashboard."""
     meses = ["Jan","Fev","Mar","Abr","Mai","Jun","Jul","Ago","Set","Out","Nov","Dez"]
-    now = datetime.now()
+    now = agora_manaus()
     return f"{meses[now.month-1]}/{now.year}"
 
 def get(url: str, timeout: int = 25) -> requests.Response | None:
@@ -571,7 +576,7 @@ def scrape_seinfra_am() -> list[dict]:
 # ════════════════════════════════════════════════════════════════════════════
 
 def main():
-    inicio = datetime.now()
+    inicio = agora_manaus()
     print(f"\n{'='*55}")
     print(f"  CEA Radar — Scraping iniciado: {inicio:%d/%m/%Y %H:%M}")
     print(f"{'='*55}")
@@ -634,7 +639,7 @@ def main():
                 and p["orgao"] in orgaos_com_dados)
     ]
 
-    fim = datetime.now()
+    fim = agora_manaus()
 
     # Estatísticas para o dashboard
     total = len(unicas_filtradas)
