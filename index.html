@@ -3213,14 +3213,6 @@ async function carregarPublicacoes() {
   renderNotificacoes();
 }
 
-function atualizarKpiPublicacoes() {
-  const criticas = PUBLICACOES.filter(p => p.impacto === "critico").length;
-  const elCrit = document.getElementById("kpiCriticas");
-  if (elCrit) elCrit.textContent = criticas;
-  const elTotal = document.getElementById("kpiPublicacoes");
-  if (elTotal) elTotal.textContent = PUBLICACOES.length;
-}
-
 // Alertas recentes do dashboard — top 6 por impacto
 function renderDbAlertas() {
   const el = document.getElementById("dbAlertList");
@@ -3524,7 +3516,6 @@ function filterPub(btn,filter){
   document.querySelectorAll('#pubFilters .f-btn').forEach(b=>b.classList.remove('act'));
   btn.classList.add('act');renderPub(filter);
 }
-renderPub('todos');
 
 // ══ PUB DETAIL MODAL ══
 function openPubModal(idx){
