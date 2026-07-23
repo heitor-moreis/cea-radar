@@ -99,10 +99,12 @@ def normalizar_url(href: str, base_url: str) -> str:
         return "https:" + href
     if href.startswith("/"):
         base = re.match(r"https?://[^/]+", base_url)
-        return (base.group(0) if base else base_url) + href
+        resultado = (base.group(0) if base else base_url) + href
+        return resultado if resultado.startswith("http") else base_url
     if href.startswith("#") or href == "":
         return base_url
-    return base_url.rstrip("/") + "/" + href
+    resultado = base_url.rstrip("/") + "/" + href
+    return resultado if resultado.startswith("http") else base_url
 
 def get(url: str, timeout: int = 25) -> requests.Response | None:
     for tentativa in range(3):
