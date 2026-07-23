@@ -1,55 +1,102 @@
 {
-  "ultima_coleta": "23/07/2026 17:20",
+  "ultima_coleta": "23/07/2026 16:49",
   "mes_ano": "Jul/2026",
-  "total": 51,
+  "total": 46,
   "fontes": 18,
-  "fontes_com_falha": [
-    "AME"
-  ],
+  "fontes_com_falha": [],
   "stats": {
-    "critico": 2,
-    "alto": 3,
-    "medio": 6,
-    "baixo": 40,
+    "critico": 8,
+    "alto": 7,
+    "medio": 2,
+    "baixo": 29,
     "consultas_abertas": 4
   },
   "por_orgao": {
-    "ANEEL": 9,
+    "ANEEL": 8,
     "ANP": 8,
-    "Cigás": 6,
-    "Prefeitura Manaus": 5,
+    "ANA": 5,
     "ARSEPAM": 4,
+    "Prefeitura Manaus": 4,
     "SEMIG": 3,
-    "IMMU": 3,
-    "Implurb": 3,
-    "ANA": 2,
+    "IMMU": 2,
+    "Implurb": 2,
+    "AmE": 1,
+    "SEFAZ-AM": 1,
     "DOU": 1,
     "DOE-AM": 1,
     "CCEE": 1,
     "ONS": 1,
     "Petrobras": 1,
     "TAG": 1,
-    "SEFAZ-AM": 1,
+    "Cigás": 1,
     "Seinfra-AM": 1
   },
   "publicacoes": [
     {
-      "titulo": "Acesso à Informação Institucional A ANEEL Missão, Visão e Valores Estrutura Organizacional Competências Base Jurídica Gestão Estratégica Governança Regulatória Horário de Atendimen",
+      "titulo": "ANEEL multa Neoenergia Coelba por irregularidades envolvendo a geração distribuída",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
       "data": "23/07/2026",
       "impacto": "critico",
       "tags": [
         "critico",
-        "energia",
-        "consulta",
-        "tarifa"
+        "energia"
       ],
-      "url": "https://www.gov.br/aneel/pt-br/acesso-a-informacao",
-      "desc": "Acesso à Informação Institucional A ANEEL Missão, Visão e Valores Estrutura Organizacional Competências Base Jurídica Gestão Estratégica Governança Regulatória Horário de Atendimento Colegiados Quem é Quem Relacionamentos Histórico Ações e Programas Carta de Serviços Concessões de Recursos Financeiros ou Renúncias de Receitas ESG Planejamento de Tecnologia da Informação Programa de Eficiência Energética Programa de Gestão Programa de Integridade Programa de Pesquisa, Desenvolvimento e Inovação ("
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-multa-neoenergia-coelba-por-irregularidades-envolvendo-a-geracao-distribuida",
+      "desc": "Notícias FISCALIZAÇÃO ANEEL multa Neoenergia Coelba por irregularidades envolvendo a geração distribuída O valor total da multa é de R$ 82,7 milhões. A empresa tem 10 dias para recorrer ou pagar o montante. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 23/07/2026 10h02 A Agência Nacional de Energia Elétrica (ANEEL) concluiu um processo punitivo relacionado à geração distribuída (GD) na área de concessão da Companhia de Eletricidade do Estado da Bahia (Neoenergia Coelba). A multa final aplicada é no valor de de R$ 82,7 milhões, o que corresponde 0,56% da Receita Operacional Líquida da distribuidora. As irregularidades observadas foram: indeferimento indevido de solicita"
     },
     {
-      "titulo": "Assuntos Análise de Impacto Regulatório (AIR) Armazenamento e movimentação de produtos líquidos Comunicação e investigação de incidentes Oleodutos de Transporte e Transferência Ter",
+      "titulo": "Agência nega recurso à multa de R$ 235 milhões aplicada à UTE Rio Grande",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "23/07/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico",
+        "energia"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/agencia-nega-recurso-a-multa-de-r-235-milhoes-aplicada-a-ute-rio-grande",
+      "desc": "Notícias FISCALIZAÇÃO Agência nega recurso à multa de R$ 235 milhões aplicada à UTE Rio Grande Descumprimento do cronograma de implantação da geradora foi o motivo da penalidade Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 21/07/2026 17h59 A Agência Nacional de Energia Elétrica (ANEEL) manteve a multa de R$ 235 milhões aplicada à Termelétrica Rio Grande S/A e Bolognesi Energia S/A, ao negar recurso administrativo das empresas responsáveis pela Usina Termelétrica (UTE) Rio Grande. A decisão foi tomada nesta terça-feira (21/7) pela diretoria colegiada da Agência. A penalidade foi motivada pelo descumprimento do cronograma de implantação da usina, que culminou na inexecu"
+    },
+    {
+      "titulo": "ANEEL estende o prazo de concessão da UHE Jirau (RO)",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "23/07/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico",
+        "energia"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-estende-o-prazo-de-concessao-da-uhe-jirau-ro",
+      "desc": "Notícias GERAÇÃO ANEEL estende o prazo de concessão da UHE Jirau (RO) Encerramento passa de dezembro de 2045 para agosto de 2047 Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 14/07/2026 14h34 A Agência Nacional de Energia Elétrica (ANEEL) aprovou nesta terça-feira ( 14/7) a extensão do prazo de concessão da Usina Hidrelétrica (UHE) Jirau em 615 dias, passando de dezembro de 2045 para agosto de 2047. A Agência homologou o pedido da empresa Energia Sustentável do Brasil S.A, responsável pela usina, que alegou distorção na definição da energia destinada ao Ambiente de Contratação Regulada (ACR), uma vez que o poder concedente deixou de considerar parcelas da garantia físi"
+    },
+    {
+      "titulo": "Entre os dias 13 e 17/7, a ANP realizou 268 ações de fiscalização com foco em preços abusivos",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "23/07/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/entre-os-dias-13-e-17-7-a-anp-realizou-268-acoes-de-fiscalizacao-com-foco-em-precos-abusivos",
+      "desc": "Notícias Entre os dias 13 e 17/7, a ANP realizou 268 ações de fiscalização com foco em preços abusivos Além disso, a Agência seguiu com as fiscalizações de rotina sobre qualidade, quantidade e outros aspectos. Houve ações em 14 estados. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 17/07/2026 16h06 Atualizado em 17/07/2026 18h43 A ANP fez 268 ações de fiscalização esta semana (13 a 17/7) com foco no combate a preços abusivos de combustíveis, dando prosseguimento ao cumprimento das atribuições recebidas pelas Medidas Provisórias nº 1340/2026 e 1349/2026 e pelo Decreto nº 12.876/2026. Do total das ações realizadas com esse foco no período, 243 ocorreram em postos revende"
+    },
+    {
+      "titulo": "Entre os dias 6 a 10/7, a ANP realizou 260 ações de fiscalização com foco em preços abusivos",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "23/07/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/entre-os-dias-6-a-10-7-a-anp-realizou-260-acoes-de-fiscalizacao-com-foco-em-precos-abusivos",
+      "desc": "Notícias Entre os dias 6 a 10/7, a ANP realizou 260 ações de fiscalização com foco em preços abusivos Além disso, a Agência seguiu com as fiscalizações de rotina sobre qualidade, quantidade e outros aspectos. Houve ações em 15 estados. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 10/07/2026 17h14 Atualizado em 10/07/2026 17h19 A ANP fez 260 ações de fiscalização esta semana (6 a 10/7) com foco no combate a preços abusivos de combustíveis, dando prosseguimento ao cumprimento das atribuições recebidas pelas Medidas Provisórias nº 1340/2026 e 1349/2026 e pelo Decreto nº 12.876/2026. Do total das ações realizadas no período, 239 ocorreram em postos revendedores de combust"
+    },
+    {
+      "titulo": "ANP fará consulta pública sobre critério de distribuição de percentual de royalties aos municípios afetados por embarque e desembarque",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
       "data": "23/07/2026",
@@ -58,109 +105,142 @@
         "critico",
         "energia",
         "gas",
+        "consulta"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-fara-consulta-publica-sobre-criterio-de-distribuicao-de-percentual-de-royalties-aos-municipios-afetados-por-embarque-e-desembarque",
+      "desc": "Notícias ANP fará consulta pública sobre critério de distribuição de percentual de royalties aos municípios afetados por embarque e desembarque Revisão de norma sobre o tema atende a decreto de fevereiro deste ano que incluiu terminais aquaviários entre esses tipos de instalações Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 10/07/2026 17h07 Atualizado em 15/07/2026 12h24 A Diretoria da ANP aprovou hoje (10/7) a realização de consulta e audiência públicas sobre a revisão da Portaria Técnica ANP nº 29/2001 , que regula o pagamento de royalties a municípios que sejam afetados pelas operações de embarque e desembarque de petróleo ou gás natural. A revisão é necessária dev"
+    },
+    {
+      "titulo": "Informações",
+      "orgao": "AmE",
+      "tema": "Energia Elétrica / AM",
+      "data": "23/07/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico",
+        "energia"
+      ],
+      "url": "https://website.ambarenergia-am.com.br/informacoes/decretos-de-situacao-de-emergencia/",
+      "desc": "Informações Decretos de Situação de Emergência Alteração de Carga Cadastro de Equipamento Vital Cliente Alta Tensão Cliente Mercado Livre Compartilhamento de infraestruturas Contrato Contribuição de Iluminação Pública por Município Decretos de Situação de Emergência Desligamentos Programados Despesas Associadas a CCC Dicas de Consumo Consciente Dicas de Segurança Direitos e Deveres Furto de energia elétrica é crime Iluminação Pública Indicadores de Continuidade Ligação Nova Ligação Provisória Localizar App na Loja Micro/Minigeração Distribuída Normas Técnicas e Manuais Notícias Orçamento de Conexão / Projeto / Vistoria Padrão de Entrada Pesquisa de Curvas de Carga e Hábitos de Consumo Poda e Arborização Programa de Eficiência Energética Programa de Eletrificação Rural Programa de Pesquisa "
+    },
+    {
+      "titulo": "Ouvidoria Arsepam",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "23/07/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico"
+      ],
+      "url": "https://www.arsepam.am.gov.br/ouvidoria-arsepam/",
+      "desc": "Ouvidoria Arsepam Ouvir Compartilhar Tweet O setor da Ouvidoria da Arsepam tem como objetivo zelar pela qualidade dos serviços regulados pela agência, acompanhando o processo interno de apuração de denúncias e reclamações dos interessados contra a atuação das concessionárias, visando promover a conciliação entre os operadores do serviço e usuários. Decretos RESOLUÇÃO Nº 06 – 19.06.2018 – Dispõe sobre o sistema de gerenciamento de demandas da Ouvidoria RESOLUÇÃO Nº 07 – 19.06.2018 – Dispõe sobre as tratativas das demandas registradas na Ouvidoria Ouvidora da Arsepam Amazonas Jéssica Carolina Medeiros de Oliveira Horário de Atendimento Para falar com a nossa Ouvidoria, entre em contato de segunda à sexta-feira, das 8h às 14h. Atendimento presencial Terminal Rodoviário Engenheiro Huascar Ange"
+    },
+    {
+      "titulo": "Revisão tarifária periódica da Energisa Sul-Sudeste é aprovada pela ANEEL",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "23/07/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto",
+        "energia",
+        "tarifa"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/revisao-tarifaria-periodica-da-energisa-sul-sudeste-e-aprovada-pela-aneel",
+      "desc": "Notícias Revisão Tarifária Revisão tarifária periódica da Energisa Sul-Sudeste é aprovada pela ANEEL Os novos índices passam a vigorar a partir de 12 de julho Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 14/07/2026 16h00 A diretoria colegiada da Agência Nacional de Energia Elétrica (ANEEL) aprovou, nesta terça-feira (14/7), a revisão tarifária periódica da Energisa Sul-Sudeste – Distribuidora de Energia S.A. (ESS), que passa a vigorar a partir de 12 de julho de 2026. Sediada na cidade de Presidente Prudente (SP), a distribuidora atende cerca de 905 mil unidades consumidoras. Confira, na tabela, os novos índices: Empresa Consumidores residenciais - B1 ESS 9,60% Classe "
+    },
+    {
+      "titulo": "Consulta Pública discutirá revisão da Metodologia do Fator X",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "23/07/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto",
+        "energia",
         "consulta",
-        "ambiental"
+        "tarifa"
       ],
-      "url": "https://www.gov.br/anp/pt-br/assuntos",
-      "desc": "Assuntos Análise de Impacto Regulatório (AIR) Armazenamento e movimentação de produtos líquidos Comunicação e investigação de incidentes Oleodutos de Transporte e Transferência Terminais de Petróleo e Combustíveis Líquidos Transporte a granel por meio aquaviário Comunicação de Incidentes Relatórios de investigação de incidentes Consultas e Audiências Públicas Consultas e Audiências Públicas Consulta Prévia Consulta de Interesse Tomada Pública de Contribuições Manuais para Audiências Públicas CCU"
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/consulta-publica-discutira-revisao-da-metodologia-do-fator-x",
+      "desc": "Notícias TARIFAS Consulta Pública discutirá revisão da Metodologia do Fator X O Fator X funciona como um incentivo para que as empresas reduzam custos, melhorem a qualidade do serviço e repassem ganhos de eficiência para os consumidores. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 14/07/2026 14h36 A Diretoria da Agência Nacional de Energia Elétrica (ANEEL) aprovou nesta terça-feira (14), durante Reunião Pública Ordinária, abertura de Consulta Pública com o objetivo de revisar a Metodologia do Fator X – Componente de Produtividade (Pd). O debate sobre o assunto surgiu a partir necessidade de adequar a metodologia atual às recentes transformações do setor elétrico. Ess"
     },
     {
-      "titulo": "Licitações e Contratos",
-      "orgao": "Cigás",
-      "tema": "Gás Natural / AM",
+      "titulo": "ANP participa de reunião técnica sobre prevenção à infiltração do crime organizado na cadeia de combustíveis",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
       "data": "23/07/2026",
       "impacto": "alto",
       "tags": [
         "alto"
       ],
-      "url": "https://www.cigas.com.br/licitacoes-e-contratos",
-      "desc": "Licitações e Contratos"
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-participa-de-reuniao-tecnica-sobre-prevencao-a-infiltracao-do-crime-organizado-na-cadeia-de-combustiveis",
+      "desc": "Notícias ANP participa de reunião técnica sobre prevenção à infiltração do crime organizado na cadeia de combustíveis Encontro reuniu representantes de órgãos de segurança, fiscalização e controle federais e estaduais Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 16/07/2026 10h01 Atualizado em 16/07/2026 11h47 A ANP participou ontem (15/7) de uma reunião técnica, organizada pelo Ministério da Justiça e Segurança Pública (MJSP), para cooperação e alinhamento institucional voltada ao enfrentamento da infiltração do crime organizado na cadeia nacional de combustíveis. A Agência foi representada pelo Diretor-Geral, Artur Watt, e pelo superintendente de Fiscalização do Abas"
     },
     {
-      "titulo": "MINUTAS DE CONTRATOS",
-      "orgao": "Cigás",
-      "tema": "Gás Natural / AM",
+      "titulo": "ANP firma acordo com os Procons do Acre e do Amapá para fiscalização do abastecimento nos estados",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
       "data": "23/07/2026",
       "impacto": "alto",
       "tags": [
         "alto"
       ],
-      "url": "https://www.cigas.com.br/minutas-de-contratos",
-      "desc": "MINUTAS DE CONTRATOS"
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-firma-acordo-com-os-procons-do-acre-e-do-amapa-para-fiscalizacao-do-abastecimento-nos-estados",
+      "desc": "Notícias Fiscalização ANP firma acordo com os Procons do Acre e do Amapá para fiscalização do abastecimento nos estados Agência mantém parcerias com órgãos públicos de todo o Brasil. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 14/07/2026 12h08 A ANP celebrou dois novos acordos de cooperação técnica e operacional, dessa vez com os Procons do Acre e do Amapá. Os extratos dos acordos foram publicados hoje (14/7) no Diário Oficial da União . O foco é a fiscalização de agentes econômicos que atuam no transporte, revenda e comercialização de derivados do petróleo e biocombustíveis. Os acordos preveem a atuação conjunta entre os órgãos para a repressão de condutas violadora"
     },
     {
-      "titulo": "CONTRATOS DE PUBLICIDADE",
-      "orgao": "Cigás",
-      "tema": "Gás Natural / AM",
+      "titulo": "ANP determina revisão de cronograma para adequação de unidade de tratamento de gás a resolução",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "23/07/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto",
+        "gas"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-determina-revisao-de-cronograma-para-adequacao-de-unidade-de-tratamento-de-gas-a-resolucao",
+      "desc": "Notícias ANP determina revisão de cronograma para adequação de unidade de tratamento de gás a resolução Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 10/07/2026 14h10 A Diretoria da ANP determinou, hoje (10/7), a revisão do plano de ação apresentado pela Petrobras para adequação da Unidade de Tratamento de Gás de Caraguatatuba (UTGCA), de forma a ser capaz que adequar o gás processado às especificações da Resolução ANP nº 982/2025 , no que diz respeito ao teor mínimo de metano. Após avaliação conjunta de quatro áreas técnicas da Agência, foi identificado que o cronograma proposto — com conclusão prevista para 2031 — era incompatível com as necessidades de expansão da o"
+    },
+    {
+      "titulo": "Consultas Públicas Encerradas",
+      "orgao": "ARSEPAM",
+      "tema": "Regulação Estadual / AM",
+      "data": "23/07/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto",
+        "gas",
+        "consulta",
+        "tarifa"
+      ],
+      "url": "https://www.arsepam.am.gov.br/consultas-publicas-encerradas/",
+      "desc": "Consultas Públicas Encerradas Ouvir Compartilhar Tweet Gás Natural Canalizado Consulta Pública nº 001/2023 – Recebimento de Contribuições para a Nota Técnica n o 001/2022 – DECT/DTEC/ARSEPAM Consulta Pública nº 002/2023 – Revisão da Resolução nº 003/2022 – CERCON/ARSEPAM Consulta Pública nº 003/2023 – Definição da Tarifa TUSD Consulta Pública nº 004/2023 – Definição da Tarifa TOM Consulta Pública 001/2024 – Minuta Padrão do Contrato de Prestação de Serviço de Movimentação de Gás. Consulta Pública 002/2024 – Minuta Padrão do Contrato de Operação e Manutenção Referente ao Serviço de Movimentação de Gás. Consulta Pública N° 003/2024 – Atividades de comercialização de gás no Estado do Amazonas CONSULTA PÚBLICA Nº 001/2025 – ARSEPAM – RECEBIMENTO DE CONTRIBUIÇÕES ACERCA DA NOTA TÉCNICA NO 001/2"
+    },
+    {
+      "titulo": "Chamada Pública 001/2026",
+      "orgao": "SEFAZ-AM",
+      "tema": "Tributação / AM",
       "data": "23/07/2026",
       "impacto": "alto",
       "tags": [
         "alto"
       ],
-      "url": "https://www.cigas.com.br/contratos-de-publicidade",
-      "desc": "CONTRATOS DE PUBLICIDADE"
+      "url": "https://www.sefaz.am.gov.br/submenu/52317/detalhamento/52318?parent=Chamadas%20P%C3%BAblicas",
+      "desc": "O Estado do Amazonas, por intermédio da Secretaria de Estado da Fazenda, torna pública às instituições financeiras públicas ou privadas de âmbito nacional a abertura da presente Chamada Pública, nos termos deste Edital, com a finalidade de receber propostas para análise da viabilidade de contratação de Operação de Crédito, na modalidade de operação contratual interna, com garantia da União, no valor de R$ 1.462.000.000,00 (Um bilhão e quatrocentos e sessenta e dois milhões de reais), no âmbito do Programa Estadual de Habitação, Infraestrutura, Saneamento e Capitalização do Fundo Garantidor de PPP - PROHABISCAP, nos termos da Resolução CMN n.º 4.995, de 24 de março de 2022, e suas alterações, destinados ao aporte ao Fundo de Infraestrutura e Desenvolvimento do Estado do Amazonas - FIDEAM, a"
     },
     {
-      "titulo": "Participação Social Tomada de Subsídios Consultas Públicas Audiências Públicas Conselhos e Órgãos Colegiados Ouvidorias Conferências Outras Ações",
+      "titulo": "Aprovada Consulta Pública para estabelecer regras de participação no Prêmio ANEEL de Inovação 2026",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
       "data": "23/07/2026",
       "impacto": "medio",
       "tags": [
         "medio",
+        "energia",
         "consulta"
       ],
-      "url": "https://www.gov.br/aneel/pt-br/acesso-a-informacao/participacao-social",
-      "desc": "Participação Social Tomada de Subsídios Consultas Públicas Audiências Públicas Conselhos e Órgãos Colegiados Ouvidorias Conferências Outras Ações"
-    },
-    {
-      "titulo": "Tomada de Subsídios",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "23/07/2026",
-      "impacto": "medio",
-      "tags": [
-        "medio",
-        "consulta"
-      ],
-      "url": "https://www.gov.br/aneel/pt-br/acesso-a-informacao/participacao-social/tomada-de-subsidios",
-      "desc": "Tomada de Subsídios"
-    },
-    {
-      "titulo": "Comunicação de Incidentes Relatórios de investigação de incidentes",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "23/07/2026",
-      "impacto": "medio",
-      "tags": [
-        "medio"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/assuntos/comunicacao-de-incidentes",
-      "desc": "Comunicação de Incidentes Relatórios de investigação de incidentes"
-    },
-    {
-      "titulo": "Relatórios de investigação de incidentes",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "23/07/2026",
-      "impacto": "medio",
-      "tags": [
-        "medio"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/assuntos/comunicacao-de-incidentes/relatorios-de-investigacao-de-incidentes",
-      "desc": "Relatórios de investigação de incidentes"
-    },
-    {
-      "titulo": "RELATÓRIO DE ADMINISTRAÇÃO E SUSTENTABILIDADE",
-      "orgao": "Cigás",
-      "tema": "Gás Natural / AM",
-      "data": "23/07/2026",
-      "impacto": "medio",
-      "tags": [
-        "medio"
-      ],
-      "url": "https://www.cigas.com.br/relatorio-de-sustentabilidade",
-      "desc": "RELATÓRIO DE ADMINISTRAÇÃO E SUSTENTABILIDADE"
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aprovada-consulta-publica-para-estabelecer-regras-de-participacao-no-premio-aneel-de-inovacao-2026",
+      "desc": "Notícias INOVAÇÃO Aprovada Consulta Pública para estabelecer regras de participação no Prêmio ANEEL de Inovação 2026 Contribuições poderão ser enviadas de 17 de julho a 15 de agosto de 2026 Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 14/07/2026 18h21 Atualizado em 14/07/2026 18h27 Foi aprovada pela diretoria colegiada da Agência Nacional de Energia Elétrica (ANEEL), nesta terça-feira (14/7), a abertura da Consulta Pública nº 021/2026, que trata do edital do Prêmio ANEEL de Inovação 2026. O edital irá estabelecer regras e condições para participação, no âmbito do Programa de Pesquisa, Desenvolvimento e Inovação (PDI) da Agência. As contribuições poderão ser enviadas d"
     },
     {
       "titulo": "Relatórios Institucionais Arsepam",
@@ -172,7 +252,7 @@
         "medio"
       ],
       "url": "https://www.arsepam.am.gov.br/relatorios-institucionais-arsepam/",
-      "desc": "Relatórios Institucionais Arsepam"
+      "desc": "Relatórios Institucionais Arsepam Ouvir Compartilhar Tweet Relatórios de Atividades Anuais Relatório de Atividade ARSEPAM 2023 Relatório de Atividades ARSEPAM 2021 e 2022 Relatorio Anual de Atividades ARSEPAM 2020 Relatório Anual de Atividades ARSAM 2017 Relatório Anual de Atividades ARSAM 2016 Relatório Anual de Atividades ARSAM 2015 Relatório Anual de Atividades ARSAM 2014 Relatório Anual de Atividades ARSAM 2013 Relatório Anual de Atividades ARSAM 2009 Relatório Anual de Atividades ARSAM 2008 Relatório Anual de Atividades ARSAM 2007 Relatório Anual de Atividades ARSAM 2006 Relatório Anual de Atividades ARSAM 2004 Relatório Anual de Atividades ARSAM 2003 [collapse] Compartilhar Tweet"
     },
     {
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
@@ -187,7 +267,7 @@
       "desc": "DOU — Página verificada sem atos relevantes hoje."
     },
     {
-      "titulo": "DOE-AM — Verificado hoje sem atos relevantes identificados",
+      "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
       "data": "23/07/2026",
@@ -197,10 +277,10 @@
         "estadual"
       ],
       "url": "https://diario.imprensaoficial.am.gov.br/portal/edicoes/download/0",
-      "desc": "Edição do dia verificada. Nenhum ato com palavras-chave relevantes foi encontrado nesta edição."
+      "desc": "Edição do dia verificada. Nenhum ato relevante encontrado."
     },
     {
-      "titulo": "Abrir menu principal de navegação Agência Nacional de Energia Elétrica Termos mais buscados imposto de renda assinatura mei inss enem Termos mais buscados imposto de renda assinatu",
+      "titulo": "ANEEL realizará em agosto evento sobre o El Niño e os impactos no Setor Elétrico Brasileiro",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
       "data": "23/07/2026",
@@ -209,11 +289,11 @@
         "baixo",
         "energia"
       ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias",
-      "desc": "Abrir menu principal de navegação Agência Nacional de Energia Elétrica Termos mais buscados imposto de renda assinatura mei inss enem Termos mais buscados imposto de renda assinatura mei"
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-realizara-em-agosto-evento-sobre-o-el-nino-e-os-impactos-no-setor-eletrico-brasileiro",
+      "desc": "Notícias INSTITUCIONAL ANEEL realizará em agosto evento sobre o El Niño e os impactos no Setor Elétrico Brasileiro O evento é voltado para especialistas, representantes do governo, agentes do setor elétrico, pesquisadores e profissionais da área Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 21/07/2026 17h13 Atualizado em 21/07/2026 17h56 Em 20 de agosto, será realizado o evento “Super El Niño e a Resiliência do Setor Elétrico Brasileiro” , às 9h, na sede da Agência Nacional de Energia Elétrica (ANEEL), em Brasília-DF. O encontro é voltado para a discussão dos impactos dos eventos climáticos extremos no Sistema Elétrico Nacional e para as estratégias necessárias para fo"
     },
     {
-      "titulo": "Abrir menu principal de navegação Agência Nacional de Energia Elétrica",
+      "titulo": "Recepção principal da ANEEL ficará temporariamente interditada a partir desta segunda-feira (20)",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
       "data": "23/07/2026",
@@ -222,60 +302,11 @@
         "baixo",
         "energia"
       ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias",
-      "desc": "Abrir menu principal de navegação Agência Nacional de Energia Elétrica"
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/recepcao-principal-da-aneel-ficara-temporariamente-interditada-a-partir-desta-segunda-feira-20",
+      "desc": "Notícias INSTITUCIONAL Recepção principal da ANEEL ficará temporariamente interditada a partir desta segunda-feira (20) Mudança no acesso é para adaptações a normas de segurança contra incêndios Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 20/07/2026 15h18 Atualizado em 20/07/2026 16h34 Recepção interditada A recepção principal da Agência Nacional de Energia Elétrica (ANEEL), compartilhada com a Agência Nacional do Petróleo (ANP), no bloco I, está temporariamente interditada para continuidade das obras necessárias de adequação do edifício às normas de segurança contra incêndio e pânico. A previsão é de que a reforma seja concluída em até 45 dias. Nesse período, a rece"
     },
     {
-      "titulo": "Agência Nacional de Energia Elétrica",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "23/07/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo",
-        "energia"
-      ],
-      "url": "https://www.gov.br/aneel/pt-br",
-      "desc": "Agência Nacional de Energia Elétrica"
-    },
-    {
-      "titulo": "Institucional A ANEEL Missão, Visão e Valores Estrutura Organizacional Competências Base Jurídica Gestão Estratégica Governança Regulatória Horário de Atendimento Colegiados Quem é",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "23/07/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.gov.br/aneel/pt-br/acesso-a-informacao/institucional",
-      "desc": "Institucional A ANEEL Missão, Visão e Valores Estrutura Organizacional Competências Base Jurídica Gestão Estratégica Governança Regulatória Horário de Atendimento Colegiados Quem é Quem Relacionamentos Histórico"
-    },
-    {
-      "titulo": "Consultas Públicas",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "23/07/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.gov.br/aneel/pt-br/acesso-a-informacao/participacao-social/consultas-publicas",
-      "desc": "Consultas Públicas"
-    },
-    {
-      "titulo": "Conselhos e Órgãos Colegiados",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "23/07/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.gov.br/aneel/pt-br/acesso-a-informacao/participacao-social/conselhos-orgaos-colegiados",
-      "desc": "Conselhos e Órgãos Colegiados"
-    },
-    {
-      "titulo": "Abrir menu principal de navegação Agência Nacional do Petróleo, Gás Natural e Biocombustíveis Termos mais buscados imposto de renda assinatura mei inss enem Termos mais buscados im",
+      "titulo": "ANP divulga dados consolidados em inglês do setor regulado em 2025",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
       "data": "23/07/2026",
@@ -284,24 +315,11 @@
         "baixo",
         "gas"
       ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados",
-      "desc": "Abrir menu principal de navegação Agência Nacional do Petróleo, Gás Natural e Biocombustíveis Termos mais buscados imposto de renda assinatura mei inss enem Termos mais buscados imposto de renda assinatura mei"
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-divulga-dados-consolidados-em-ingles-do-setor-regulado-em-2025",
+      "desc": "Notícias ANP divulga dados consolidados em inglês do setor regulado em 2025 Também foi publicada seção com panorama internacional na versão em português. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 17/07/2026 18h49 Já está disponível no site da ANP a versão em inglês das tabelas e gráficos com as informações consolidadas da evolução do setor de petróleo, gás natural e biocombustíveis no Brasil em 2025. Os dados em português já haviam sido divulgados pela Agência em 30/6 . Os dados em português também foram complementados com a Seção 1 - Panorama Internacional , que traz informações como reservas, produção, consumo e preços do petróleo e gás natural em outros países. "
     },
     {
-      "titulo": "Agência Nacional do Petróleo, Gás Natural e Biocombustíveis",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "23/07/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo",
-        "gas"
-      ],
-      "url": "https://www.gov.br/anp/pt-br",
-      "desc": "Agência Nacional do Petróleo, Gás Natural e Biocombustíveis"
-    },
-    {
-      "titulo": "Armazenamento e movimentação de produtos líquidos Comunicação e investigação de incidentes Oleodutos de Transporte e Transferência Terminais de Petróleo e Combustíveis Líquidos Tra",
+      "titulo": "\"ANP com VC - Postos\": aplicativo disponibiliza dados de postos e canal de denúncias ao consumidor",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
       "data": "23/07/2026",
@@ -309,44 +327,8 @@
       "tags": [
         "baixo"
       ],
-      "url": "https://www.gov.br/anp/pt-br/assuntos/armazenamento-e-movimentacao-de-produtos-liquidos",
-      "desc": "Armazenamento e movimentação de produtos líquidos Comunicação e investigação de incidentes Oleodutos de Transporte e Transferência Terminais de Petróleo e Combustíveis Líquidos Transporte a granel por meio aquaviário"
-    },
-    {
-      "titulo": "Terminais de Petróleo e Combustíveis Líquidos",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "23/07/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/assuntos/armazenamento-e-movimentacao-de-produtos-liquidos/terminais-de-petroleo-e-combustiveis-liquidos",
-      "desc": "Terminais de Petróleo e Combustíveis Líquidos"
-    },
-    {
-      "titulo": "Consultas e Audiências Públicas Consultas e Audiências Públicas Consulta Prévia Consulta de Interesse Tomada Pública de Contribuições Manuais para Audiências Públicas",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "23/07/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/assuntos/consultas-e-audiencias-publicas",
-      "desc": "Consultas e Audiências Públicas Consultas e Audiências Públicas Consulta Prévia Consulta de Interesse Tomada Pública de Contribuições Manuais para Audiências Públicas"
-    },
-    {
-      "titulo": "GOV.BR Serviços Buscar serviços por Categorias Órgãos Estados Serviços por público alvo Cidadãos Empresas Órgãos e Entidades Públicas Demais segmentos (ONGs, organizações sociais, ",
-      "orgao": "ANA",
-      "tema": "Recursos Hídricos",
-      "data": "23/07/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.gov.br/ana",
-      "desc": "GOV.BR Serviços Buscar serviços por Categorias Órgãos Estados Serviços por público alvo Cidadãos Empresas Órgãos e Entidades Públicas Demais segmentos (ONGs, organizações sociais, etc) Servidor Público Temas em Destaque Orçamento Nacional Redes de Atendimento da Administração Pública Federal Proteção de Dados Pessoais Serviços para Imigrantes Política e Orçamento Educacionais Educação Profissional e Tecnológica Educação Profissional para Jovens e Adultos Trabalho e Emprego Serviços para Pessoas "
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-com-vc-postos-aplicativo-disponibiliza-dados-de-postos-e-canal-de-denuncias-ao-consumidor",
+      "desc": "Notícias \"ANP com VC - Postos\": aplicativo disponibiliza dados de postos e canal de denúncias ao consumidor Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 13/07/2026 14h56 Atualizado em 14/07/2026 12h06 A ANP lançou hoje (13/7) o aplicativo \" ANP com VC - Postos \" , que disponibiliza ao consumidor informações sobre postos de combustíveis e canal para denúncias, inclusive por preço abusivo. Ao entrar no sistema, o consumidor pode selecionar se deseja visualizar os postos próximos a ele, ativando a sua localização, ou digitar a cidade. Então, é direcionado a uma lista ou a um mapa com todos os postos autorizados pela Agência na região, conforme sua seleção. Também é possí"
     },
     {
       "titulo": "Consultar minhas solicitações",
@@ -358,7 +340,55 @@
         "baixo"
       ],
       "url": "https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-plataforma-de-automacao/cidadao/consultar-as-minhas-solicitacoes",
-      "desc": "Consultar minhas solicitações"
+      "desc": "Veja o andamento das suas solicitações de serviços automatizados no GOV.BR Atenção : Nem todos os serviços do portal GOV.BR estão disponíveis para acompanhamento nessa área. Nesse caso, consulte a página do serviço e veja as etapas informadas. Para acessar as suas solicitações já registradas em um serviço automatizado na Plataforma de Automação, clique em Ver Solicitações , logo acima, e faça o login em sua conta gov.br . Após digitar corretamente seu CPF e senha da conta, será apresentada uma tela onde será possível identificar os processos que já foram abertos e as fases em que se encontram . As solicitações são identificadas pelo seu número de protocolo associado. É possível alternar entre a exibição das solicitações Em andamento e as já Concluídas , basta clicar na chave azul equivalen"
+    },
+    {
+      "titulo": "Consultar Meu Imposto de Renda",
+      "orgao": "ANA",
+      "tema": "Recursos Hídricos",
+      "data": "23/07/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.gov.br/pt-br/servicos/consultar-meu-imposto-de-renda?origem=maisacessado_inst",
+      "desc": "O número antes das estrelas é a nota dada pelos usuários que utilizaram o serviço e vai de 1 a 5. Depois das estrelas, entre parênteses, é a quantidade de usuários que avaliaram o serviço. Os números são atualizados diariamente."
+    },
+    {
+      "titulo": "Consultar restituição de imposto de renda",
+      "orgao": "ANA",
+      "tema": "Recursos Hídricos",
+      "data": "23/07/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.gov.br/pt-br/servicos/consultar-restituicao-de-imposto-de-renda?origem=maisacessado_inst",
+      "desc": "O número antes das estrelas é a nota dada pelos usuários que utilizaram o serviço e vai de 1 a 5. Depois das estrelas, entre parênteses, é a quantidade de usuários que avaliaram o serviço. Os números são atualizados diariamente."
+    },
+    {
+      "titulo": "Consultar dados do Cadastro Único",
+      "orgao": "ANA",
+      "tema": "Recursos Hídricos",
+      "data": "23/07/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.gov.br/pt-br/servicos/consultar-dados-do-cadastro-unico-cadunico?origem=maisacessado_inst",
+      "desc": "O número antes das estrelas é a nota dada pelos usuários que utilizaram o serviço e vai de 1 a 5. Depois das estrelas, entre parênteses, é a quantidade de usuários que avaliaram o serviço. Os números são atualizados diariamente."
+    },
+    {
+      "titulo": "Creative Commons",
+      "orgao": "ANA",
+      "tema": "Recursos Hídricos",
+      "data": "23/07/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://creativecommons.org/licenses/by-nd/3.0/deed.pt_BR",
+      "desc": "This is an older version of this license. Compared to previous\n            versions, the 4.0 versions of all CC licenses are more user-friendly and more internationally robust . If you are licensing your own work , we\n            strongly recommend the use of the 4.0 license instead: Deed - Attribution-NoDerivatives 4.0 International"
     },
     {
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
@@ -385,7 +415,7 @@
       "desc": "ONS — Página verificada sem atos relevantes hoje."
     },
     {
-      "titulo": "Petrobras — Página verificada sem atos relevantes hoje.",
+      "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
       "data": "23/07/2026",
@@ -393,8 +423,8 @@
       "tags": [
         "baixo"
       ],
-      "url": "https://petrobras.com.br",
-      "desc": "Petrobras — Página verificada sem atos relevantes hoje."
+      "url": "https://petrobras.com.br/noticias",
+      "desc": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
@@ -409,30 +439,19 @@
       "desc": "TAG — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
-      "titulo": "COGERAÇÃO DE ENERGIA",
+      "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
       "data": "23/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
-        "energia"
+        "energia",
+        "gas",
+        "ambiental"
       ],
       "url": "https://www.cigas.com.br/cogeracao",
-      "desc": "COGERAÇÃO DE ENERGIA"
-    },
-    {
-      "titulo": "GÁS RESIDENCIAL",
-      "orgao": "Cigás",
-      "tema": "Gás Natural / AM",
-      "data": "23/07/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo",
-        "gas"
-      ],
-      "url": "https://www.cigas.com.br/gas-residencial",
-      "desc": "GÁS RESIDENCIAL"
+      "desc": "É a produção simultânea e de maneira sequenciada de duas ou mais formas de energia a partir de um único combustível. O processo mais comum é a produção de eletricidade e energia térmica (calor ou frio) a partir do uso de gás natural e/ou de biomassa, entre outros."
     },
     {
       "titulo": "Conselho Estadual de Regulação e Controle dos Serviços Públicos – Cercon",
@@ -444,31 +463,7 @@
         "baixo"
       ],
       "url": "https://www.arsepam.am.gov.br/cercon/",
-      "desc": "Conselho Estadual de Regulação e Controle dos Serviços Públicos – Cercon"
-    },
-    {
-      "titulo": "Consultas Públicas Encerradas",
-      "orgao": "ARSEPAM",
-      "tema": "Regulação Estadual / AM",
-      "data": "23/07/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.arsepam.am.gov.br/consultas-publicas-encerradas/",
-      "desc": "Consultas Públicas Encerradas"
-    },
-    {
-      "titulo": "Ouvidoria Arsepam",
-      "orgao": "ARSEPAM",
-      "tema": "Regulação Estadual / AM",
-      "data": "23/07/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.arsepam.am.gov.br/ouvidoria-arsepam/",
-      "desc": "Ouvidoria Arsepam"
+      "desc": "Conselho Estadual de Regulação e Controle dos Serviços Públicos – Cercon Ouvir Compartilhar Tweet O Conselho Estadual de Regulação e Controle dos Serviços Públicos – Cercon , constitui um órgão colegiado, de caráter deliberativo e recursivo. As decisões adotadas nas reuniões mensais desse conselho são deliberadas por oito conselheiros, representantes de diversos segmentos da sociedade, designados para o mandato de 2 anos. O Cercon é formado por usuários dos serviços regulados, pelo diretor presidente da Arsepam, como representante nato do Estado, pelos operadores da prestação de serviços, pelo Instituto de Defesa do Consumidor – Procon, pelo Instituto de Pesos e Medidas – Ipem e ainda, representantes dos municípios mais populosos do Amazonas, cuja regulação e controle tenham sido delegados"
     },
     {
       "titulo": "SEMIG Secretaria de Estado de Energia, Mineração e Gás",
@@ -482,7 +477,7 @@
         "gas"
       ],
       "url": "https://www.semig.am.gov.br",
-      "desc": "SEMIG Secretaria de Estado de Energia, Mineração e Gás"
+      "desc": "Em cumprimento a Lei n. 9.504/97, o conteúdo dos sites dos órgãos da administração pública direta e indireta do poder executivo estadual estará, durante todo o período eleitoral, restrito a informações sobre prestação de serviços ao cidadão e à Lei de Acesso à Informação. SEMIG\n                        - Secretaria de Estado de Energia, Mineração e Gás Utilizamos cookies para permitir uma melhor experiência em nosso website e para nos ajudar a compreender quais informações são mais úteis e relevantes para você. Por isso é importante que você concorde com a política de uso de cookies da SEMIG - Secretaria de Estado de Energia, Mineração e Gás . Você pode encontrar mais informações sobre quais cookies estamos utilizando e inclusive desabilitá-los em configurações . Utilizamos cookies para per"
     },
     {
       "titulo": "E-mail Integra Amazonas",
@@ -509,18 +504,6 @@
       "desc": "semig@semig.am.gov.br"
     },
     {
-      "titulo": "SEFAZ-AM — Página verificada sem atos relevantes hoje.",
-      "orgao": "SEFAZ-AM",
-      "tema": "Tributação / AM",
-      "data": "23/07/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.sefaz.am.gov.br/noticias",
-      "desc": "SEFAZ-AM — Página verificada sem atos relevantes hoje."
-    },
-    {
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
@@ -533,7 +516,7 @@
       "desc": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
-      "titulo": "Cidadania Prefeito Renato Junior aproxima gestão da população com quinta edição do ‘Manaus que a Gente Cuida’ no Colônia Terra Nova",
+      "titulo": "Prefeito Renato Junior aproxima gestão da população com quinta edição do ‘Manaus que a Gente Cuida’ no Colônia Terra Nova",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
       "data": "23/07/2026",
@@ -542,10 +525,10 @@
         "baixo"
       ],
       "url": "https://www.manaus.am.gov.br/noticia/cidadania/prefeito-renato-junior-quinta-edicao-do-manaus-que-a-gente-cuida-no-colonia-terra-nova/",
-      "desc": "Cidadania Prefeito Renato Junior aproxima gestão da população com quinta edição do ‘Manaus que a Gente Cuida’ no Colônia Terra Nova"
+      "desc": "Cidadania Prefeitura de Manaus leva ação de saúde e educação socioambiental aos moradores do bairro Nossa Senhora das Graças"
     },
     {
-      "titulo": "Revitalização Prefeitura de Manaus inicia obras de nova USF de grande porte no bairro Japiim",
+      "titulo": "Prefeitura de Manaus inicia obras de nova USF de grande porte no bairro Japiim",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
       "data": "23/07/2026",
@@ -554,22 +537,23 @@
         "baixo"
       ],
       "url": "https://www.manaus.am.gov.br/noticia/revitalizacao/obras-nova-usf-grande-porte-japiim/",
-      "desc": "Revitalização Prefeitura de Manaus inicia obras de nova USF de grande porte no bairro Japiim"
+      "desc": "Revitalização Prefeito Renato Junior autoriza início das obras de complexo esportivo no Jorge Teixeira e garante um novo espaço de convivência para mais de 113 mil pessoas"
     },
     {
-      "titulo": "Urbanismo Parque Encontro das Águas Rosa Almeida avança com novas frentes de obra e reforça ritmo de construção da Prefeitura de Manaus",
+      "titulo": "Parque Encontro das Águas Rosa Almeida avança com novas frentes de obra e reforça ritmo de construção da Prefeitura de Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
       "data": "23/07/2026",
       "impacto": "baixo",
       "tags": [
-        "baixo"
+        "baixo",
+        "ambiental"
       ],
       "url": "https://www.manaus.am.gov.br/noticia/urbanismo/prefeitura-implurb-parque-encontro-das-aguas-obras/",
-      "desc": "Urbanismo Parque Encontro das Águas Rosa Almeida avança com novas frentes de obra e reforça ritmo de construção da Prefeitura de Manaus"
+      "desc": "Urbanismo Prefeitura de Manaus bate recorde no licenciamento de obras e área aprovada cresce 674% em maio"
     },
     {
-      "titulo": "Nota Prefeitura realiza atendimentos do Sine Manaus durante a 1ª Expo Manaus Conecta",
+      "titulo": "Prefeitura realiza atendimentos do Sine Manaus durante a 1ª Expo Manaus Conecta",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
       "data": "23/07/2026",
@@ -578,22 +562,10 @@
         "baixo"
       ],
       "url": "https://www.manaus.am.gov.br/noticia/nota/atendimentos-sine-manaus-1a-expo-manaus-conecta/",
-      "desc": "Nota Prefeitura realiza atendimentos do Sine Manaus durante a 1ª Expo Manaus Conecta"
+      "desc": "Página Inicial Notícias Nota Prefeitura realiza atendimentos do Sine Manaus durante a 1ª Expo Manaus Conecta Prefeitura realiza atendimentos do Sine Manaus durante a 1ª Expo Manaus Conecta Por Prefeitura de Manaus 23/07/2026 15h30 Seu navegador não suporta o elemento de áudio. A Prefeitura de Manaus , por meio da Secretaria Municipal do Trabalho, Empreendedorismo e Inovação (Semtepi), informa que os atendimentos dos postos do Sine Manaus, localizados no shopping Phelippe Daou e na avenida Constantino Nery, serão transferidos, nesta sexta-feira e sábado, 24 e 25/7, para o “Megafeirão de Empregabilidade” durante as atividades da 1ª Expo Manaus Conecta, no Studio 5 Centro de Convenções, zona Sul. Os serviços do Sine Manaus voltarão a funcionar nos postos normalmente na segunda-feira, 27/7. — "
     },
     {
-      "titulo": "SAÚDE ANIMAL Centro de Controle de Zoonoses da prefeitura avança na imunização antirrábica de cães e gatos em Manaus",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "23/07/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/saude-animal/imunizacao-antirrabica-caes-gatos/",
-      "desc": "SAÚDE ANIMAL Centro de Controle de Zoonoses da prefeitura avança na imunização antirrábica de cães e gatos em Manaus"
-    },
-    {
-      "titulo": "Alerta Prefeito Renato Junior instaura Gabinete de Crise e coloca Manaus em estado de alerta após vazamento de gás no Distrito Industrial",
+      "titulo": "Prefeito Renato Junior instaura Gabinete de Crise e coloca Manaus em estado de alerta após vazamento de gás no Distrito Industrial",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
       "data": "23/07/2026",
@@ -603,10 +575,10 @@
         "gas"
       ],
       "url": "https://www.manaus.am.gov.br/immu/alerta/prefeito-renato-junior-manaus-em-estado-de-alerta-apos-vazamento-de-gas/",
-      "desc": "Alerta Prefeito Renato Junior instaura Gabinete de Crise e coloca Manaus em estado de alerta após vazamento de gás no Distrito Industrial"
+      "desc": "Alerta Prefeitura de Manaus alerta para vandalismo em botoeiras de semáforo e prejuízos à mobilidade urbana"
     },
     {
-      "titulo": "Transporte Prefeitura de Manaus amplia linhas expressas e reduz tempo de viagem em até 50 minutos para usuários das zonas Norte e Leste",
+      "titulo": "Prefeitura de Manaus amplia linhas expressas e reduz tempo de viagem em até 50 minutos para usuários das zonas Norte e Leste",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
       "data": "23/07/2026",
@@ -615,22 +587,10 @@
         "baixo"
       ],
       "url": "https://www.manaus.am.gov.br/immu/noticia-transporte/prefeitura-immu-linhas-expressas/",
-      "desc": "Transporte Prefeitura de Manaus amplia linhas expressas e reduz tempo de viagem em até 50 minutos para usuários das zonas Norte e Leste"
+      "desc": "Transporte Prefeito Renato Junior cobra pagamento aos rodoviários após repasse do Estado e faz apelo ao sindicato pelo fim da greve"
     },
     {
-      "titulo": "Mobilidade Prefeitura leva ações de mobilidade durante programa ‘Manaus que a Gente Cuida’ no Colônia Terra Nova",
-      "orgao": "IMMU",
-      "tema": "Mobilidade Urbana",
-      "data": "23/07/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/immu/mobilidade/acoes-de-mobilidade-manaus-que-a-gente-cuida/",
-      "desc": "Mobilidade Prefeitura leva ações de mobilidade durante programa ‘Manaus que a Gente Cuida’ no Colônia Terra Nova"
-    },
-    {
-      "titulo": "Ação Conjunta Prefeitura intensifica operação ‘Centro Mais Seguro’ e reforça ordenamento urbano, assistência social e mobilidade na região central de Manaus",
+      "titulo": "Prefeitura intensifica operação ‘Centro Mais Seguro’ e reforça ordenamento urbano, assistência social e mobilidade na região central de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
       "data": "23/07/2026",
@@ -639,10 +599,10 @@
         "baixo"
       ],
       "url": "https://www.manaus.am.gov.br/implurb/operacao-centro-mais-seguro-centro/",
-      "desc": "Ação Conjunta Prefeitura intensifica operação ‘Centro Mais Seguro’ e reforça ordenamento urbano, assistência social e mobilidade na região central de Manaus"
+      "desc": "Ação Conjunta Prefeitura interdita fábrica clandestina, dá assistência a pessoas em situação de rua e realiza serviços de ordenamento durante operação ‘Centro Mais Seguro’"
     },
     {
-      "titulo": "Cooperação Prefeito Renato Junior recebe pesquisadores do Inpa e anuncia agenda conjunta para recuperação ambiental, mobilidade e turismo em Manaus",
+      "titulo": "Prefeito Renato Junior recebe pesquisadores do Inpa e anuncia agenda conjunta para recuperação ambiental, mobilidade e turismo em Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
       "data": "23/07/2026",
@@ -651,19 +611,7 @@
         "baixo"
       ],
       "url": "https://www.manaus.am.gov.br/implurb/prefeito-agenda-conjunta-para-recuperacao-ambiental-mobilidade-e-turismo-em-manaus/",
-      "desc": "Cooperação Prefeito Renato Junior recebe pesquisadores do Inpa e anuncia agenda conjunta para recuperação ambiental, mobilidade e turismo em Manaus"
-    },
-    {
-      "titulo": "Obras Prefeitura de Manaus chega quase à metade da execução da cúpula da Oca Niemeyer no parque Encontro das Águas Rosa Almeida",
-      "orgao": "Implurb",
-      "tema": "Planejamento Urbano",
-      "data": "23/07/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/implurb/prefeitura-implurb-parque-encontro-das-aguas-ocaniemeyer/",
-      "desc": "Obras Prefeitura de Manaus chega quase à metade da execução da cúpula da Oca Niemeyer no parque Encontro das Águas Rosa Almeida"
+      "desc": "Cooperação Prefeitura de Manaus divulga links para participação popular após o seminário ‘Nosso Centro’"
     }
   ]
 }
