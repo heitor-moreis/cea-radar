@@ -274,6 +274,23 @@ body{font-family:'Outfit',sans-serif;background:var(--bg);color:var(--tb);height
 .f-btn{background:var(--surf);border:1px solid var(--brd);border-radius:7px;padding:6px 13px;font-size:12px;font-family:'Outfit',sans-serif;color:var(--tb);cursor:pointer;font-weight:500;transition:all .15s}
 .f-btn:hover{border-color:var(--navyL);color:var(--navy)}
 .f-btn.act{background:var(--navy);color:#fff;border-color:var(--navy)}
+.orgao-filter-wrap{position:relative;display:inline-block}
+.orgao-filter-btn{background:var(--surf);border:1px solid var(--brd);border-radius:7px;padding:6px 13px;font-size:12px;font-family:'Outfit',sans-serif;color:var(--tb);cursor:pointer;font-weight:500;transition:all .15s;display:flex;align-items:center;gap:6px}
+.orgao-filter-btn:hover{border-color:var(--navyL);color:var(--navy)}
+.orgao-filter-btn.ativo{background:var(--navy);color:#fff;border-color:var(--navy)}
+.orgao-filter-btn .f-arrow{font-size:9px;transition:transform .2s}
+.orgao-filter-btn.open .f-arrow{transform:rotate(180deg)}
+.orgao-dropdown{display:none;position:absolute;top:calc(100% + 6px);left:0;background:var(--surf);border:1px solid var(--brd2);border-radius:10px;box-shadow:var(--shadow);z-index:100;min-width:230px;max-height:320px;overflow-y:auto;padding:6px}
+.orgao-dropdown.show{display:block;animation:dropIn .15s ease}
+.orgao-dd-header{display:flex;justify-content:space-between;align-items:center;padding:6px 10px 8px;border-bottom:1px solid var(--brd2);margin-bottom:4px}
+.orgao-dd-title{font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.6px;color:var(--tm)}
+.orgao-dd-clear{font-size:10px;color:var(--navyL);cursor:pointer;font-weight:600}
+.orgao-dd-clear:hover{text-decoration:underline}
+.orgao-dd-item{display:flex;align-items:center;gap:8px;padding:7px 10px;border-radius:7px;cursor:pointer;transition:background .12s;font-size:12.5px;color:var(--tb)}
+.orgao-dd-item:hover{background:var(--bg)}
+.orgao-dd-item input[type=checkbox]{accent-color:var(--navy);width:14px;height:14px;cursor:pointer;flex-shrink:0}
+.orgao-dd-item label{cursor:pointer;flex:1}
+.orgao-dd-count{font-size:10px;font-weight:700;color:var(--tm);background:var(--bg);padding:1px 6px;border-radius:10px;flex-shrink:0}
 .t-sp{flex:1}
 .btn-p{background:var(--navy);color:#fff;border:none;border-radius:var(--radiusS);padding:8px 16px;font-size:12.5px;font-weight:600;font-family:'Outfit',sans-serif;cursor:pointer;display:flex;align-items:center;gap:6px;transition:background .15s}
 .btn-p:hover{background:var(--navy2)}
@@ -1268,9 +1285,20 @@ input:checked+.tgl-t::before{left:19px}
        </div>
        <div class="t-sp">
        </div>
-       <button class="btn-s">
-        ⬇ Exportar CSV
-       </button>
+       <div class="orgao-filter-wrap" id="orgaoFilterWrap">
+        <button class="orgao-filter-btn" id="orgaoFilterBtn" onclick="toggleOrgaoDropdown()">
+          🏢 Filtro <span class="f-arrow" id="orgaoArrow">▼</span>
+          <span id="orgaoFilterBadge" style="display:none;background:#fff;color:var(--navy);border-radius:10px;font-size:10px;font-weight:800;padding:1px 7px;margin-left:2px"></span>
+        </button>
+        <div class="orgao-dropdown" id="orgaoDropdown">
+          <div class="orgao-dd-header">
+            <span class="orgao-dd-title">Filtrar por órgão</span>
+            <span class="orgao-dd-clear" onclick="limparFiltroOrgao()">Limpar tudo</span>
+          </div>
+          <div id="orgaoDropdownList"></div>
+        </div>
+      </div>
+      <button class="btn-s" onclick="exportarCSV()">⬇ Exportar CSV</button>
        <button class="btn-p">
         + Adicionar
        </button>
@@ -3909,6 +3937,129 @@ function renderCharts(){
   if(elLg('lgBaixo'))elLg('lgBaixo').textContent=`Baixo (${pct(imp2.baixo)}%)`;
 }
 window.addEventListener('load',renderCharts);
+
+// ══ FILTRO POR ÓRGÃO ══════════════════════════════════════════
+let orgaosSelecionados = new Set();
+
+function toggleOrgaoDropdown() {
+  const dd  = document.getElementById('orgaoDropdown');
+  const btn = document.getElementById('orgaoFilterBtn');
+  const isOpen = dd.classList.contains('show');
+  if (isOpen) {
+    dd.classList.remove('show');
+    btn.classList.remove('open');
+  } else {
+    popularOrgaoDropdown();
+    dd.classList.add('show');
+    btn.classList.add('open');
+  }
+}
+
+function popularOrgaoDropdown() {
+  const lista = document.getElementById('orgaoDropdownList');
+  // Conta publicações por órgão
+  const contagem = {};
+  PUBLICACOES.forEach(p => {
+    contagem[p.orgao] = (contagem[p.orgao] || 0) + 1;
+  });
+  const orgaos = Object.entries(contagem).sort((a, b) => b[1] - a[1]);
+
+  lista.innerHTML = orgaos.map(([orgao, cnt]) => `
+    <div class="orgao-dd-item" onclick="toggleOrgao('${orgao.replace(/'/g,"\\'")}',this)">
+      <input type="checkbox" id="chk_${orgao.replace(/\s/g,'_')}"
+        ${orgaosSelecionados.has(orgao) ? 'checked' : ''}
+        onclick="event.stopPropagation();toggleOrgao('${orgao.replace(/'/g,"\\'")}',this.closest('.orgao-dd-item'))"/>
+      <label for="chk_${orgao.replace(/\s/g,'_')}">${orgao}</label>
+      <span class="orgao-dd-count">${cnt}</span>
+    </div>`).join('');
+}
+
+function toggleOrgao(orgao, itemEl) {
+  const chk = itemEl.querySelector('input[type=checkbox]');
+  if (orgaosSelecionados.has(orgao)) {
+    orgaosSelecionados.delete(orgao);
+    if (chk) chk.checked = false;
+  } else {
+    orgaosSelecionados.add(orgao);
+    if (chk) chk.checked = true;
+  }
+  atualizarBadgeOrgao();
+  aplicarFiltroOrgao();
+}
+
+function atualizarBadgeOrgao() {
+  const badge = document.getElementById('orgaoFilterBadge');
+  const btn   = document.getElementById('orgaoFilterBtn');
+  const count = orgaosSelecionados.size;
+  if (count > 0) {
+    badge.textContent = count;
+    badge.style.display = 'inline';
+    btn.classList.add('ativo');
+  } else {
+    badge.style.display = 'none';
+    btn.classList.remove('ativo');
+  }
+}
+
+function aplicarFiltroOrgao() {
+  let dados = PUBLICACOES;
+  // Respeita filtro de tag (Crítico, Gás, etc.) ativo
+  const tagAtiva = document.querySelector('#pubFilters .f-btn.act');
+  const tag = tagAtiva ? tagAtiva.dataset.filter : 'todos';
+  if (tag !== 'todos') {
+    dados = dados.filter(p => p.tags && p.tags.includes(tag));
+  }
+  // Aplica filtro de órgão
+  if (orgaosSelecionados.size > 0) {
+    dados = dados.filter(p => orgaosSelecionados.has(p.orgao));
+  }
+  renderPubData(dados);
+}
+
+function limparFiltroOrgao() {
+  orgaosSelecionados.clear();
+  atualizarBadgeOrgao();
+  popularOrgaoDropdown();
+  aplicarFiltroOrgao();
+}
+
+// Fecha o dropdown ao clicar fora
+document.addEventListener('click', e => {
+  const wrap = document.getElementById('orgaoFilterWrap');
+  if (wrap && !wrap.contains(e.target)) {
+    document.getElementById('orgaoDropdown')?.classList.remove('show');
+    document.getElementById('orgaoFilterBtn')?.classList.remove('open');
+  }
+});
+
+const _filterPubOriginal = filterPub;
+filterPub = function(btn, filter) {
+  _filterPubOriginal(btn, filter);
+  if (orgaosSelecionados.size > 0) {
+    aplicarFiltroOrgao();
+  }
+};
+
+// ══ EXPORTAR CSV ══
+function exportarCSV() {
+  const dados = orgaosSelecionados.size > 0
+    ? PUBLICACOES.filter(p => orgaosSelecionados.has(p.orgao))
+    : PUBLICACOES;
+  const header = ['Título','Órgão','Tema','Data','Impacto','URL'];
+  const linhas = dados.map(p =>
+    [p.titulo, p.orgao, p.tema, p.data, p.impacto, p.url]
+      .map(v => `"${(v||'').replace(/"/g,'""')}"`)
+      .join(',')
+  );
+  const csv = [header.join(','), ...linhas].join('\n');
+  const blob = new Blob(['\uFEFF' + csv], { type: 'text/csv;charset=utf-8;' });
+  const url  = URL.createObjectURL(blob);
+  const a    = document.createElement('a');
+  a.href     = url;
+  a.download = `cea-radar-publicacoes-${new Date().toLocaleDateString('pt-BR').replace(/\//g,'-')}.csv`;
+  a.click();
+  URL.revokeObjectURL(url);
+}
 
 // ══ BAR POPUP ══
 function showBarPopup(evt,orgao){
