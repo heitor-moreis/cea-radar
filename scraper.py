@@ -77,7 +77,7 @@ def is_relevante(texto: str) -> bool:
     t = texto.lower()
     return any(k in t for k in KW_RELEVANCIA + KW_CRITICO + KW_ALTO + KW_MEDIO)
 
-MANAUS_TZ = timezone(timedelta(hours=-3))
+MANAUS_TZ = timezone(timedelta(hours=-4))
 
 def agora_manaus():
     return datetime.now(tz=MANAUS_TZ)
@@ -332,14 +332,6 @@ def scrape_aneel() -> list[dict]:
         seletores=[".tileItem", ".summary", "article", "li.tileItem", ".tile-title"],
         limite=10,
     )
-    # Notas técnicas
-    resultados += scrape_generico(
-        url="https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14784&idAreaNoticia=425",
-        orgao="ANEEL",
-        tema="Energia Elétrica",
-        seletores=[".tileItem", "article", "li.tileItem"],
-        limite=5,
-    )
     return resultados
 
 
@@ -353,14 +345,6 @@ def scrape_anp() -> list[dict]:
         seletores=[".tileItem", ".summary", "article", "li.tileItem"],
         limite=10,
     )
-    if len(resultados) < 3:
-        resultados += scrape_generico(
-            url="https://www.gov.br/anp/pt-br/servicos/rodadas-anp/avisos",
-            orgao="ANP",
-            tema="Gás Natural / Petróleo — Capacidade Escoamento",
-            seletores=[".tileItem", "article", "li"],
-            limite=5,
-        )
     return resultados
 
 
