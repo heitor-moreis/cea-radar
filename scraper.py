@@ -379,7 +379,19 @@ def scrape_doe_am() -> list[dict]:
             continue
 
         link = bloco.find("a")
-        href = normalizar_url(link["href"] if link and link.get("href") else "", link_edicao)
+        href_raw = link["href"] if link and link.get("href") else ""
+        href = normalizar_url(href_raw, link_edicao)
+
+        # Rejeita links externos (GitHub, redes sociais, etc.)
+        dominios_validos = [
+            "imprensaoficial.am.gov.br",
+            "diario.imprensaoficial",
+            "am.gov.br",
+            "gov.br",
+            "in.gov.br",
+        ]
+        if href and not any(d in href for d in dominios_validos):
+            href = link_edicao  # usa URL da edição como fallback seguro
 
         prefixo = f"DOE-AM Edição nº {edicao_num} — " if edicao_num else "DOE-AM — "
         impacto = classificar_impacto(texto)
