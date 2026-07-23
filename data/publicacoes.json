@@ -1,25 +1,26 @@
 {
-  "ultima_coleta": "23/07/2026 12:21",
+  "ultima_coleta": "23/07/2026 17:20",
   "mes_ano": "Jul/2026",
-  "total": 52,
+  "total": 51,
   "fontes": 18,
-  "fontes_com_falha": [],
+  "fontes_com_falha": [
+    "AME"
+  ],
   "stats": {
-    "critico": 6,
-    "alto": 4,
-    "medio": 4,
-    "baixo": 38,
-    "consultas_abertas": 5
+    "critico": 2,
+    "alto": 3,
+    "medio": 6,
+    "baixo": 40,
+    "consultas_abertas": 4
   },
   "por_orgao": {
+    "ANEEL": 9,
     "ANP": 8,
     "Cigás": 6,
-    "AmE": 5,
     "Prefeitura Manaus": 5,
-    "ANEEL": 4,
     "ARSEPAM": 4,
-    "IMMU": 4,
     "SEMIG": 3,
+    "IMMU": 3,
     "Implurb": 3,
     "ANA": 2,
     "DOU": 1,
@@ -64,69 +65,6 @@
       "desc": "Assuntos Análise de Impacto Regulatório (AIR) Armazenamento e movimentação de produtos líquidos Comunicação e investigação de incidentes Oleodutos de Transporte e Transferência Terminais de Petróleo e Combustíveis Líquidos Transporte a granel por meio aquaviário Comunicação de Incidentes Relatórios de investigação de incidentes Consultas e Audiências Públicas Consultas e Audiências Públicas Consulta Prévia Consulta de Interesse Tomada Pública de Contribuições Manuais para Audiências Públicas CCU"
     },
     {
-      "titulo": "RECOMPRA DE AÇÕES SISTEMA DE ANÁLISE DE PROJETOS Home A Empresa Nossa Gente Sua conta Informações Atendimento Informações Notícias Alteração de Carga Cadastro de Equipamento Vital ",
-      "orgao": "AmE",
-      "tema": "Energia Elétrica / AM",
-      "data": "23/07/2026",
-      "impacto": "critico",
-      "tags": [
-        "critico",
-        "energia",
-        "gas",
-        "consulta",
-        "tarifa",
-        "ambiental"
-      ],
-      "url": "https://website.ambarenergia-am.com.br",
-      "desc": "RECOMPRA DE AÇÕES SISTEMA DE ANÁLISE DE PROJETOS Home A Empresa Nossa Gente Sua conta Informações Atendimento Informações Notícias Alteração de Carga Cadastro de Equipamento Vital Cliente Alta Tensão Cliente Mercado Livre Compartilhamento de infraestruturas Contrato Contribuição de Iluminação Pública por Município Decretos de Situação de Emergência Desligamentos Programados Despesas Associadas a CCC Dicas de Consumo Consciente Dicas de Segurança Direitos e Deveres Furto de energia elétrica é cri"
-    },
-    {
-      "titulo": "Informações Notícias Alteração de Carga Cadastro de Equipamento Vital Cliente Alta Tensão Cliente Mercado Livre Compartilhamento de infraestruturas Contrato Contribuição de Ilumina",
-      "orgao": "AmE",
-      "tema": "Energia Elétrica / AM",
-      "data": "23/07/2026",
-      "impacto": "critico",
-      "tags": [
-        "critico",
-        "energia",
-        "gas",
-        "consulta",
-        "tarifa",
-        "ambiental"
-      ],
-      "url": "https://website.ambarenergia-am.com.br/informacoes/alteracao-de-carga/",
-      "desc": "Informações Notícias Alteração de Carga Cadastro de Equipamento Vital Cliente Alta Tensão Cliente Mercado Livre Compartilhamento de infraestruturas Contrato Contribuição de Iluminação Pública por Município Decretos de Situação de Emergência Desligamentos Programados Despesas Associadas a CCC Dicas de Consumo Consciente Dicas de Segurança Direitos e Deveres Furto de energia elétrica é crime Iluminação Pública Indicadores de Continuidade Ligação Nova Ligação Provisória Localizar App na Loja Micro/"
-    },
-    {
-      "titulo": "Alteração de Carga Cadastro de Equipamento Vital Cliente Alta Tensão Cliente Mercado Livre Compartilhamento de infraestruturas Contrato Contribuição de Iluminação Pública por Munic",
-      "orgao": "AmE",
-      "tema": "Energia Elétrica / AM",
-      "data": "23/07/2026",
-      "impacto": "critico",
-      "tags": [
-        "critico",
-        "energia",
-        "gas",
-        "consulta",
-        "tarifa",
-        "ambiental"
-      ],
-      "url": "https://website.ambarenergia-am.com.br/informacoes/alteracao-de-carga/",
-      "desc": "Alteração de Carga Cadastro de Equipamento Vital Cliente Alta Tensão Cliente Mercado Livre Compartilhamento de infraestruturas Contrato Contribuição de Iluminação Pública por Município Decretos de Situação de Emergência Desligamentos Programados Despesas Associadas a CCC Dicas de Consumo Consciente Dicas de Segurança Direitos e Deveres Furto de energia elétrica é crime Iluminação Pública Indicadores de Continuidade Ligação Nova Ligação Provisória Localizar App na Loja Micro/Minigeração Distribuí"
-    },
-    {
-      "titulo": "Decretos de Situação de Emergência",
-      "orgao": "AmE",
-      "tema": "Energia Elétrica / AM",
-      "data": "23/07/2026",
-      "impacto": "critico",
-      "tags": [
-        "critico"
-      ],
-      "url": "https://website.ambarenergia-am.com.br/informacoes/decretos-de-situacao-de-emergencia/",
-      "desc": "Decretos de Situação de Emergência"
-    },
-    {
       "titulo": "Licitações e Contratos",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
@@ -163,16 +101,30 @@
       "desc": "CONTRATOS DE PUBLICIDADE"
     },
     {
-      "titulo": "Serviços Ageman amplia fiscalização em 2026 e registra crescimento de até 96% nas ações de campo no primeiro semestre",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
+      "titulo": "Participação Social Tomada de Subsídios Consultas Públicas Audiências Públicas Conselhos e Órgãos Colegiados Ouvidorias Conferências Outras Ações",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
       "data": "23/07/2026",
-      "impacto": "alto",
+      "impacto": "medio",
       "tags": [
-        "alto"
+        "medio",
+        "consulta"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/servicos/ageman-fiscalizacao-2026-crescimento-96/",
-      "desc": "Serviços Ageman amplia fiscalização em 2026 e registra crescimento de até 96% nas ações de campo no primeiro semestre"
+      "url": "https://www.gov.br/aneel/pt-br/acesso-a-informacao/participacao-social",
+      "desc": "Participação Social Tomada de Subsídios Consultas Públicas Audiências Públicas Conselhos e Órgãos Colegiados Ouvidorias Conferências Outras Ações"
+    },
+    {
+      "titulo": "Tomada de Subsídios",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "23/07/2026",
+      "impacto": "medio",
+      "tags": [
+        "medio",
+        "consulta"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/acesso-a-informacao/participacao-social/tomada-de-subsidios",
+      "desc": "Tomada de Subsídios"
     },
     {
       "titulo": "Comunicação de Incidentes Relatórios de investigação de incidentes",
@@ -285,6 +237,42 @@
       ],
       "url": "https://www.gov.br/aneel/pt-br",
       "desc": "Agência Nacional de Energia Elétrica"
+    },
+    {
+      "titulo": "Institucional A ANEEL Missão, Visão e Valores Estrutura Organizacional Competências Base Jurídica Gestão Estratégica Governança Regulatória Horário de Atendimento Colegiados Quem é",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "23/07/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/acesso-a-informacao/institucional",
+      "desc": "Institucional A ANEEL Missão, Visão e Valores Estrutura Organizacional Competências Base Jurídica Gestão Estratégica Governança Regulatória Horário de Atendimento Colegiados Quem é Quem Relacionamentos Histórico"
+    },
+    {
+      "titulo": "Consultas Públicas",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "23/07/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/acesso-a-informacao/participacao-social/consultas-publicas",
+      "desc": "Consultas Públicas"
+    },
+    {
+      "titulo": "Conselhos e Órgãos Colegiados",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "23/07/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/acesso-a-informacao/participacao-social/conselhos-orgaos-colegiados",
+      "desc": "Conselhos e Órgãos Colegiados"
     },
     {
       "titulo": "Abrir menu principal de navegação Agência Nacional do Petróleo, Gás Natural e Biocombustíveis Termos mais buscados imposto de renda assinatura mei inss enem Termos mais buscados im",
@@ -421,18 +409,6 @@
       "desc": "TAG — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
-      "titulo": "Dicas de Consumo Consciente",
-      "orgao": "AmE",
-      "tema": "Energia Elétrica / AM",
-      "data": "23/07/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://website.ambarenergia-am.com.br/informacoes/dicas-de-consumo-consciente/",
-      "desc": "Dicas de Consumo Consciente"
-    },
-    {
       "titulo": "COGERAÇÃO DE ENERGIA",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
@@ -557,6 +533,30 @@
       "desc": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
+      "titulo": "Cidadania Prefeito Renato Junior aproxima gestão da população com quinta edição do ‘Manaus que a Gente Cuida’ no Colônia Terra Nova",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "23/07/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/cidadania/prefeito-renato-junior-quinta-edicao-do-manaus-que-a-gente-cuida-no-colonia-terra-nova/",
+      "desc": "Cidadania Prefeito Renato Junior aproxima gestão da população com quinta edição do ‘Manaus que a Gente Cuida’ no Colônia Terra Nova"
+    },
+    {
+      "titulo": "Revitalização Prefeitura de Manaus inicia obras de nova USF de grande porte no bairro Japiim",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "23/07/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/revitalizacao/obras-nova-usf-grande-porte-japiim/",
+      "desc": "Revitalização Prefeitura de Manaus inicia obras de nova USF de grande porte no bairro Japiim"
+    },
+    {
       "titulo": "Urbanismo Parque Encontro das Águas Rosa Almeida avança com novas frentes de obra e reforça ritmo de construção da Prefeitura de Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
@@ -569,7 +569,7 @@
       "desc": "Urbanismo Parque Encontro das Águas Rosa Almeida avança com novas frentes de obra e reforça ritmo de construção da Prefeitura de Manaus"
     },
     {
-      "titulo": "Serviços Prefeitura de Manaus intensifica mutirão de limpeza na avenida das Flores e melhora trafegabilidade para população",
+      "titulo": "Nota Prefeitura realiza atendimentos do Sine Manaus durante a 1ª Expo Manaus Conecta",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
       "data": "23/07/2026",
@@ -577,11 +577,11 @@
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/servicos/prefeitura-mutirao-de-limpeza/",
-      "desc": "Serviços Prefeitura de Manaus intensifica mutirão de limpeza na avenida das Flores e melhora trafegabilidade para população"
+      "url": "https://www.manaus.am.gov.br/noticia/nota/atendimentos-sine-manaus-1a-expo-manaus-conecta/",
+      "desc": "Nota Prefeitura realiza atendimentos do Sine Manaus durante a 1ª Expo Manaus Conecta"
     },
     {
-      "titulo": "Orientação Prefeitura de Manaus informa parada programada do Slim para implantação do CNPJ alfanumérico",
+      "titulo": "SAÚDE ANIMAL Centro de Controle de Zoonoses da prefeitura avança na imunização antirrábica de cães e gatos em Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
       "data": "23/07/2026",
@@ -589,20 +589,8 @@
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/orientacao/parada-programada-do-slim-para-implantacao-do-cnpj-alfanumerico/",
-      "desc": "Orientação Prefeitura de Manaus informa parada programada do Slim para implantação do CNPJ alfanumérico"
-    },
-    {
-      "titulo": "Infraestrutura Obras do complexo viário ‘Passarão’ avançam e marcam grande investimento da prefeitura para a mobilidade de quem circula pela zona Oeste de Manaus",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "23/07/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/infraestrutura/obras-complexo-viario-passarao-2/",
-      "desc": "Infraestrutura Obras do complexo viário ‘Passarão’ avançam e marcam grande investimento da prefeitura para a mobilidade de quem circula pela zona Oeste de Manaus"
+      "url": "https://www.manaus.am.gov.br/noticia/saude-animal/imunizacao-antirrabica-caes-gatos/",
+      "desc": "SAÚDE ANIMAL Centro de Controle de Zoonoses da prefeitura avança na imunização antirrábica de cães e gatos em Manaus"
     },
     {
       "titulo": "Alerta Prefeito Renato Junior instaura Gabinete de Crise e coloca Manaus em estado de alerta após vazamento de gás no Distrito Industrial",
@@ -630,7 +618,7 @@
       "desc": "Transporte Prefeitura de Manaus amplia linhas expressas e reduz tempo de viagem em até 50 minutos para usuários das zonas Norte e Leste"
     },
     {
-      "titulo": "Nota Prefeitura de Manaus realiza teste operacional para avaliar novo fluxo de veículos na avenida Pedro Teixeira",
+      "titulo": "Mobilidade Prefeitura leva ações de mobilidade durante programa ‘Manaus que a Gente Cuida’ no Colônia Terra Nova",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
       "data": "23/07/2026",
@@ -638,20 +626,8 @@
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/immu/nota/novo-fluxo-de-veiculos-na-avenida-pedro-teixeira/",
-      "desc": "Nota Prefeitura de Manaus realiza teste operacional para avaliar novo fluxo de veículos na avenida Pedro Teixeira"
-    },
-    {
-      "titulo": "Nota Prefeitura abre inscrições para composição do Conselho de Mobilidade Urbana de Manaus",
-      "orgao": "IMMU",
-      "tema": "Mobilidade Urbana",
-      "data": "23/07/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/immu/nota/prefeitura-conselho-mobilidade-urbana-inscricoes/",
-      "desc": "Nota Prefeitura abre inscrições para composição do Conselho de Mobilidade Urbana de Manaus"
+      "url": "https://www.manaus.am.gov.br/immu/mobilidade/acoes-de-mobilidade-manaus-que-a-gente-cuida/",
+      "desc": "Mobilidade Prefeitura leva ações de mobilidade durante programa ‘Manaus que a Gente Cuida’ no Colônia Terra Nova"
     },
     {
       "titulo": "Ação Conjunta Prefeitura intensifica operação ‘Centro Mais Seguro’ e reforça ordenamento urbano, assistência social e mobilidade na região central de Manaus",
