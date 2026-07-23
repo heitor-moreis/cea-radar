@@ -326,7 +326,7 @@ def scrape_aneel() -> list[dict]:
 
     # URL correta para consultas e audiências públicas
     resultados += scrape_generico(
-        url="https://antigo.aneel.gov.br/consultas-publicas",
+        url="https://www.gov.br/aneel/pt-br/assuntos/noticias",
         orgao="ANEEL",
         tema="Energia Elétrica",
         seletores=[".tileItem", ".summary", "article", "li.tileItem", ".tile-title"],
@@ -334,21 +334,12 @@ def scrape_aneel() -> list[dict]:
     )
     # Notas técnicas
     resultados += scrape_generico(
-        url="https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/?idAreaNoticia=425",
+        url="https://www2.aneel.gov.br/aplicacoes_liferay/noticias_area/dsp_detalheNoticia.cfm?idNoticia=14784&idAreaNoticia=425",
         orgao="ANEEL",
         tema="Energia Elétrica",
         seletores=[".tileItem", "article", "li.tileItem"],
         limite=5,
     )
-    # Notícias recentes (backup)
-    if len(resultados) < 3:
-        resultados += scrape_generico(
-            url="https://www.gov.br/aneel/pt-br/assuntos/noticias",
-            orgao="ANEEL",
-            tema="Energia Elétrica",
-            seletores=["article", ".tileItem", ".summary"],
-            limite=5,
-        )
     return resultados
 
 
@@ -462,16 +453,6 @@ def scrape_ame() -> list[dict]:
         seletores=["article", ".post", ".news-item", ".card"],
         limite=6,
     )
-    if not resultados or (len(resultados) == 1 and "falha" in resultados[0]["titulo"].lower()):
-        resultados = scrape_generico(
-            url="https://www.amazonasenergia.com",
-            orgao="AmE",
-            tema="Energia Elétrica / AM",
-            seletores=["article", ".post", "a"],
-            limite=6,
-        )
-    return resultados
-
 
 def scrape_cigas() -> list[dict]:
     """Cigás — Companhia de Gás do Amazonas."""
