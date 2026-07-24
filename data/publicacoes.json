@@ -1,11 +1,11 @@
 {
-  "ultima_coleta": "23/07/2026 16:49",
+  "ultima_coleta": "24/07/2026 08:18",
   "mes_ano": "Jul/2026",
-  "total": 46,
+  "total": 47,
   "fontes": 18,
   "fontes_com_falha": [],
   "stats": {
-    "critico": 8,
+    "critico": 9,
     "alto": 7,
     "medio": 2,
     "baixo": 29,
@@ -18,8 +18,8 @@
     "ARSEPAM": 4,
     "Prefeitura Manaus": 4,
     "SEMIG": 3,
+    "Implurb": 3,
     "IMMU": 2,
-    "Implurb": 2,
     "AmE": 1,
     "SEFAZ-AM": 1,
     "DOU": 1,
@@ -36,7 +36,7 @@
       "titulo": "ANEEL multa Neoenergia Coelba por irregularidades envolvendo a geração distribuída",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -49,7 +49,7 @@
       "titulo": "Agência nega recurso à multa de R$ 235 milhões aplicada à UTE Rio Grande",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -62,7 +62,7 @@
       "titulo": "ANEEL estende o prazo de concessão da UHE Jirau (RO)",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -75,7 +75,7 @@
       "titulo": "Entre os dias 13 e 17/7, a ANP realizou 268 ações de fiscalização com foco em preços abusivos",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -87,7 +87,7 @@
       "titulo": "Entre os dias 6 a 10/7, a ANP realizou 260 ações de fiscalização com foco em preços abusivos",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -99,7 +99,7 @@
       "titulo": "ANP fará consulta pública sobre critério de distribuição de percentual de royalties aos municípios afetados por embarque e desembarque",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -114,7 +114,7 @@
       "titulo": "Informações",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -127,7 +127,7 @@
       "titulo": "Ouvidoria Arsepam",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -136,10 +136,22 @@
       "desc": "Ouvidoria Arsepam Ouvir Compartilhar Tweet O setor da Ouvidoria da Arsepam tem como objetivo zelar pela qualidade dos serviços regulados pela agência, acompanhando o processo interno de apuração de denúncias e reclamações dos interessados contra a atuação das concessionárias, visando promover a conciliação entre os operadores do serviço e usuários. Decretos RESOLUÇÃO Nº 06 – 19.06.2018 – Dispõe sobre o sistema de gerenciamento de demandas da Ouvidoria RESOLUÇÃO Nº 07 – 19.06.2018 – Dispõe sobre as tratativas das demandas registradas na Ouvidoria Ouvidora da Arsepam Amazonas Jéssica Carolina Medeiros de Oliveira Horário de Atendimento Para falar com a nossa Ouvidoria, entre em contato de segunda à sexta-feira, das 8h às 14h. Atendimento presencial Terminal Rodoviário Engenheiro Huascar Ange"
     },
     {
+      "titulo": "Prefeito Renato Junior anuncia interligação entre as avenidas do Turismo e Max Teixeira após aval técnico do Ministério de Portos e Aeroportos",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "24/07/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/intervencao/interligacao-entre-as-avenidas-do-turismo-e-max-teixeira/",
+      "desc": "Intervenção Prefeitura de Manaus monta operação especial de trânsito e transporte para o evento ‘Amanhecer Ponta Negra’"
+    },
+    {
       "titulo": "Revisão tarifária periódica da Energisa Sul-Sudeste é aprovada pela ANEEL",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -153,7 +165,7 @@
       "titulo": "Consulta Pública discutirá revisão da Metodologia do Fator X",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -168,7 +180,7 @@
       "titulo": "ANP participa de reunião técnica sobre prevenção à infiltração do crime organizado na cadeia de combustíveis",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -180,7 +192,7 @@
       "titulo": "ANP firma acordo com os Procons do Acre e do Amapá para fiscalização do abastecimento nos estados",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -192,7 +204,7 @@
       "titulo": "ANP determina revisão de cronograma para adequação de unidade de tratamento de gás a resolução",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -205,7 +217,7 @@
       "titulo": "Consultas Públicas Encerradas",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -220,7 +232,7 @@
       "titulo": "Chamada Pública 001/2026",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -232,7 +244,7 @@
       "titulo": "Aprovada Consulta Pública para estabelecer regras de participação no Prêmio ANEEL de Inovação 2026",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "medio",
       "tags": [
         "medio",
@@ -246,7 +258,7 @@
       "titulo": "Relatórios Institucionais Arsepam",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -258,7 +270,7 @@
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -270,7 +282,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -283,7 +295,7 @@
       "titulo": "ANEEL realizará em agosto evento sobre o El Niño e os impactos no Setor Elétrico Brasileiro",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -296,7 +308,7 @@
       "titulo": "Recepção principal da ANEEL ficará temporariamente interditada a partir desta segunda-feira (20)",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -309,7 +321,7 @@
       "titulo": "ANP divulga dados consolidados em inglês do setor regulado em 2025",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -322,7 +334,7 @@
       "titulo": "\"ANP com VC - Postos\": aplicativo disponibiliza dados de postos e canal de denúncias ao consumidor",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -334,7 +346,7 @@
       "titulo": "Consultar minhas solicitações",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -346,7 +358,7 @@
       "titulo": "Consultar Meu Imposto de Renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -358,7 +370,7 @@
       "titulo": "Consultar restituição de imposto de renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -370,7 +382,7 @@
       "titulo": "Consultar dados do Cadastro Único",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -382,7 +394,7 @@
       "titulo": "Creative Commons",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -394,7 +406,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -406,7 +418,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -418,7 +430,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -430,7 +442,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -442,7 +454,7 @@
       "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -457,7 +469,7 @@
       "titulo": "Conselho Estadual de Regulação e Controle dos Serviços Públicos – Cercon",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -469,7 +481,7 @@
       "titulo": "SEMIG Secretaria de Estado de Energia, Mineração e Gás",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -483,7 +495,7 @@
       "titulo": "E-mail Integra Amazonas",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -495,7 +507,7 @@
       "titulo": "semig@semig.am.gov.br",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -507,7 +519,7 @@
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -519,7 +531,7 @@
       "titulo": "Prefeito Renato Junior aproxima gestão da população com quinta edição do ‘Manaus que a Gente Cuida’ no Colônia Terra Nova",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -531,7 +543,7 @@
       "titulo": "Prefeitura de Manaus inicia obras de nova USF de grande porte no bairro Japiim",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -540,23 +552,10 @@
       "desc": "Revitalização Prefeito Renato Junior autoriza início das obras de complexo esportivo no Jorge Teixeira e garante um novo espaço de convivência para mais de 113 mil pessoas"
     },
     {
-      "titulo": "Parque Encontro das Águas Rosa Almeida avança com novas frentes de obra e reforça ritmo de construção da Prefeitura de Manaus",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "23/07/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo",
-        "ambiental"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/urbanismo/prefeitura-implurb-parque-encontro-das-aguas-obras/",
-      "desc": "Urbanismo Prefeitura de Manaus bate recorde no licenciamento de obras e área aprovada cresce 674% em maio"
-    },
-    {
       "titulo": "Prefeitura realiza atendimentos do Sine Manaus durante a 1ª Expo Manaus Conecta",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -568,7 +567,7 @@
       "titulo": "Prefeito Renato Junior instaura Gabinete de Crise e coloca Manaus em estado de alerta após vazamento de gás no Distrito Industrial",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -581,7 +580,7 @@
       "titulo": "Prefeitura de Manaus amplia linhas expressas e reduz tempo de viagem em até 50 minutos para usuários das zonas Norte e Leste",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -590,10 +589,23 @@
       "desc": "Transporte Prefeito Renato Junior cobra pagamento aos rodoviários após repasse do Estado e faz apelo ao sindicato pelo fim da greve"
     },
     {
+      "titulo": "Parque Encontro das Águas Rosa Almeida avança com novas frentes de obra e reforça ritmo de construção da Prefeitura de Manaus",
+      "orgao": "Implurb",
+      "tema": "Planejamento Urbano",
+      "data": "24/07/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo",
+        "ambiental"
+      ],
+      "url": "https://www.manaus.am.gov.br/implurb/prefeitura-implurb-parque-encontro-das-aguas-obras/",
+      "desc": "Urbanismo Prefeitura de Manaus bate recorde no licenciamento de obras e área aprovada cresce 674% em maio"
+    },
+    {
       "titulo": "Prefeitura intensifica operação ‘Centro Mais Seguro’ e reforça ordenamento urbano, assistência social e mobilidade na região central de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -605,7 +617,7 @@
       "titulo": "Prefeito Renato Junior recebe pesquisadores do Inpa e anuncia agenda conjunta para recuperação ambiental, mobilidade e turismo em Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "23/07/2026",
+      "data": "24/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
