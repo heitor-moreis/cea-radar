@@ -1,15 +1,15 @@
 {
-  "ultima_coleta": "28/07/2026 08:37",
+  "ultima_coleta": "29/07/2026 09:02",
   "mes_ano": "Jul/2026",
   "total": 48,
   "fontes": 18,
   "fontes_com_falha": [],
   "stats": {
-    "critico": 8,
+    "critico": 5,
     "alto": 8,
-    "medio": 3,
-    "baixo": 29,
-    "consultas_abertas": 4
+    "medio": 4,
+    "baixo": 31,
+    "consultas_abertas": 5
   },
   "por_orgao": {
     "ANEEL": 8,
@@ -36,7 +36,7 @@
       "titulo": "ANEEL multa Neoenergia Coelba por irregularidades envolvendo a geração distribuída",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -46,23 +46,10 @@
       "desc": "Notícias FISCALIZAÇÃO ANEEL multa Neoenergia Coelba por irregularidades envolvendo a geração distribuída O valor total da multa é de R$ 82,7 milhões. A empresa tem 10 dias para recorrer ou pagar o montante. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 23/07/2026 10h02 A Agência Nacional de Energia Elétrica (ANEEL) concluiu um processo punitivo relacionado à geração distribuída (GD) na área de concessão da Companhia de Eletricidade do Estado da Bahia (Neoenergia Coelba). A multa final aplicada é no valor de de R$ 82,7 milhões, o que corresponde 0,56% da Receita Operacional Líquida da distribuidora. As irregularidades observadas foram: indeferimento indevido de solicita"
     },
     {
-      "titulo": "Agência nega recurso à multa de R$ 235 milhões aplicada à UTE Rio Grande",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "28/07/2026",
-      "impacto": "critico",
-      "tags": [
-        "critico",
-        "energia"
-      ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/agencia-nega-recurso-a-multa-de-r-235-milhoes-aplicada-a-ute-rio-grande",
-      "desc": "Notícias FISCALIZAÇÃO Agência nega recurso à multa de R$ 235 milhões aplicada à UTE Rio Grande Descumprimento do cronograma de implantação da geradora foi o motivo da penalidade Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 21/07/2026 17h59 A Agência Nacional de Energia Elétrica (ANEEL) manteve a multa de R$ 235 milhões aplicada à Termelétrica Rio Grande S/A e Bolognesi Energia S/A, ao negar recurso administrativo das empresas responsáveis pela Usina Termelétrica (UTE) Rio Grande. A decisão foi tomada nesta terça-feira (21/7) pela diretoria colegiada da Agência. A penalidade foi motivada pelo descumprimento do cronograma de implantação da usina, que culminou na inexecu"
-    },
-    {
       "titulo": "Entre os dias 20 e 24/7, a ANP realizou 208 ações de fiscalização com foco em preços abusivos",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -74,7 +61,7 @@
       "titulo": "ANP aprova participação no Pacto Nacional para o Desenvolvimento do Mercado de Gás Natural",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -85,22 +72,10 @@
       "desc": "Notícias ANP aprova participação no Pacto Nacional para o Desenvolvimento do Mercado de Gás Natural Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 24/07/2026 12h00 Atualizado em 24/07/2026 13h55 A Diretoria Colegiada da ANP aprovou hoje (24/7) a participação da Agência no Pacto Nacional para o Desenvolvimento do Mercado de Gás Natural. A iniciativa, coordenada pelo Ministério de Minas e Energia (MME), tem como objetivo promover a harmonização das normas aplicáveis à indústria do gás natural. Previsto na Lei nº 14.134/2021 (Nova Lei do Gás) e no Decreto nº 10.712/2021, o Pacto busca fortalecer a cooperação entre a União e as Unidades Federativas, criando um ambiente inst"
     },
     {
-      "titulo": "Entre os dias 13 e 17/7, a ANP realizou 268 ações de fiscalização com foco em preços abusivos",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "28/07/2026",
-      "impacto": "critico",
-      "tags": [
-        "critico"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/entre-os-dias-13-e-17-7-a-anp-realizou-268-acoes-de-fiscalizacao-com-foco-em-precos-abusivos",
-      "desc": "Notícias Entre os dias 13 e 17/7, a ANP realizou 268 ações de fiscalização com foco em preços abusivos Além disso, a Agência seguiu com as fiscalizações de rotina sobre qualidade, quantidade e outros aspectos. Houve ações em 14 estados. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 17/07/2026 16h06 Atualizado em 17/07/2026 18h43 A ANP fez 268 ações de fiscalização esta semana (13 a 17/7) com foco no combate a preços abusivos de combustíveis, dando prosseguimento ao cumprimento das atribuições recebidas pelas Medidas Provisórias nº 1340/2026 e 1349/2026 e pelo Decreto nº 12.876/2026. Do total das ações realizadas com esse foco no período, 243 ocorreram em postos revende"
-    },
-    {
       "titulo": "Informações",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -113,7 +88,7 @@
       "titulo": "Ouvidoria Arsepam",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -122,36 +97,10 @@
       "desc": "Ouvidoria Arsepam Ouvir Compartilhar Tweet O setor da Ouvidoria da Arsepam tem como objetivo zelar pela qualidade dos serviços regulados pela agência, acompanhando o processo interno de apuração de denúncias e reclamações dos interessados contra a atuação das concessionárias, visando promover a conciliação entre os operadores do serviço e usuários. Decretos RESOLUÇÃO Nº 06 – 19.06.2018 – Dispõe sobre o sistema de gerenciamento de demandas da Ouvidoria RESOLUÇÃO Nº 07 – 19.06.2018 – Dispõe sobre as tratativas das demandas registradas na Ouvidoria Ouvidora da Arsepam Amazonas Jéssica Carolina Medeiros de Oliveira Horário de Atendimento Para falar com a nossa Ouvidoria, entre em contato de segunda à sexta-feira, das 8h às 14h. Atendimento presencial Terminal Rodoviário Engenheiro Huascar Ange"
     },
     {
-      "titulo": "Prefeito Renato Junior anuncia interligação entre as avenidas do Turismo e Max Teixeira após aval técnico do Ministério de Portos e Aeroportos",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "28/07/2026",
-      "impacto": "critico",
-      "tags": [
-        "critico"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/intervencao/interligacao-entre-as-avenidas-do-turismo-e-max-teixeira/",
-      "desc": "Intervenção Prefeitura intensifica obras de infraestrutura no Colônia Terra Nova com o programa ‘Manaus que a Gente Cuida’"
-    },
-    {
-      "titulo": "Revisão tarifária periódica da Energisa Sul-Sudeste é aprovada pela ANEEL",
+      "titulo": "ANEEL abre Consulta Pública para debater novas tarifas da Neoenergia Brasília",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "28/07/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto",
-        "energia",
-        "tarifa"
-      ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/revisao-tarifaria-periodica-da-energisa-sul-sudeste-e-aprovada-pela-aneel",
-      "desc": "Notícias Revisão Tarifária Revisão tarifária periódica da Energisa Sul-Sudeste é aprovada pela ANEEL Os novos índices passam a vigorar a partir de 12 de julho Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 14/07/2026 16h00 A diretoria colegiada da Agência Nacional de Energia Elétrica (ANEEL) aprovou, nesta terça-feira (14/7), a revisão tarifária periódica da Energisa Sul-Sudeste – Distribuidora de Energia S.A. (ESS), que passa a vigorar a partir de 12 de julho de 2026. Sediada na cidade de Presidente Prudente (SP), a distribuidora atende cerca de 905 mil unidades consumidoras. Confira, na tabela, os novos índices: Empresa Consumidores residenciais - B1 ESS 9,60% Classe "
-    },
-    {
-      "titulo": "Consulta Pública discutirá revisão da Metodologia do Fator X",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -159,14 +108,28 @@
         "consulta",
         "tarifa"
       ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/consulta-publica-discutira-revisao-da-metodologia-do-fator-x",
-      "desc": "Notícias TARIFAS Consulta Pública discutirá revisão da Metodologia do Fator X O Fator X funciona como um incentivo para que as empresas reduzam custos, melhorem a qualidade do serviço e repassem ganhos de eficiência para os consumidores. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 14/07/2026 14h36 A Diretoria da Agência Nacional de Energia Elétrica (ANEEL) aprovou nesta terça-feira (14), durante Reunião Pública Ordinária, abertura de Consulta Pública com o objetivo de revisar a Metodologia do Fator X – Componente de Produtividade (Pd). O debate sobre o assunto surgiu a partir necessidade de adequar a metodologia atual às recentes transformações do setor elétrico. Ess"
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-abre-consulta-publica-para-debater-novas-tarifas-da-neoenergia-brasilia",
+      "desc": "Notícias TARIFAS ANEEL abre Consulta Pública para debater novas tarifas da Neoenergia Brasília Interessados poderão enviar contribuições de 30/7 até 12/9 Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 28/07/2026 16h36 Nesta terça-feira (28/7), a diretoria colegiada da Agência Nacional de Energia Elétrica (ANEEL) autorizou abertura da Consulta Pública nº 024/2026, que trata da Revisão Tarifária Periódica de 2026 da Neoenergia Distribuição Brasília S.A. A distribuidora atende 1,23 milhão de unidades brasilienses. Confira na tabela abaixo os índices propostos para entrarem em vigor a partir de 22 de outubro de 2026: Empresa Consumidores residenciais - B1 Neoenergia Brasíli"
+    },
+    {
+      "titulo": "Reajuste Tarifário da EDP Espírito Santo é aprovado pela ANEEL",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "29/07/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto",
+        "energia",
+        "tarifa"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/reajuste-tarifario-da-edp-espirito-santo-e-aprovado-pela-aneel",
+      "desc": "Notícias TARIFAS Reajuste Tarifário da EDP Espírito Santo é aprovado pela ANEEL Os novos índices passam a vigorar a partir de 7 de agosto Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 28/07/2026 13h13 A diretoria colegiada da Agência Nacional de Energia Elétrica (ANEEL) aprovou, nesta terça-feira (28/7), o reajuste tarifário anual da EDP Espírito Santo Distribuição de Energia S.A. – EDP ES, que passa a vigorar a partir de 7 de agosto de 2026. Sediada na cidade de Vitória (ES), a distribuidora atende cerca de 1,82 milhão de unidades consumidoras. Confira, na tabela, os novos índices: Empresa Consumidores residenciais - B1 EDP ES 7,27% Classe de Consumo – Consumidores ca"
     },
     {
       "titulo": "ANP aprova relatório de estudo sobre controle de queima e perda de petróleo e gás",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -179,7 +142,7 @@
       "titulo": "ANP aprova Avaliação de Resultado Regulatório sobre atividade de formulação de gasolina e óleo diesel",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -191,7 +154,7 @@
       "titulo": "ANP fará consulta e audiência públicas sobre revisão das especificações dos combustíveis de uso aquaviário",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -201,22 +164,10 @@
       "desc": "Notícias ANP fará consulta e audiência públicas sobre revisão das especificações dos combustíveis de uso aquaviário Proposta atualiza regulamentação brasileira às normas internacionais, incorpora avanços tecnológicos e prevê regras para combustíveis renováveis e sintéticos Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 24/07/2026 10h45 Atualizado em 27/07/2026 17h40 A Diretoria da ANP aprovou hoje (24/7) a realização de consulta, por 45 dias, e audiência públicas sobre minuta que revisa a Resolução ANP nº 903 , de 2022, que estabelece as especificações dos combustíveis de uso aquaviário comercializados no território nacional (óleo diesel marítimo e óleo combustível marí"
     },
     {
-      "titulo": "ANP participa de reunião técnica sobre prevenção à infiltração do crime organizado na cadeia de combustíveis",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "28/07/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-participa-de-reuniao-tecnica-sobre-prevencao-a-infiltracao-do-crime-organizado-na-cadeia-de-combustiveis",
-      "desc": "Notícias ANP participa de reunião técnica sobre prevenção à infiltração do crime organizado na cadeia de combustíveis Encontro reuniu representantes de órgãos de segurança, fiscalização e controle federais e estaduais Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 16/07/2026 10h01 Atualizado em 16/07/2026 11h47 A ANP participou ontem (15/7) de uma reunião técnica, organizada pelo Ministério da Justiça e Segurança Pública (MJSP), para cooperação e alinhamento institucional voltada ao enfrentamento da infiltração do crime organizado na cadeia nacional de combustíveis. A Agência foi representada pelo Diretor-Geral, Artur Watt, e pelo superintendente de Fiscalização do Abas"
-    },
-    {
       "titulo": "Consultas Públicas Encerradas",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -231,7 +182,7 @@
       "titulo": "Chamada Pública 001/2026",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -240,10 +191,51 @@
       "desc": "O Estado do Amazonas, por intermédio da Secretaria de Estado da Fazenda, torna pública às instituições financeiras públicas ou privadas de âmbito nacional a abertura da presente Chamada Pública, nos termos deste Edital, com a finalidade de receber propostas para análise da viabilidade de contratação de Operação de Crédito, na modalidade de operação contratual interna, com garantia da União, no valor de R$ 1.462.000.000,00 (Um bilhão e quatrocentos e sessenta e dois milhões de reais), no âmbito do Programa Estadual de Habitação, Infraestrutura, Saneamento e Capitalização do Fundo Garantidor de PPP - PROHABISCAP, nos termos da Resolução CMN n.º 4.995, de 24 de março de 2022, e suas alterações, destinados ao aporte ao Fundo de Infraestrutura e Desenvolvimento do Estado do Amazonas - FIDEAM, a"
     },
     {
+      "titulo": "Prefeito Renato Junior afirma que reforma de 10 complexos viários vai transformar paisagem urbana e resgatar autoestima de Manaus",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "29/07/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/mobilidade/prefeito-renato-junior-vistoria-obras-complexo-viario/",
+      "desc": "Mobilidade Prefeitura lança operação ‘Mobilidade Segura’ e intensifica fiscalização no trânsito de Manaus"
+    },
+    {
+      "titulo": "Primeiros leilões de armazenamento de energia do Brasil entram em consulta pública",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "29/07/2026",
+      "impacto": "medio",
+      "tags": [
+        "medio",
+        "energia",
+        "consulta"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/primeiros-leiloes-de-armazenamento-de-energia-do-brasil-entram-em-consulta-publica",
+      "desc": "Notícias LEILÕES Primeiros leilões de armazenamento de energia do Brasil entram em consulta pública Editais em análise preveem suprimento por 15 anos a partir de 2028. Licitações serão realizadas em 2 e 4 de dezembro Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 28/07/2026 15h45 A diretoria da Agência Nacional de Energia Elétrica – ANEEL aprovou nesta terça-feira (28/7) a abertura de consultas públicas, a partir da quinta-feira 30/7, para análise das prévias de dois editais para contratação de baterias de alta potência: os Leilões de Reserva de Capacidade Armazenamento Nacional e Armazenamento Geral. As licitações serão realizadas pela ANEEL e pela Câmara de Comerciali"
+    },
+    {
+      "titulo": "Alterações nas Regras de Comercialização para LRCAP 2026 vão à Consulta Pública",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "29/07/2026",
+      "impacto": "medio",
+      "tags": [
+        "medio",
+        "energia",
+        "gas",
+        "consulta"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/alteracoes-nas-regras-de-comercializacao-para-lrcap-2026-vao-a-consulta-publica",
+      "desc": "Notícias COMERCIALIZAÇÃO Alterações nas Regras de Comercialização para LRCAP 2026 vão à Consulta Pública ANEEL receberá contribuições de 30 de julho a 12 de setembro de 2026 Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 28/07/2026 15h06 A diretoria da Agência Nacional de Energia Elétrica (ANEEL) aprovou nesta terça-feira (28/7) a abertura de Consulta Pública (CP 25/2026) para alterações nas Regras de Comercialização para inclusão dos Leilões de Reserva da Capacidade na Forma de Potência (LRCAP 2026), Os certames, realizados em março deste ano, trataram de Usinas Termelétricas (UTEs) a gás natural e carvão mineral e Usinas Hidrelétricas (UHEs) (LRCAP 2/2026); e UTEs a ó"
+    },
+    {
       "titulo": "ANEEL habilita empresas participantes da segunda sessão pública do Leilão de Transmissão nº 1/2026",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "medio",
       "tags": [
         "medio",
@@ -253,24 +245,10 @@
       "desc": "Notícias TRANSMISSÃO ANEEL habilita empresas participantes da segunda sessão pública do Leilão de Transmissão nº 1/2026 Despacho foi publicado nesta sexta-feira (24/7) no DOU. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 24/07/2026 12h58 Atualizado em 24/07/2026 13h31 A Agência Nacional de Energia Elétrica (ANEEL) publicou no Diário Oficial da União desta sexta-feira (10/1) a habilitação das empresas vencedoras da segunda sessão pública do Leilão de Transmissão nº 1/2026, referente aos Lotes 7 a 10, com deságio médio de 53,20% e investimento estimado de R$1,75 bilhão. O lote 7 foi arrematado pelo Consórcio Olympus XX e os lotes de 8 a 10 pela Axia Energia Sul S.A. O c"
     },
     {
-      "titulo": "Aprovada Consulta Pública para estabelecer regras de participação no Prêmio ANEEL de Inovação 2026",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "28/07/2026",
-      "impacto": "medio",
-      "tags": [
-        "medio",
-        "energia",
-        "consulta"
-      ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aprovada-consulta-publica-para-estabelecer-regras-de-participacao-no-premio-aneel-de-inovacao-2026",
-      "desc": "Notícias INOVAÇÃO Aprovada Consulta Pública para estabelecer regras de participação no Prêmio ANEEL de Inovação 2026 Contribuições poderão ser enviadas de 17 de julho a 15 de agosto de 2026 Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 14/07/2026 18h21 Atualizado em 14/07/2026 18h27 Foi aprovada pela diretoria colegiada da Agência Nacional de Energia Elétrica (ANEEL), nesta terça-feira (14/7), a abertura da Consulta Pública nº 021/2026, que trata do edital do Prêmio ANEEL de Inovação 2026. O edital irá estabelecer regras e condições para participação, no âmbito do Programa de Pesquisa, Desenvolvimento e Inovação (PDI) da Agência. As contribuições poderão ser enviadas d"
-    },
-    {
       "titulo": "Relatórios Institucionais Arsepam",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -282,7 +260,7 @@
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -294,7 +272,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -304,36 +282,62 @@
       "desc": "Edição do dia verificada. Nenhum ato relevante encontrado."
     },
     {
-      "titulo": "ANEEL realizará em agosto evento sobre o El Niño e os impactos no Setor Elétrico Brasileiro",
+      "titulo": "ANEEL homologa parcialmente resultado do Leilão de Reserva de Capacidade 2/2026",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
-        "energia"
+        "energia",
+        "gas"
       ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-realizara-em-agosto-evento-sobre-o-el-nino-e-os-impactos-no-setor-eletrico-brasileiro",
-      "desc": "Notícias INSTITUCIONAL ANEEL realizará em agosto evento sobre o El Niño e os impactos no Setor Elétrico Brasileiro O evento é voltado para especialistas, representantes do governo, agentes do setor elétrico, pesquisadores e profissionais da área Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 21/07/2026 17h13 Atualizado em 21/07/2026 17h56 Em 20 de agosto, será realizado o evento “Super El Niño e a Resiliência do Setor Elétrico Brasileiro” , às 9h, na sede da Agência Nacional de Energia Elétrica (ANEEL), em Brasília-DF. O encontro é voltado para a discussão dos impactos dos eventos climáticos extremos no Sistema Elétrico Nacional e para as estratégias necessárias para fo"
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-homologa-parcialmente-resultado-do-leilao-de-reserva-de-capacidade-2-2026",
+      "desc": "Notícias GERAÇÃO ANEEL homologa parcialmente resultado do Leilão de Reserva de Capacidade 2/2026 O processo de habilitação das proponentes vencedoras pela Comissão Permanente de Leilões foi estruturado em etapas Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 28/07/2026 13h05 A homologação parcial do resultado e adjudicação do Leilão de Reserva de Capacidade (LRCAP) 2/2026, na forma de potência proveniente de usinas hidrelétricas e termelétricas a gás natural e carvão mineral, foi aprovada pela Agência Nacional de Energia Elétrica (ANEEL) nesta terça-feira (28/7). A proponente vencedora foi o Consórcio EBRASIL/CELNE, composto pelas empresas Eletricidade do Brasil S.A. – "
     },
     {
-      "titulo": "Recepção principal da ANEEL ficará temporariamente interditada a partir desta segunda-feira (20)",
+      "titulo": "ANEEL disponibiliza cadernos temáticos sobre relacionamento com o consumidor e compensação pelo uso de recursos hídricos",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
         "energia"
       ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/recepcao-principal-da-aneel-ficara-temporariamente-interditada-a-partir-desta-segunda-feira-20",
-      "desc": "Notícias INSTITUCIONAL Recepção principal da ANEEL ficará temporariamente interditada a partir desta segunda-feira (20) Mudança no acesso é para adaptações a normas de segurança contra incêndios Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 20/07/2026 15h18 Atualizado em 20/07/2026 16h34 Recepção interditada A recepção principal da Agência Nacional de Energia Elétrica (ANEEL), compartilhada com a Agência Nacional do Petróleo (ANP), no bloco I, está temporariamente interditada para continuidade das obras necessárias de adequação do edifício às normas de segurança contra incêndio e pânico. A previsão é de que a reforma seja concluída em até 45 dias. Nesse período, a rece"
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-disponibiliza-cadernos-tematicos-sobre-relacionamento-com-o-consumidor-e-compensacao-pelo-uso-de-recursos-hidricos",
+      "desc": "Notícias INSTITUCIONAL ANEEL disponibiliza cadernos temáticos sobre relacionamento com o consumidor e compensação pelo uso de recursos hídricos Publicações inauguram série voltada à disseminação de informações sobre a regulação e o setor elétrico brasileiro Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 28/07/2026 10h13 A Agência Nacional de Energia Elétrica (ANEEL) disponibilizou, nesta terça-feira (28), os dois primeiros volumes de uma série de cadernos temáticos com informações sobre o setor elétrico brasileiro. As publicações abordam o relacionamento com o consumidor de energia elétrica e a Compensação Financeira pelo Uso dos Recursos Hídricos para Fins de Geração d"
+    },
+    {
+      "titulo": "ANP na Rio Innovation Week: Agência vai debater PD&I, combustíveis sustentáveis e descarbonização",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "29/07/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo",
+        "energia"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-na-rio-innovation-week-agencia-vai-debater-pd-i-combustiveis-sustentaveis-e-descarbonizacao",
+      "desc": "Notícias Tecnologia e Inovação ANP na Rio Innovation Week: Agência vai debater PD&I, combustíveis sustentáveis e descarbonização Agência também será representada em painel do evento. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 28/07/2026 13h59 A ANP fará dois seminários dentro da programação da Rio Innovation Week (RIW), que acontece de 4 a 7 de agosto, no Rio de Janeiro. O evento aborda temas relacionados à tecnologia e inovação, inclusive no setor de energia. A 4ª edição do Fórum de Tecnologia, Inovação e Programas da ANP (TIP ANP) ocorre de 4 a 6/8, com participação dos Diretores da ANP Symone Araújo, Daniel Maia Vieira e Fernando Moura, além de superintendentes e"
+    },
+    {
+      "titulo": "Jornada Empreendedora do PRH-ANP tem início com oficinas de capacitação",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "29/07/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/jornada-empreendedora-do-prh-anp-tem-inicio-com-oficinas-de-capacitacao",
+      "desc": "Notícias Jornada Empreendedora do PRH-ANP tem início com oficinas de capacitação No total, 20 empresas foram selecionadas para participar da iniciativa Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 28/07/2026 10h22 Atualizado em 28/07/2026 13h56 Teve início ontem (27/7) a primeira etapa da Jornada Empreendedora do Programa de Recursos Humanos (PRH-ANP), com as Oficinas de Capacitação, que acontecem no formato online até 30/7. Na página da Jornada , é possível consultar o resultado final da seleção para participação, com a classificação das 20 equipes inscritas. Também é possível acessar vídeos com esclarecimentos sobre a iniciativa, incluindo a gravação do webinar de l"
     },
     {
       "titulo": "ANP divulga dados consolidados em inglês do setor regulado em 2025",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -346,7 +350,7 @@
       "titulo": "Consultar minhas solicitações",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -358,7 +362,7 @@
       "titulo": "Consultar Meu Imposto de Renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -370,7 +374,7 @@
       "titulo": "Consultar restituição de imposto de renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -382,7 +386,7 @@
       "titulo": "Consultar dados do Cadastro Único",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -394,7 +398,7 @@
       "titulo": "Creative Commons",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -406,7 +410,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -418,7 +422,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -430,7 +434,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -442,7 +446,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -454,7 +458,7 @@
       "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -469,7 +473,7 @@
       "titulo": "Conselho Estadual de Regulação e Controle dos Serviços Públicos – Cercon",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -481,7 +485,7 @@
       "titulo": "SEMIG Secretaria de Estado de Energia, Mineração e Gás",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -495,7 +499,7 @@
       "titulo": "E-mail Integra Amazonas",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -507,7 +511,7 @@
       "titulo": "semig@semig.am.gov.br",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -519,7 +523,7 @@
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -528,46 +532,46 @@
       "desc": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
-      "titulo": "Prefeito Renato Junior afirma que reforma de 10 complexos viários vai transformar paisagem urbana e resgatar autoestima de Manaus",
+      "titulo": "Prefeito Renato Junior alinha acordo de cooperação técnica com a Suframa para reforçar segurança no Polo Industrial de Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/mobilidade/prefeito-renato-junior-vistoria-obras-complexo-viario/",
-      "desc": "Página Inicial Notícias Mobilidade Prefeito Renato Junior afirma que reforma de 10 complexos viários vai transformar paisagem urbana e resgatar autoestima de Manaus Prefeito Renato Junior afirma que reforma de 10 complexos viários vai transformar paisagem urbana e resgatar autoestima de Manaus Por Prefeitura de Manaus 26/07/2026 17h36 Seu navegador não suporta o elemento de áudio. #paratodosverem – Complexo viário Miguel Arraes que recebe melhorias pela Prefeitura de Manaus O prefeito de Manaus , Renato Junior, acompanhou, neste domingo 26/7, os serviços de reforma do complexo viário Miguel Arraes, localizado no cruzamento das avenidas Mário Ypiranga Monteiro (antiga Recife), Ephigênio Salles, Darcy Vargas e rua Maceió, no bairro Parque 10 de Novembro, zona Centro-Sul da capital. A obra re"
+      "url": "https://www.manaus.am.gov.br/noticia/parceria/acordo-cooperacao-tecnica-suframa/",
+      "desc": "Parceria Defesa Civil de Manaus recebe representantes de Porto Velho para intercâmbio de experiências"
     },
     {
-      "titulo": "Prefeitura realiza segundo dia da 1ª ‘Expo Manaus Conecta’ com foco em inovação, qualificação e show gratuito de Gabi Melim",
+      "titulo": "Prefeito Renato Junior entrega feira municipal do 40 reformada e anuncia que vai reformar todas as feiras de Manaus até o fim da gestão",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/eventos/prefeitura-semtepi-expo-manaus-conecta/",
-      "desc": "Eventos CGM consolida participação de sucesso na 1ª ‘Expo Manaus Conecta’ e aproxima cidadãos do controle social com uso da tecnologia e inovação"
+      "url": "https://www.manaus.am.gov.br/noticia/revitalizacao/prefeito-renato-junior-feira-municipal-do-40-reformada/",
+      "desc": "Página Inicial Notícias Revitalização Prefeito Renato Junior entrega feira municipal do 40 reformada e anuncia que vai reformar todas as feiras de Manaus até o fim da gestão Prefeito Renato Junior entrega feira municipal do 40 reformada e anuncia que vai reformar todas as feiras de Manaus até o fim da gestão Por Prefeitura de Manaus 28/07/2026 15h57 Seu navegador não suporta o elemento de áudio. #paratodosverem – Prefeito Renato Junior, secretários e feirantes durante entrega da feira do 40 A transformação das feiras municipais ganhou mais um capítulo nesta terça-feira, 28/7, com a entrega da feira municipal do 40, no bairro Raiz, zona Sul. A obra marca a primeira reforma completa do espaço em mais de 20 anos e reforça o compromisso do prefeito Renato Junior com a modernização dos equipame"
     },
     {
-      "titulo": "Prefeito Renato Junior faz apelo à população para combater descarte irregular de lixo e reduzir alagamentos em Manaus",
+      "titulo": "Prefeito Renato Junior convoca mais 250 profissionais do concurso da Semed e reforça compromisso com qualidade da educação de Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/conscientizacao/prefeitura-prefeito-apelo-descarteirregularlixo/",
-      "desc": "Conscientização Campanha ‘Julho Amarelo’ da prefeitura reforça ações para prevenção e diagnóstico precoce das hepatites virais"
+      "url": "https://www.manaus.am.gov.br/noticia/chamada/prefeito-convoca-profissionais-concurso-semed/",
+      "desc": "Página Inicial Notícias Chamada Prefeito Renato Junior convoca mais 250 profissionais do concurso da Semed e reforça compromisso com qualidade da educação de Manaus Prefeito Renato Junior convoca mais 250 profissionais do concurso da Semed e reforça compromisso com qualidade da educação de Manaus Por Prefeitura de Manaus 28/07/2026 13h40 Seu navegador não suporta o elemento de áudio. #paratodosverem – Prefeito Renato Junior, secretário Arone Bentes e subsecretários da Semed em gabinete O prefeito de Manaus , Renato Junior, assinou, nesta terça-feira, 28/7, a quarta convocação do concurso público da Secretaria Municipal de Educação (Semed), chamando mais 250 profissionais aprovados para atuar na rede municipal de ensino. Com a nova convocação, a gestão municipal alcança a marca de 1.576 ser"
     },
     {
       "titulo": "Prefeito Renato Junior aproxima gestão da população com quinta edição do ‘Manaus que a Gente Cuida’ no Colônia Terra Nova",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -579,7 +583,7 @@
       "titulo": "Prefeito Renato Junior instaura Gabinete de Crise e coloca Manaus em estado de alerta após vazamento de gás no Distrito Industrial",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -592,7 +596,7 @@
       "titulo": "Prefeitura de Manaus amplia linhas expressas e reduz tempo de viagem em até 50 minutos para usuários das zonas Norte e Leste",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -604,20 +608,20 @@
       "titulo": "Parque Encontro das Águas Rosa Almeida avança com novas frentes de obra e reforça ritmo de construção da Prefeitura de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
-        "ambiental"
+        "energia"
       ],
       "url": "https://www.manaus.am.gov.br/implurb/prefeitura-implurb-parque-encontro-das-aguas-obras/",
-      "desc": "Urbanismo Prefeitura de Manaus bate recorde no licenciamento de obras e área aprovada cresce 674% em maio"
+      "desc": "Página Inicial Notícias Urbanismo Parque Encontro das Águas Rosa Almeida avança com novas frentes de obra e reforça ritmo de construção da Prefeitura de Manaus Parque Encontro das Águas Rosa Almeida avança com novas frentes de obra e reforça ritmo de construção da Prefeitura de Manaus Por Prefeitura de Manaus 21/07/2026 11h01 #paratodosverem – Obra do parque Encontro das Águas Rosa Almeida, no bairro Colônia Antônio Aleixo, zona Leste As obras do parque Encontro das Águas Rosa Almeida, executadas pela Prefeitura de Manaus , avançam em diversas frentes simultâneas de trabalho. Coordenados pelo Instituto Municipal de Planejamento Urbano (Implurb), os serviços contemplam a evolução da estrutura da Oca Niemeyer, além da implantação das redes de infraestrutura, drenagem, instalações elétricas e"
     },
     {
       "titulo": "Prefeitura intensifica operação ‘Centro Mais Seguro’ e reforça ordenamento urbano, assistência social e mobilidade na região central de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -629,7 +633,7 @@
       "titulo": "Prefeito Renato Junior recebe pesquisadores do Inpa e anuncia agenda conjunta para recuperação ambiental, mobilidade e turismo em Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "28/07/2026",
+      "data": "29/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
