@@ -1,20 +1,17 @@
 {
-  "ultima_coleta": "30/07/2026 08:30",
+  "ultima_coleta": "31/07/2026 09:00",
   "mes_ano": "Jul/2026",
-  "total": 48,
+  "total": 30,
   "fontes": 18,
   "fontes_com_falha": [],
   "stats": {
-    "critico": 4,
-    "alto": 9,
-    "medio": 4,
-    "baixo": 31,
-    "consultas_abertas": 6
+    "critico": 2,
+    "alto": 2,
+    "medio": 1,
+    "baixo": 25,
+    "consultas_abertas": 1
   },
   "por_orgao": {
-    "ANP": 8,
-    "ANEEL": 8,
-    "ANA": 5,
     "ARSEPAM": 4,
     "Prefeitura Manaus": 4,
     "SEMIG": 3,
@@ -24,6 +21,9 @@
     "SEFAZ-AM": 1,
     "DOU": 1,
     "DOE-AM": 1,
+    "ANEEL": 1,
+    "ANP": 1,
+    "ANA": 1,
     "CCEE": 1,
     "ONS": 1,
     "Petrobras": 1,
@@ -33,36 +33,10 @@
   },
   "publicacoes": [
     {
-      "titulo": "Entre os dias 20 e 24/7, a ANP realizou 208 ações de fiscalização com foco em preços abusivos",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "30/07/2026",
-      "impacto": "critico",
-      "tags": [
-        "critico"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/entre-os-dias-20-e-24-7-a-anp-realizou-208-acoes-de-fiscalizacao-com-foco-em-precos-abusivos",
-      "desc": "Notícias Fiscalização Entre os dias 20 e 24/7, a ANP realizou 208 ações de fiscalização com foco em preços abusivos Além disso, a Agência seguiu com as fiscalizações de rotina sobre qualidade, quantidade e outros aspectos. Houve ações em 15 estados. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 24/07/2026 17h25 A ANP realizou 208 ações de fiscalização esta semana (20 a 24/07) com foco no combate a preços abusivos de combustíveis, dando prosseguimento ao cumprimento das atribuições recebidas pelas Medidas Provisórias nº 1340/2026 e 1349/2026 e Decreto nº 12.876/2026. Do total das ações realizadas no período, 159 ocorreram em postos de combustíveis, 46 em revendedores de"
-    },
-    {
-      "titulo": "ANP aprova participação no Pacto Nacional para o Desenvolvimento do Mercado de Gás Natural",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "30/07/2026",
-      "impacto": "critico",
-      "tags": [
-        "critico",
-        "energia",
-        "gas"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-aprova-participacao-no-pacto-nacional-para-o-desenvolvimento-do-mercado-de-gas-natural",
-      "desc": "Notícias ANP aprova participação no Pacto Nacional para o Desenvolvimento do Mercado de Gás Natural Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 24/07/2026 12h00 Atualizado em 24/07/2026 13h55 A Diretoria Colegiada da ANP aprovou hoje (24/7) a participação da Agência no Pacto Nacional para o Desenvolvimento do Mercado de Gás Natural. A iniciativa, coordenada pelo Ministério de Minas e Energia (MME), tem como objetivo promover a harmonização das normas aplicáveis à indústria do gás natural. Previsto na Lei nº 14.134/2021 (Nova Lei do Gás) e no Decreto nº 10.712/2021, o Pacto busca fortalecer a cooperação entre a União e as Unidades Federativas, criando um ambiente inst"
-    },
-    {
       "titulo": "Informações",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "30/07/2026",
+      "data": "31/07/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -75,7 +49,7 @@
       "titulo": "Ouvidoria Arsepam",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "30/07/2026",
+      "data": "31/07/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -84,104 +58,10 @@
       "desc": "Ouvidoria Arsepam Ouvir Compartilhar Tweet O setor da Ouvidoria da Arsepam tem como objetivo zelar pela qualidade dos serviços regulados pela agência, acompanhando o processo interno de apuração de denúncias e reclamações dos interessados contra a atuação das concessionárias, visando promover a conciliação entre os operadores do serviço e usuários. Decretos RESOLUÇÃO Nº 06 – 19.06.2018 – Dispõe sobre o sistema de gerenciamento de demandas da Ouvidoria RESOLUÇÃO Nº 07 – 19.06.2018 – Dispõe sobre as tratativas das demandas registradas na Ouvidoria Ouvidora da Arsepam Amazonas Jéssica Carolina Medeiros de Oliveira Horário de Atendimento Para falar com a nossa Ouvidoria, entre em contato de segunda à sexta-feira, das 8h às 14h. Atendimento presencial Terminal Rodoviário Engenheiro Huascar Ange"
     },
     {
-      "titulo": "ANEEL acompanha interrupções causadas por vendavais no Rio de Janeiro e em São Paulo",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "30/07/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto",
-        "energia"
-      ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-acompanha-interrupcoes-causadas-por-vendavais-no-rio-de-janeiro-e-em-sao-paulo",
-      "desc": "Notícias FISCALIZAÇÃO ANEEL acompanha interrupções causadas por vendavais no Rio de Janeiro e em São Paulo Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 29/07/2026 20h47 A Agência Nacional de Energia Elétrica (ANEEL) acompanha, por meio do Radar, seu sistema de monitoramento em tempo real, os impactos das fortes rajadas de vento que atingiram os estados do Rio de Janeiro e de São Paulo nesta quarta-feira (29/7). Segundo informações da Defesa Civil de São Paulo, foram registradas rajadas superiores a 100 km/h em municípios como Taquarituba (117 km/h) e Itanhaém (111 km/h). No Rio de Janeiro, os ventos intensos provocaram ocorrências na rede elétrica e afetaram o forneci"
-    },
-    {
-      "titulo": "ANEEL abre Consulta Pública para debater novas tarifas da Neoenergia Brasília",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "30/07/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto",
-        "energia",
-        "consulta",
-        "tarifa"
-      ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-abre-consulta-publica-para-debater-novas-tarifas-da-neoenergia-brasilia",
-      "desc": "Notícias TARIFAS ANEEL abre Consulta Pública para debater novas tarifas da Neoenergia Brasília Interessados poderão enviar contribuições de 30/7 até 12/9 Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 28/07/2026 16h36 Nesta terça-feira (28/7), a diretoria colegiada da Agência Nacional de Energia Elétrica (ANEEL) autorizou abertura da Consulta Pública nº 024/2026, que trata da Revisão Tarifária Periódica de 2026 da Neoenergia Distribuição Brasília S.A. A distribuidora atende 1,23 milhão de unidades brasilienses. Confira na tabela abaixo os índices propostos para entrarem em vigor a partir de 22 de outubro de 2026: Empresa Consumidores residenciais - B1 Neoenergia Brasíli"
-    },
-    {
-      "titulo": "Reajuste Tarifário da EDP Espírito Santo é aprovado pela ANEEL",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "30/07/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto",
-        "energia",
-        "tarifa"
-      ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/reajuste-tarifario-da-edp-espirito-santo-e-aprovado-pela-aneel",
-      "desc": "Notícias TARIFAS Reajuste Tarifário da EDP Espírito Santo é aprovado pela ANEEL Os novos índices passam a vigorar a partir de 7 de agosto Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 28/07/2026 13h13 A diretoria colegiada da Agência Nacional de Energia Elétrica (ANEEL) aprovou, nesta terça-feira (28/7), o reajuste tarifário anual da EDP Espírito Santo Distribuição de Energia S.A. – EDP ES, que passa a vigorar a partir de 7 de agosto de 2026. Sediada na cidade de Vitória (ES), a distribuidora atende cerca de 1,82 milhão de unidades consumidoras. Confira, na tabela, os novos índices: Empresa Consumidores residenciais - B1 EDP ES 7,27% Classe de Consumo – Consumidores ca"
-    },
-    {
-      "titulo": "Regulamentação de serviço de armazenagem por produtores de derivados de petróleo e gás é debatida em audiência pública",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "30/07/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto",
-        "gas",
-        "consulta"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/regulamentacao-de-servico-de-armazenagem-por-produtores-de-derivados-de-petroleo-e-gas-e-debatida-em-audiencia-publica",
-      "desc": "Notícias Regulamentação de serviço de armazenagem por produtores de derivados de petróleo e gás é debatida em audiência pública Objetivo foi receber contribuições sobre a revisão de dois artigos da Resolução ANP nº 852/2021 que tratam do tema. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 29/07/2026 11h41 Foi realizada ontem (28/7) audiência pública sobre a revisão da Resolução ANP nº 852/2021 , que regulamenta o exercício da atividade de produção de derivados de petróleo e gás natural, seu armazenamento, sua comercialização e a prestação de serviços pelos produtores. A proposta estabelece novas regras para a prestação de serviços de armazenagem por produtores de deriv"
-    },
-    {
-      "titulo": "ANP aprova relatório de estudo sobre controle de queima e perda de petróleo e gás",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "30/07/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto",
-        "gas"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-aprova-relatorio-de-estudo-sobre-controle-de-queima-e-perda-de-petroleo-e-gas",
-      "desc": "Notícias ANP aprova relatório de estudo sobre controle de queima e perda de petróleo e gás Análise de Impacto Regulatório concluiu pela revisão parcial da Resolução ANP nº 806/2020. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 24/07/2026 13h58 Atualizado em 24/07/2026 17h18 A Diretoria da ANP aprovou hoje (24/7) o Relatório de Análise de Impacto Regulatório (AIR) sobre a revisão da Resolução ANP nº 806/2020 , que regulamenta os procedimentos para controle de queima e perda de petróleo e de gás natural no segmento de exploração e produção (E&P). A conclusão do AIR foi pela revisão parcial da resolução, de forma coordenada com outra regulamentação, em andamento na ANP, "
-    },
-    {
-      "titulo": "ANP aprova Avaliação de Resultado Regulatório sobre atividade de formulação de gasolina e óleo diesel",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "30/07/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-aprova-avaliacao-de-resultado-regulatorio-sobre-atividade-de-formulacao-de-gasolina-e-oleo-diesel",
-      "desc": "Notícias Combustíveis ANP aprova Avaliação de Resultado Regulatório sobre atividade de formulação de gasolina e óleo diesel Estudo recomenda descontinuação da atividade nos moldes atuais e servirá de base para os próximos passos regulatórios sobre o tema. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 24/07/2026 11h37 A Diretoria da ANP aprovou hoje (24/7) o Relatório de Avaliação de Resultado Regulatório (ARR) referente à Resolução ANP nº 852/2021 , que regulamenta, entre outros aspectos, a atividade de formulação de gasolina e óleo diesel. O estudo, que avaliou os resultados da norma quanto aos seus impactos sobre a oferta de combustíveis, a concorrência, a qualidade "
-    },
-    {
-      "titulo": "ANP fará consulta e audiência públicas sobre revisão das especificações dos combustíveis de uso aquaviário",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "30/07/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto",
-        "consulta"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-fara-consulta-e-audiencia-publicas-sobre-revisao-das-especificacoes-dos-combustiveis-de-uso-aquaviario",
-      "desc": "Notícias ANP fará consulta e audiência públicas sobre revisão das especificações dos combustíveis de uso aquaviário Proposta atualiza regulamentação brasileira às normas internacionais, incorpora avanços tecnológicos e prevê regras para combustíveis renováveis e sintéticos Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 24/07/2026 10h45 Atualizado em 27/07/2026 17h40 A Diretoria da ANP aprovou hoje (24/7) a realização de consulta, por 45 dias, e audiência públicas sobre minuta que revisa a Resolução ANP nº 903 , de 2022, que estabelece as especificações dos combustíveis de uso aquaviário comercializados no território nacional (óleo diesel marítimo e óleo combustível marí"
-    },
-    {
       "titulo": "Consultas Públicas Encerradas",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "30/07/2026",
+      "data": "31/07/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -196,7 +76,7 @@
       "titulo": "Chamada Pública 001/2026",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "30/07/2026",
+      "data": "31/07/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -205,52 +85,10 @@
       "desc": "O Estado do Amazonas, por intermédio da Secretaria de Estado da Fazenda, torna pública às instituições financeiras públicas ou privadas de âmbito nacional a abertura da presente Chamada Pública, nos termos deste Edital, com a finalidade de receber propostas para análise da viabilidade de contratação de Operação de Crédito, na modalidade de operação contratual interna, com garantia da União, no valor de R$ 1.462.000.000,00 (Um bilhão e quatrocentos e sessenta e dois milhões de reais), no âmbito do Programa Estadual de Habitação, Infraestrutura, Saneamento e Capitalização do Fundo Garantidor de PPP - PROHABISCAP, nos termos da Resolução CMN n.º 4.995, de 24 de março de 2022, e suas alterações, destinados ao aporte ao Fundo de Infraestrutura e Desenvolvimento do Estado do Amazonas - FIDEAM, a"
     },
     {
-      "titulo": "ANEEL define Receitas Anuais de Geração de 59 usinas do Regime de Cotas",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "30/07/2026",
-      "impacto": "medio",
-      "tags": [
-        "medio",
-        "energia"
-      ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-define-receitas-anuais-de-geracao-de-59-usinas-do-regime-de-cotas",
-      "desc": "Notícias Geração ANEEL define Receitas Anuais de Geração de 59 usinas do Regime de Cotas Com a descotização de 13 usinas da Axia Energia, o novo valor das Receitas Anuais de Geração (RAG) é de R$ 8,122 bilhões, o que representa uma redução de 6,34%. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 29/07/2026 12h44 A Agência Nacional de Energia Elétrica (ANEEL) homologou, por meio do Despacho nº 2.744, de 24 de julho de 2026, as Receitas Anuais de Geração (RAG) das 59 usinas hidrelétricas do Regime de Cotas da Lei nº 12.783/2013, a vigorar de julho de 2026 a junho de 2027. O principal impacto no resultado é a aplicação do último passo da descotização das 13 usinas da Axia "
-    },
-    {
-      "titulo": "Primeiros leilões de armazenamento de energia do Brasil entram em consulta pública",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "30/07/2026",
-      "impacto": "medio",
-      "tags": [
-        "medio",
-        "energia",
-        "consulta"
-      ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/primeiros-leiloes-de-armazenamento-de-energia-do-brasil-entram-em-consulta-publica",
-      "desc": "Notícias LEILÕES Primeiros leilões de armazenamento de energia do Brasil entram em consulta pública Editais em análise preveem suprimento por 15 anos a partir de 2028. Licitações serão realizadas em 2 e 4 de dezembro Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 28/07/2026 15h45 A diretoria da Agência Nacional de Energia Elétrica – ANEEL aprovou nesta terça-feira (28/7) a abertura de consultas públicas, a partir da quinta-feira 30/7, para análise das prévias de dois editais para contratação de baterias de alta potência: os Leilões de Reserva de Capacidade Armazenamento Nacional e Armazenamento Geral. As licitações serão realizadas pela ANEEL e pela Câmara de Comerciali"
-    },
-    {
-      "titulo": "Alterações nas Regras de Comercialização para LRCAP 2026 vão à Consulta Pública",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "30/07/2026",
-      "impacto": "medio",
-      "tags": [
-        "medio",
-        "energia",
-        "gas",
-        "consulta"
-      ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/alteracoes-nas-regras-de-comercializacao-para-lrcap-2026-vao-a-consulta-publica",
-      "desc": "Notícias COMERCIALIZAÇÃO Alterações nas Regras de Comercialização para LRCAP 2026 vão à Consulta Pública ANEEL receberá contribuições de 30 de julho a 12 de setembro de 2026 Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 28/07/2026 15h06 A diretoria da Agência Nacional de Energia Elétrica (ANEEL) aprovou nesta terça-feira (28/7) a abertura de Consulta Pública (CP 25/2026) para alterações nas Regras de Comercialização para inclusão dos Leilões de Reserva da Capacidade na Forma de Potência (LRCAP 2026), Os certames, realizados em março deste ano, trataram de Usinas Termelétricas (UTEs) a gás natural e carvão mineral e Usinas Hidrelétricas (UHEs) (LRCAP 2/2026); e UTEs a ó"
-    },
-    {
       "titulo": "Relatórios Institucionais Arsepam",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "30/07/2026",
+      "data": "31/07/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -262,7 +100,7 @@
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "30/07/2026",
+      "data": "31/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -274,7 +112,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "30/07/2026",
+      "data": "31/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -284,122 +122,46 @@
       "desc": "Edição do dia verificada. Nenhum ato relevante encontrado."
     },
     {
-      "titulo": "ANEEL homologa parcialmente resultado do Leilão de Reserva de Capacidade 2/2026",
+      "titulo": "ANEEL — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "30/07/2026",
+      "data": "31/07/2026",
       "impacto": "baixo",
       "tags": [
-        "baixo",
-        "energia",
-        "gas"
+        "baixo"
       ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-homologa-parcialmente-resultado-do-leilao-de-reserva-de-capacidade-2-2026",
-      "desc": "Notícias GERAÇÃO ANEEL homologa parcialmente resultado do Leilão de Reserva de Capacidade 2/2026 O processo de habilitação das proponentes vencedoras pela Comissão Permanente de Leilões foi estruturado em etapas Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 28/07/2026 13h05 A homologação parcial do resultado e adjudicação do Leilão de Reserva de Capacidade (LRCAP) 2/2026, na forma de potência proveniente de usinas hidrelétricas e termelétricas a gás natural e carvão mineral, foi aprovada pela Agência Nacional de Energia Elétrica (ANEEL) nesta terça-feira (28/7). A proponente vencedora foi o Consórcio EBRASIL/CELNE, composto pelas empresas Eletricidade do Brasil S.A. – "
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias",
+      "desc": "ANEEL — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
-      "titulo": "ANEEL disponibiliza cadernos temáticos sobre relacionamento com o consumidor e compensação pelo uso de recursos hídricos",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "30/07/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo",
-        "energia"
-      ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-disponibiliza-cadernos-tematicos-sobre-relacionamento-com-o-consumidor-e-compensacao-pelo-uso-de-recursos-hidricos",
-      "desc": "Notícias INSTITUCIONAL ANEEL disponibiliza cadernos temáticos sobre relacionamento com o consumidor e compensação pelo uso de recursos hídricos Publicações inauguram série voltada à disseminação de informações sobre a regulação e o setor elétrico brasileiro Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 28/07/2026 10h13 A Agência Nacional de Energia Elétrica (ANEEL) disponibilizou, nesta terça-feira (28), os dois primeiros volumes de uma série de cadernos temáticos com informações sobre o setor elétrico brasileiro. As publicações abordam o relacionamento com o consumidor de energia elétrica e a Compensação Financeira pelo Uso dos Recursos Hídricos para Fins de Geração d"
-    },
-    {
-      "titulo": "ANP na Rio Innovation Week: Agência vai debater PD&I, combustíveis sustentáveis e descarbonização",
+      "titulo": "ANP — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "30/07/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo",
-        "energia"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-na-rio-innovation-week-agencia-vai-debater-pd-i-combustiveis-sustentaveis-e-descarbonizacao",
-      "desc": "Notícias Tecnologia e Inovação ANP na Rio Innovation Week: Agência vai debater PD&I, combustíveis sustentáveis e descarbonização Agência também será representada em painel do evento. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 28/07/2026 13h59 A ANP fará dois seminários dentro da programação da Rio Innovation Week (RIW), que acontece de 4 a 7 de agosto, no Rio de Janeiro. O evento aborda temas relacionados à tecnologia e inovação, inclusive no setor de energia. A 4ª edição do Fórum de Tecnologia, Inovação e Programas da ANP (TIP ANP) ocorre de 4 a 6/8, com participação dos Diretores da ANP Symone Araújo, Daniel Maia Vieira e Fernando Moura, além de superintendentes e"
-    },
-    {
-      "titulo": "Jornada Empreendedora do PRH-ANP tem início com oficinas de capacitação",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "30/07/2026",
+      "data": "31/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/jornada-empreendedora-do-prh-anp-tem-inicio-com-oficinas-de-capacitacao",
-      "desc": "Notícias Jornada Empreendedora do PRH-ANP tem início com oficinas de capacitação No total, 20 empresas foram selecionadas para participar da iniciativa Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 28/07/2026 10h22 Atualizado em 28/07/2026 13h56 Teve início ontem (27/7) a primeira etapa da Jornada Empreendedora do Programa de Recursos Humanos (PRH-ANP), com as Oficinas de Capacitação, que acontecem no formato online até 30/7. Na página da Jornada , é possível consultar o resultado final da seleção para participação, com a classificação das 20 equipes inscritas. Também é possível acessar vídeos com esclarecimentos sobre a iniciativa, incluindo a gravação do webinar de l"
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados",
+      "desc": "ANP — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
-      "titulo": "Consultar minhas solicitações",
+      "titulo": "ANA — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "30/07/2026",
+      "data": "31/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-plataforma-de-automacao/cidadao/consultar-as-minhas-solicitacoes",
-      "desc": "Veja o andamento das suas solicitações de serviços automatizados no GOV.BR Atenção : Nem todos os serviços do portal GOV.BR estão disponíveis para acompanhamento nessa área. Nesse caso, consulte a página do serviço e veja as etapas informadas. Para acessar as suas solicitações já registradas em um serviço automatizado na Plataforma de Automação, clique em Ver Solicitações , logo acima, e faça o login em sua conta gov.br . Após digitar corretamente seu CPF e senha da conta, será apresentada uma tela onde será possível identificar os processos que já foram abertos e as fases em que se encontram . As solicitações são identificadas pelo seu número de protocolo associado. É possível alternar entre a exibição das solicitações Em andamento e as já Concluídas , basta clicar na chave azul equivalen"
-    },
-    {
-      "titulo": "Consultar Meu Imposto de Renda",
-      "orgao": "ANA",
-      "tema": "Recursos Hídricos",
-      "data": "30/07/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.gov.br/pt-br/servicos/consultar-meu-imposto-de-renda?origem=maisacessado_inst",
-      "desc": "O número antes das estrelas é a nota dada pelos usuários que utilizaram o serviço e vai de 1 a 5. Depois das estrelas, entre parênteses, é a quantidade de usuários que avaliaram o serviço. Os números são atualizados diariamente."
-    },
-    {
-      "titulo": "Consultar restituição de imposto de renda",
-      "orgao": "ANA",
-      "tema": "Recursos Hídricos",
-      "data": "30/07/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.gov.br/pt-br/servicos/consultar-restituicao-de-imposto-de-renda?origem=maisacessado_inst",
-      "desc": "O número antes das estrelas é a nota dada pelos usuários que utilizaram o serviço e vai de 1 a 5. Depois das estrelas, entre parênteses, é a quantidade de usuários que avaliaram o serviço. Os números são atualizados diariamente."
-    },
-    {
-      "titulo": "Consultar dados do Cadastro Único",
-      "orgao": "ANA",
-      "tema": "Recursos Hídricos",
-      "data": "30/07/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.gov.br/pt-br/servicos/consultar-dados-do-cadastro-unico-cadunico?origem=maisacessado_inst",
-      "desc": "O número antes das estrelas é a nota dada pelos usuários que utilizaram o serviço e vai de 1 a 5. Depois das estrelas, entre parênteses, é a quantidade de usuários que avaliaram o serviço. Os números são atualizados diariamente."
-    },
-    {
-      "titulo": "Creative Commons",
-      "orgao": "ANA",
-      "tema": "Recursos Hídricos",
-      "data": "30/07/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://creativecommons.org/licenses/by-nd/3.0/deed.pt_BR",
-      "desc": "This is an older version of this license. Compared to previous\n            versions, the 4.0 versions of all CC licenses are more user-friendly and more internationally robust . If you are licensing your own work , we\n            strongly recommend the use of the 4.0 license instead: Deed - Attribution-NoDerivatives 4.0 International"
+      "url": "https://www.gov.br/ana/pt-br/assuntos/noticias-e-eventos/noticias",
+      "desc": "ANA — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "30/07/2026",
+      "data": "31/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -411,7 +173,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "30/07/2026",
+      "data": "31/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -423,7 +185,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "30/07/2026",
+      "data": "31/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -435,7 +197,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "30/07/2026",
+      "data": "31/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -447,7 +209,7 @@
       "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "30/07/2026",
+      "data": "31/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -462,7 +224,7 @@
       "titulo": "Conselho Estadual de Regulação e Controle dos Serviços Públicos – Cercon",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "30/07/2026",
+      "data": "31/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -474,7 +236,7 @@
       "titulo": "SEMIG Secretaria de Estado de Energia, Mineração e Gás",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "30/07/2026",
+      "data": "31/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -488,7 +250,7 @@
       "titulo": "E-mail Integra Amazonas",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "30/07/2026",
+      "data": "31/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -500,7 +262,7 @@
       "titulo": "semig@semig.am.gov.br",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "30/07/2026",
+      "data": "31/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -512,7 +274,7 @@
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "30/07/2026",
+      "data": "31/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -521,22 +283,34 @@
       "desc": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
-      "titulo": "Prefeito Renato Junior vistoria reestruturação de passagem de nível entre as avenidas Constantino Nery e Theomário Pinto e destaca obras de recuperação em diferentes espaços públicos da capital",
+      "titulo": "Prefeito Renato Junior fortalece diálogo com Fecomércio-AM para impulsionar desenvolvimento econômico de Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "30/07/2026",
+      "data": "31/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/revitalizacao/prefeito-reestruturacao-passagemdenivel/",
+      "url": "https://www.manaus.am.gov.br/noticia/reuniao/dialogo-com-fecomercio-am/",
+      "desc": "Reunião Prefeitura de Manaus realiza alinhamento técnico para elaboração do Plano de Integridade da Semad"
+    },
+    {
+      "titulo": "Prefeito Renato Junior vistoria reestruturação de passagem de nível entre as avenidas Constantino Nery e Theomário Pinto e destaca obras de recuperação em diferentes espaços públicos da capital",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "31/07/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/revitalizacao/prefeito-renato-junior-reestruturacao-passagemdenivel/",
       "desc": "Revitalização Prefeito Renato Junior entrega feira municipal do 40 reformada e anuncia que vai reformar todas as feiras de Manaus até o fim da gestão"
     },
     {
       "titulo": "Prefeito Renato Junior alinha acordo de cooperação técnica com a Suframa para reforçar segurança no Polo Industrial de Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "30/07/2026",
+      "data": "31/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -545,34 +319,22 @@
       "desc": "Parceria Defesa Civil de Manaus recebe representantes de Porto Velho para intercâmbio de experiências"
     },
     {
-      "titulo": "Prefeito Renato Junior entrega feira municipal do 40 reformada e anuncia que vai reformar todas as feiras de Manaus até o fim da gestão",
+      "titulo": "Prefeitura de Manaus intensifica operação ‘Tapa-Buracos’ com fresagem e recuperação asfáltica no bairro Cidade de Deus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "30/07/2026",
+      "data": "31/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/revitalizacao/prefeito-renato-junior-feira-municipal-do-40-reformada/",
-      "desc": "Revitalização Prefeito Renato Junior vistoria reestruturação de passagem de nível entre as avenidas Constantino Nery e Theomário Pinto e destaca obras de recuperação em diferentes espaços públicos da capital"
-    },
-    {
-      "titulo": "Prefeito Renato Junior convoca mais 250 profissionais do concurso da Semed e reforça compromisso com qualidade da educação de Manaus",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "30/07/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/chamada/prefeito-convoca-profissionais-concurso-semed/",
-      "desc": "Página Inicial Notícias Chamada Prefeito Renato Junior convoca mais 250 profissionais do concurso da Semed e reforça compromisso com qualidade da educação de Manaus Prefeito Renato Junior convoca mais 250 profissionais do concurso da Semed e reforça compromisso com qualidade da educação de Manaus Por Prefeitura de Manaus 28/07/2026 13h40 Seu navegador não suporta o elemento de áudio. #paratodosverem – Prefeito Renato Junior, secretário Arone Bentes e subsecretários da Semed em gabinete O prefeito de Manaus , Renato Junior, assinou, nesta terça-feira, 28/7, a quarta convocação do concurso público da Secretaria Municipal de Educação (Semed), chamando mais 250 profissionais aprovados para atuar na rede municipal de ensino. Com a nova convocação, a gestão municipal alcança a marca de 1.576 ser"
+      "url": "https://www.manaus.am.gov.br/noticia/recuperacao/operacao-tapa-buracos-com-fresagem-e-recuperacao-asfaltica/",
+      "desc": "Recuperação Prefeitura de Manaus intensifica manutenção asfáltica e leva mais segurança viária ao bairro Gilberto Mestrinho"
     },
     {
       "titulo": "Prefeito Renato Junior aproxima gestão da população com quinta edição do ‘Manaus que a Gente Cuida’ no Colônia Terra Nova",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "30/07/2026",
+      "data": "31/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -584,7 +346,7 @@
       "titulo": "Prefeito Renato Junior instaura Gabinete de Crise e coloca Manaus em estado de alerta após vazamento de gás no Distrito Industrial",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "30/07/2026",
+      "data": "31/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -597,7 +359,7 @@
       "titulo": "Prefeitura de Manaus amplia linhas expressas e reduz tempo de viagem em até 50 minutos para usuários das zonas Norte e Leste",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "30/07/2026",
+      "data": "31/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -609,20 +371,19 @@
       "titulo": "Parque Encontro das Águas Rosa Almeida avança com novas frentes de obra e reforça ritmo de construção da Prefeitura de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "30/07/2026",
+      "data": "31/07/2026",
       "impacto": "baixo",
       "tags": [
-        "baixo",
-        "energia"
+        "baixo"
       ],
       "url": "https://www.manaus.am.gov.br/implurb/prefeitura-implurb-parque-encontro-das-aguas-obras/",
-      "desc": "Página Inicial Notícias Urbanismo Parque Encontro das Águas Rosa Almeida avança com novas frentes de obra e reforça ritmo de construção da Prefeitura de Manaus Parque Encontro das Águas Rosa Almeida avança com novas frentes de obra e reforça ritmo de construção da Prefeitura de Manaus Por Prefeitura de Manaus 21/07/2026 11h01 #paratodosverem – Obra do parque Encontro das Águas Rosa Almeida, no bairro Colônia Antônio Aleixo, zona Leste As obras do parque Encontro das Águas Rosa Almeida, executadas pela Prefeitura de Manaus , avançam em diversas frentes simultâneas de trabalho. Coordenados pelo Instituto Municipal de Planejamento Urbano (Implurb), os serviços contemplam a evolução da estrutura da Oca Niemeyer, além da implantação das redes de infraestrutura, drenagem, instalações elétricas e"
+      "desc": "Urbanismo Prefeitura fortalece ordenamento urbano com quase 2 mil ações fiscais do Implurb no semestre"
     },
     {
       "titulo": "Prefeitura intensifica operação ‘Centro Mais Seguro’ e reforça ordenamento urbano, assistência social e mobilidade na região central de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "30/07/2026",
+      "data": "31/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -634,7 +395,7 @@
       "titulo": "Prefeito Renato Junior recebe pesquisadores do Inpa e anuncia agenda conjunta para recuperação ambiental, mobilidade e turismo em Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "30/07/2026",
+      "data": "31/07/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
