@@ -1,6 +1,6 @@
 {
-  "ultima_coleta": "31/07/2026 09:00",
-  "mes_ano": "Jul/2026",
+  "ultima_coleta": "03/08/2026 09:42",
+  "mes_ano": "Ago/2026",
   "total": 30,
   "fontes": 18,
   "fontes_com_falha": [],
@@ -36,7 +36,7 @@
       "titulo": "Informações",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "31/07/2026",
+      "data": "03/08/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -49,7 +49,7 @@
       "titulo": "Ouvidoria Arsepam",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "31/07/2026",
+      "data": "03/08/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -61,7 +61,7 @@
       "titulo": "Consultas Públicas Encerradas",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "31/07/2026",
+      "data": "03/08/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -76,7 +76,7 @@
       "titulo": "Chamada Pública 001/2026",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "31/07/2026",
+      "data": "03/08/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -88,7 +88,7 @@
       "titulo": "Relatórios Institucionais Arsepam",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "31/07/2026",
+      "data": "03/08/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -100,7 +100,7 @@
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "31/07/2026",
+      "data": "03/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -112,7 +112,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "31/07/2026",
+      "data": "03/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -125,7 +125,7 @@
       "titulo": "ANEEL — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "31/07/2026",
+      "data": "03/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -137,7 +137,7 @@
       "titulo": "ANP — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "31/07/2026",
+      "data": "03/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -149,7 +149,7 @@
       "titulo": "ANA — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "31/07/2026",
+      "data": "03/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -161,7 +161,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "31/07/2026",
+      "data": "03/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -173,7 +173,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "31/07/2026",
+      "data": "03/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -185,7 +185,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "31/07/2026",
+      "data": "03/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -197,7 +197,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "31/07/2026",
+      "data": "03/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -209,7 +209,7 @@
       "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "31/07/2026",
+      "data": "03/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -224,7 +224,7 @@
       "titulo": "Conselho Estadual de Regulação e Controle dos Serviços Públicos – Cercon",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "31/07/2026",
+      "data": "03/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -236,7 +236,7 @@
       "titulo": "SEMIG Secretaria de Estado de Energia, Mineração e Gás",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "31/07/2026",
+      "data": "03/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -250,7 +250,7 @@
       "titulo": "E-mail Integra Amazonas",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "31/07/2026",
+      "data": "03/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -262,7 +262,7 @@
       "titulo": "semig@semig.am.gov.br",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "31/07/2026",
+      "data": "03/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -274,7 +274,7 @@
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "31/07/2026",
+      "data": "03/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -283,10 +283,22 @@
       "desc": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
+      "titulo": "Prefeitura de Manaus avança com ações de limpeza, infraestrutura e serviços sociais do ‘Manaus que a Gente Cuida’ no bairro Lírio do Vale",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "03/08/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/mobilizacao/prefeitura-manausqueagentecuida-avanca-liriodovale/",
+      "desc": "Mobilização Prefeito Renato Junior anuncia em rede nacional nova remessa de ajuda à Venezuela e convoca estados e municípios a se unirem em ação humanitária"
+    },
+    {
       "titulo": "Prefeito Renato Junior fortalece diálogo com Fecomércio-AM para impulsionar desenvolvimento econômico de Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "31/07/2026",
+      "data": "03/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -295,46 +307,34 @@
       "desc": "Reunião Prefeitura de Manaus realiza alinhamento técnico para elaboração do Plano de Integridade da Semad"
     },
     {
-      "titulo": "Prefeito Renato Junior vistoria reestruturação de passagem de nível entre as avenidas Constantino Nery e Theomário Pinto e destaca obras de recuperação em diferentes espaços públicos da capital",
+      "titulo": "Prefeitura de Manaus realiza as finais de futsal dos Jogos de Integração dos Servidores da Semed",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "31/07/2026",
+      "data": "03/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/revitalizacao/prefeito-renato-junior-reestruturacao-passagemdenivel/",
-      "desc": "Revitalização Prefeito Renato Junior entrega feira municipal do 40 reformada e anuncia que vai reformar todas as feiras de Manaus até o fim da gestão"
+      "url": "https://www.manaus.am.gov.br/noticia/atividades/finais-futsal-jiss/",
+      "desc": "Atividades Prefeitura realiza 5ª edição da ‘Semana Baré’ na Semed para fortalecer cultura indígena no rio Cuieiras"
     },
     {
-      "titulo": "Prefeito Renato Junior alinha acordo de cooperação técnica com a Suframa para reforçar segurança no Polo Industrial de Manaus",
+      "titulo": "Prefeitura de Manaus informa que quatro unidades de saúde da mulher atendem em novos locais a partir de segunda-feira, 3/8",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "31/07/2026",
+      "data": "03/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/parceria/acordo-cooperacao-tecnica-suframa/",
-      "desc": "Parceria Defesa Civil de Manaus recebe representantes de Porto Velho para intercâmbio de experiências"
-    },
-    {
-      "titulo": "Prefeitura de Manaus intensifica operação ‘Tapa-Buracos’ com fresagem e recuperação asfáltica no bairro Cidade de Deus",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "31/07/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/recuperacao/operacao-tapa-buracos-com-fresagem-e-recuperacao-asfaltica/",
-      "desc": "Recuperação Prefeitura de Manaus intensifica manutenção asfáltica e leva mais segurança viária ao bairro Gilberto Mestrinho"
+      "url": "https://www.manaus.am.gov.br/noticia/nota/unidades-saude-mulher-local-atendimento/",
+      "desc": "Nota Ronda Ostensiva Municipal detém indivíduo com mandado de prisão em aberto na zona Leste da capital"
     },
     {
       "titulo": "Prefeito Renato Junior aproxima gestão da população com quinta edição do ‘Manaus que a Gente Cuida’ no Colônia Terra Nova",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "31/07/2026",
+      "data": "03/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -346,7 +346,7 @@
       "titulo": "Prefeito Renato Junior instaura Gabinete de Crise e coloca Manaus em estado de alerta após vazamento de gás no Distrito Industrial",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "31/07/2026",
+      "data": "03/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -359,19 +359,19 @@
       "titulo": "Prefeitura de Manaus amplia linhas expressas e reduz tempo de viagem em até 50 minutos para usuários das zonas Norte e Leste",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "31/07/2026",
+      "data": "03/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
       "url": "https://www.manaus.am.gov.br/immu/noticia-transporte/prefeitura-immu-linhas-expressas/",
-      "desc": "Transporte Prefeito Renato Junior cobra pagamento aos rodoviários após repasse do Estado e faz apelo ao sindicato pelo fim da greve"
+      "desc": "Transporte Prefeitura de Manaus realiza lavagem e higienização da Estação Santos Dumont para garantir mais conforto aos usuários"
     },
     {
       "titulo": "Parque Encontro das Águas Rosa Almeida avança com novas frentes de obra e reforça ritmo de construção da Prefeitura de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "31/07/2026",
+      "data": "03/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -383,7 +383,7 @@
       "titulo": "Prefeitura intensifica operação ‘Centro Mais Seguro’ e reforça ordenamento urbano, assistência social e mobilidade na região central de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "31/07/2026",
+      "data": "03/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -395,7 +395,7 @@
       "titulo": "Prefeito Renato Junior recebe pesquisadores do Inpa e anuncia agenda conjunta para recuperação ambiental, mobilidade e turismo em Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "31/07/2026",
+      "data": "03/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
