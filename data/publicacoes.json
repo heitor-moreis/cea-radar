@@ -1,15 +1,15 @@
 {
-  "ultima_coleta": "07/08/2026 07:44",
+  "ultima_coleta": "10/08/2026 07:48",
   "mes_ano": "Ago/2026",
   "total": 48,
   "fontes": 18,
   "fontes_com_falha": [],
   "stats": {
-    "critico": 7,
+    "critico": 6,
     "alto": 5,
     "medio": 7,
-    "baixo": 29,
-    "consultas_abertas": 6
+    "baixo": 30,
+    "consultas_abertas": 5
   },
   "por_orgao": {
     "ANEEL": 8,
@@ -36,7 +36,7 @@
       "titulo": "ANEEL recebe representantes da Enel-SP para tratar de recurso sobre processo de recomendação de caducidade",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -46,49 +46,47 @@
       "desc": "Notícias FISCALIZAÇÃO ANEEL recebe representantes da Enel-SP para tratar de recurso sobre processo de recomendação de caducidade A reunião ocorreu na manhã desta quarta-feira (5/8) na sede da ANEEL em Brasília Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 05/08/2026 15h49 O diretor da Agência Nacional de Energia Elétrica (ANEEL), Fernando Mosna, recebeu nesta quarta-feira (5/8) representantes da concessionária Enel-SP para tratar do recurso apresentado pela distribuidora contra a decisão da Agência sobre processo de recomendação de caducidade da concessão da empresa para o Ministério de Minas e Energia (MME). O relator do processo ouviu os argumentos e esclarecimentos "
     },
     {
+      "titulo": "Entre os dias 3 e 7/8, a ANP realizou 223 ações de fiscalização com foco em preços abusivos",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "10/08/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico",
+        "gas"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/entre-os-dias-3-e-7-8-a-anp-realizou-223-acoes-de-fiscalizacao-com-foco-em-precos-abusivos",
+      "desc": "Notícias Entre os dias 3 e 7/8, a ANP realizou 223 ações de fiscalização com foco em preços abusivos Além disso, a Agência seguiu com as fiscalizações de rotina sobre qualidade, quantidade e outros aspectos. Houve ações em 16 estados. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 07/08/2026 18h48 A ANP realizou 223 ações de fiscalização esta semana (3 a 7/8) com foco no combate a preços abusivos de combustíveis, dando prosseguimento ao cumprimento das atribuições recebidas pelas Medidas Provisórias nº 1340/2026 e 1349/2026 e Decreto nº 12.876/2026. Do total de ações realizadas com esse foco no período, 205 ocorreram em postos de combustíveis, 15 em revendas de GLP (gás"
+    },
+    {
+      "titulo": "ANP revoga autorização da Refinaria de Manguinhos – Refit",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "10/08/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-revoga-autorizacao-da-refinaria-de-manguinhos-2013-refit",
+      "desc": "Notícias ANP revoga autorização da Refinaria de Manguinhos – Refit Decisão teve como base a suspensão do CNPJ da empresa pela Receita Federal. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 07/08/2026 17h31 A Diretoria da ANP decidiu hoje (7/8) pela revogação da autorização da Refinaria de Manguinhos – Refit, devido à empresa ter tido seu CNPJ suspenso pela Receita Federal. O CNPJ regular é um dos requisitos objetivos para obtenção e manutenção da autorização de funcionamento para refinarias emitida pela ANP. Assim, a suspensão do CNPJ torna a empresa sujeita à revogação da sua autorização, conforme art. 38, inciso III, alínea \"b\", da Resolução ANP nº 852/2021. A medida"
+    },
+    {
       "titulo": "Oferta Permanente: 6º Ciclo de Concessão terá 22 setores e 4º Ciclo de Partilha ofertará 13 blocos",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "critico",
       "tags": [
         "critico"
       ],
       "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/oferta-permanente-6o-ciclo-de-concessao-tera-22-setores-e-4o-ciclo-de-partilha-ofertara-13-blocos",
-      "desc": "Notícias Oferta Permanente: 6º Ciclo de Concessão terá 22 setores e 4º Ciclo de Partilha ofertará 13 blocos Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 06/08/2026 12h09 Atualizado em 06/08/2026 12h23 A Comissão Especial de Licitação (CEL) divulgou nesta quinta-feira (06/08), por meio de comunicados publicados no Diário Oficial da União (DOU), os setores e blocos que comporão o 6º Ciclo da Oferta Permanente de Concessão (OPC6) e o 4º Ciclo da Oferta Permanente de Partilha da Produção (OPP4). As sessões públicas dos dois certames estão previstas para 7 de outubro de 2026. Veja os comunicados no DOU: OPC6 e OPP4 . No 6º Ciclo da OPC, serão ofertados 22 setores de blocos"
-    },
-    {
-      "titulo": "Entre os dias 27 e 31/7, a ANP realizou 194 ações de fiscalização com foco em preços abusivos",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "07/08/2026",
-      "impacto": "critico",
-      "tags": [
-        "critico"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/entre-os-dias-27-e-31-7-a-anp-realizou-194-acoes-de-fiscalizacao-com-foco-em-precos-abusivos",
-      "desc": "Notícias Fiscalização Entre os dias 27 e 31/7, a ANP realizou 194 ações de fiscalização com foco em preços abusivos Além disso, a Agência seguiu com as fiscalizações de rotina sobre qualidade, quantidade e outros aspectos. Houve ações em 13 estados. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 31/07/2026 17h14 A ANP fez 194 ações de fiscalização esta semana (27 a 31/07) com foco no combate a preços abusivos de combustíveis, dando prosseguimento ao cumprimento das atribuições recebidas pelas Medidas Provisórias nº 1340/2026 e 1349/2026 e pelo Decreto nº 12.876/2026. Do total das ações realizadas com esse foco no período, 171 ocorreram em postos revendedores de combustí"
-    },
-    {
-      "titulo": "Critério de distribuição de percentual de royalties aos municípios afetados por embarque e desembarque é tema de debate em audiência pública",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "07/08/2026",
-      "impacto": "critico",
-      "tags": [
-        "critico",
-        "energia",
-        "gas",
-        "consulta"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/criterio-de-distribuicao-de-percentual-de-royalties-aos-municipios-afetados-por-embarque-e-desembarque-e-tema-de-debate-em-audiencia-publica",
-      "desc": "Notícias Critério de distribuição de percentual de royalties aos municípios afetados por embarque e desembarque é tema de debate em audiência pública Revisão de norma sobre o assunto atende a decreto de fevereiro deste ano, que incluiu terminais aquaviários entre esses tipos de instalações. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 31/07/2026 12h23 Atualizado em 31/07/2026 14h33 A ANP realizou ontem (30/7) audiência pública sobre a revisão da Portaria Técnica ANP nº 29/2001 , que regula o pagamento de royalties a municípios que sejam afetados pelas operações de embarque e desembarque de petróleo ou gás natural. A revisão foi motivada pela publicação do Decreto nº 1"
+      "desc": "Notícias Oferta Permanente: 6º Ciclo de Concessão terá 22 setores e 4º Ciclo de Partilha ofertará 13 blocos Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 06/08/2026 12h09 Atualizado em 07/08/2026 09h07 A Comissão Especial de Licitação (CEL) divulgou nesta quinta-feira (06/08), por meio de comunicados publicados no Diário Oficial da União (DOU), os setores e blocos que comporão o 6º Ciclo da Oferta Permanente de Concessão (OPC6) e o 4º Ciclo da Oferta Permanente de Partilha da Produção (OPP4). As sessões públicas dos dois certames estão previstas para 7 de outubro de 2026. Veja os comunicados no DOU: OPC6 e OPP4 . No 6º Ciclo da OPC, serão ofertados 22 setores de blocos"
     },
     {
       "titulo": "Informações",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -101,7 +99,7 @@
       "titulo": "Ouvidoria Arsepam",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -110,22 +108,10 @@
       "desc": "Ouvidoria Arsepam Ouvir Compartilhar Tweet O setor da Ouvidoria da Arsepam tem como objetivo zelar pela qualidade dos serviços regulados pela agência, acompanhando o processo interno de apuração de denúncias e reclamações dos interessados contra a atuação das concessionárias, visando promover a conciliação entre os operadores do serviço e usuários. Decretos RESOLUÇÃO Nº 06 – 19.06.2018 – Dispõe sobre o sistema de gerenciamento de demandas da Ouvidoria RESOLUÇÃO Nº 07 – 19.06.2018 – Dispõe sobre as tratativas das demandas registradas na Ouvidoria Ouvidora da Arsepam Amazonas Jéssica Carolina Medeiros de Oliveira Horário de Atendimento Para falar com a nossa Ouvidoria, entre em contato de segunda à sexta-feira, das 8h às 14h. Atendimento presencial Terminal Rodoviário Engenheiro Huascar Ange"
     },
     {
-      "titulo": "Com 30% das obras concluídas, Prefeitura de Manaus avança na construção do complexo viário ‘Passarão’",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "07/08/2026",
-      "impacto": "critico",
-      "tags": [
-        "critico"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/mobilidade/prefeitura-seminf-passarao-avanco/",
-      "desc": "Página Inicial Notícias Mobilidade Com 30% das obras concluídas, Prefeitura de Manaus avança na construção do complexo viário ‘Passarão’ Com 30% das obras concluídas, Prefeitura de Manaus avança na construção do complexo viário ‘Passarão’ Por Prefeitura de Manaus 05/08/2026 14h19 Seu navegador não suporta o elemento de áudio. #paratodosverem – Vista aérea da obra do complexo viário “Passarão”, na zona Oeste da capital A Prefeitura de Manaus , por meio da Secretaria Municipal de Infraestrutura (Seminf), alcançou, nesta quarta-feira, 5/8, 30% de execução das obras do complexo viário “Passarão”, na zona Oeste da capital. Considerada uma das maiores intervenções de mobilidade urbana em andamento na cidade, a obra entra em uma nova etapa, com diferentes frentes de trabalho atuando simultaneamen"
-    },
-    {
       "titulo": "ANEEL define quotas da RGR para geradoras e transmissoras no ciclo 2026/2027",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -136,35 +122,36 @@
       "desc": "Notícias TARIFAS ANEEL define quotas da RGR para geradoras e transmissoras no ciclo 2026/2027 Valores somam cerca de R$ 470 milhões para 108 concessionárias e contemplam ajustes referentes ao exercício de 2025 e anos anteriores. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 06/08/2026 09h24 A Agência Nacional de Energia Elétrica (ANEEL) publicou hoje (6/8), por meio do Despacho nº 2.922/2026 , os valores das quotas da Reserva Global de Reversão (RGR) para 108 concessionárias de geração e transmissão. A RGR é um encargo do setor elétrico pago mensalmente pelos geradores e transmissores. As quotas serão recolhidas mensalmente por meio de boletos emitidos pela Câmara de C"
     },
     {
-      "titulo": "ANP participa de cerimônia alusiva à assinatura de contratos do 3° Ciclo da Oferta Permanente de Partilha",
+      "titulo": "Gas release: ANP aprova relatório e abertura de consulta pública sobre programa para ampliar concorrência no mercado de gás natural",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto",
+        "gas",
+        "consulta"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/gas-release-anp-aprova-relatorio-e-abertura-de-consulta-publica-sobre-programa-para-ampliar-concorrencia-no-mercado-de-gas-natural",
+      "desc": "Notícias Gas release: ANP aprova relatório e abertura de consulta pública sobre programa para ampliar concorrência no mercado de gás natural Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 07/08/2026 11h38 A Diretoria da ANP aprovou hoje (7/8) o Relatório de Análise de Impacto Regulatório (AIR) e a abertura de consulta pública, pelo prazo de 45 dias, e posterior realização de audiência pública sobre a minuta de resolução que institui o Programa de Redução da Concentração no Mercado de Gás Natural (Programa de Gas Release). A AIR teve como objetivo avaliar alternativas regulatórias para ampliar a concorrência no mercado brasileiro de gás natural, que ainda apresenta eleva"
+    },
+    {
+      "titulo": "ANP aprova resolução sobre especificação e controle da qualidade do biometano",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "10/08/2026",
       "impacto": "alto",
       "tags": [
         "alto"
       ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-participa-de-cerimonia-alusiva-a-assinatura-de-contratos-do-3deg-ciclo-da-oferta-permanente-de-partilha-1",
-      "desc": "Notícias ANP participa de cerimônia alusiva à assinatura de contratos do 3° Ciclo da Oferta Permanente de Partilha Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 05/08/2026 14h43 Atualizado em 06/08/2026 11h15 Aconteceu hoje (5/8), em Brasília, a cerimônia alusiva à assinatura dos contratos referentes aos cinco blocos do Polígono do Pré-Sal arrematados no 3° Ciclo da Oferta Permanente de Partilha (OPP), realizado pela ANP em 22/10/2025. O evento contou com a participação dos Diretores da ANP Artur Watt (Diretor-Geral), Symone Araújo e Fernando Moura. Os blocos que tiveram os contratos assinados foram: Esmeralda e Ametista, na Bacia de Santos; e Citrino, Itaimbezinho e J"
-    },
-    {
-      "titulo": "Alteração de normas sobre comercialização de etanol anidro e estoques de entressafra é tema de audiência pública",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "07/08/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto",
-        "consulta"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/alteracao-de-normas-sobre-comercializacao-de-etanol-anidro-e-estoques-de-entressafra-e-tema-de-audiencia-publica",
-      "desc": "Notícias Etanol Alteração de normas sobre comercialização de etanol anidro e estoques de entressafra é tema de audiência pública Proposta revisa Resolução ANP nº 946/2023, com foco na simplificação regulatória e redução de custos para o setor. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 03/08/2026 16h08 Foi realizada hoje (3/8) audiência pública sobre proposta de revisão da Resolução ANP nº 946, de 2023 , que dispõe sobre aquisições de etanol anidro pelos distribuidores de combustível e a formação de estoques de etanol anidro para o período de entressafra da cana-de-açúcar. A revisão busca promover maior eficiência de mercado, redução de custos operacionais e maior i"
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-aprova-resolucao-sobre-especificacao-e-controle-da-qualidade-do-biometano",
+      "desc": "Notícias ANP aprova resolução sobre especificação e controle da qualidade do biometano O objetivo é o de consolidar e aprimorar a regulação, acompanhando a evolução do mercado de biometano Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 07/08/2026 10h06 A Diretoria da ANP aprovou hoje (7/8) resolução que unifica e aprimora as regras de especificação e controle da qualidade do biometano, substituindo as Resoluções ANP nº 886/2022 e nº 906/2022 . A nova resolução consolida, em um único ato normativo, as regras de especificação e controle da qualidade do biometano, independentemente da sua origem; incorpora aperfeiçoamentos identificados durante a aplicação da regulamentaçã"
     },
     {
       "titulo": "Consultas Públicas Encerradas",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -179,7 +166,7 @@
       "titulo": "Chamada Pública 001/2026",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -191,7 +178,7 @@
       "titulo": "Prazo prorrogado: Consulta Pública para aprimorar o Programa de Eficiência Energética recebe contribuições até 9 de setembro",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "medio",
       "tags": [
         "medio",
@@ -205,7 +192,7 @@
       "titulo": "Primeira Unidade Geradora da Usina Termelétrica Azulão I entra em operação comercial",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "medio",
       "tags": [
         "medio",
@@ -219,7 +206,7 @@
       "titulo": "Leilão nº 4/2026: Informações sobre o Data Room da Afluente Transmissão de Energia já estão disponíveis",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "medio",
       "tags": [
         "medio",
@@ -232,7 +219,7 @@
       "titulo": "ANEEL abre Consulta Pública sobre a prestação de Contas relativa ao PROCEL",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "medio",
       "tags": [
         "medio",
@@ -246,7 +233,7 @@
       "titulo": "Consulta Pública para aprimorar o Prêmio ANEEL de Inovação 2026 recebe contribuições até 17 de agosto",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "medio",
       "tags": [
         "medio",
@@ -259,7 +246,7 @@
       "titulo": "Seminário da ANP apresenta resultados da atividade de exploração em 2025",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "medio",
       "tags": [
         "medio",
@@ -272,7 +259,7 @@
       "titulo": "Relatórios Institucionais Arsepam",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -284,7 +271,7 @@
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -296,7 +283,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -309,7 +296,7 @@
       "titulo": "Presidentes dos Conselhos de Consumidores têm mandato prorrogado por mais dois anos",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -319,36 +306,36 @@
       "desc": "Notícias Participação Pública Presidentes dos Conselhos de Consumidores têm mandato prorrogado por mais dois anos A prorrogação refere-se apenas ao de Presidente dos Conselhos e é uma medida transitória. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 04/08/2026 18h42 A Diretoria da Agência Nacional de Energia Elétrica (ANEEL) decidiu hoje (4), em Circuito Deliberativo Ordinário, permitir a recondução dos atuais Presidentes dos Conselhos de Consumidores pelo período improrrogável de mais dois anos. A decisão atende o pedido feito pelo Conselho Nacional de Consumidores de Energia Elétrica (CONACEN), no sentido de viabilizar a continuidade dos mandatos atualmente vigentes,"
     },
     {
-      "titulo": "Super El Niño: ANP apresenta resultados do acompanhamento do abastecimento de combustíveis na Região Norte",
+      "titulo": "Fechamento antecipado do protocolo e do Escritório Central da ANP em 7/8",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
         "energia"
       ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/super-el-nino-anp-apresenta-resultados-do-acompanhamento-do-abastecimento-de-combustiveis-na-regiao-norte",
-      "desc": "Notícias Super El Niño: ANP apresenta resultados do acompanhamento do abastecimento de combustíveis na Região Norte Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 06/08/2026 11h12 A ANP participou ontem (05/08) de reunião do Comitê de Monitoramento do Setor Elétrico (CMSE), realizada no Ministério de Minas e Energia (MME), em Brasília. O superintendente de Distribuição Logística da Agência, Diogo Valerio, apresentou os resultados do acompanhamento do abastecimento de combustíveis na Região Norte feito pela ANP durante o período de estiagem. A iniciativa visa monitorar potenciais impactos ao abastecimento nacional de combustíveis relacionados ao risco climático associado"
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/fechamento-antecipado-do-protocolo-e-do-escritorio-central-da-anp-em-7-8",
+      "desc": "Notícias Fechamento antecipado do protocolo e do Escritório Central da ANP em 7/8 Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 07/08/2026 14h08 Em razão de novo alerta emitido pela Defesa Civil, o protocolo e o Escritório Central da ANP, no Rio de Janeiro, serão fechados de forma antecipada nesta sexta-feira (7/8). O envio de documentos poderá ser realizado eletronicamente pelo sistema SEI e também pelo serviço de Correios. Categoria Energia, Minerais e Combustíveis"
     },
     {
-      "titulo": "ANP divulga dados consolidados da produção de petróleo e gás em junho de 2026",
+      "titulo": "Fórum da ANP na Rio Innovation Week teve mais de 20 painéis com discussões sobre o setor energético",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
-        "gas"
+        "energia"
       ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-divulga-dados-consolidados-da-producao-de-petroleo-e-gas-em-junho-de-2026",
-      "desc": "Notícias ANP divulga dados consolidados da produção de petróleo e gás em junho de 2026 No mês, foram produzidos 5,842 milhões de barris de óleo equivalente por dia (boe/d) de petróleo e gás natural. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 03/08/2026 10h26 Atualizado em 03/08/2026 16h04 Em junho de 2026, o Brasil produziu 5,842 milhões de barris de óleo equivalente por dia (boe/d) de petróleo e gás natural. Os dados foram divulgados hoje (3/8) pela ANP no Boletim Mensal da Produção de Petróleo e Gás Natural . Com relação ao petróleo, foram extraídos 4,475 milhões de barris por dia (bbl/d), um aumento de 4% na comparação com o mês anterior e 19,1% em relação ao mes"
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/forum-da-anp-na-rio-innovation-week-teve-mais-de-20-paineis-com-discussoes-sobre-o-setor-energetico",
+      "desc": "Notícias Fórum da ANP na Rio Innovation Week teve mais de 20 painéis com discussões sobre o setor energético Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 07/08/2026 12h07 A ANP participou esta semana da Rio Innovation Week (RIW), que teve início em 4/8 e termina hoje (7/8), no Rio de Janeiro. O evento vem abordando temas relacionados à tecnologia e inovação, inclusive no setor de energia. A 4ª edição do Fórum de Tecnologia, Inovação e Programas da ANP (TIP ANP) ocorreu de 4 a 6/8, com participação dos Diretores da ANP Symone Araújo e Fernando Moura, além de superintendentes e técnicos da Agência, bem como representantes de órgãos públicos, de instituições de ensino e "
     },
     {
       "titulo": "Consultar minhas solicitações",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -360,7 +347,7 @@
       "titulo": "Consultar Meu Imposto de Renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -372,7 +359,7 @@
       "titulo": "Consultar restituição de imposto de renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -384,7 +371,7 @@
       "titulo": "Consultar dados do Cadastro Único",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -396,7 +383,7 @@
       "titulo": "Creative Commons",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -408,7 +395,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -420,7 +407,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -432,7 +419,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -444,7 +431,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -456,7 +443,7 @@
       "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -471,7 +458,7 @@
       "titulo": "Conselho Estadual de Regulação e Controle dos Serviços Públicos – Cercon",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -483,7 +470,7 @@
       "titulo": "SEMIG Secretaria de Estado de Energia, Mineração e Gás",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -497,7 +484,7 @@
       "titulo": "E-mail Integra Amazonas",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -509,7 +496,7 @@
       "titulo": "semig@semig.am.gov.br",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -521,7 +508,7 @@
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -530,10 +517,34 @@
       "desc": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
+      "titulo": "Prefeito Renato Junior homenageia pais de Manaus e destaca acolhimento às famílias nos cemitérios",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "10/08/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/homenagem/prefeito-homenagem-pais/",
+      "desc": "Homenagem Prefeitura de Manaus revitaliza entorno do igarapé do Passarinho com monumento em homenagem às aves"
+    },
+    {
+      "titulo": "Prefeito Renato Junior reúne comerciantes na CDL e anuncia medidas de desburocratização reforçando ações de revitalização do Centro de Manaus",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "10/08/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/economia/reune-comerciantes-cdl/",
+      "desc": "Economia Prefeitura de Manaus promove ‘Bazar de Dia dos Pais’ na galeria dos Remédios com opções de presentes e incentivo ao empreendedorismo"
+    },
+    {
       "titulo": "Prefeito Renato Junior assina Ordem de Serviço para criação da primeira ‘Rua Gastronômica de Manaus’ na Ferreira Pena para impulsionar reocupação do centro histórico",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -545,7 +556,7 @@
       "titulo": "Prefeito Renato Junior anuncia que Manaus supera Rio de Janeiro e São Paulo ao registrar o melhor desempenho entre as três maiores redes municipais de ensino do Brasil",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -554,22 +565,10 @@
       "desc": "Educação Recém-reconhecido como Patrimônio Mundial pela Unesco, Teatro Amazonas vira sala de aula para estudantes da rede pública de Manaus"
     },
     {
-      "titulo": "Sine Manaus lidera ranking nacional de eficiência em inserção de pessoas no mercado de trabalho",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "07/08/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/empregabilidade/sine-manaus-lidera-ranking-nacional/",
-      "desc": "Página Inicial Notícias Empregabilidade Sine Manaus lidera ranking nacional de eficiência em inserção de pessoas no mercado de trabalho Sine Manaus lidera ranking nacional de eficiência em inserção de pessoas no mercado de trabalho Por Prefeitura de Manaus 05/08/2026 12h29 Seu navegador não suporta o elemento de áudio. #paratodosverem – Jovem recebendo atendimento do Sine Manaus O Sine Manaus, gerenciado pela Secretaria Municipal do Trabalho, Empreendedorismo e Inovação (Semtepi), da Prefeitura de Manaus , alcançou o 1º lugar no ranking nacional de eficiência nos encaminhamentos do Ministério do Trabalho. Com um índice de 84,39%, a capital amazonense lidera isoladamente o desempenho entre as entidades conveniadas do país no primeiro semestre de 2026. Os dados, extraídos do Painel de Desemp"
-    },
-    {
       "titulo": "Prefeito Renato Junior aproxima gestão da população com quinta edição do ‘Manaus que a Gente Cuida’ no Colônia Terra Nova",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -581,7 +580,7 @@
       "titulo": "Prefeito Renato Junior instaura Gabinete de Crise e coloca Manaus em estado de alerta após vazamento de gás no Distrito Industrial",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -594,7 +593,7 @@
       "titulo": "Prefeitura de Manaus amplia linhas expressas e reduz tempo de viagem em até 50 minutos para usuários das zonas Norte e Leste",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -606,7 +605,7 @@
       "titulo": "Parque Encontro das Águas Rosa Almeida avança com novas frentes de obra e reforça ritmo de construção da Prefeitura de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -618,7 +617,7 @@
       "titulo": "Prefeitura intensifica operação ‘Centro Mais Seguro’ e reforça ordenamento urbano, assistência social e mobilidade na região central de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -630,7 +629,7 @@
       "titulo": "Prefeito Renato Junior recebe pesquisadores do Inpa e anuncia agenda conjunta para recuperação ambiental, mobilidade e turismo em Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "07/08/2026",
+      "data": "10/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
