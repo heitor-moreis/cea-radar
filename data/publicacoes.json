@@ -1,15 +1,15 @@
 {
-  "ultima_coleta": "11/08/2026 07:43",
+  "ultima_coleta": "12/08/2026 07:45",
   "mes_ano": "Ago/2026",
   "total": 48,
   "fontes": 18,
   "fontes_com_falha": [],
   "stats": {
-    "critico": 6,
-    "alto": 5,
-    "medio": 7,
-    "baixo": 30,
-    "consultas_abertas": 5
+    "critico": 5,
+    "alto": 7,
+    "medio": 5,
+    "baixo": 31,
+    "consultas_abertas": 3
   },
   "por_orgao": {
     "ANEEL": 8,
@@ -33,23 +33,23 @@
   },
   "publicacoes": [
     {
-      "titulo": "ANEEL recebe representantes da Enel-SP para tratar de recurso sobre processo de recomendação de caducidade",
+      "titulo": "ANEEL nega pedido da Enel São Paulo e mantém processo sobre recomendação de caducidade",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "critico",
       "tags": [
         "critico",
         "energia"
       ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-recebe-representantes-da-enel-sp-para-tratar-de-recurso-sobre-processo-de-recomendacao-de-caducidade",
-      "desc": "Notícias FISCALIZAÇÃO ANEEL recebe representantes da Enel-SP para tratar de recurso sobre processo de recomendação de caducidade A reunião ocorreu na manhã desta quarta-feira (5/8) na sede da ANEEL em Brasília Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 05/08/2026 15h49 O diretor da Agência Nacional de Energia Elétrica (ANEEL), Fernando Mosna, recebeu nesta quarta-feira (5/8) representantes da concessionária Enel-SP para tratar do recurso apresentado pela distribuidora contra a decisão da Agência sobre processo de recomendação de caducidade da concessão da empresa para o Ministério de Minas e Energia (MME). O relator do processo ouviu os argumentos e esclarecimentos "
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-nega-pedido-da-enel-sao-paulo-e-mantem-processo-sobre-recomendacao-de-caducidade",
+      "desc": "Notícias DISTRIBUIÇÃO ANEEL nega pedido da Enel São Paulo e mantém processo sobre recomendação de caducidade Com a decisão, permanece em curso a análise que poderá resultar na recomendação de extinção da concessão ao Ministério de Minas e Energia. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 11/08/2026 17h02 A diretoria da Agência Nacional de Energia Elétrica (ANEEL) negou nesta terça-feira (11/8) o pedido da Enel Distribuição São Paulo (Enel SP) para que a Agência suspendesse o processo de recomendação de caducidade (extinção) do contrato de concessão de distribuição de energia. O processo foi iniciado em abril , quando a diretoria da ANEEL avaliou que a Enel SP não "
     },
     {
       "titulo": "Entre os dias 3 e 7/8, a ANP realizou 223 ações de fiscalização com foco em preços abusivos",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -62,7 +62,7 @@
       "titulo": "ANP revoga autorização da Refinaria de Manguinhos – Refit",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -71,22 +71,10 @@
       "desc": "Notícias ANP revoga autorização da Refinaria de Manguinhos – Refit Decisão teve como base a suspensão do CNPJ da empresa pela Receita Federal. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 07/08/2026 17h31 A Diretoria da ANP decidiu hoje (7/8) pela revogação da autorização da Refinaria de Manguinhos – Refit, devido à empresa ter tido seu CNPJ suspenso pela Receita Federal. O CNPJ regular é um dos requisitos objetivos para obtenção e manutenção da autorização de funcionamento para refinarias emitida pela ANP. Assim, a suspensão do CNPJ torna a empresa sujeita à revogação da sua autorização, conforme art. 38, inciso III, alínea \"b\", da Resolução ANP nº 852/2021. A medida"
     },
     {
-      "titulo": "Oferta Permanente: 6º Ciclo de Concessão terá 22 setores e 4º Ciclo de Partilha ofertará 13 blocos",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "11/08/2026",
-      "impacto": "critico",
-      "tags": [
-        "critico"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/oferta-permanente-6o-ciclo-de-concessao-tera-22-setores-e-4o-ciclo-de-partilha-ofertara-13-blocos",
-      "desc": "Notícias Oferta Permanente: 6º Ciclo de Concessão terá 22 setores e 4º Ciclo de Partilha ofertará 13 blocos Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 06/08/2026 12h09 Atualizado em 10/08/2026 10h05 A Comissão Especial de Licitação (CEL) divulgou nesta quinta-feira (06/08), por meio de comunicados publicados no Diário Oficial da União (DOU), os setores e blocos que comporão o 6º Ciclo da Oferta Permanente de Concessão (OPC6) e o 4º Ciclo da Oferta Permanente de Partilha da Produção (OPP4). As sessões públicas dos dois certames estão previstas para 7 de outubro de 2026. Veja os comunicados no DOU: OPC6 e OPP4 . No 6º Ciclo da OPC, serão ofertados 22 setores de blocos"
-    },
-    {
       "titulo": "Informações",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -99,7 +87,7 @@
       "titulo": "Ouvidoria Arsepam",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -108,10 +96,38 @@
       "desc": "Ouvidoria Arsepam Ouvir Compartilhar Tweet O setor da Ouvidoria da Arsepam tem como objetivo zelar pela qualidade dos serviços regulados pela agência, acompanhando o processo interno de apuração de denúncias e reclamações dos interessados contra a atuação das concessionárias, visando promover a conciliação entre os operadores do serviço e usuários. Decretos RESOLUÇÃO Nº 06 – 19.06.2018 – Dispõe sobre o sistema de gerenciamento de demandas da Ouvidoria RESOLUÇÃO Nº 07 – 19.06.2018 – Dispõe sobre as tratativas das demandas registradas na Ouvidoria Ouvidora da Arsepam Amazonas Jéssica Carolina Medeiros de Oliveira Horário de Atendimento Para falar com a nossa Ouvidoria, entre em contato de segunda à sexta-feira, das 8h às 14h. Atendimento presencial Terminal Rodoviário Engenheiro Huascar Ange"
     },
     {
+      "titulo": "ANEEL homologa repasse preliminar de R$ 5,48 bilhões às distribuidoras, recurso utilizado para reduzir tarifas de energia no Norte e Nordeste",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "12/08/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto",
+        "energia",
+        "tarifa"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-homologa-repasse-preliminar-de-r-5-48-bilhoes-as-distribuidoras-recurso-utilizado-para-reduzir-tarifas-de-energia-no-norte-e-nordeste",
+      "desc": "Notícias Geração ANEEL homologa repasse preliminar de R$ 5,48 bilhões às distribuidoras, recurso utilizado para reduzir tarifas de energia no Norte e Nordeste A Agência também aprovou o Efeito Tarifário Preliminar de 6,53% para reduzir as tarifas de forma equilibrada. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 11/08/2026 16h58 A Diretoria da Agência Nacional de Energia Elétrica (ANEEL) homologou hoje (11), durante Reunião Pública Ordinária, o Efeito Tarifário Limite Equilibrado (ETLEP) de 6,53% e a distribuição preliminar de R$ 5,48 bilhões às distribuidoras, provenientes da repactuação do Uso de Bem Público (UBP)¹ de usinas hidrelétricas. O percentual de 6,53% cons"
+    },
+    {
+      "titulo": "Agência decide nova data para reajuste e revisão de tarifas da CEA  (Amapá)",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "12/08/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto",
+        "energia",
+        "tarifa"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/agencia-decide-nova-data-para-reajuste-e-revisao-de-tarifas-da-cea-amapa",
+      "desc": "Notícias TARIFAS Agência decide nova data para reajuste e revisão de tarifas da CEA  (Amapá) Ao invés de 13 de dezembro, agora será 25 de maio Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 11/08/2026 13h40 Atualizado em 11/08/2026 13h42 A Agência Nacional de Energia Elétrica (ANEEL) autorizou nesta terça-feira (11/8) a mudança de data contratual para que novas tarifas de energia elétricas da Companhia de Eletricidade do Amapá (CEA) comecem a vigorar devido a reajuste anual tarifário ou revisão tarifária periódica. A nova data passa a ser 25 de maio, ao invés da data tradicional prevista em contrato, que era 13 de dezembro. A alteração foi solicitada pelo Conselho de Co"
+    },
+    {
       "titulo": "ANEEL define quotas da RGR para geradoras e transmissoras no ciclo 2026/2027",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -125,7 +141,7 @@
       "titulo": "Gas release: ANP aprova relatório e abertura de consulta pública sobre programa para ampliar concorrência no mercado de gás natural",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -139,7 +155,7 @@
       "titulo": "ANP aprova resolução sobre especificação e controle da qualidade do biometano",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -151,7 +167,7 @@
       "titulo": "Consultas Públicas Encerradas",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -166,7 +182,7 @@
       "titulo": "Chamada Pública 001/2026",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -178,7 +194,7 @@
       "titulo": "Prazo prorrogado: Consulta Pública para aprimorar o Programa de Eficiência Energética recebe contribuições até 9 de setembro",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "medio",
       "tags": [
         "medio",
@@ -192,7 +208,7 @@
       "titulo": "Primeira Unidade Geradora da Usina Termelétrica Azulão I entra em operação comercial",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "medio",
       "tags": [
         "medio",
@@ -206,7 +222,7 @@
       "titulo": "Leilão nº 4/2026: Informações sobre o Data Room da Afluente Transmissão de Energia já estão disponíveis",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "medio",
       "tags": [
         "medio",
@@ -216,37 +232,10 @@
       "desc": "Notícias Leilão de Transmissão Leilão nº 4/2026: Informações sobre o Data Room da Afluente Transmissão de Energia já estão disponíveis O Leilão de Transmissão nº 4/2026-ANEEL tem 9 lotes e contratará concessões do serviço público de transmissão de energia elétrica em nove estados brasileiros. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 05/08/2026 16h21 Atualizado em 06/08/2026 09h48 A Comissão Permanente de Leilões – CPL da Agência Nacional de Energia Elétrica (ANEEL) informa que os documentos do Data Room relativos aos empreendimentos do Lote 1 do Leilão nº 4/2026 foram atualizados em 4/8/26 e estão disponíveis juntamente com os Relatórios R1 a R5 do lote. Os docume"
     },
     {
-      "titulo": "ANEEL abre Consulta Pública sobre a prestação de Contas relativa ao PROCEL",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "11/08/2026",
-      "impacto": "medio",
-      "tags": [
-        "medio",
-        "energia",
-        "consulta"
-      ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-abre-consulta-publica-sobre-a-prestacao-de-contas-relativa-ao-procel",
-      "desc": "Notícias EFICIÊNCIA ENERGÉTICA ANEEL abre Consulta Pública sobre a prestação de Contas relativa ao PROCEL Contribuições serão recebidas entre 6 de agosto a 4 de setembro Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 05/08/2026 16h18 A Agência Nacional de Energia Elétrica (ANEEL) autorizou, nesta terça-feira ( 4/8) a abertura de Consulta Pública ( CP26/2026) sobre a Prestação de Contas do Quinto Plano de Aplicação de Recursos do Programa Nacional de Conservação de Energia Elétrica ( PROCEL), intitulado 5º PAR PROCEL. O objetivo da Agência é dar transparência e colher subsídios sobre a prestação de contas. A legislação (Lei 13.280/2016) estabelece que 20% dos recursos de"
-    },
-    {
-      "titulo": "Consulta Pública para aprimorar o Prêmio ANEEL de Inovação 2026 recebe contribuições até 17 de agosto",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "11/08/2026",
-      "impacto": "medio",
-      "tags": [
-        "medio",
-        "consulta"
-      ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/consulta-publica-para-aprimorar-o-premio-aneel-de-inovacao-2026-recebe-contribuicoes-ate-17-de-agosto",
-      "desc": "Notícias PARTICIPAÇÃO SOCIAL Consulta Pública para aprimorar o Prêmio ANEEL de Inovação 2026 recebe contribuições até 17 de agosto O Prêmio ANEEL de Inovação reconhece anualmente empresas, pesquisadores e profissionais que se destacam no desenvolvimento de soluções inovadoras para o setor elétrico. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 03/08/2026 11h18 A ANEEL abriu a Consulta Pública n.º 021/2026 com o objetivo de receber contribuições para o aprimoramento do Edital do Prêmio ANEEL de Inovação 2026. A Consulta ficará aberta até 17 de agosto de 2026. O Prêmio ANEEL de Inovação reconhece anualmente empresas, pesquisadores e profissionais que se destacam no desen"
-    },
-    {
       "titulo": "Seminário da ANP apresenta resultados da atividade de exploração em 2025",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "medio",
       "tags": [
         "medio",
@@ -259,7 +248,7 @@
       "titulo": "Relatórios Institucionais Arsepam",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -271,7 +260,7 @@
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -283,7 +272,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -293,23 +282,35 @@
       "desc": "Edição do dia verificada. Nenhum ato relevante encontrado."
     },
     {
-      "titulo": "Presidentes dos Conselhos de Consumidores têm mandato prorrogado por mais dois anos",
+      "titulo": "ANEEL homologa resultado dos lotes de 7 a 10 do Leilão de Transmissão nº 1/2026",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
         "energia"
       ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/presidentes-dos-conselhos-de-consumidores-tem-mandato-prorrogado-por-mais-dois-anos",
-      "desc": "Notícias Participação Pública Presidentes dos Conselhos de Consumidores têm mandato prorrogado por mais dois anos A prorrogação refere-se apenas ao de Presidente dos Conselhos e é uma medida transitória. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 04/08/2026 18h42 A Diretoria da Agência Nacional de Energia Elétrica (ANEEL) decidiu hoje (4), em Circuito Deliberativo Ordinário, permitir a recondução dos atuais Presidentes dos Conselhos de Consumidores pelo período improrrogável de mais dois anos. A decisão atende o pedido feito pelo Conselho Nacional de Consumidores de Energia Elétrica (CONACEN), no sentido de viabilizar a continuidade dos mandatos atualmente vigentes,"
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-homologa-resultado-dos-lotes-de-7-a-10-do-leilao-de-transmissao-no-1-2026",
+      "desc": "Notícias TRANSMISSÃO ANEEL homologa resultado dos lotes de 7 a 10 do Leilão de Transmissão nº 1/2026 O Consórcio Olympus XX e a AXIA Energia Sul S.A. foram as proponentes vencedoras dos lotes de 7 a 10 da segunda etapa do certame Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 11/08/2026 12h41 Atualizado em 11/08/2026 13h37 Em reunião da diretoria colegiada, nesta terça-feira (11/8), a Agência Nacional de Energia Elétrica (ANEEL) aprovou a homologação do resultado e adjudicação da segunda etapa do Leilão de Transmissão nº 1/2026 , referente aos lotes de 7 a 10. O certame, realizado em 3 de julho de 2026, em São Paulo, na sede da B3, foi realizado para contratar concessõe"
+    },
+    {
+      "titulo": "Divulgados os selecionados para a Bolsa de Intercâmbio Internacional do PRH-ANP",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "12/08/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/divulgados-os-selecionados-para-a-bolsa-de-intercambio-internacional-do-prh-anp",
+      "desc": "Notícias Divulgados os selecionados para a Bolsa de Intercâmbio Internacional do PRH-ANP Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 11/08/2026 16h07 Atualizado em 11/08/2026 16h09 A ANP divulgou ontem (10/8), em seu site , os selecionados para participar da Bolsa de Intercâmbio Internacional (INT) do Programa de Formação de Recursos Humanos (PRH-ANP). Ao todo, serão 84 bolsistas. A bolsa possui duração de 4 a 12 meses, conforme a natureza e os objetivos do plano de trabalho proposto. Foram selecionados bolsistas do PRH-ANP nas modalidades de graduação, mestrado e doutorado, que participaram de processo seletivo público, conduzido pelo comitê conjunto ANP-FAPESP. Os "
     },
     {
       "titulo": "Fechamento antecipado do protocolo e do Escritório Central da ANP em 7/8",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -322,20 +323,20 @@
       "titulo": "Fórum da ANP na Rio Innovation Week teve mais de 20 painéis com discussões sobre o setor energético",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
         "energia"
       ],
       "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/forum-da-anp-na-rio-innovation-week-teve-mais-de-20-paineis-com-discussoes-sobre-o-setor-energetico",
-      "desc": "Notícias Fórum da ANP na Rio Innovation Week teve mais de 20 painéis com discussões sobre o setor energético Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 07/08/2026 12h07 A ANP participou esta semana da Rio Innovation Week (RIW), que teve início em 4/8 e termina hoje (7/8), no Rio de Janeiro. O evento vem abordando temas relacionados à tecnologia e inovação, inclusive no setor de energia. A 4ª edição do Fórum de Tecnologia, Inovação e Programas da ANP (TIP ANP) ocorreu de 4 a 6/8, com participação dos Diretores da ANP Symone Araújo e Fernando Moura, além de superintendentes e técnicos da Agência, bem como representantes de órgãos públicos, de instituições de ensino e "
+      "desc": "Notícias Fórum da ANP na Rio Innovation Week teve mais de 20 painéis com discussões sobre o setor energético Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 07/08/2026 12h07 Atualizado em 11/08/2026 10h51 A ANP participou esta semana da Rio Innovation Week (RIW), que teve início em 4/8 e termina hoje (7/8), no Rio de Janeiro. O evento vem abordando temas relacionados à tecnologia e inovação, inclusive no setor de energia. A 4ª edição do Fórum de Tecnologia, Inovação e Programas da ANP (TIP ANP) ocorreu de 4 a 6/8, com participação dos Diretores da ANP Symone Araújo e Fernando Moura, além de superintendentes e técnicos da Agência, bem como representantes de órgãos público"
     },
     {
       "titulo": "Consultar minhas solicitações",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -347,7 +348,7 @@
       "titulo": "Consultar Meu Imposto de Renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -359,7 +360,7 @@
       "titulo": "Consultar restituição de imposto de renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -371,7 +372,7 @@
       "titulo": "Consultar dados do Cadastro Único",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -383,7 +384,7 @@
       "titulo": "Creative Commons",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -395,7 +396,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -407,7 +408,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -419,7 +420,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -431,7 +432,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -443,7 +444,7 @@
       "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -458,7 +459,7 @@
       "titulo": "Conselho Estadual de Regulação e Controle dos Serviços Públicos – Cercon",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -470,7 +471,7 @@
       "titulo": "SEMIG Secretaria de Estado de Energia, Mineração e Gás",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -484,7 +485,7 @@
       "titulo": "E-mail Integra Amazonas",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -496,7 +497,7 @@
       "titulo": "semig@semig.am.gov.br",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -508,7 +509,7 @@
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -517,10 +518,22 @@
       "desc": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
+      "titulo": "Prefeitura de Manaus divulga escolas que conquistaram o top 3 no Ideb 2025 da rede municipal",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "12/08/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/destaque/prefeitura-escolas-top3-ideb-2025/",
+      "desc": "Destaque Estudantes da Prefeitura de Manaus representarão a Semed na etapa Nacional da ‘First Lego League Explore’ no Rio de Janeiro"
+    },
+    {
       "titulo": "Prefeito Renato Junior homenageia pais de Manaus e destaca acolhimento às famílias nos cemitérios",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -532,7 +545,7 @@
       "titulo": "Prefeito Renato Junior reúne comerciantes na CDL e anuncia medidas de desburocratização reforçando ações de revitalização do Centro de Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -544,31 +557,19 @@
       "titulo": "Prefeito Renato Junior assina Ordem de Serviço para criação da primeira ‘Rua Gastronômica de Manaus’ na Ferreira Pena para impulsionar reocupação do centro histórico",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
       "url": "https://www.manaus.am.gov.br/noticia/revitalizacao/ordem-servico-criacao-primeira-rua-gastronomica-de-manaus/",
-      "desc": "Revitalização Prefeitura de Manaus intensifica modernização da passagem inferior do complexo viário entre Constantino Nery e Theomário Pinto da Costa"
-    },
-    {
-      "titulo": "Prefeito Renato Junior anuncia que Manaus supera Rio de Janeiro e São Paulo ao registrar o melhor desempenho entre as três maiores redes municipais de ensino do Brasil",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "11/08/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/educacao/prefeito-renato-junior-melhor-desempenho-ensino/",
-      "desc": "Educação Recém-reconhecido como Patrimônio Mundial pela Unesco, Teatro Amazonas vira sala de aula para estudantes da rede pública de Manaus"
+      "desc": "Revitalização Prefeitura de Manaus inicia modernização do Complexo Viário Engenheiro Luiz Augusto Veiga Soares, na zona Leste"
     },
     {
       "titulo": "Prefeito Renato Junior aproxima gestão da população com quinta edição do ‘Manaus que a Gente Cuida’ no Colônia Terra Nova",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -580,7 +581,7 @@
       "titulo": "Prefeito Renato Junior instaura Gabinete de Crise e coloca Manaus em estado de alerta após vazamento de gás no Distrito Industrial",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -593,7 +594,7 @@
       "titulo": "Prefeitura de Manaus amplia linhas expressas e reduz tempo de viagem em até 50 minutos para usuários das zonas Norte e Leste",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -605,7 +606,7 @@
       "titulo": "Parque Encontro das Águas Rosa Almeida avança com novas frentes de obra e reforça ritmo de construção da Prefeitura de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -617,7 +618,7 @@
       "titulo": "Prefeitura intensifica operação ‘Centro Mais Seguro’ e reforça ordenamento urbano, assistência social e mobilidade na região central de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -629,7 +630,7 @@
       "titulo": "Prefeito Renato Junior recebe pesquisadores do Inpa e anuncia agenda conjunta para recuperação ambiental, mobilidade e turismo em Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "11/08/2026",
+      "data": "12/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
