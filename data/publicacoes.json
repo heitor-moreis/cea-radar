@@ -1,25 +1,23 @@
 {
-  "ultima_coleta": "14/08/2026 07:43",
+  "ultima_coleta": "17/08/2026 07:23",
   "mes_ano": "Ago/2026",
-  "total": 47,
+  "total": 43,
   "fontes": 18,
   "fontes_com_falha": [],
   "stats": {
-    "critico": 5,
-    "alto": 8,
-    "medio": 4,
+    "critico": 4,
+    "alto": 7,
+    "medio": 2,
     "baixo": 30,
-    "consultas_abertas": 4
+    "consultas_abertas": 3
   },
   "por_orgao": {
     "ANEEL": 8,
     "ANP": 8,
     "ANA": 5,
-    "ARSEPAM": 4,
     "Prefeitura Manaus": 4,
     "SEMIG": 3,
     "Implurb": 3,
-    "IMMU": 2,
     "AmE": 1,
     "SEFAZ-AM": 1,
     "DOU": 1,
@@ -29,14 +27,16 @@
     "Petrobras": 1,
     "TAG": 1,
     "Cigás": 1,
-    "Seinfra-AM": 1
+    "ARSEPAM": 1,
+    "Seinfra-AM": 1,
+    "IMMU": 1
   },
   "publicacoes": [
     {
       "titulo": "ANEEL nega pedido da Enel São Paulo e mantém processo sobre recomendação de caducidade",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "14/08/2026",
+      "data": "17/08/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -49,7 +49,7 @@
       "titulo": "Entre os dias 3 e 7/8, a ANP realizou 223 ações de fiscalização com foco em preços abusivos",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "14/08/2026",
+      "data": "17/08/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -62,7 +62,7 @@
       "titulo": "ANP revoga autorização da Refinaria de Manguinhos – Refit",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "14/08/2026",
+      "data": "17/08/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -74,7 +74,7 @@
       "titulo": "Informações",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "14/08/2026",
+      "data": "17/08/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -84,22 +84,10 @@
       "desc": "Informações Decretos de Situação de Emergência Alteração de Carga Cadastro de Equipamento Vital Cliente Alta Tensão Cliente Mercado Livre Compartilhamento de infraestruturas Contrato Contribuição de Iluminação Pública por Município Decretos de Situação de Emergência Desligamentos Programados Despesas Associadas a CCC Dicas de Consumo Consciente Dicas de Segurança Direitos e Deveres Furto de energia elétrica é crime Iluminação Pública Indicadores de Continuidade Ligação Nova Ligação Provisória Localizar App na Loja Micro/Minigeração Distribuída Normas Técnicas e Manuais Notícias Orçamento de Conexão / Projeto / Vistoria Padrão de Entrada Pesquisa de Curvas de Carga e Hábitos de Consumo Poda e Arborização Programa de Eficiência Energética Programa de Eletrificação Rural Programa de Pesquisa "
     },
     {
-      "titulo": "Ouvidoria Arsepam",
-      "orgao": "ARSEPAM",
-      "tema": "Regulação Estadual / AM",
-      "data": "14/08/2026",
-      "impacto": "critico",
-      "tags": [
-        "critico"
-      ],
-      "url": "https://www.arsepam.am.gov.br/ouvidoria-arsepam/",
-      "desc": "Ouvidoria Arsepam Ouvir Compartilhar Tweet O setor da Ouvidoria da Arsepam tem como objetivo zelar pela qualidade dos serviços regulados pela agência, acompanhando o processo interno de apuração de denúncias e reclamações dos interessados contra a atuação das concessionárias, visando promover a conciliação entre os operadores do serviço e usuários. Decretos RESOLUÇÃO Nº 06 – 19.06.2018 – Dispõe sobre o sistema de gerenciamento de demandas da Ouvidoria RESOLUÇÃO Nº 07 – 19.06.2018 – Dispõe sobre as tratativas das demandas registradas na Ouvidoria Ouvidora da Arsepam Amazonas Jéssica Carolina Medeiros de Oliveira Horário de Atendimento Para falar com a nossa Ouvidoria, entre em contato de segunda à sexta-feira, das 8h às 14h. Atendimento presencial Terminal Rodoviário Engenheiro Huascar Ange"
-    },
-    {
       "titulo": "ANEEL homologa repasse preliminar de R$ 5,48 bilhões às distribuidoras, recurso utilizado para reduzir tarifas de energia no Norte e Nordeste",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "14/08/2026",
+      "data": "17/08/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -113,7 +101,7 @@
       "titulo": "Agência decide nova data para reajuste e revisão de tarifas da CEA  (Amapá)",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "14/08/2026",
+      "data": "17/08/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -127,7 +115,7 @@
       "titulo": "ANEEL define quotas da RGR para geradoras e transmissoras no ciclo 2026/2027",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "14/08/2026",
+      "data": "17/08/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -141,7 +129,7 @@
       "titulo": "Descomissionamento: ANP realiza audiência pública sobre garantias financeiras",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "14/08/2026",
+      "data": "17/08/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -155,7 +143,7 @@
       "titulo": "Gas release: ANP aprova relatório e abertura de consulta pública sobre programa para ampliar concorrência no mercado de gás natural",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "14/08/2026",
+      "data": "17/08/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -169,7 +157,7 @@
       "titulo": "ANP aprova resolução sobre especificação e controle da qualidade do biometano",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "14/08/2026",
+      "data": "17/08/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -178,25 +166,10 @@
       "desc": "Notícias ANP aprova resolução sobre especificação e controle da qualidade do biometano O objetivo é o de consolidar e aprimorar a regulação, acompanhando a evolução do mercado de biometano Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 07/08/2026 10h06 Atualizado em 12/08/2026 09h29 A Diretoria da ANP aprovou hoje (7/8) resolução que unifica e aprimora as regras de especificação e controle da qualidade do biometano, substituindo as Resoluções ANP nº 886/2022 e nº 906/2022 . A nova resolução consolida, em um único ato normativo, as regras de especificação e controle da qualidade do biometano, independentemente da sua origem; incorpora aperfeiçoamentos identificados duran"
     },
     {
-      "titulo": "Consultas Públicas Encerradas",
-      "orgao": "ARSEPAM",
-      "tema": "Regulação Estadual / AM",
-      "data": "14/08/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto",
-        "gas",
-        "consulta",
-        "tarifa"
-      ],
-      "url": "https://www.arsepam.am.gov.br/consultas-publicas-encerradas/",
-      "desc": "Consultas Públicas Encerradas Ouvir Compartilhar Tweet Gás Natural Canalizado Consulta Pública nº 001/2023 – Recebimento de Contribuições para a Nota Técnica n o 001/2022 – DECT/DTEC/ARSEPAM Consulta Pública nº 002/2023 – Revisão da Resolução nº 003/2022 – CERCON/ARSEPAM Consulta Pública nº 003/2023 – Definição da Tarifa TUSD Consulta Pública nº 004/2023 – Definição da Tarifa TOM Consulta Pública 001/2024 – Minuta Padrão do Contrato de Prestação de Serviço de Movimentação de Gás. Consulta Pública 002/2024 – Minuta Padrão do Contrato de Operação e Manutenção Referente ao Serviço de Movimentação de Gás. Consulta Pública N° 003/2024 – Atividades de comercialização de gás no Estado do Amazonas CONSULTA PÚBLICA Nº 001/2025 – ARSEPAM – RECEBIMENTO DE CONTRIBUIÇÕES ACERCA DA NOTA TÉCNICA NO 001/2"
-    },
-    {
       "titulo": "Chamada Pública 001/2026",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "14/08/2026",
+      "data": "17/08/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -208,7 +181,7 @@
       "titulo": "Prazo prorrogado: Consulta Pública para aprimorar o Programa de Eficiência Energética recebe contribuições até 9 de setembro",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "14/08/2026",
+      "data": "17/08/2026",
       "impacto": "medio",
       "tags": [
         "medio",
@@ -222,7 +195,7 @@
       "titulo": "Primeira Unidade Geradora da Usina Termelétrica Azulão I entra em operação comercial",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "14/08/2026",
+      "data": "17/08/2026",
       "impacto": "medio",
       "tags": [
         "medio",
@@ -233,35 +206,10 @@
       "desc": "Notícias GERAÇÃO Primeira Unidade Geradora da Usina Termelétrica Azulão I entra em operação comercial O empreendimento utiliza gás natural produzido no Campo de Azulão, localizado no estado do Amazonas. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 05/08/2026 17h19 A Unidade Geradora 1 (UG1) da Usina Termelétrica Azulão (UTE) I entrou em operação comercial a partir desta segunda-feira (4). A operação foi autorizada por meio do Despacho ANEEL nº 2.899, de 3/8/26. A usina, de titularidade da Azulão I Geração de Energia, está localizada no município de Silves, no Estado do Amazonas, e tem capacidade instalada de 361 MW. O empreendimento utiliza gás natural produzido no Ca"
     },
     {
-      "titulo": "Leilão nº 4/2026: Informações sobre o Data Room da Afluente Transmissão de Energia já estão disponíveis",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "14/08/2026",
-      "impacto": "medio",
-      "tags": [
-        "medio",
-        "energia"
-      ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/leilao-no-4-2026-informacoes-sobre-o-data-room-da-afluente-transmissao-de-energia-ja-estao-disponiveis",
-      "desc": "Notícias Leilão de Transmissão Leilão nº 4/2026: Informações sobre o Data Room da Afluente Transmissão de Energia já estão disponíveis O Leilão de Transmissão nº 4/2026-ANEEL tem 9 lotes e contratará concessões do serviço público de transmissão de energia elétrica em nove estados brasileiros. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 05/08/2026 16h21 Atualizado em 06/08/2026 09h48 A Comissão Permanente de Leilões – CPL da Agência Nacional de Energia Elétrica (ANEEL) informa que os documentos do Data Room relativos aos empreendimentos do Lote 1 do Leilão nº 4/2026 foram atualizados em 4/8/26 e estão disponíveis juntamente com os Relatórios R1 a R5 do lote. Os docume"
-    },
-    {
-      "titulo": "Relatórios Institucionais Arsepam",
-      "orgao": "ARSEPAM",
-      "tema": "Regulação Estadual / AM",
-      "data": "14/08/2026",
-      "impacto": "medio",
-      "tags": [
-        "medio"
-      ],
-      "url": "https://www.arsepam.am.gov.br/relatorios-institucionais-arsepam/",
-      "desc": "Relatórios Institucionais Arsepam Ouvir Compartilhar Tweet Relatórios de Atividades Anuais Relatório de Gestão ARSEPAM 2025 Relatório de Atividade ARSEPAM 2025 Relatório de Gestão ARSEPAM 2024 Relatório de Atividade ARSEPAM 2024 Relatório de Atividade ARSEPAM 2023 Relatório de Atividades ARSEPAM 2021 e 2022 Relatorio Anual de Atividades ARSEPAM 2020 Relatório Anual de Atividades ARSAM 2017 Relatório Anual de Atividades ARSAM 2016 Relatório Anual de Atividades ARSAM 2015 Relatório Anual de Atividades ARSAM 2014 Relatório Anual de Atividades ARSAM 2013 Relatório Anual de Atividades ARSAM 2009 Relatório Anual de Atividades ARSAM 2008 Relatório Anual de Atividades ARSAM 2007 Relatório Anual de Atividades ARSAM 2006 Relatório Anual de Atividades ARSAM 2004 Relatório Anual de Atividades ARSAM 20"
-    },
-    {
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "14/08/2026",
+      "data": "17/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -273,7 +221,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "14/08/2026",
+      "data": "17/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -283,10 +231,22 @@
       "desc": "Edição do dia verificada. Nenhum ato relevante encontrado."
     },
     {
+      "titulo": "ANEEL informa prorrogação de prazos devido à indisponibilidade do Sistema de Protocolo Digital - SPD",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "17/08/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-informa-prorrogacao-de-prazos-devido-a-indisponibilidade-do-sistema-de-protocolo-digital-spd",
+      "desc": "Notícias INSTITUCIONAL ANEEL informa prorrogação de prazos devido à indisponibilidade do Sistema de Protocolo Digital - SPD Os prazos com vencimento originalmente previstos para ontem (13/8) ficam prorrogados automaticamente até as 23h59 de hoje, 14 de agosto de 2026. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 14/08/2026 14h59 Atualizado em 14/08/2026 15h01 A ANEEL informa que o Sistema de Protocolo Digital (SPD) apresentou indisponibilidade entre as 13h e 15h desta quinta-feira (13/8). De acordo com a Norma de Organização nº 56, de 9 de dezembro de 2024: Art. 46. § 2º Na hipótese prevista no § 1º, caso o SEI apresente indisponibilidade por motivo técnico conforme e"
+    },
+    {
       "titulo": "ANEEL homologa resultado dos lotes de 7 a 10 do Leilão de Transmissão nº 1/2026",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "14/08/2026",
+      "data": "17/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -299,7 +259,7 @@
       "titulo": "Divulgados os selecionados para a Bolsa de Intercâmbio Internacional do PRH-ANP",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "14/08/2026",
+      "data": "17/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -311,7 +271,7 @@
       "titulo": "Fechamento antecipado do protocolo e do Escritório Central da ANP em 7/8",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "14/08/2026",
+      "data": "17/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -324,7 +284,7 @@
       "titulo": "Fórum da ANP na Rio Innovation Week teve mais de 20 painéis com discussões sobre o setor energético",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "14/08/2026",
+      "data": "17/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -337,7 +297,7 @@
       "titulo": "Consultar minhas solicitações",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "14/08/2026",
+      "data": "17/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -349,7 +309,7 @@
       "titulo": "Consultar Meu Imposto de Renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "14/08/2026",
+      "data": "17/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -361,7 +321,7 @@
       "titulo": "Consultar restituição de imposto de renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "14/08/2026",
+      "data": "17/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -373,7 +333,7 @@
       "titulo": "Consultar dados do Cadastro Único",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "14/08/2026",
+      "data": "17/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -385,7 +345,7 @@
       "titulo": "Creative Commons",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "14/08/2026",
+      "data": "17/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -397,7 +357,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "14/08/2026",
+      "data": "17/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -409,7 +369,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "14/08/2026",
+      "data": "17/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -421,7 +381,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "14/08/2026",
+      "data": "17/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -433,7 +393,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "14/08/2026",
+      "data": "17/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -445,7 +405,7 @@
       "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "14/08/2026",
+      "data": "17/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -457,22 +417,22 @@
       "desc": "É a produção simultânea e de maneira sequenciada de duas ou mais formas de energia a partir de um único combustível. O processo mais comum é a produção de eletricidade e energia térmica (calor ou frio) a partir do uso de gás natural e/ou de biomassa, entre outros."
     },
     {
-      "titulo": "Conselho Estadual de Regulação e Controle dos Serviços Públicos – Cercon",
+      "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "14/08/2026",
+      "data": "17/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.arsepam.am.gov.br/cercon/",
-      "desc": "Conselho Estadual de Regulação e Controle dos Serviços Públicos – Cercon Ouvir Compartilhar Tweet O Conselho Estadual de Regulação e Controle dos Serviços Públicos – Cercon , constitui um órgão colegiado, de caráter deliberativo e recursivo. As decisões adotadas nas reuniões mensais desse conselho são deliberadas por oito conselheiros, representantes de diversos segmentos da sociedade, designados para o mandato de 2 anos. O Cercon é formado por usuários dos serviços regulados, pelo diretor presidente da Arsepam, como representante nato do Estado, pelos operadores da prestação de serviços, pelo Instituto de Defesa do Consumidor – Procon, pelo Instituto de Pesos e Medidas – Ipem e ainda, representantes dos municípios mais populosos do Amazonas, cuja regulação e controle tenham sido delegados"
+      "url": "https://www.arsepam.am.gov.br/category/noticias/",
+      "desc": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
       "titulo": "SEMIG Secretaria de Estado de Energia, Mineração e Gás",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "14/08/2026",
+      "data": "17/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -486,7 +446,7 @@
       "titulo": "E-mail Integra Amazonas",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "14/08/2026",
+      "data": "17/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -498,7 +458,7 @@
       "titulo": "semig@semig.am.gov.br",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "14/08/2026",
+      "data": "17/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -510,7 +470,7 @@
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "14/08/2026",
+      "data": "17/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -519,58 +479,58 @@
       "desc": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
-      "titulo": "Prefeitura realiza 7ª edição do programa ‘Manaus que a Gente Cuida’ no Parque Solimões com anúncio de requalificação de lagoa da comunidade",
+      "titulo": "Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "14/08/2026",
+      "data": "17/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/manaus/servicos-acoes-parque/",
+      "url": "https://www.manaus.am.gov.br/noticia/mobilidade/conclui-instalacao-vigas/",
+      "desc": "Mobilidade Prefeitura de Manaus avança com o içamento das vigas estruturais do Complexo Viário Passarão, na zona Oeste"
+    },
+    {
+      "titulo": "Prefeito Renato Junior anuncia secretaria de desburocratização industrial e defende união entre prefeitura, Suframa e governos pelo Polo Industrial de Manaus",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "17/08/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/manaus/anuncia-secretaria-industrial/",
+      "desc": "Página Inicial Notícias Manaus Prefeito Renato Junior anuncia secretaria de desburocratização industrial e defende união entre prefeitura, Suframa e governos pelo Polo Industrial de Manaus Prefeito Renato Junior anuncia secretaria de desburocratização industrial e defende união entre prefeitura, Suframa e governos pelo Polo Industrial de Manaus Por Prefeitura de Manaus 14/08/2026 19h15 Seu navegador não suporta o elemento de áudio. #paratodos verem – Prefeito Renato Junior posa com os participantes da reunião do CAS O prefeito de Manaus, Renato Junior, assumiu o papel de protagonista na reunião do Conselho de Administração da Suframa (CAS), realizada nesta sexta-feira, 14/8, ao anunciar que encaminhará à Câmara Municipal de Manaus (CMM), no próximo mês, a criação da primeira Secretaria Mun"
+    },
+    {
+      "titulo": "Prefeitura realiza 7ª edição do programa ‘Manaus que a Gente Cuida’ no Parque Solimões com anúncio de requalificação de lagoa da comunidade",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "17/08/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/manaus/servicos-acoes-manaus-que-a-gente-cuida/",
       "desc": "Página Inicial Notícias Manaus Prefeitura realiza 7ª edição do programa ‘Manaus que a Gente Cuida’ no Parque Solimões com anúncio de requalificação de lagoa da comunidade Prefeitura realiza 7ª edição do programa ‘Manaus que a Gente Cuida’ no Parque Solimões com anúncio de requalificação de lagoa da comunidade Por Prefeitura de Manaus 13/08/2026 20h04 Seu navegador não suporta o elemento de áudio. #paratodos verem – equipe de gestores das sercretarias da prefeitura na abertura da sétima edição do Manaus que a Gente Cuida A Prefeitura de Manaus realizou, nesta quinta-feira, 13/8, a sétima edição do programa “Manaus que a Gente Cuida”, no Parque Solimões, bairro Tarumã, zona Oeste. Até o próximo sábado, 15/8, a força-tarefa integrada reúne serviços de saúde, assistência social, cidadania, emp"
     },
     {
       "titulo": "Prefeitura de Manaus inicia içamento de 24 vigas e avança na construção do Complexo Viário Passarão",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "14/08/2026",
+      "data": "17/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
       "url": "https://www.manaus.am.gov.br/noticia/mobilidade/icamento-vigas-passarao/",
-      "desc": "Mobilidade Prefeito Renato Junior anuncia etapa decisiva do complexo viário ‘Passarão’ e destaca benefícios da obra no trânsito da zona Oeste"
-    },
-    {
-      "titulo": "Prefeito Renato Junior destaca construção de Justiça próxima ao povo durante abertura do XXI Consepre no Teatro Amazonas",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "14/08/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/prefeito/prefeito-destaca-justica/",
-      "desc": "Prefeito Prefeito Renato Junior vistoria avanço de obra de recuperação da estrutura do Mercado Adolpho Lisboa"
-    },
-    {
-      "titulo": "Prefeitura de Manaus divulga escolas que conquistaram o top 3 no Ideb 2025 da rede municipal",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "14/08/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/destaque/prefeitura-escolas-top3-ideb-2025/",
-      "desc": "Destaque Estudantes da Prefeitura de Manaus representarão a Semed na etapa Nacional da ‘First Lego League Explore’ no Rio de Janeiro"
+      "desc": "Mobilidade Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto"
     },
     {
       "titulo": "Prefeito Renato Junior aproxima gestão da população com quinta edição do ‘Manaus que a Gente Cuida’ no Colônia Terra Nova",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "14/08/2026",
+      "data": "17/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -579,23 +539,10 @@
       "desc": "Cidadania Prefeitura de Manaus promove ação lúdica de educação de trânsito no parque Cidade da Criança"
     },
     {
-      "titulo": "Prefeito Renato Junior instaura Gabinete de Crise e coloca Manaus em estado de alerta após vazamento de gás no Distrito Industrial",
-      "orgao": "IMMU",
-      "tema": "Mobilidade Urbana",
-      "data": "14/08/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo",
-        "gas"
-      ],
-      "url": "https://www.manaus.am.gov.br/immu/alerta/prefeito-renato-junior-manaus-em-estado-de-alerta-apos-vazamento-de-gas/",
-      "desc": "Alerta Prefeitura de Manaus alerta para vandalismo em botoeiras de semáforo e prejuízos à mobilidade urbana"
-    },
-    {
       "titulo": "Parque Encontro das Águas Rosa Almeida avança com novas frentes de obra e reforça ritmo de construção da Prefeitura de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "14/08/2026",
+      "data": "17/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -608,7 +555,7 @@
       "titulo": "Prefeitura intensifica operação ‘Centro Mais Seguro’ e reforça ordenamento urbano, assistência social e mobilidade na região central de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "14/08/2026",
+      "data": "17/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -620,7 +567,7 @@
       "titulo": "Prefeito Renato Junior recebe pesquisadores do Inpa e anuncia agenda conjunta para recuperação ambiental, mobilidade e turismo em Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "14/08/2026",
+      "data": "17/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
