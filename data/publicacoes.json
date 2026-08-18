@@ -1,14 +1,14 @@
 {
-  "ultima_coleta": "17/08/2026 07:23",
+  "ultima_coleta": "18/08/2026 07:24",
   "mes_ano": "Ago/2026",
-  "total": 43,
+  "total": 42,
   "fontes": 18,
   "fontes_com_falha": [],
   "stats": {
     "critico": 4,
     "alto": 7,
     "medio": 2,
-    "baixo": 30,
+    "baixo": 29,
     "consultas_abertas": 3
   },
   "por_orgao": {
@@ -28,15 +28,14 @@
     "TAG": 1,
     "Cigás": 1,
     "ARSEPAM": 1,
-    "Seinfra-AM": 1,
-    "IMMU": 1
+    "Seinfra-AM": 1
   },
   "publicacoes": [
     {
       "titulo": "ANEEL nega pedido da Enel São Paulo e mantém processo sobre recomendação de caducidade",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "17/08/2026",
+      "data": "18/08/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -49,7 +48,7 @@
       "titulo": "Entre os dias 3 e 7/8, a ANP realizou 223 ações de fiscalização com foco em preços abusivos",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "17/08/2026",
+      "data": "18/08/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -62,7 +61,7 @@
       "titulo": "ANP revoga autorização da Refinaria de Manguinhos – Refit",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "17/08/2026",
+      "data": "18/08/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -74,7 +73,7 @@
       "titulo": "Informações",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "17/08/2026",
+      "data": "18/08/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -87,7 +86,7 @@
       "titulo": "ANEEL homologa repasse preliminar de R$ 5,48 bilhões às distribuidoras, recurso utilizado para reduzir tarifas de energia no Norte e Nordeste",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "17/08/2026",
+      "data": "18/08/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -101,7 +100,7 @@
       "titulo": "Agência decide nova data para reajuste e revisão de tarifas da CEA  (Amapá)",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "17/08/2026",
+      "data": "18/08/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -115,7 +114,7 @@
       "titulo": "ANEEL define quotas da RGR para geradoras e transmissoras no ciclo 2026/2027",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "17/08/2026",
+      "data": "18/08/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -126,10 +125,22 @@
       "desc": "Notícias TARIFAS ANEEL define quotas da RGR para geradoras e transmissoras no ciclo 2026/2027 Valores somam cerca de R$ 470 milhões para 108 concessionárias e contemplam ajustes referentes ao exercício de 2025 e anos anteriores. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 06/08/2026 09h24 A Agência Nacional de Energia Elétrica (ANEEL) publicou hoje (6/8), por meio do Despacho nº 2.922/2026 , os valores das quotas da Reserva Global de Reversão (RGR) para 108 concessionárias de geração e transmissão. A RGR é um encargo do setor elétrico pago mensalmente pelos geradores e transmissores. As quotas serão recolhidas mensalmente por meio de boletos emitidos pela Câmara de C"
     },
     {
+      "titulo": "RenovaBio: ANP abre participação social para as novas versões da RenovaCalc",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "18/08/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/renovabio-anp-abre-participacao-social-para-as-novas-versoes-da-renovacalc",
+      "desc": "Notícias RenovaBio: ANP abre participação social para as novas versões da RenovaCalc Ferramenta realiza o cálculo da intensidade de carbono dos biocombustíveis Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 17/08/2026 11h10 A ANP disponibilizou hoje, para participação social, até 16/9/2026, as novas versões da RenovaCalc, ferramenta de cálculo da intensidade de carbono dos biocombustíveis e da documentação técnica associada. As versões foram elaboradas por integrantes do Grupo Técnico RenovaBio em decorrência da publicação da Resolução ANP nº 984/2025 e da revisão das premissas metodológicas utilizadas no cálculo da Nota de Eficiência Energético-Ambiental (NEEA). As atu"
+    },
+    {
       "titulo": "Descomissionamento: ANP realiza audiência pública sobre garantias financeiras",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "17/08/2026",
+      "data": "18/08/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -143,7 +154,7 @@
       "titulo": "Gas release: ANP aprova relatório e abertura de consulta pública sobre programa para ampliar concorrência no mercado de gás natural",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "17/08/2026",
+      "data": "18/08/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -154,22 +165,10 @@
       "desc": "Notícias Gas release: ANP aprova relatório e abertura de consulta pública sobre programa para ampliar concorrência no mercado de gás natural Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 07/08/2026 11h38 Atualizado em 13/08/2026 13h16 A Diretoria da ANP aprovou hoje (7/8) o Relatório de Análise de Impacto Regulatório (AIR) e a abertura de consulta pública, pelo prazo de 45 dias, e posterior realização de audiência pública sobre a minuta de resolução que institui o Programa de Redução da Concentração no Mercado de Gás Natural (Programa de Gas Release). A AIR teve como objetivo avaliar alternativas regulatórias para ampliar a concorrência no mercado brasileiro de gás nat"
     },
     {
-      "titulo": "ANP aprova resolução sobre especificação e controle da qualidade do biometano",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "17/08/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-aprova-resolucao-sobre-especificacao-e-controle-da-qualidade-do-biometano",
-      "desc": "Notícias ANP aprova resolução sobre especificação e controle da qualidade do biometano O objetivo é o de consolidar e aprimorar a regulação, acompanhando a evolução do mercado de biometano Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 07/08/2026 10h06 Atualizado em 12/08/2026 09h29 A Diretoria da ANP aprovou hoje (7/8) resolução que unifica e aprimora as regras de especificação e controle da qualidade do biometano, substituindo as Resoluções ANP nº 886/2022 e nº 906/2022 . A nova resolução consolida, em um único ato normativo, as regras de especificação e controle da qualidade do biometano, independentemente da sua origem; incorpora aperfeiçoamentos identificados duran"
-    },
-    {
       "titulo": "Chamada Pública 001/2026",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "17/08/2026",
+      "data": "18/08/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -181,7 +180,7 @@
       "titulo": "Prazo prorrogado: Consulta Pública para aprimorar o Programa de Eficiência Energética recebe contribuições até 9 de setembro",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "17/08/2026",
+      "data": "18/08/2026",
       "impacto": "medio",
       "tags": [
         "medio",
@@ -195,7 +194,7 @@
       "titulo": "Primeira Unidade Geradora da Usina Termelétrica Azulão I entra em operação comercial",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "17/08/2026",
+      "data": "18/08/2026",
       "impacto": "medio",
       "tags": [
         "medio",
@@ -209,7 +208,7 @@
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "17/08/2026",
+      "data": "18/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -221,7 +220,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "17/08/2026",
+      "data": "18/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -234,7 +233,7 @@
       "titulo": "ANEEL informa prorrogação de prazos devido à indisponibilidade do Sistema de Protocolo Digital - SPD",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "17/08/2026",
+      "data": "18/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -246,7 +245,7 @@
       "titulo": "ANEEL homologa resultado dos lotes de 7 a 10 do Leilão de Transmissão nº 1/2026",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "17/08/2026",
+      "data": "18/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -259,7 +258,7 @@
       "titulo": "Divulgados os selecionados para a Bolsa de Intercâmbio Internacional do PRH-ANP",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "17/08/2026",
+      "data": "18/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -271,7 +270,7 @@
       "titulo": "Fechamento antecipado do protocolo e do Escritório Central da ANP em 7/8",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "17/08/2026",
+      "data": "18/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -284,7 +283,7 @@
       "titulo": "Fórum da ANP na Rio Innovation Week teve mais de 20 painéis com discussões sobre o setor energético",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "17/08/2026",
+      "data": "18/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -297,7 +296,7 @@
       "titulo": "Consultar minhas solicitações",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "17/08/2026",
+      "data": "18/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -309,7 +308,7 @@
       "titulo": "Consultar Meu Imposto de Renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "17/08/2026",
+      "data": "18/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -321,7 +320,7 @@
       "titulo": "Consultar restituição de imposto de renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "17/08/2026",
+      "data": "18/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -333,7 +332,7 @@
       "titulo": "Consultar dados do Cadastro Único",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "17/08/2026",
+      "data": "18/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -345,7 +344,7 @@
       "titulo": "Creative Commons",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "17/08/2026",
+      "data": "18/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -357,7 +356,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "17/08/2026",
+      "data": "18/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -369,7 +368,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "17/08/2026",
+      "data": "18/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -381,7 +380,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "17/08/2026",
+      "data": "18/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -393,7 +392,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "17/08/2026",
+      "data": "18/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -405,7 +404,7 @@
       "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "17/08/2026",
+      "data": "18/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -420,7 +419,7 @@
       "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "17/08/2026",
+      "data": "18/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -432,7 +431,7 @@
       "titulo": "SEMIG Secretaria de Estado de Energia, Mineração e Gás",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "17/08/2026",
+      "data": "18/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -446,7 +445,7 @@
       "titulo": "E-mail Integra Amazonas",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "17/08/2026",
+      "data": "18/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -458,7 +457,7 @@
       "titulo": "semig@semig.am.gov.br",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "17/08/2026",
+      "data": "18/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -470,7 +469,7 @@
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "17/08/2026",
+      "data": "18/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -479,34 +478,46 @@
       "desc": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
+      "titulo": "Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "18/08/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/transito/apresenta-tecnologia-transito/",
+      "desc": "Página Inicial Notícias Trânsito Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus Por Prefeitura de Manaus 17/08/2026 21h58 Seu navegador não suporta o elemento de áudio. #paratodosverem – prefeito Renato Junior fala sobre o painel Manaus passa a contar com uma nova ferramenta para orientar motoristas em tempo real. O primeiro Painel de Mensagem Variável (PMV) da capital foi apresentado nesta segunda-feira, 17/8, pelo prefeito Renato Junior, na avenida Mário Ypiranga Monteiro, na subida do viaduto Miguel Arraes, zona Centro-Sul. Serão exibidas informações sobre acidentes, interdições, obras, congestionamentos "
+    },
+    {
       "titulo": "Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "17/08/2026",
+      "data": "18/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
       "url": "https://www.manaus.am.gov.br/noticia/mobilidade/conclui-instalacao-vigas/",
-      "desc": "Mobilidade Prefeitura de Manaus avança com o içamento das vigas estruturais do Complexo Viário Passarão, na zona Oeste"
+      "desc": "Mobilidade Prefeito Renato Junior fiscaliza nova fase das obras no complexo viário ‘Passarão’ e anuncia mudanças no trânsito na zona Oeste"
     },
     {
       "titulo": "Prefeito Renato Junior anuncia secretaria de desburocratização industrial e defende união entre prefeitura, Suframa e governos pelo Polo Industrial de Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "17/08/2026",
+      "data": "18/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/manaus/anuncia-secretaria-industrial/",
-      "desc": "Página Inicial Notícias Manaus Prefeito Renato Junior anuncia secretaria de desburocratização industrial e defende união entre prefeitura, Suframa e governos pelo Polo Industrial de Manaus Prefeito Renato Junior anuncia secretaria de desburocratização industrial e defende união entre prefeitura, Suframa e governos pelo Polo Industrial de Manaus Por Prefeitura de Manaus 14/08/2026 19h15 Seu navegador não suporta o elemento de áudio. #paratodos verem – Prefeito Renato Junior posa com os participantes da reunião do CAS O prefeito de Manaus, Renato Junior, assumiu o papel de protagonista na reunião do Conselho de Administração da Suframa (CAS), realizada nesta sexta-feira, 14/8, ao anunciar que encaminhará à Câmara Municipal de Manaus (CMM), no próximo mês, a criação da primeira Secretaria Mun"
+      "url": "https://www.manaus.am.gov.br/noticia/manaus/prefeito-renato-junior-secretaria-industrial/",
+      "desc": "Página Inicial Notícias Manaus Prefeito Renato Junior anuncia secretaria de desburocratização industrial e defende união entre prefeitura, Suframa e governos pelo Polo Industrial de Manaus Prefeito Renato Junior anuncia secretaria de desburocratização industrial e defende união entre prefeitura, Suframa e governos pelo Polo Industrial de Manaus Por Prefeitura de Manaus 14/08/2026 19h15 Seu navegador não suporta o elemento de áudio. #paratodos verem – Prefeito Renato Junior posa com os participantes da reunião do CAS O prefeito de Manaus , Renato Junior, assumiu o papel de protagonista na reunião do Conselho de Administração da Suframa (CAS), realizada nesta sexta-feira, 14/8, ao anunciar que encaminhará à Câmara Municipal de Manaus (CMM), no próximo mês, a criação da primeira Secretaria Mu"
     },
     {
       "titulo": "Prefeitura realiza 7ª edição do programa ‘Manaus que a Gente Cuida’ no Parque Solimões com anúncio de requalificação de lagoa da comunidade",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "17/08/2026",
+      "data": "18/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -515,34 +526,10 @@
       "desc": "Página Inicial Notícias Manaus Prefeitura realiza 7ª edição do programa ‘Manaus que a Gente Cuida’ no Parque Solimões com anúncio de requalificação de lagoa da comunidade Prefeitura realiza 7ª edição do programa ‘Manaus que a Gente Cuida’ no Parque Solimões com anúncio de requalificação de lagoa da comunidade Por Prefeitura de Manaus 13/08/2026 20h04 Seu navegador não suporta o elemento de áudio. #paratodos verem – equipe de gestores das sercretarias da prefeitura na abertura da sétima edição do Manaus que a Gente Cuida A Prefeitura de Manaus realizou, nesta quinta-feira, 13/8, a sétima edição do programa “Manaus que a Gente Cuida”, no Parque Solimões, bairro Tarumã, zona Oeste. Até o próximo sábado, 15/8, a força-tarefa integrada reúne serviços de saúde, assistência social, cidadania, emp"
     },
     {
-      "titulo": "Prefeitura de Manaus inicia içamento de 24 vigas e avança na construção do Complexo Viário Passarão",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "17/08/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/mobilidade/icamento-vigas-passarao/",
-      "desc": "Mobilidade Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto"
-    },
-    {
-      "titulo": "Prefeito Renato Junior aproxima gestão da população com quinta edição do ‘Manaus que a Gente Cuida’ no Colônia Terra Nova",
-      "orgao": "IMMU",
-      "tema": "Mobilidade Urbana",
-      "data": "17/08/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/immu/cidadania/prefeito-renato-junior-quinta-edicao-do-manaus-que-a-gente-cuida-no-colonia-terra-nova/",
-      "desc": "Cidadania Prefeitura de Manaus promove ação lúdica de educação de trânsito no parque Cidade da Criança"
-    },
-    {
       "titulo": "Parque Encontro das Águas Rosa Almeida avança com novas frentes de obra e reforça ritmo de construção da Prefeitura de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "17/08/2026",
+      "data": "18/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -555,7 +542,7 @@
       "titulo": "Prefeitura intensifica operação ‘Centro Mais Seguro’ e reforça ordenamento urbano, assistência social e mobilidade na região central de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "17/08/2026",
+      "data": "18/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -567,7 +554,7 @@
       "titulo": "Prefeito Renato Junior recebe pesquisadores do Inpa e anuncia agenda conjunta para recuperação ambiental, mobilidade e turismo em Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "17/08/2026",
+      "data": "18/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
