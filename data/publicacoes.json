@@ -1,13 +1,13 @@
 {
-  "ultima_coleta": "18/08/2026 07:24",
+  "ultima_coleta": "19/08/2026 07:23",
   "mes_ano": "Ago/2026",
   "total": 42,
   "fontes": 18,
   "fontes_com_falha": [],
   "stats": {
     "critico": 4,
-    "alto": 7,
-    "medio": 2,
+    "alto": 9,
+    "medio": 0,
     "baixo": 29,
     "consultas_abertas": 3
   },
@@ -17,7 +17,7 @@
     "ANA": 5,
     "Prefeitura Manaus": 4,
     "SEMIG": 3,
-    "Implurb": 3,
+    "Implurb": 2,
     "AmE": 1,
     "SEFAZ-AM": 1,
     "DOU": 1,
@@ -28,14 +28,15 @@
     "TAG": 1,
     "Cigás": 1,
     "ARSEPAM": 1,
-    "Seinfra-AM": 1
+    "Seinfra-AM": 1,
+    "IMMU": 1
   },
   "publicacoes": [
     {
       "titulo": "ANEEL nega pedido da Enel São Paulo e mantém processo sobre recomendação de caducidade",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "18/08/2026",
+      "data": "19/08/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -48,7 +49,7 @@
       "titulo": "Entre os dias 3 e 7/8, a ANP realizou 223 ações de fiscalização com foco em preços abusivos",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "18/08/2026",
+      "data": "19/08/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -61,7 +62,7 @@
       "titulo": "ANP revoga autorização da Refinaria de Manguinhos – Refit",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "18/08/2026",
+      "data": "19/08/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -73,7 +74,7 @@
       "titulo": "Informações",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "18/08/2026",
+      "data": "19/08/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -83,10 +84,39 @@
       "desc": "Informações Decretos de Situação de Emergência Alteração de Carga Cadastro de Equipamento Vital Cliente Alta Tensão Cliente Mercado Livre Compartilhamento de infraestruturas Contrato Contribuição de Iluminação Pública por Município Decretos de Situação de Emergência Desligamentos Programados Despesas Associadas a CCC Dicas de Consumo Consciente Dicas de Segurança Direitos e Deveres Furto de energia elétrica é crime Iluminação Pública Indicadores de Continuidade Ligação Nova Ligação Provisória Localizar App na Loja Micro/Minigeração Distribuída Normas Técnicas e Manuais Notícias Orçamento de Conexão / Projeto / Vistoria Padrão de Entrada Pesquisa de Curvas de Carga e Hábitos de Consumo Poda e Arborização Programa de Eficiência Energética Programa de Eletrificação Rural Programa de Pesquisa "
     },
     {
+      "titulo": "Aprovadas novas tarifas para consumidores atendidos pela Celesc-DIS",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "19/08/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto",
+        "energia",
+        "tarifa"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aprovadas-novas-tarifas-para-consumidores-atendidos-pela-celesc-dis",
+      "desc": "Notícias TARIFAS Aprovadas novas tarifas para consumidores atendidos pela Celesc-DIS Novos índices entram em vigor a partir de 22 de agosto Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 18/08/2026 18h59 A revisão tarifária periódica da Celesc Distribuição S.A. foi aprovada, nesta terça-feira (18/8), pela diretoria colegiada da Agência Nacional de Energia Elétrica (ANEEL). Com sede na cidade de Florianópolis (SC), a distribuidora atende cerca de 3,6 milhões de unidades consumidoras. Confira abaixo os índices aprovados que entram em vigor no dia 22 de agosto de 2026: Empresa Consumidores residenciais B1 Celesc-DIS 9,29% Baixa tensão em média Alta tensão em média Efeito m"
+    },
+    {
+      "titulo": "Audiência Pública debaterá proposta de revisão das tarifas da Neoenergia Distribuição Brasília S.A",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "19/08/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto",
+        "energia",
+        "consulta",
+        "tarifa"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/audiencia-publica-debatera-proposta-de-revisao-das-tarifas-da-neoenergia-distribuicao-brasilia-s.a",
+      "desc": "Notícias TARIFAS Audiência Pública debaterá proposta de revisão das tarifas da Neoenergia Distribuição Brasília S.A A sessão será realizada em 27/8, na sede da ANEEL, em Brasília. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 18/08/2026 18h51 Os consumidores do Distrito Federal poderão participar da Audiência Pública nº 006/2026 que debaterá a proposta tarifária da Neoenergia Distribuição Brasília S.A para o ano de 2026. A sessão será realizada na quinta-feira (27) na sede da Agência Nacional de Energia Elétrica (ANEEL), localizada na SGAN Quadra 603, Módulos I e J, Asa Norte, Brasília – DF. O credenciamento dos participantes tem início às 9h, já a Audiência Pública es"
+    },
+    {
       "titulo": "ANEEL homologa repasse preliminar de R$ 5,48 bilhões às distribuidoras, recurso utilizado para reduzir tarifas de energia no Norte e Nordeste",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "18/08/2026",
+      "data": "19/08/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -100,7 +130,7 @@
       "titulo": "Agência decide nova data para reajuste e revisão de tarifas da CEA  (Amapá)",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "18/08/2026",
+      "data": "19/08/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -111,24 +141,10 @@
       "desc": "Notícias TARIFAS Agência decide nova data para reajuste e revisão de tarifas da CEA  (Amapá) Ao invés de 13 de dezembro, agora será 25 de maio Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 11/08/2026 13h40 Atualizado em 11/08/2026 13h42 A Agência Nacional de Energia Elétrica (ANEEL) autorizou nesta terça-feira (11/8) a mudança de data contratual para que novas tarifas de energia elétricas da Companhia de Eletricidade do Amapá (CEA) comecem a vigorar devido a reajuste anual tarifário ou revisão tarifária periódica. A nova data passa a ser 25 de maio, ao invés da data tradicional prevista em contrato, que era 13 de dezembro. A alteração foi solicitada pelo Conselho de Co"
     },
     {
-      "titulo": "ANEEL define quotas da RGR para geradoras e transmissoras no ciclo 2026/2027",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "18/08/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto",
-        "energia",
-        "tarifa"
-      ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-define-quotas-da-rgr-para-geradoras-e-transmissoras-no-ciclo-2026-2027",
-      "desc": "Notícias TARIFAS ANEEL define quotas da RGR para geradoras e transmissoras no ciclo 2026/2027 Valores somam cerca de R$ 470 milhões para 108 concessionárias e contemplam ajustes referentes ao exercício de 2025 e anos anteriores. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 06/08/2026 09h24 A Agência Nacional de Energia Elétrica (ANEEL) publicou hoje (6/8), por meio do Despacho nº 2.922/2026 , os valores das quotas da Reserva Global de Reversão (RGR) para 108 concessionárias de geração e transmissão. A RGR é um encargo do setor elétrico pago mensalmente pelos geradores e transmissores. As quotas serão recolhidas mensalmente por meio de boletos emitidos pela Câmara de C"
-    },
-    {
       "titulo": "RenovaBio: ANP abre participação social para as novas versões da RenovaCalc",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "18/08/2026",
+      "data": "19/08/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -140,7 +156,7 @@
       "titulo": "Descomissionamento: ANP realiza audiência pública sobre garantias financeiras",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "18/08/2026",
+      "data": "19/08/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -154,7 +170,7 @@
       "titulo": "Gas release: ANP aprova relatório e abertura de consulta pública sobre programa para ampliar concorrência no mercado de gás natural",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "18/08/2026",
+      "data": "19/08/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -168,7 +184,7 @@
       "titulo": "Chamada Pública 001/2026",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "18/08/2026",
+      "data": "19/08/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -177,38 +193,22 @@
       "desc": "O Estado do Amazonas, por intermédio da Secretaria de Estado da Fazenda, torna pública às instituições financeiras públicas ou privadas de âmbito nacional a abertura da presente Chamada Pública, nos termos deste Edital, com a finalidade de receber propostas para análise da viabilidade de contratação de Operação de Crédito, na modalidade de operação contratual interna, com garantia da União, no valor de R$ 1.462.000.000,00 (Um bilhão e quatrocentos e sessenta e dois milhões de reais), no âmbito do Programa Estadual de Habitação, Infraestrutura, Saneamento e Capitalização do Fundo Garantidor de PPP - PROHABISCAP, nos termos da Resolução CMN n.º 4.995, de 24 de março de 2022, e suas alterações, destinados ao aporte ao Fundo de Infraestrutura e Desenvolvimento do Estado do Amazonas - FIDEAM, a"
     },
     {
-      "titulo": "Prazo prorrogado: Consulta Pública para aprimorar o Programa de Eficiência Energética recebe contribuições até 9 de setembro",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "18/08/2026",
-      "impacto": "medio",
+      "titulo": "Prefeito Renato Junior vistoria avanço das obras do parque Encontro das Águas Rosa Almeida e destaca o potencial do espaço como novo eixo turístico na zona Leste",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "19/08/2026",
+      "impacto": "alto",
       "tags": [
-        "medio",
-        "energia",
-        "consulta"
+        "alto"
       ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/prazo-prorrogado-consulta-publica-para-aprimorar-o-programa-de-eficiencia-energetica-recebe-contribuicoes-ate-9-de-setembro",
-      "desc": "Notícias PARTICIPAÇÃO SOCIAL Prazo prorrogado: Consulta Pública para aprimorar o Programa de Eficiência Energética recebe contribuições até 9 de setembro Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 06/08/2026 14h26 Atualizado em 06/08/2026 14h27 A Agência Nacional de Energia Elétrica (ANEEL) prorrogou o prazo para o envio de contribuições à Consulta Pública nº 018/2026 , que submete à sociedade a Análise de Impacto Regulatório (AIR) voltada ao aperfeiçoamento do Programa de Eficiência Energética (PEE). Com a ampliação do período, as sugestões poderão ser encaminhadas até 9 de setembro de 2026. O que está em discussão A proposta em análise fundamenta-se no conceito E3"
-    },
-    {
-      "titulo": "Primeira Unidade Geradora da Usina Termelétrica Azulão I entra em operação comercial",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "18/08/2026",
-      "impacto": "medio",
-      "tags": [
-        "medio",
-        "energia",
-        "gas"
-      ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/primeira-unidade-geradora-da-usina-termeletrica-azulao-i-entra-em-operacao-comercial",
-      "desc": "Notícias GERAÇÃO Primeira Unidade Geradora da Usina Termelétrica Azulão I entra em operação comercial O empreendimento utiliza gás natural produzido no Campo de Azulão, localizado no estado do Amazonas. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 05/08/2026 17h19 A Unidade Geradora 1 (UG1) da Usina Termelétrica Azulão (UTE) I entrou em operação comercial a partir desta segunda-feira (4). A operação foi autorizada por meio do Despacho ANEEL nº 2.899, de 3/8/26. A usina, de titularidade da Azulão I Geração de Energia, está localizada no município de Silves, no Estado do Amazonas, e tem capacidade instalada de 361 MW. O empreendimento utiliza gás natural produzido no Ca"
+      "url": "https://www.manaus.am.gov.br/noticia/fiscalizacao/avanco-obras-parque-encontro-das-aguas-rosa-almeida/",
+      "desc": "Fiscalização Ageman emite quatro notificações à Águas de Manaus por vazamentos e problemas na recomposição asfáltica"
     },
     {
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "18/08/2026",
+      "data": "19/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -220,7 +220,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "18/08/2026",
+      "data": "19/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -230,10 +230,22 @@
       "desc": "Edição do dia verificada. Nenhum ato relevante encontrado."
     },
     {
+      "titulo": "Reunião Pública da Diretoria da ANEEL será realizada excepcionalmente na segunda-feira (24)",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "19/08/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/reuniao-publica-da-diretoria-da-aneel-sera-realizada-excepcionalmente-na-segunda-feira-24",
+      "desc": "Notícias INSTITUCIONAL Reunião Pública da Diretoria da ANEEL será realizada excepcionalmente na segunda-feira (24) A RPO terá início às 9h e poderá ser acompanhada pelo canal da Agência no YouTube (www.youtube.com/aneel) Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 18/08/2026 13h55 A Reunião Pública Ordinária da Diretoria da ANEEL (RPO) da próxima semana será realizada excepcionalmente na segunda-feira (24), às 9h, e não na terça-feira, como ocorre normalmente. A sessão será transmitida ao vivo pelo canal oficial da ANEEL no YouTube . A pauta da reunião estará disponível para consulta a partir desta quarta-feira (19), no portal da Agência, na página Pautas e Atas . Ca"
+    },
+    {
       "titulo": "ANEEL informa prorrogação de prazos devido à indisponibilidade do Sistema de Protocolo Digital - SPD",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "18/08/2026",
+      "data": "19/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -245,7 +257,7 @@
       "titulo": "ANEEL homologa resultado dos lotes de 7 a 10 do Leilão de Transmissão nº 1/2026",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "18/08/2026",
+      "data": "19/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -258,7 +270,7 @@
       "titulo": "Divulgados os selecionados para a Bolsa de Intercâmbio Internacional do PRH-ANP",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "18/08/2026",
+      "data": "19/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -270,7 +282,7 @@
       "titulo": "Fechamento antecipado do protocolo e do Escritório Central da ANP em 7/8",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "18/08/2026",
+      "data": "19/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -283,7 +295,7 @@
       "titulo": "Fórum da ANP na Rio Innovation Week teve mais de 20 painéis com discussões sobre o setor energético",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "18/08/2026",
+      "data": "19/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -296,7 +308,7 @@
       "titulo": "Consultar minhas solicitações",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "18/08/2026",
+      "data": "19/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -308,7 +320,7 @@
       "titulo": "Consultar Meu Imposto de Renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "18/08/2026",
+      "data": "19/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -320,7 +332,7 @@
       "titulo": "Consultar restituição de imposto de renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "18/08/2026",
+      "data": "19/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -332,7 +344,7 @@
       "titulo": "Consultar dados do Cadastro Único",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "18/08/2026",
+      "data": "19/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -344,7 +356,7 @@
       "titulo": "Creative Commons",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "18/08/2026",
+      "data": "19/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -356,7 +368,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "18/08/2026",
+      "data": "19/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -368,7 +380,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "18/08/2026",
+      "data": "19/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -380,7 +392,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "18/08/2026",
+      "data": "19/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -392,7 +404,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "18/08/2026",
+      "data": "19/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -404,7 +416,7 @@
       "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "18/08/2026",
+      "data": "19/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -419,7 +431,7 @@
       "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "18/08/2026",
+      "data": "19/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -431,7 +443,7 @@
       "titulo": "SEMIG Secretaria de Estado de Energia, Mineração e Gás",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "18/08/2026",
+      "data": "19/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -445,7 +457,7 @@
       "titulo": "E-mail Integra Amazonas",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "18/08/2026",
+      "data": "19/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -457,7 +469,7 @@
       "titulo": "semig@semig.am.gov.br",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "18/08/2026",
+      "data": "19/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -469,7 +481,7 @@
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "18/08/2026",
+      "data": "19/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -478,22 +490,34 @@
       "desc": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
-      "titulo": "Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus",
+      "titulo": "Prefeitura de Manaus intensifica mutirão de limpeza com aproximadamente 1.500 servidores nesta terça-feira",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "18/08/2026",
+      "data": "19/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/transito/apresenta-tecnologia-transito/",
+      "url": "https://www.manaus.am.gov.br/noticia/acao/prefeitura-semulsp-acao-mutirao-de-limpeza/",
+      "desc": "Ação ‘Manaus que a Gente Cuida’ avança com ações de infraestrutura, limpeza urbana e serviços sociais no Parque Solimões"
+    },
+    {
+      "titulo": "Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "19/08/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/transito/prefeito-renato-junior-apresenta-tecnologia-transito/",
       "desc": "Página Inicial Notícias Trânsito Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus Por Prefeitura de Manaus 17/08/2026 21h58 Seu navegador não suporta o elemento de áudio. #paratodosverem – prefeito Renato Junior fala sobre o painel Manaus passa a contar com uma nova ferramenta para orientar motoristas em tempo real. O primeiro Painel de Mensagem Variável (PMV) da capital foi apresentado nesta segunda-feira, 17/8, pelo prefeito Renato Junior, na avenida Mário Ypiranga Monteiro, na subida do viaduto Miguel Arraes, zona Centro-Sul. Serão exibidas informações sobre acidentes, interdições, obras, congestionamentos "
     },
     {
       "titulo": "Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "18/08/2026",
+      "data": "19/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -502,34 +526,22 @@
       "desc": "Mobilidade Prefeito Renato Junior fiscaliza nova fase das obras no complexo viário ‘Passarão’ e anuncia mudanças no trânsito na zona Oeste"
     },
     {
-      "titulo": "Prefeito Renato Junior anuncia secretaria de desburocratização industrial e defende união entre prefeitura, Suframa e governos pelo Polo Industrial de Manaus",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "18/08/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/manaus/prefeito-renato-junior-secretaria-industrial/",
-      "desc": "Página Inicial Notícias Manaus Prefeito Renato Junior anuncia secretaria de desburocratização industrial e defende união entre prefeitura, Suframa e governos pelo Polo Industrial de Manaus Prefeito Renato Junior anuncia secretaria de desburocratização industrial e defende união entre prefeitura, Suframa e governos pelo Polo Industrial de Manaus Por Prefeitura de Manaus 14/08/2026 19h15 Seu navegador não suporta o elemento de áudio. #paratodos verem – Prefeito Renato Junior posa com os participantes da reunião do CAS O prefeito de Manaus , Renato Junior, assumiu o papel de protagonista na reunião do Conselho de Administração da Suframa (CAS), realizada nesta sexta-feira, 14/8, ao anunciar que encaminhará à Câmara Municipal de Manaus (CMM), no próximo mês, a criação da primeira Secretaria Mu"
-    },
-    {
       "titulo": "Prefeitura realiza 7ª edição do programa ‘Manaus que a Gente Cuida’ no Parque Solimões com anúncio de requalificação de lagoa da comunidade",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "18/08/2026",
+      "orgao": "IMMU",
+      "tema": "Mobilidade Urbana",
+      "data": "19/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/manaus/servicos-acoes-manaus-que-a-gente-cuida/",
-      "desc": "Página Inicial Notícias Manaus Prefeitura realiza 7ª edição do programa ‘Manaus que a Gente Cuida’ no Parque Solimões com anúncio de requalificação de lagoa da comunidade Prefeitura realiza 7ª edição do programa ‘Manaus que a Gente Cuida’ no Parque Solimões com anúncio de requalificação de lagoa da comunidade Por Prefeitura de Manaus 13/08/2026 20h04 Seu navegador não suporta o elemento de áudio. #paratodos verem – equipe de gestores das sercretarias da prefeitura na abertura da sétima edição do Manaus que a Gente Cuida A Prefeitura de Manaus realizou, nesta quinta-feira, 13/8, a sétima edição do programa “Manaus que a Gente Cuida”, no Parque Solimões, bairro Tarumã, zona Oeste. Até o próximo sábado, 15/8, a força-tarefa integrada reúne serviços de saúde, assistência social, cidadania, emp"
+      "url": "https://www.manaus.am.gov.br/immu/manaus/servicos-acoes-manaus-que-a-gente-cuida/",
+      "desc": "Manaus Prefeitura de Manaus realiza operação especial de trânsito para garantir segurança em duas corridas neste fim de semana"
     },
     {
       "titulo": "Parque Encontro das Águas Rosa Almeida avança com novas frentes de obra e reforça ritmo de construção da Prefeitura de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "18/08/2026",
+      "data": "19/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -542,25 +554,13 @@
       "titulo": "Prefeitura intensifica operação ‘Centro Mais Seguro’ e reforça ordenamento urbano, assistência social e mobilidade na região central de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "18/08/2026",
+      "data": "19/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
       "url": "https://www.manaus.am.gov.br/implurb/operacao-centro-mais-seguro-centro/",
       "desc": "Ação Conjunta Prefeitura interdita fábrica clandestina, dá assistência a pessoas em situação de rua e realiza serviços de ordenamento durante operação ‘Centro Mais Seguro’"
-    },
-    {
-      "titulo": "Prefeito Renato Junior recebe pesquisadores do Inpa e anuncia agenda conjunta para recuperação ambiental, mobilidade e turismo em Manaus",
-      "orgao": "Implurb",
-      "tema": "Planejamento Urbano",
-      "data": "18/08/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/implurb/prefeito-agenda-conjunta-para-recuperacao-ambiental-mobilidade-e-turismo-em-manaus/",
-      "desc": "Cooperação Prefeitura de Manaus divulga links para participação popular após o seminário ‘Nosso Centro’"
     }
   ]
 }
