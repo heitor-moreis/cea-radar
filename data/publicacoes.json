@@ -1,5 +1,5 @@
 {
-  "ultima_coleta": "19/08/2026 07:23",
+  "ultima_coleta": "20/08/2026 07:25",
   "mes_ano": "Ago/2026",
   "total": 42,
   "fontes": 18,
@@ -9,7 +9,7 @@
     "alto": 9,
     "medio": 0,
     "baixo": 29,
-    "consultas_abertas": 3
+    "consultas_abertas": 2
   },
   "por_orgao": {
     "ANEEL": 8,
@@ -36,7 +36,7 @@
       "titulo": "ANEEL nega pedido da Enel São Paulo e mantém processo sobre recomendação de caducidade",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "19/08/2026",
+      "data": "20/08/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -49,7 +49,7 @@
       "titulo": "Entre os dias 3 e 7/8, a ANP realizou 223 ações de fiscalização com foco em preços abusivos",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "19/08/2026",
+      "data": "20/08/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -62,7 +62,7 @@
       "titulo": "ANP revoga autorização da Refinaria de Manguinhos – Refit",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "19/08/2026",
+      "data": "20/08/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -74,7 +74,7 @@
       "titulo": "Informações",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "19/08/2026",
+      "data": "20/08/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -87,7 +87,7 @@
       "titulo": "Aprovadas novas tarifas para consumidores atendidos pela Celesc-DIS",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "19/08/2026",
+      "data": "20/08/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -101,7 +101,7 @@
       "titulo": "Audiência Pública debaterá proposta de revisão das tarifas da Neoenergia Distribuição Brasília S.A",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "19/08/2026",
+      "data": "20/08/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -116,7 +116,7 @@
       "titulo": "ANEEL homologa repasse preliminar de R$ 5,48 bilhões às distribuidoras, recurso utilizado para reduzir tarifas de energia no Norte e Nordeste",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "19/08/2026",
+      "data": "20/08/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -130,7 +130,7 @@
       "titulo": "Agência decide nova data para reajuste e revisão de tarifas da CEA  (Amapá)",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "19/08/2026",
+      "data": "20/08/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -141,10 +141,23 @@
       "desc": "Notícias TARIFAS Agência decide nova data para reajuste e revisão de tarifas da CEA  (Amapá) Ao invés de 13 de dezembro, agora será 25 de maio Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 11/08/2026 13h40 Atualizado em 11/08/2026 13h42 A Agência Nacional de Energia Elétrica (ANEEL) autorizou nesta terça-feira (11/8) a mudança de data contratual para que novas tarifas de energia elétricas da Companhia de Eletricidade do Amapá (CEA) comecem a vigorar devido a reajuste anual tarifário ou revisão tarifária periódica. A nova data passa a ser 25 de maio, ao invés da data tradicional prevista em contrato, que era 13 de dezembro. A alteração foi solicitada pelo Conselho de Co"
     },
     {
+      "titulo": "Entre os dias 10 e 14/8, a ANP realizou 145 ações de fiscalização com foco em preços abusivos",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "20/08/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto",
+        "gas"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/entre-os-dias-10-e-14-8-a-anp-realizou-145-acoes-de-fiscalizacao-com-foco-em-precos-abusivos",
+      "desc": "Notícias Entre os dias 10 e 14/8, a ANP realizou 145 ações de fiscalização com foco em preços abusivos Além disso, a Agência seguiu com as fiscalizações de rotina sobre qualidade, quantidade e outros aspectos. Houve ações em 15 estados. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 19/08/2026 09h44 Atualizado em 19/08/2026 10h20 A ANP fez 145 ações de fiscalização na última semana (10 a 14/8) com foco em preços abusivos de combustíveis. Do total das ações realizadas com esse foco no período, 124 ocorreram em postos revendedores de combustíveis líquidos, 18 em revendedores de GLP (gás de cozinha), duas em distribuidoras de combustíveis e uma em distribuidora de GLP. Nes"
+    },
+    {
       "titulo": "RenovaBio: ANP abre participação social para as novas versões da RenovaCalc",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "19/08/2026",
+      "data": "20/08/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -156,7 +169,7 @@
       "titulo": "Descomissionamento: ANP realiza audiência pública sobre garantias financeiras",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "19/08/2026",
+      "data": "20/08/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -167,24 +180,10 @@
       "desc": "Notícias Descomissionamento: ANP realiza audiência pública sobre garantias financeiras Objetivo é reduzir o esforço operacional na atualização das garantias, sem comprometer a efetividade dos instrumentos e do valor a ser garantido Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 13/08/2026 09h49 Foi realizada ontem (12/8) audiência pública sobre a revisão da Resolução ANP nº 854/2021 , para a alteração da periodicidade de atualização das garantias de descomissionamento (desativação) de instalações de produção em campos de petróleo e gás natural. A minuta de resolução em debate propõe a alteração de anual para trienal da periodicidade de apresentação de garantias financei"
     },
     {
-      "titulo": "Gas release: ANP aprova relatório e abertura de consulta pública sobre programa para ampliar concorrência no mercado de gás natural",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "19/08/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto",
-        "gas",
-        "consulta"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/gas-release-anp-aprova-relatorio-e-abertura-de-consulta-publica-sobre-programa-para-ampliar-concorrencia-no-mercado-de-gas-natural",
-      "desc": "Notícias Gas release: ANP aprova relatório e abertura de consulta pública sobre programa para ampliar concorrência no mercado de gás natural Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 07/08/2026 11h38 Atualizado em 13/08/2026 13h16 A Diretoria da ANP aprovou hoje (7/8) o Relatório de Análise de Impacto Regulatório (AIR) e a abertura de consulta pública, pelo prazo de 45 dias, e posterior realização de audiência pública sobre a minuta de resolução que institui o Programa de Redução da Concentração no Mercado de Gás Natural (Programa de Gas Release). A AIR teve como objetivo avaliar alternativas regulatórias para ampliar a concorrência no mercado brasileiro de gás nat"
-    },
-    {
       "titulo": "Chamada Pública 001/2026",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "19/08/2026",
+      "data": "20/08/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -196,19 +195,19 @@
       "titulo": "Prefeito Renato Junior vistoria avanço das obras do parque Encontro das Águas Rosa Almeida e destaca o potencial do espaço como novo eixo turístico na zona Leste",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "19/08/2026",
+      "data": "20/08/2026",
       "impacto": "alto",
       "tags": [
         "alto"
       ],
       "url": "https://www.manaus.am.gov.br/noticia/fiscalizacao/avanco-obras-parque-encontro-das-aguas-rosa-almeida/",
-      "desc": "Fiscalização Ageman emite quatro notificações à Águas de Manaus por vazamentos e problemas na recomposição asfáltica"
+      "desc": "Fiscalização Prefeitura de Manaus inicia operação ‘Batidão’ para reforçar fiscalização e ordenamento no Centro"
     },
     {
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "19/08/2026",
+      "data": "20/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -220,7 +219,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "19/08/2026",
+      "data": "20/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -233,7 +232,7 @@
       "titulo": "Reunião Pública da Diretoria da ANEEL será realizada excepcionalmente na segunda-feira (24)",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "19/08/2026",
+      "data": "20/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -245,7 +244,7 @@
       "titulo": "ANEEL informa prorrogação de prazos devido à indisponibilidade do Sistema de Protocolo Digital - SPD",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "19/08/2026",
+      "data": "20/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -257,7 +256,7 @@
       "titulo": "ANEEL homologa resultado dos lotes de 7 a 10 do Leilão de Transmissão nº 1/2026",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "19/08/2026",
+      "data": "20/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -270,7 +269,7 @@
       "titulo": "Divulgados os selecionados para a Bolsa de Intercâmbio Internacional do PRH-ANP",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "19/08/2026",
+      "data": "20/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -282,7 +281,7 @@
       "titulo": "Fechamento antecipado do protocolo e do Escritório Central da ANP em 7/8",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "19/08/2026",
+      "data": "20/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -295,7 +294,7 @@
       "titulo": "Fórum da ANP na Rio Innovation Week teve mais de 20 painéis com discussões sobre o setor energético",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "19/08/2026",
+      "data": "20/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -308,7 +307,7 @@
       "titulo": "Consultar minhas solicitações",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "19/08/2026",
+      "data": "20/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -320,7 +319,7 @@
       "titulo": "Consultar Meu Imposto de Renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "19/08/2026",
+      "data": "20/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -332,7 +331,7 @@
       "titulo": "Consultar restituição de imposto de renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "19/08/2026",
+      "data": "20/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -344,7 +343,7 @@
       "titulo": "Consultar dados do Cadastro Único",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "19/08/2026",
+      "data": "20/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -356,7 +355,7 @@
       "titulo": "Creative Commons",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "19/08/2026",
+      "data": "20/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -368,7 +367,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "19/08/2026",
+      "data": "20/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -380,7 +379,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "19/08/2026",
+      "data": "20/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -392,7 +391,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "19/08/2026",
+      "data": "20/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -404,7 +403,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "19/08/2026",
+      "data": "20/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -416,7 +415,7 @@
       "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "19/08/2026",
+      "data": "20/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -431,7 +430,7 @@
       "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "19/08/2026",
+      "data": "20/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -443,7 +442,7 @@
       "titulo": "SEMIG Secretaria de Estado de Energia, Mineração e Gás",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "19/08/2026",
+      "data": "20/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -457,7 +456,7 @@
       "titulo": "E-mail Integra Amazonas",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "19/08/2026",
+      "data": "20/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -469,7 +468,7 @@
       "titulo": "semig@semig.am.gov.br",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "19/08/2026",
+      "data": "20/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -481,7 +480,7 @@
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "19/08/2026",
+      "data": "20/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -493,7 +492,7 @@
       "titulo": "Prefeitura de Manaus intensifica mutirão de limpeza com aproximadamente 1.500 servidores nesta terça-feira",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "19/08/2026",
+      "data": "20/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -505,31 +504,31 @@
       "titulo": "Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "19/08/2026",
+      "data": "20/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
       "url": "https://www.manaus.am.gov.br/noticia/transito/prefeito-renato-junior-apresenta-tecnologia-transito/",
-      "desc": "Página Inicial Notícias Trânsito Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus Por Prefeitura de Manaus 17/08/2026 21h58 Seu navegador não suporta o elemento de áudio. #paratodosverem – prefeito Renato Junior fala sobre o painel Manaus passa a contar com uma nova ferramenta para orientar motoristas em tempo real. O primeiro Painel de Mensagem Variável (PMV) da capital foi apresentado nesta segunda-feira, 17/8, pelo prefeito Renato Junior, na avenida Mário Ypiranga Monteiro, na subida do viaduto Miguel Arraes, zona Centro-Sul. Serão exibidas informações sobre acidentes, interdições, obras, congestionamentos "
+      "desc": "Trânsito Prefeitura implanta sinalização em mais vias de Manaus para organizar tráfego e proteger pedestres"
     },
     {
       "titulo": "Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "19/08/2026",
+      "data": "20/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
       "url": "https://www.manaus.am.gov.br/noticia/mobilidade/conclui-instalacao-vigas/",
-      "desc": "Mobilidade Prefeito Renato Junior fiscaliza nova fase das obras no complexo viário ‘Passarão’ e anuncia mudanças no trânsito na zona Oeste"
+      "desc": "Mobilidade Prefeitura de Manaus avança com recapeamento e transforma condições de tráfego na zona Norte"
     },
     {
       "titulo": "Prefeitura realiza 7ª edição do programa ‘Manaus que a Gente Cuida’ no Parque Solimões com anúncio de requalificação de lagoa da comunidade",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "19/08/2026",
+      "data": "20/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -541,7 +540,7 @@
       "titulo": "Parque Encontro das Águas Rosa Almeida avança com novas frentes de obra e reforça ritmo de construção da Prefeitura de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "19/08/2026",
+      "data": "20/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -554,7 +553,7 @@
       "titulo": "Prefeitura intensifica operação ‘Centro Mais Seguro’ e reforça ordenamento urbano, assistência social e mobilidade na região central de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "19/08/2026",
+      "data": "20/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
