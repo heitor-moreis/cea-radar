@@ -1,5 +1,5 @@
 {
-  "ultima_coleta": "20/08/2026 07:25",
+  "ultima_coleta": "21/08/2026 07:24",
   "mes_ano": "Ago/2026",
   "total": 42,
   "fontes": 18,
@@ -36,7 +36,7 @@
       "titulo": "ANEEL nega pedido da Enel São Paulo e mantém processo sobre recomendação de caducidade",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "20/08/2026",
+      "data": "21/08/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -49,7 +49,7 @@
       "titulo": "Entre os dias 3 e 7/8, a ANP realizou 223 ações de fiscalização com foco em preços abusivos",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "20/08/2026",
+      "data": "21/08/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -62,7 +62,7 @@
       "titulo": "ANP revoga autorização da Refinaria de Manguinhos – Refit",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "20/08/2026",
+      "data": "21/08/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -74,7 +74,7 @@
       "titulo": "Informações",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "20/08/2026",
+      "data": "21/08/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -87,7 +87,7 @@
       "titulo": "Aprovadas novas tarifas para consumidores atendidos pela Celesc-DIS",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "20/08/2026",
+      "data": "21/08/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -101,7 +101,7 @@
       "titulo": "Audiência Pública debaterá proposta de revisão das tarifas da Neoenergia Distribuição Brasília S.A",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "20/08/2026",
+      "data": "21/08/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -116,7 +116,7 @@
       "titulo": "ANEEL homologa repasse preliminar de R$ 5,48 bilhões às distribuidoras, recurso utilizado para reduzir tarifas de energia no Norte e Nordeste",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "20/08/2026",
+      "data": "21/08/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -130,7 +130,7 @@
       "titulo": "Agência decide nova data para reajuste e revisão de tarifas da CEA  (Amapá)",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "20/08/2026",
+      "data": "21/08/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -144,7 +144,7 @@
       "titulo": "Entre os dias 10 e 14/8, a ANP realizou 145 ações de fiscalização com foco em preços abusivos",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "20/08/2026",
+      "data": "21/08/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -157,7 +157,7 @@
       "titulo": "RenovaBio: ANP abre participação social para as novas versões da RenovaCalc",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "20/08/2026",
+      "data": "21/08/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -169,7 +169,7 @@
       "titulo": "Descomissionamento: ANP realiza audiência pública sobre garantias financeiras",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "20/08/2026",
+      "data": "21/08/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -183,7 +183,7 @@
       "titulo": "Chamada Pública 001/2026",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "20/08/2026",
+      "data": "21/08/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -195,7 +195,7 @@
       "titulo": "Prefeito Renato Junior vistoria avanço das obras do parque Encontro das Águas Rosa Almeida e destaca o potencial do espaço como novo eixo turístico na zona Leste",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "20/08/2026",
+      "data": "21/08/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -207,7 +207,7 @@
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "20/08/2026",
+      "data": "21/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -219,7 +219,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "20/08/2026",
+      "data": "21/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -229,10 +229,23 @@
       "desc": "Edição do dia verificada. Nenhum ato relevante encontrado."
     },
     {
+      "titulo": "ANEEL debate impactos do Super El Niño e discute caminhos para fortalecer a resiliência do setor elétrico",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "21/08/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo",
+        "energia"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-debate-impactos-do-super-el-nino-e-discute-caminhos-para-fortalecer-a-resiliencia-do-setor-eletrico",
+      "desc": "Notícias INSTITUCIONAL ANEEL debate impactos do Super El Niño e discute caminhos para fortalecer a resiliência do setor elétrico Encontro reuniu especialistas, representantes do governo, pesquisadores e agentes do setor para tratar dos efeitos de eventos climáticos extremos sobre o Sistema Elétrico Nacional Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 20/08/2026 18h05 Atualizado em 20/08/2026 19h07 A Agência Nacional de Energia Elétrica (ANEEL) sediou nesta quarta-feira (20/8) o evento “Super El Niño e a Resiliência do Setor Elétrico Brasileiro”, que reuniu especialistas, representantes do governo, agentes do setor elétrico e pesquisadores para debater os impactos dos"
+    },
+    {
       "titulo": "Reunião Pública da Diretoria da ANEEL será realizada excepcionalmente na segunda-feira (24)",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "20/08/2026",
+      "data": "21/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -244,7 +257,7 @@
       "titulo": "ANEEL informa prorrogação de prazos devido à indisponibilidade do Sistema de Protocolo Digital - SPD",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "20/08/2026",
+      "data": "21/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -253,23 +266,22 @@
       "desc": "Notícias INSTITUCIONAL ANEEL informa prorrogação de prazos devido à indisponibilidade do Sistema de Protocolo Digital - SPD Os prazos com vencimento originalmente previstos para ontem (13/8) ficam prorrogados automaticamente até as 23h59 de hoje, 14 de agosto de 2026. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 14/08/2026 14h59 Atualizado em 14/08/2026 15h01 A ANEEL informa que o Sistema de Protocolo Digital (SPD) apresentou indisponibilidade entre as 13h e 15h desta quinta-feira (13/8). De acordo com a Norma de Organização nº 56, de 9 de dezembro de 2024: Art. 46. § 2º Na hipótese prevista no § 1º, caso o SEI apresente indisponibilidade por motivo técnico conforme e"
     },
     {
-      "titulo": "ANEEL homologa resultado dos lotes de 7 a 10 do Leilão de Transmissão nº 1/2026",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "20/08/2026",
+      "titulo": "AVISO: Funcionamento do protocolo e do Escritório Central da ANP, no Rio de Janeiro, em 21/8",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "21/08/2026",
       "impacto": "baixo",
       "tags": [
-        "baixo",
-        "energia"
+        "baixo"
       ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-homologa-resultado-dos-lotes-de-7-a-10-do-leilao-de-transmissao-no-1-2026",
-      "desc": "Notícias TRANSMISSÃO ANEEL homologa resultado dos lotes de 7 a 10 do Leilão de Transmissão nº 1/2026 O Consórcio Olympus XX e a AXIA Energia Sul S.A. foram as proponentes vencedoras dos lotes de 7 a 10 da segunda etapa do certame Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 11/08/2026 12h41 Atualizado em 11/08/2026 13h37 Em reunião da diretoria colegiada, nesta terça-feira (11/8), a Agência Nacional de Energia Elétrica (ANEEL) aprovou a homologação do resultado e adjudicação da segunda etapa do Leilão de Transmissão nº 1/2026 , referente aos lotes de 7 a 10. O certame, realizado em 3 de julho de 2026, em São Paulo, na sede da B3, foi realizado para contratar concessõe"
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/aviso-funcionamento-do-protocolo-e-do-escritorio-central-da-anp-no-rio-de-janeiro-em-21-8",
+      "desc": "Notícias AVISO: Funcionamento do protocolo e do Escritório Central da ANP, no Rio de Janeiro, em 21/8 Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 20/08/2026 19h07 Em razão de novo alerta emitido pelo Governo do Estado, o protocolo e o Escritório Central da ANP, no Rio de Janeiro, não funcionarão nesta sexta-feira (21/8). O envio de documentos poderá ser realizado eletronicamente pelo sistema SEI e também pelo serviço de Correios. Categoria Empresa, Indústria e Comércio"
     },
     {
       "titulo": "Divulgados os selecionados para a Bolsa de Intercâmbio Internacional do PRH-ANP",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "20/08/2026",
+      "data": "21/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -281,7 +293,7 @@
       "titulo": "Fechamento antecipado do protocolo e do Escritório Central da ANP em 7/8",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "20/08/2026",
+      "data": "21/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -291,23 +303,10 @@
       "desc": "Notícias Fechamento antecipado do protocolo e do Escritório Central da ANP em 7/8 Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 07/08/2026 14h08 Em razão de novo alerta emitido pela Defesa Civil, o protocolo e o Escritório Central da ANP, no Rio de Janeiro, serão fechados de forma antecipada nesta sexta-feira (7/8). O envio de documentos poderá ser realizado eletronicamente pelo sistema SEI e também pelo serviço de Correios. Categoria Energia, Minerais e Combustíveis"
     },
     {
-      "titulo": "Fórum da ANP na Rio Innovation Week teve mais de 20 painéis com discussões sobre o setor energético",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "20/08/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo",
-        "energia"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/forum-da-anp-na-rio-innovation-week-teve-mais-de-20-paineis-com-discussoes-sobre-o-setor-energetico",
-      "desc": "Notícias Fórum da ANP na Rio Innovation Week teve mais de 20 painéis com discussões sobre o setor energético Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 07/08/2026 12h07 Atualizado em 11/08/2026 10h51 A ANP participou esta semana da Rio Innovation Week (RIW), que teve início em 4/8 e termina hoje (7/8), no Rio de Janeiro. O evento vem abordando temas relacionados à tecnologia e inovação, inclusive no setor de energia. A 4ª edição do Fórum de Tecnologia, Inovação e Programas da ANP (TIP ANP) ocorreu de 4 a 6/8, com participação dos Diretores da ANP Symone Araújo e Fernando Moura, além de superintendentes e técnicos da Agência, bem como representantes de órgãos público"
-    },
-    {
       "titulo": "Consultar minhas solicitações",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "20/08/2026",
+      "data": "21/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -319,7 +318,7 @@
       "titulo": "Consultar Meu Imposto de Renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "20/08/2026",
+      "data": "21/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -331,7 +330,7 @@
       "titulo": "Consultar restituição de imposto de renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "20/08/2026",
+      "data": "21/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -343,7 +342,7 @@
       "titulo": "Consultar dados do Cadastro Único",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "20/08/2026",
+      "data": "21/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -355,7 +354,7 @@
       "titulo": "Creative Commons",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "20/08/2026",
+      "data": "21/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -367,7 +366,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "20/08/2026",
+      "data": "21/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -379,7 +378,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "20/08/2026",
+      "data": "21/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -391,7 +390,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "20/08/2026",
+      "data": "21/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -403,7 +402,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "20/08/2026",
+      "data": "21/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -415,7 +414,7 @@
       "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "20/08/2026",
+      "data": "21/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -430,7 +429,7 @@
       "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "20/08/2026",
+      "data": "21/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -442,7 +441,7 @@
       "titulo": "SEMIG Secretaria de Estado de Energia, Mineração e Gás",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "20/08/2026",
+      "data": "21/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -456,7 +455,7 @@
       "titulo": "E-mail Integra Amazonas",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "20/08/2026",
+      "data": "21/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -468,7 +467,7 @@
       "titulo": "semig@semig.am.gov.br",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "20/08/2026",
+      "data": "21/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -480,7 +479,7 @@
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "20/08/2026",
+      "data": "21/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -492,19 +491,19 @@
       "titulo": "Prefeitura de Manaus intensifica mutirão de limpeza com aproximadamente 1.500 servidores nesta terça-feira",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "20/08/2026",
+      "data": "21/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
       "url": "https://www.manaus.am.gov.br/noticia/acao/prefeitura-semulsp-acao-mutirao-de-limpeza/",
-      "desc": "Ação ‘Manaus que a Gente Cuida’ avança com ações de infraestrutura, limpeza urbana e serviços sociais no Parque Solimões"
+      "desc": "Página Inicial Notícias Ação Prefeitura de Manaus intensifica mutirão de limpeza com aproximadamente 1.500 servidores nesta terça-feira Prefeitura de Manaus intensifica mutirão de limpeza com aproximadamente 1.500 servidores nesta terça-feira Por Prefeitura de Manaus 18/08/2026 12h30 Seu navegador não suporta o elemento de áudio. A Prefeitura de Manaus mobiliza aproximadamente 1.500 servidores, nesta terça-feira, 18/8, em uma ação de zeladoria e manutenção urbana “mutirão de limpeza” por todas as zonas da capital amazonense. As frentes de trabalho da Secretaria Municipal de Limpeza Urbana (Semulsp) executam serviços essenciais de capinação, varrição, recolhimento de entulhos e conservação de vias e áreas comunitárias. Entre os pontos atendidos pelas equipes está o conjunto Atílio Andreazza"
     },
     {
       "titulo": "Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "20/08/2026",
+      "data": "21/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -516,7 +515,7 @@
       "titulo": "Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "20/08/2026",
+      "data": "21/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -528,7 +527,7 @@
       "titulo": "Prefeitura realiza 7ª edição do programa ‘Manaus que a Gente Cuida’ no Parque Solimões com anúncio de requalificação de lagoa da comunidade",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "20/08/2026",
+      "data": "21/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -540,7 +539,7 @@
       "titulo": "Parque Encontro das Águas Rosa Almeida avança com novas frentes de obra e reforça ritmo de construção da Prefeitura de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "20/08/2026",
+      "data": "21/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -553,7 +552,7 @@
       "titulo": "Prefeitura intensifica operação ‘Centro Mais Seguro’ e reforça ordenamento urbano, assistência social e mobilidade na região central de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "20/08/2026",
+      "data": "21/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
