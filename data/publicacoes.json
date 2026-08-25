@@ -1,17 +1,20 @@
 {
-  "ultima_coleta": "24/08/2026 07:28",
+  "ultima_coleta": "25/08/2026 07:24",
   "mes_ano": "Ago/2026",
-  "total": 26,
+  "total": 44,
   "fontes": 18,
   "fontes_com_falha": [],
   "stats": {
-    "critico": 1,
-    "alto": 3,
-    "medio": 0,
-    "baixo": 22,
-    "consultas_abertas": 0
+    "critico": 2,
+    "alto": 14,
+    "medio": 1,
+    "baixo": 27,
+    "consultas_abertas": 3
   },
   "por_orgao": {
+    "ANEEL": 8,
+    "ANP": 8,
+    "ANA": 5,
     "Prefeitura Manaus": 4,
     "SEMIG": 3,
     "IMMU": 3,
@@ -20,9 +23,6 @@
     "SEFAZ-AM": 1,
     "DOU": 1,
     "DOE-AM": 1,
-    "ANEEL": 1,
-    "ANP": 1,
-    "ANA": 1,
     "CCEE": 1,
     "ONS": 1,
     "Petrobras": 1,
@@ -33,10 +33,23 @@
   },
   "publicacoes": [
     {
+      "titulo": "ANEEL nega pedido de prova pericial feito pela Enel Distribuição São Paulo",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "25/08/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico",
+        "energia"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-nega-pedido-de-prova-pericial-feito-pela-enel-distribuicao-sao-paulo",
+      "desc": "Notícias Fiscalização ANEEL nega pedido de prova pericial feito pela Enel Distribuição São Paulo A partir de agora, a empresa tem 10 dias para apresentar suas alegações finais dentro do processo administrativo. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 24/08/2026 17h01 Atualizado em 24/08/2026 19h06 A Diretoria da Agência Nacional de Energia Elétrica (ANEEL) rejeitou  hoje (24), durante Reunião Pública Ordinária, pedido de prova pericial feito pela Enel Distribuição São Paulo, no âmbito do Procedimento Administrativo de Avaliação de Recomendação de Caducidade do Contrato de Concessão nº 162/2008-ANEEL. Com a decisão, a distribuidora passa à etapa final de instrução"
+    },
+    {
       "titulo": "Informações",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "24/08/2026",
+      "data": "25/08/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -46,10 +59,160 @@
       "desc": "Informações Decretos de Situação de Emergência Alteração de Carga Cadastro de Equipamento Vital Cliente Alta Tensão Cliente Mercado Livre Compartilhamento de infraestruturas Contrato Contribuição de Iluminação Pública por Município Decretos de Situação de Emergência Desligamentos Programados Despesas Associadas a CCC Dicas de Consumo Consciente Dicas de Segurança Direitos e Deveres Furto de energia elétrica é crime Iluminação Pública Indicadores de Continuidade Ligação Nova Ligação Provisória Localizar App na Loja Micro/Minigeração Distribuída Normas Técnicas e Manuais Notícias Orçamento de Conexão / Projeto / Vistoria Padrão de Entrada Pesquisa de Curvas de Carga e Hábitos de Consumo Poda e Arborização Programa de Eficiência Energética Programa de Eletrificação Rural Programa de Pesquisa "
     },
     {
+      "titulo": "ANEEL promove consulta pública sobre adoção de redes subterrâneas",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "25/08/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto",
+        "energia",
+        "consulta",
+        "tarifa"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-promove-consulta-publica-sobre-adocao-de-redes-subterraneas-1",
+      "desc": "Notícias DISTRIBUIÇÃO ANEEL promove consulta pública sobre adoção de redes subterrâneas Enterramento de cabos torna rede mais confiável, mas possui custo alto, que pode ser repassado para a tarifa de energia Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 24/08/2026 13h57 A ampliação do uso de redes subterrâneas pelas distribuidoras, com o enterramento de cabos para o transporte de energia elétrica, entrará em período de discussão pela sociedade a partir desta quinta-feira (27/8). A diretoria da Agência Nacional de Energia Elétrica (ANEEL) aprovou nesta segunda-feira (24/8) a abertura da Consulta Pública n° 29/2026, que debaterá as vantagens e desvantagens de se estabele"
+    },
+    {
+      "titulo": "Pacto Energia tem novas tarifas de energia elétrica aprovadas pela ANEEL",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "25/08/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto",
+        "energia",
+        "tarifa"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/pacto-energia-tem-novas-tarifas-de-energia-eletrica-aprovadas-pela-aneel",
+      "desc": "Notícias TARIFAS Pacto Energia tem novas tarifas de energia elétrica aprovadas pela ANEEL Os índices aprovados entram em vigor a partir de 26 de agosto Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 24/08/2026 12h56 O resultado provisório da Revisão Tarifária Periódica de 2026 da distribuidora Pacto Energia Distribuição Paraná (Força e Luz Coronel Vivida Ltda. – Forcel) foi aprovado pela diretoria colegiada da Agência Nacional de Energia Elétrica (ANEEL), nesta segunda-feira (24/8), que permanecerá até a conclusão da fiscalização realizada pelas áreas técnicas da Agência para determinar a elegibilidade dos ativos integrantes do Sistema de Armazenamento de Energia por Ba"
+    },
+    {
+      "titulo": "Aprovada consulta pública para debater revisão tarifária da CEEE-D",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "25/08/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto",
+        "energia",
+        "consulta",
+        "tarifa"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aprovada-consulta-publica-para-debater-revisao-tarifariadaceee-d",
+      "desc": "Notícias TARIFAS Aprovada consulta pública para debater revisão tarifária da CEEE-D As contribuições poderão ser enviadas de 26 de agosto a 9 de outubro de 2026 Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 24/08/2026 12h38 Foi aprovada pela diretoria colegiada da Agência Nacional de Energia Elétrica (ANEEL), nesta segunda -feira ( 24 / 8 ), a abertura da Consulta Pública nº 027 /202 6 , que irá colher subsídios para o aprimoramento da proposta de Revisão Tarifária Periódica (RTP) da Companhia Estadual de Distribuição de Energia E lé trica ( CEEE-D ) . Sediada na cidade de Porto Alegre, no estado do Rio Grande do Sul , a distribuidora atende aproximadamente 2,03 milhõe"
+    },
+    {
+      "titulo": "ANEEL aprova Reajuste Tarifário Anual da Equatorial Maranhão",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "25/08/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto",
+        "energia",
+        "tarifa"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-aprova-reajuste-tarifario-anual-da-equatorial-maranhao",
+      "desc": "Notícias TARIFAS ANEEL aprova Reajuste Tarifário Anual da Equatorial Maranhão Novas tarifas serão válidas a partir de 28 de agosto Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 24/08/2026 11h36 Atualizado em 24/08/2026 12h04 Nesta segunda-feira (24/8), a diretoria colegiada da Agência Nacional de Energia Elétrica (ANEEL) aprovou o Reajuste Tarifário Anual da Equatorial Maranhão Distribuidora de Energia S.A., que atende cerca de 2,88 milhões de unidades consumidoras. Durante a 17ª Reunião Pública Ordinária da Diretoria em 2026 foram apresentados os novos índices, que passam a valer a partir de 28 de agosto, confira na tabela abaixo. Empresa Consumidores residenciais B1 "
+    },
+    {
+      "titulo": "ANEEL aprova reajuste tarifário da Energisa Paraíba",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "25/08/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto",
+        "energia",
+        "tarifa"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-aprova-reajuste-tarifario-da-energisa-paraiba",
+      "desc": "Notícias TARIFAS ANEEL aprova reajuste tarifário da Energisa Paraíba Novos valores para as tarifas vigoram a partir da próxima sexta-feira, 28 de agosto Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 24/08/2026 10h18 Em reunião realizada nesta segunda-feira (24/8), a diretoria colegiada da Agência Nacional de Energia Elétrica (ANEEL) autorizou o reajuste tarifário anual da Energisa Paraíba – Distribuidora de Energia (EPB).  A concessionária, que tem sede em João Pessoa (PB), fornece energia elétrica para aproximadamente 1,94 milhão de unidades consumidoras. Veja quais os índices aprovados: Empresa Consumidores residenciais - B1 EPB 4,81% Classe de Consumo – Consumidores"
+    },
+    {
+      "titulo": "Aprovadas as novas tarifas da Neoenergia Elektro (SP/MS)",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "25/08/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto",
+        "energia",
+        "tarifa"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aprovadas-as-novas-tarifas-da-neoenergia-elektro-sp-ms",
+      "desc": "Notícias TARIFAS Aprovadas as novas tarifas da Neoenergia Elektro (SP/MS) Novos valores serão aplicados a partir de 27 de agosto Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 24/08/2026 10h15 O reajuste tarifário anual para os clientes da Neoenergia Elektro ( (Elektro Redes S/A) foi aprovado nesta segunda-feira (24/8) pela diretoria colegiada da Agência Nacional de Energia Elétrica (ANEEL). A distribuidora, sediada na cidade de Campinas (SP), atende aproximadamente 3 milhões de unidades consumidoras em 228 municípios, dos quais 223 em São Paulo e cinco, no Mato Grosso do Sul. Confira os índices que irão vigorar a partir de 27 de agosto: Empresa Consumidores residenciai"
+    },
+    {
+      "titulo": "Diretoria da ANP aprova reestruturação organizacional em etapas a partir de setembro",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "25/08/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto",
+        "gas"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/diretoria-da-anp-aprova-reestruturacao-organizacional-em-etapas-a-partir-de-setembro",
+      "desc": "Notícias Diretoria da ANP aprova reestruturação organizacional em etapas a partir de setembro Mudanças abrangem a regulação do gás natural, de segurança operacional e de licitações de E&P, com cronograma gradativo até novembro. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 21/08/2026 18h45 Atualizado em 24/08/2026 11h35 A Diretoria Colegiada da ANP aprovou hoje (21/8) três alterações em sua estrutura organizacional. As mudanças têm como objetivo otimizar processos e serão implementadas em três fases: 25 de setembro de 2026: Transferência das atribuições relativas à autorização de infraestrutura de combustíveis líquidos da Superintendência de Infraestrutura e Movimentaç"
+    },
+    {
+      "titulo": "Entre os dias 17 e 21/8, a ANP realizou 155 ações de fiscalização com foco em preços abusivos",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "25/08/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto",
+        "gas"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/entre-os-dias-17-e-21-8-a-anp-realizou-155-acoes-de-fiscalizacao-com-foco-em-precos-abusivos",
+      "desc": "Notícias Fiscalização Entre os dias 17 e 21/8, a ANP realizou 155 ações de fiscalização com foco em preços abusivos Além disso, a Agência seguiu com as fiscalizações de rotina sobre qualidade, quantidade e outros aspectos. Houve ações em 17 estados. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 21/08/2026 18h02 A ANP fez 155 ações de fiscalização na última semana (17 a 21/8) com foco em preços abusivos de combustíveis. Do total das ações realizadas com esse foco no período, 134 ocorreram em postos revendedores de combustíveis líquidos, 12 em revendedores de GLP (gás de cozinha), cinco em distribuidoras de combustíveis, duas em transportadores-revendedores-retalhistas ("
+    },
+    {
+      "titulo": "ANP fará consulta e audiência públicas sobre monitoramento da mistura obrigatória de biodiesel",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "25/08/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto",
+        "consulta"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-fara-consulta-e-audiencia-publicas-sobre-monitoramento-da-mistura-obrigatoria-de-biodiesel",
+      "desc": "Notícias ANP fará consulta e audiência públicas sobre monitoramento da mistura obrigatória de biodiesel Minuta de resolução prevê uso de dados fiscais eletrônicos para tornar mais ágil o acompanhamento do cumprimento das regras pelos distribuidores Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 21/08/2026 10h14 Atualizado em 21/08/2026 10h24 A Diretoria da ANP aprovou hoje (21/8) a realização de consulta, por 45 dias, e audiência públicas sobre minuta de resolução que altera duas resoluções da Agência relativas ao biodiesel e à remessa de dados dos agentes à ANP. O objetivo da revisão é implementar obrigações legais relacionadas à comprovação, pelos distribuidores de co"
+    },
+    {
+      "titulo": "Entre os dias 10 e 14/8, a ANP realizou 145 ações de fiscalização com foco em preços abusivos",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "25/08/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto",
+        "gas"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/entre-os-dias-10-e-14-8-a-anp-realizou-145-acoes-de-fiscalizacao-com-foco-em-precos-abusivos",
+      "desc": "Notícias Entre os dias 10 e 14/8, a ANP realizou 145 ações de fiscalização com foco em preços abusivos Além disso, a Agência seguiu com as fiscalizações de rotina sobre qualidade, quantidade e outros aspectos. Houve ações em 15 estados. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 19/08/2026 09h44 Atualizado em 19/08/2026 10h20 A ANP fez 145 ações de fiscalização na última semana (10 a 14/8) com foco em preços abusivos de combustíveis. Do total das ações realizadas com esse foco no período, 124 ocorreram em postos revendedores de combustíveis líquidos, 18 em revendedores de GLP (gás de cozinha), duas em distribuidoras de combustíveis e uma em distribuidora de GLP. Nes"
+    },
+    {
+      "titulo": "RenovaBio: ANP abre participação social para as novas versões da RenovaCalc",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "25/08/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/renovabio-anp-abre-participacao-social-para-as-novas-versoes-da-renovacalc",
+      "desc": "Notícias RenovaBio: ANP abre participação social para as novas versões da RenovaCalc Ferramenta realiza o cálculo da intensidade de carbono dos biocombustíveis Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 17/08/2026 11h10 A ANP disponibilizou hoje, para participação social, até 16/9/2026, as novas versões da RenovaCalc, ferramenta de cálculo da intensidade de carbono dos biocombustíveis e da documentação técnica associada. As versões foram elaboradas por integrantes do Grupo Técnico RenovaBio em decorrência da publicação da Resolução ANP nº 984/2025 e da revisão das premissas metodológicas utilizadas no cálculo da Nota de Eficiência Energético-Ambiental (NEEA). As atu"
+    },
+    {
       "titulo": "Chamada Pública 001/2026",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "24/08/2026",
+      "data": "25/08/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -61,19 +224,19 @@
       "titulo": "Prefeito Renato Junior vistoria obra do complexo viário ‘Passarão’ e destaca avanço acelerado da concretagem dos tabuleiros",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "24/08/2026",
+      "data": "25/08/2026",
       "impacto": "alto",
       "tags": [
         "alto"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/fiscalizacao/vistoria-obra-complexo-viario-passarao/",
+      "url": "https://www.manaus.am.gov.br/noticia/fiscalizacao/prefeito-renato-junior-vistoria-obra-complexo-viario-passarao/",
       "desc": "Fiscalização Prefeitura de Manaus inicia operação ‘Batidão’ para reforçar fiscalização e ordenamento no Centro"
     },
     {
       "titulo": "Prefeito Renato Junior vistoria avanço das obras do parque Encontro das Águas Rosa Almeida e destaca o potencial do espaço como novo eixo turístico na zona Leste",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "24/08/2026",
+      "data": "25/08/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -82,10 +245,22 @@
       "desc": "Fiscalização Prefeito Renato Junior vistoria obra do complexo viário ‘Passarão’ e destaca avanço acelerado da concretagem dos tabuleiros"
     },
     {
+      "titulo": "ANP publica edital do Prêmio ANP de Inovação Tecnológica 2026",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "25/08/2026",
+      "impacto": "medio",
+      "tags": [
+        "medio"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-publica-edital-do-premio-anp-de-inovacao-tecnologica-2026",
+      "desc": "Notícias Tecnologia e Inovação ANP publica edital do Prêmio ANP de Inovação Tecnológica 2026 Premiação reconhece projetos de PD&I, trabalhos acadêmicos do PRH-ANP, projetos do NAVE-ANP e personalidades da indústria e da academia. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 24/08/2026 11h48 A ANP publicou hoje (24/8) o edital do Prêmio ANP de Inovação Tecnológica 2026. As inscrições estarão abertas até 8/9/2026. Para esta próxima edição, foi incluída a premiação de projetos vinculados à primeira edição do Programa ANP de Empreendedorismo - NAVE-ANP. Foram mantidas as modalidades contempladas em anos anteriores: Projetos de PD&I, trabalhos do Programa de Formação de Re"
+    },
+    {
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "24/08/2026",
+      "data": "25/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -97,7 +272,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "24/08/2026",
+      "data": "25/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -107,46 +282,108 @@
       "desc": "Edição do dia verificada. Nenhum ato relevante encontrado."
     },
     {
-      "titulo": "ANEEL — Falha temporária de acesso. Próxima tentativa amanhã.",
+      "titulo": "ANEEL anui transferência de Controle Societário Direto e Indireto de concessionárias de serviço público de transmissão",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "24/08/2026",
+      "data": "25/08/2026",
       "impacto": "baixo",
       "tags": [
-        "baixo"
+        "baixo",
+        "energia"
       ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias",
-      "desc": "ANEEL — Falha temporária de acesso. Próxima tentativa amanhã."
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-anui-transferencia-de-controle-societario-direto-e-indireto-de-concessionarias-de-servico-publico-de-transmissao",
+      "desc": "Notícias TRANSMISSÃO ANEEL anui transferência de Controle Societário Direto e Indireto de concessionárias de serviço público de transmissão O prazo para implementação da operação é de até 120 dias desde a aprovação Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 24/08/2026 08h57 A Agência Nacional de Energia Elétrica (ANEEL) anuiu, nesta segunda-feira (24/8), a transferência de Controle Societário Direto e Indireto das concessionárias de serviço público de transmissão de energia elétrica Potiguar Sul Transmissão de Energia S.A., Neoenergia Vale do Itajaí Transmissão de Energia S.A., Neoenergia Paraíso Transmissão de Energia Elétrica S.A., Neoenergia Guanabara Transmissão"
     },
     {
-      "titulo": "ANP — Falha temporária de acesso. Próxima tentativa amanhã.",
+      "titulo": "ANP realiza workshop sobre mercados de carbono e instrumentos de descarbonização no setor de energia",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "24/08/2026",
+      "data": "25/08/2026",
       "impacto": "baixo",
       "tags": [
-        "baixo"
+        "baixo",
+        "energia"
       ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados",
-      "desc": "ANP — Falha temporária de acesso. Próxima tentativa amanhã."
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-realiza-workshop-sobre-mercados-de-carbono-e-instrumentos-de-descarbonizacao-no-setor-de-energia",
+      "desc": "Notícias ANP realiza workshop sobre mercados de carbono e instrumentos de descarbonização no setor de energia Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 21/08/2026 15h05 Atualizado em 21/08/2026 17h57 A ANP realizou ontem (20/8), em parceria com a IETA – International Emissions Trading Association , o workshop “Mercados de Carbono e Instrumentos de Descarbonização no Setor de Energia”. O evento aconteceu no Escritório Central da ANP, no Rio de Janeiro, de forma híbrida, e reuniu técnicos da Agência e da IETA, que é uma organização sem fins lucrativos com o objetivo ajudar a alcançar as metas do Acordo de Paris e atingir emissões líquidas zero. O Diretor-Geral da Agê"
     },
     {
-      "titulo": "ANA — Falha temporária de acesso. Próxima tentativa amanhã.",
-      "orgao": "ANA",
-      "tema": "Recursos Hídricos",
-      "data": "24/08/2026",
+      "titulo": "AVISO: Funcionamento do protocolo e do Escritório Central da ANP, no Rio de Janeiro, em 21/8",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "25/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.gov.br/ana/pt-br/assuntos/noticias-e-eventos/noticias",
-      "desc": "ANA — Falha temporária de acesso. Próxima tentativa amanhã."
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/aviso-funcionamento-do-protocolo-e-do-escritorio-central-da-anp-no-rio-de-janeiro-em-21-8",
+      "desc": "Notícias AVISO: Funcionamento do protocolo e do Escritório Central da ANP, no Rio de Janeiro, em 21/8 Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 20/08/2026 19h07 Em razão de novo alerta emitido pelo Governo do Estado, o protocolo e o Escritório Central da ANP, no Rio de Janeiro, não funcionarão nesta sexta-feira (21/8). O envio de documentos poderá ser realizado eletronicamente pelo sistema SEI e também pelo serviço de Correios. Categoria Empresa, Indústria e Comércio"
+    },
+    {
+      "titulo": "Consultar minhas solicitações",
+      "orgao": "ANA",
+      "tema": "Recursos Hídricos",
+      "data": "25/08/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/atendimento-gov.br/duvidas-na-plataforma-de-automacao/cidadao/consultar-as-minhas-solicitacoes",
+      "desc": "Veja o andamento das suas solicitações de serviços automatizados no GOV.BR Atenção : Nem todos os serviços do portal GOV.BR estão disponíveis para acompanhamento nessa área. Nesse caso, consulte a página do serviço e veja as etapas informadas. Para acessar as suas solicitações já registradas em um serviço automatizado na Plataforma de Automação, clique em Ver Solicitações , logo acima, e faça o login em sua conta gov.br . Após digitar corretamente seu CPF e senha da conta, será apresentada uma tela onde será possível identificar os processos que já foram abertos e as fases em que se encontram . As solicitações são identificadas pelo seu número de protocolo associado. É possível alternar entre a exibição das solicitações Em andamento e as já Concluídas , basta clicar na chave azul equivalen"
+    },
+    {
+      "titulo": "Consultar Meu Imposto de Renda",
+      "orgao": "ANA",
+      "tema": "Recursos Hídricos",
+      "data": "25/08/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.gov.br/pt-br/servicos/consultar-meu-imposto-de-renda?origem=maisacessado_inst",
+      "desc": "O número antes das estrelas é a nota dada pelos usuários que utilizaram o serviço e vai de 1 a 5. Depois das estrelas, entre parênteses, é a quantidade de usuários que avaliaram o serviço. Os números são atualizados diariamente."
+    },
+    {
+      "titulo": "Consultar restituição de imposto de renda",
+      "orgao": "ANA",
+      "tema": "Recursos Hídricos",
+      "data": "25/08/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.gov.br/pt-br/servicos/consultar-restituicao-de-imposto-de-renda?origem=maisacessado_inst",
+      "desc": "O número antes das estrelas é a nota dada pelos usuários que utilizaram o serviço e vai de 1 a 5. Depois das estrelas, entre parênteses, é a quantidade de usuários que avaliaram o serviço. Os números são atualizados diariamente."
+    },
+    {
+      "titulo": "Consultar dados do Cadastro Único",
+      "orgao": "ANA",
+      "tema": "Recursos Hídricos",
+      "data": "25/08/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.gov.br/pt-br/servicos/consultar-dados-do-cadastro-unico-cadunico?origem=maisacessado_inst",
+      "desc": "O número antes das estrelas é a nota dada pelos usuários que utilizaram o serviço e vai de 1 a 5. Depois das estrelas, entre parênteses, é a quantidade de usuários que avaliaram o serviço. Os números são atualizados diariamente."
+    },
+    {
+      "titulo": "Creative Commons",
+      "orgao": "ANA",
+      "tema": "Recursos Hídricos",
+      "data": "25/08/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://creativecommons.org/licenses/by-nd/3.0/deed.pt_BR",
+      "desc": "This is an older version of this license. Compared to previous\n            versions, the 4.0 versions of all CC licenses are more user-friendly and more internationally robust . If you are licensing your own work , we\n            strongly recommend the use of the 4.0 license instead: Deed - Attribution-NoDerivatives 4.0 International"
     },
     {
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "24/08/2026",
+      "data": "25/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -158,7 +395,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "24/08/2026",
+      "data": "25/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -170,7 +407,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "24/08/2026",
+      "data": "25/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -182,7 +419,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "24/08/2026",
+      "data": "25/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -194,7 +431,7 @@
       "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "24/08/2026",
+      "data": "25/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -209,7 +446,7 @@
       "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "24/08/2026",
+      "data": "25/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -221,7 +458,7 @@
       "titulo": "SEMIG Secretaria de Estado de Energia, Mineração e Gás",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "24/08/2026",
+      "data": "25/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -235,7 +472,7 @@
       "titulo": "E-mail Integra Amazonas",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "24/08/2026",
+      "data": "25/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -247,7 +484,7 @@
       "titulo": "semig@semig.am.gov.br",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "24/08/2026",
+      "data": "25/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -259,7 +496,7 @@
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "24/08/2026",
+      "data": "25/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -268,10 +505,22 @@
       "desc": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
+      "titulo": "Prefeito Renato Junior anuncia atrações do ‘#SouManaus Passo a Paço 2026’ e destaca ampliação de espaço para artistas locais e redução do uso de recursos públicos em R$ 10 milhões",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "25/08/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/festivais/anuncio-atracoes-soumanaus-passo-a-paco-2026/",
+      "desc": "FESTIVAIS Prefeitura abre primeiro lote de reservas do ‘#SouManaus Passo a Paço 2026’ nesta segunda-feira, 24/8 e anuncia sete pontos para retirada de pulseiras"
+    },
+    {
       "titulo": "Prefeito Renato Junior vistoria montagem de palco do ‘#SouManaus Passo a Paço 2026’ e programação será apresentada nesta segunda-feira, 24/8",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "24/08/2026",
+      "data": "25/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -280,22 +529,10 @@
       "desc": "Eventos Centro Histórico de Manaus é tema de encontros sobre preservação e novos usos durante o ‘Mês do Patrimônio’"
     },
     {
-      "titulo": "Prefeitura de Manaus intensifica mutirão de limpeza com aproximadamente 1.500 servidores nesta terça-feira",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "24/08/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/acao/prefeitura-semulsp-acao-mutirao-de-limpeza/",
-      "desc": "Página Inicial Notícias Ação Prefeitura de Manaus intensifica mutirão de limpeza com aproximadamente 1.500 servidores nesta terça-feira Prefeitura de Manaus intensifica mutirão de limpeza com aproximadamente 1.500 servidores nesta terça-feira Por Prefeitura de Manaus 18/08/2026 12h30 Seu navegador não suporta o elemento de áudio. A Prefeitura de Manaus mobiliza aproximadamente 1.500 servidores, nesta terça-feira, 18/8, em uma ação de zeladoria e manutenção urbana “mutirão de limpeza” por todas as zonas da capital amazonense. As frentes de trabalho da Secretaria Municipal de Limpeza Urbana (Semulsp) executam serviços essenciais de capinação, varrição, recolhimento de entulhos e conservação de vias e áreas comunitárias. Entre os pontos atendidos pelas equipes está o conjunto Atílio Andreazza"
-    },
-    {
       "titulo": "Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "24/08/2026",
+      "data": "25/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -307,7 +544,7 @@
       "titulo": "Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "24/08/2026",
+      "data": "25/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -319,7 +556,7 @@
       "titulo": "Prefeitura realiza 7ª edição do programa ‘Manaus que a Gente Cuida’ no Parque Solimões com anúncio de requalificação de lagoa da comunidade",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "24/08/2026",
+      "data": "25/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -331,7 +568,7 @@
       "titulo": "Parque Encontro das Águas Rosa Almeida avança com novas frentes de obra e reforça ritmo de construção da Prefeitura de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "24/08/2026",
+      "data": "25/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -343,7 +580,7 @@
       "titulo": "Prefeitura intensifica operação ‘Centro Mais Seguro’ e reforça ordenamento urbano, assistência social e mobilidade na região central de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "24/08/2026",
+      "data": "25/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
