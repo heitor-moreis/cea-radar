@@ -1,15 +1,15 @@
 {
-  "ultima_coleta": "27/08/2026 16:59",
+  "ultima_coleta": "28/08/2026 17:25",
   "mes_ano": "Ago/2026",
   "total": 44,
   "fontes": 18,
   "fontes_com_falha": [],
   "stats": {
-    "critico": 3,
-    "alto": 14,
+    "critico": 4,
+    "alto": 13,
     "medio": 1,
     "baixo": 26,
-    "consultas_abertas": 6
+    "consultas_abertas": 7
   },
   "por_orgao": {
     "ANEEL": 8,
@@ -36,7 +36,7 @@
       "titulo": "Estados localizados no norte e nordeste terão as tarifas reduzidas a partir desta quarta-feira (26)",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -50,7 +50,7 @@
       "titulo": "ANEEL nega pedido de prova pericial feito pela Enel Distribuição São Paulo",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -60,10 +60,24 @@
       "desc": "Notícias Fiscalização ANEEL nega pedido de prova pericial feito pela Enel Distribuição São Paulo A partir de agora, a empresa tem 10 dias para apresentar suas alegações finais dentro do processo administrativo. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 24/08/2026 17h01 Atualizado em 24/08/2026 19h06 A Diretoria da Agência Nacional de Energia Elétrica (ANEEL) rejeitou  hoje (24), durante Reunião Pública Ordinária, pedido de prova pericial feito pela Enel Distribuição São Paulo, no âmbito do Procedimento Administrativo de Avaliação de Recomendação de Caducidade do Contrato de Concessão nº 162/2008-ANEEL. Com a decisão, a distribuidora passa à etapa final de instrução"
     },
     {
+      "titulo": "Royalties: ANP publica resolução sobre distribuição a municípios afetados por instalações de embarque e desembarque",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "28/08/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico",
+        "energia",
+        "gas"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/royalties-anp-publica-resolucao-sobre-distribuicao-a-municipios-afetados-por-instalacoes-de-embarque-e-desembarque",
+      "desc": "Notícias Royalties: ANP publica resolução sobre distribuição a municípios afetados por instalações de embarque e desembarque Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 28/08/2026 16h43 A ANP publicou hoje (28/8) a Resolução nº 1.007/2026 , que revisa a Portaria Técnica ANP nº 29/2001 . O novo regulamento determina que, a partir de 1º de julho de 2026, os terminais aquaviários passaram a ser considerados instalações de embarque ou desembarque de petróleo ou gás, para fins de pagamento de royalties, desde que estejam diretamente ligados a instalações marítimas previstas no Decreto nº 1/1991 . A Portaria Técnica ANP nº 29/2001 estabelece os critérios de distribuição do"
+    },
+    {
       "titulo": "Informações",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -76,7 +90,7 @@
       "titulo": "Revisão tarifária da Neoenergia Distribuição Brasília é discutida durante Audiência Pública",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -91,7 +105,7 @@
       "titulo": "ANEEL promoverá audiência pública sobre editais dos primeiros leilões de baterias de grande porte do Brasil",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -105,7 +119,7 @@
       "titulo": "Audiência Pública debaterá proposta de revisão das tarifas da Neoenergia Distribuição Brasília S.A",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -120,7 +134,7 @@
       "titulo": "ANEEL promove consulta pública sobre adoção de redes subterrâneas",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -135,7 +149,7 @@
       "titulo": "Pacto Energia tem novas tarifas de energia elétrica aprovadas pela ANEEL",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -149,7 +163,7 @@
       "titulo": "Aprovada consulta pública para debater revisão tarifária da CEEE-D",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -161,10 +175,24 @@
       "desc": "Notícias TARIFAS Aprovada consulta pública para debater revisão tarifária da CEEE-D As contribuições poderão ser enviadas de 26 de agosto a 9 de outubro de 2026 Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 24/08/2026 12h38 Foi aprovada pela diretoria colegiada da Agência Nacional de Energia Elétrica (ANEEL), nesta segunda -feira ( 24 / 8 ), a abertura da Consulta Pública nº 027 /202 6 , que irá colher subsídios para o aprimoramento da proposta de Revisão Tarifária Periódica (RTP) da Companhia Estadual de Distribuição de Energia E lé trica ( CEEE-D ) . Sediada na cidade de Porto Alegre, no estado do Rio Grande do Sul , a distribuidora atende aproximadamente 2,03 milhõe"
     },
     {
+      "titulo": "Gás natural: prorrogado até 14/9 o prazo da consulta pública sobre acesso de terceiros a gasodutos de escoamento e instalações de processamento",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "28/08/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto",
+        "gas",
+        "consulta"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/gas-natural-prorrogado-ate-14-9-o-prazo-da-consulta-publica-sobre-acesso-de-terceiros-a-gasodutos-de-escoamento-e-instalacoes-de-processamento",
+      "desc": "Notícias Gás natural: prorrogado até 14/9 o prazo da consulta pública sobre acesso de terceiros a gasodutos de escoamento e instalações de processamento A audiência pública sobre o tema será em 1/10 Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 28/08/2026 14h29 Atualizado em 28/08/2026 16h42 A ANP prorrogou, por 15 dias, o prazo de encerramento da Consulta Pública nº 13/2026, sobre minuta de resolução para regulamentação do acesso não discriminatório e negociado de terceiros interessados aos gasodutos de escoamento da produção e às instalações de tratamento ou processamento de gás natural. O novo prazo final para o envio de contribuições passa a ser 14/9. Por conta da "
+    },
+    {
       "titulo": "Diretoria da ANP aprova reestruturação organizacional em etapas a partir de setembro",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -177,7 +205,7 @@
       "titulo": "Entre os dias 17 e 21/8, a ANP realizou 155 ações de fiscalização com foco em preços abusivos",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -190,7 +218,7 @@
       "titulo": "ANP fará consulta e audiência públicas sobre monitoramento da mistura obrigatória de biodiesel",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -200,35 +228,10 @@
       "desc": "Notícias ANP fará consulta e audiência públicas sobre monitoramento da mistura obrigatória de biodiesel Minuta de resolução prevê uso de dados fiscais eletrônicos para tornar mais ágil o acompanhamento do cumprimento das regras pelos distribuidores Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 21/08/2026 10h14 Atualizado em 27/08/2026 12h32 A Diretoria da ANP aprovou hoje (21/8) a realização de consulta, por 45 dias, e audiência públicas sobre minuta de resolução que altera duas resoluções da Agência relativas ao biodiesel e à remessa de dados dos agentes à ANP. O objetivo da revisão é implementar obrigações legais relacionadas à comprovação, pelos distribuidores de co"
     },
     {
-      "titulo": "Entre os dias 10 e 14/8, a ANP realizou 145 ações de fiscalização com foco em preços abusivos",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "27/08/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto",
-        "gas"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/entre-os-dias-10-e-14-8-a-anp-realizou-145-acoes-de-fiscalizacao-com-foco-em-precos-abusivos",
-      "desc": "Notícias Entre os dias 10 e 14/8, a ANP realizou 145 ações de fiscalização com foco em preços abusivos Além disso, a Agência seguiu com as fiscalizações de rotina sobre qualidade, quantidade e outros aspectos. Houve ações em 15 estados. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 19/08/2026 09h44 Atualizado em 19/08/2026 10h20 A ANP fez 145 ações de fiscalização na última semana (10 a 14/8) com foco em preços abusivos de combustíveis. Do total das ações realizadas com esse foco no período, 124 ocorreram em postos revendedores de combustíveis líquidos, 18 em revendedores de GLP (gás de cozinha), duas em distribuidoras de combustíveis e uma em distribuidora de GLP. Nes"
-    },
-    {
-      "titulo": "RenovaBio: ANP abre participação social para as novas versões da RenovaCalc",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "27/08/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/renovabio-anp-abre-participacao-social-para-as-novas-versoes-da-renovacalc",
-      "desc": "Notícias RenovaBio: ANP abre participação social para as novas versões da RenovaCalc Ferramenta realiza o cálculo da intensidade de carbono dos biocombustíveis Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 17/08/2026 11h10 A ANP disponibilizou hoje, para participação social, até 16/9/2026, as novas versões da RenovaCalc, ferramenta de cálculo da intensidade de carbono dos biocombustíveis e da documentação técnica associada. As versões foram elaboradas por integrantes do Grupo Técnico RenovaBio em decorrência da publicação da Resolução ANP nº 984/2025 e da revisão das premissas metodológicas utilizadas no cálculo da Nota de Eficiência Energético-Ambiental (NEEA). As atu"
-    },
-    {
       "titulo": "Chamada Pública 001/2026",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -240,7 +243,7 @@
       "titulo": "Prefeito Renato Junior vistoria obra do complexo viário ‘Passarão’ e destaca avanço acelerado da concretagem dos tabuleiros",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -252,7 +255,7 @@
       "titulo": "Prefeito Renato Junior vistoria avanço das obras do parque Encontro das Águas Rosa Almeida e destaca o potencial do espaço como novo eixo turístico na zona Leste",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -264,19 +267,19 @@
       "titulo": "ANP publica edital do Prêmio ANP de Inovação Tecnológica 2026",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "medio",
       "tags": [
         "medio"
       ],
       "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-publica-edital-do-premio-anp-de-inovacao-tecnologica-2026",
-      "desc": "Notícias Tecnologia e Inovação ANP publica edital do Prêmio ANP de Inovação Tecnológica 2026 Premiação reconhece projetos de PD&I, trabalhos acadêmicos do PRH-ANP, projetos do NAVE-ANP e personalidades da indústria e da academia. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 24/08/2026 11h48 A ANP publicou hoje (24/8) o edital do Prêmio ANP de Inovação Tecnológica 2026. As inscrições estarão abertas até 8/9/2026. Para esta próxima edição, foi incluída a premiação de projetos vinculados à primeira edição do Programa ANP de Empreendedorismo - NAVE-ANP. Foram mantidas as modalidades contempladas em anos anteriores: Projetos de PD&I, trabalhos do Programa de Formação de Re"
+      "desc": "Notícias Tecnologia e Inovação ANP publica edital do Prêmio ANP de Inovação Tecnológica 2026 Premiação reconhece projetos de PD&I, trabalhos acadêmicos do PRH-ANP, projetos do NAVE-ANP e personalidades da indústria e da academia. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 24/08/2026 11h48 Atualizado em 28/08/2026 10h38 A ANP publicou hoje (24/8) o edital do Prêmio ANP de Inovação Tecnológica 2026 . As inscrições estarão abertas até 8/9/2026. Para esta próxima edição, foi incluída a premiação de projetos vinculados à primeira edição do Programa ANP de Empreendedorismo - NAVE-ANP. Foram mantidas as modalidades contempladas em anos anteriores: Projetos de PD&I, trabalh"
     },
     {
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -288,7 +291,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -301,7 +304,7 @@
       "titulo": "ANP realiza workshop sobre mercados de carbono e instrumentos de descarbonização no setor de energia",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -314,7 +317,7 @@
       "titulo": "AVISO: Funcionamento do protocolo e do Escritório Central da ANP, no Rio de Janeiro, em 21/8",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -326,7 +329,7 @@
       "titulo": "Consultar minhas solicitações",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -338,7 +341,7 @@
       "titulo": "Consultar Meu Imposto de Renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -350,7 +353,7 @@
       "titulo": "Consultar restituição de imposto de renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -362,7 +365,7 @@
       "titulo": "Consultar dados do Cadastro Único",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -374,7 +377,7 @@
       "titulo": "Creative Commons",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -386,7 +389,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -398,7 +401,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -410,7 +413,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -422,7 +425,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -434,7 +437,7 @@
       "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -449,7 +452,7 @@
       "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -461,7 +464,7 @@
       "titulo": "SEMIG Secretaria de Estado de Energia, Mineração e Gás",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -475,7 +478,7 @@
       "titulo": "E-mail Integra Amazonas",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -487,7 +490,7 @@
       "titulo": "semig@semig.am.gov.br",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -499,7 +502,7 @@
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -511,7 +514,7 @@
       "titulo": "Prefeito Renato Junior anuncia atrações do ‘#SouManaus Passo a Paço 2026’ e destaca ampliação de espaço para artistas locais e redução do uso de recursos públicos em R$ 10 milhões",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -523,7 +526,7 @@
       "titulo": "Prefeito Renato Junior vistoria montagem de palco do ‘#SouManaus Passo a Paço 2026’ e programação será apresentada nesta segunda-feira, 24/8",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -535,7 +538,7 @@
       "titulo": "Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -547,7 +550,7 @@
       "titulo": "Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -559,7 +562,7 @@
       "titulo": "Prefeitura realiza 7ª edição do programa ‘Manaus que a Gente Cuida’ no Parque Solimões com anúncio de requalificação de lagoa da comunidade",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -571,7 +574,7 @@
       "titulo": "Parque Encontro das Águas Rosa Almeida avança com novas frentes de obra e reforça ritmo de construção da Prefeitura de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -583,7 +586,7 @@
       "titulo": "Prefeitura intensifica operação ‘Centro Mais Seguro’ e reforça ordenamento urbano, assistência social e mobilidade na região central de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "27/08/2026",
+      "data": "28/08/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
