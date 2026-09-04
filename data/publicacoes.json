@@ -1,24 +1,23 @@
 {
-  "ultima_coleta": "03/09/2026 10:56",
+  "ultima_coleta": "04/09/2026 10:45",
   "mes_ano": "Set/2026",
-  "total": 44,
+  "total": 43,
   "fontes": 18,
   "fontes_com_falha": [],
   "stats": {
     "critico": 3,
     "alto": 11,
-    "medio": 3,
-    "baixo": 27,
-    "consultas_abertas": 6
+    "medio": 4,
+    "baixo": 25,
+    "consultas_abertas": 9
   },
   "por_orgao": {
     "ANEEL": 8,
     "ANP": 8,
     "ANA": 5,
     "Prefeitura Manaus": 4,
-    "SEMIG": 3,
+    "Implurb": 3,
     "IMMU": 3,
-    "Implurb": 2,
     "AmE": 1,
     "SEFAZ-AM": 1,
     "DOU": 1,
@@ -29,6 +28,7 @@
     "TAG": 1,
     "Cigás": 1,
     "ARSEPAM": 1,
+    "SEMIG": 1,
     "Seinfra-AM": 1
   },
   "publicacoes": [
@@ -36,7 +36,7 @@
       "titulo": "ANEEL aprova redução nas tarifas da Roraima Energia",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "03/09/2026",
+      "data": "04/09/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -47,24 +47,22 @@
       "desc": "Notícias TARIFAS ANEEL aprova redução nas tarifas da Roraima Energia A redução tarifária média foi de 14,67% Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 02/09/2026 13h08 Atualizado em 02/09/2026 13h12 A diretoria colegiada da Agência Nacional de Energia Elétrica (ANEEL) aprovou nesta terça-feira (1º/9), em circuito deliberativo, redução tarifária média de 14,67% na área de concessão da Roraima Energia S.A. A decisão foi tomada após recálculo das tarifas estabelecidas pela Resolução Homologatória nº 3.565, de 20 de janeiro de 2026 . As tarifas aprovadas foram impactadas pela antecipação dos recursos da repactuação de cotas de Uso de Bem Público (UBP) , conforme prevê "
     },
     {
-      "titulo": "Royalties: ANP publica resolução sobre distribuição a municípios afetados por instalações de embarque e desembarque",
+      "titulo": "Aprovada a indicação de 24 blocos na Bacia Potiguar para futuros ciclos da Oferta Permanente de Concessão (OPC)",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "03/09/2026",
+      "data": "04/09/2026",
       "impacto": "critico",
       "tags": [
-        "critico",
-        "energia",
-        "gas"
+        "critico"
       ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/royalties-anp-publica-resolucao-sobre-distribuicao-a-municipios-afetados-por-instalacoes-de-embarque-e-desembarque",
-      "desc": "Notícias Royalties: ANP publica resolução sobre distribuição a municípios afetados por instalações de embarque e desembarque Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 28/08/2026 16h43 A ANP publicou hoje (28/8) a Resolução nº 1.007/2026 , que revisa a Portaria Técnica ANP nº 29/2001 . O novo regulamento determina que, a partir de 1º de julho de 2026, os terminais aquaviários passaram a ser considerados instalações de embarque ou desembarque de petróleo ou gás, para fins de pagamento de royalties, desde que estejam diretamente ligados a instalações marítimas previstas no Decreto nº 1/1991 . A Portaria Técnica ANP nº 29/2001 estabelece os critérios de distribuição do"
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/aprovada-a-indicacao-de-24-blocos-na-bacia-potiguar-para-futuros-ciclos-da-oferta-permanente-de-concessao-opc",
+      "desc": "Notícias Aprovada a indicação de 24 blocos na Bacia Potiguar para futuros ciclos da Oferta Permanente de Concessão (OPC) Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 04/09/2026 11h00 A Diretoria da ANP aprovou hoje (4/9) a indicação de 24 novos blocos exploratórios na porção terrestre da Bacia Potiguar, com vistas à eventual inclusão em futuros ciclos da Oferta Permanente de Concessão (OPC). Ou seja, as áreas indicadas somente poderão ser disponibilizadas para oferta após o 6º ciclo, previsto para acontecer no dia 07 de outubro 2026. Os blocos aprovados ainda precisarão cumprir etapas como análise ambiental e emissão de Manifestação Conjunta dos Ministérios de Minas e"
     },
     {
       "titulo": "Informações",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "03/09/2026",
+      "data": "04/09/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -74,22 +72,22 @@
       "desc": "Informações Decretos de Situação de Emergência Alteração de Carga Cadastro de Equipamento Vital Cliente Alta Tensão Cliente Mercado Livre Compartilhamento de infraestruturas Contrato Contribuição de Iluminação Pública por Município Decretos de Situação de Emergência Desligamentos Programados Despesas Associadas a CCC Dicas de Consumo Consciente Dicas de Segurança Direitos e Deveres Furto de energia elétrica é crime Iluminação Pública Indicadores de Continuidade Ligação Nova Ligação Provisória Localizar App na Loja Micro/Minigeração Distribuída Normas Técnicas e Manuais Notícias Orçamento de Conexão / Projeto / Vistoria Padrão de Entrada Pesquisa de Curvas de Carga e Hábitos de Consumo Poda e Arborização Programa de Eficiência Energética Programa de Eletrificação Rural Programa de Pesquisa "
     },
     {
-      "titulo": "Novas Portarias alteram a estrutura da ANEEL",
+      "titulo": "Novas Portarias alteram a estrutura organizacional da ANEEL",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "03/09/2026",
+      "data": "04/09/2026",
       "impacto": "alto",
       "tags": [
         "alto"
       ],
       "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/novas-portarias-alteram-a-estrutura-da-aneel",
-      "desc": "Notícias INSTITUCIONAL Novas Portarias alteram a estrutura da ANEEL Entenda as principais alterações. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 03/09/2026 10h12 Atualizado em 03/09/2026 11h46 As Portarias publicadas nesta quinta-feira (3/9) estabelecem mudanças importantes na estrutura e funcionamento da ANEEL. Entenda um pouco mais sobre as principais alterações trazidas: A Portaria Nº 7.155 altera o Regimento Interno da ANEEL, estabelecendo a nova estrutura da Agência, bem como atualiza competências das Unidades Organizacionais. A Portaria Nº 7.151 efetiva alterações na estrutura do Gabinete de Assessoramento da Diretoria III (GAB- III), extinguindo três FCE 2.11"
+      "desc": "Notícias INSTITUCIONAL Novas Portarias alteram a estrutura organizacional da ANEEL Entenda as principais alterações. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 03/09/2026 10h12 Atualizado em 03/09/2026 12h48 Nesta quinta-feira (3/9), foram publicadas portarias que promovem ajustes na estrutura organizacional da ANEEL. Confira os principais destaques: Atualização do Regimento Interno A Portaria Nº 7.155 atualiza o Regimento Interno da ANEEL para refletir a atual estrutura organizacional da Agência. A norma também revisa competências de algumas unidades organizacionais e aperfeiçoa dispositivos relacionados ao funcionamento institucional. Entre as principais mudanças "
     },
     {
       "titulo": "Consulta Pública propõe aprimoramento das Regras de Comercialização  2027",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "03/09/2026",
+      "data": "04/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -103,7 +101,7 @@
       "titulo": "Audiência Pública debate editais dos primeiros leilões de baterias de grande porte no Brasil",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "03/09/2026",
+      "data": "04/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -117,7 +115,7 @@
       "titulo": "Termelétrica Manaus I inicia operação comercial parcial com 114,8 MW",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "03/09/2026",
+      "data": "04/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -131,7 +129,7 @@
       "titulo": "Revisão tarifária da Neoenergia Distribuição Brasília é discutida durante Audiência Pública",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "03/09/2026",
+      "data": "04/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -143,37 +141,49 @@
       "desc": "Notícias TARIFAS Revisão tarifária da Neoenergia Distribuição Brasília é discutida durante Audiência Pública A sessão contou com a participação de cerca de 40 pessoas. Interessados podem enviar contribuições ao processo por e-mail até 12/9. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 27/08/2026 14h13 A Revisão Tarifária da Neoenergia Distribuição Brasília S.A para o ano de 2026 foi discutida hoje (27) durante Audiência Pública realizada na sede da Agência Nacional de Energia Elétrica (ANEEL), em Brasília. Cerca de 40 pessoas participaram da sessão, entre representantes da Neoenergia Brasília e do Conselho de Consumidores. A Audiência Pública foi presidida pelo Direto"
     },
     {
-      "titulo": "Entre os dias 24 e 28/8, a ANP realizou 127 ações de fiscalização com foco em preços abusivos",
+      "titulo": "Fiscalização: aprovada consulta pública para revisão de norma sobre tratamento diferenciado a micro e pequenas empresas",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "03/09/2026",
+      "data": "04/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
-        "gas"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/entre-os-dias-24-e-28-8-a-anp-realizou-127-acoes-de-fiscalizacao-com-foco-em-precos-abusivos",
-      "desc": "Notícias Entre os dias 24 e 28/8, a ANP realizou 127 ações de fiscalização com foco em preços abusivos Além disso, a Agência seguiu com as fiscalizações de rotina sobre qualidade, quantidade e outros aspectos. Houve ações em 18 estados. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 28/08/2026 18h22 Atualizado em 31/08/2026 14h04 A ANP fez 127 ações de fiscalização na última semana (24/08 a 28/8) com foco em preços abusivos de combustíveis. Do total das ações realizadas com esse foco no período, 107 ocorreram em postos revendedores de combustíveis líquidos, 19 em revendedores de GLP (gás de cozinha) e uma em transportador-revendedor-retalhista (TRR). Nessas ações, a Agê"
-    },
-    {
-      "titulo": "Gás natural: prorrogado até 14/9 o prazo da consulta pública sobre acesso de terceiros a gasodutos de escoamento e instalações de processamento",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "03/09/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto",
-        "gas",
         "consulta"
       ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/gas-natural-prorrogado-ate-14-9-o-prazo-da-consulta-publica-sobre-acesso-de-terceiros-a-gasodutos-de-escoamento-e-instalacoes-de-processamento",
-      "desc": "Notícias Gás natural: prorrogado até 14/9 o prazo da consulta pública sobre acesso de terceiros a gasodutos de escoamento e instalações de processamento A audiência pública sobre o tema será em 1/10 Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 28/08/2026 14h29 Atualizado em 28/08/2026 16h42 A ANP prorrogou, por 15 dias, o prazo de encerramento da Consulta Pública nº 13/2026, sobre minuta de resolução para regulamentação do acesso não discriminatório e negociado de terceiros interessados aos gasodutos de escoamento da produção e às instalações de tratamento ou processamento de gás natural. O novo prazo final para o envio de contribuições passa a ser 14/9. Por conta da "
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/fiscalizacao-aprovada-consulta-publica-para-revisao-de-norma-sobre-tratamento-diferenciado-a-micro-e-pequenas-empresas-1",
+      "desc": "Notícias Fiscalização: aprovada consulta pública para revisão de norma sobre tratamento diferenciado a micro e pequenas empresas Proposta busca ampliar a fiscalização orientadora e corrigir lacunas Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 04/09/2026 10h29 Atualizado em 04/09/2026 11h10 A Diretoria Colegiada da ANP aprovou, nesta sexta-feira (4/9), a realização de consulta pública sobre a proposta de revisão da Resolução nº 759/2018, que estabelece critérios para o tratamento diferenciado às microempresas e empresas de pequeno porte (MEs e EPPs) nas ações de fiscalização da Agência e de seus órgãos conveniados. A proposta poderá beneficiar cerca de 74 mil estabelec"
+    },
+    {
+      "titulo": "Norma sobre regulação experimental na ANP será tema de consulta e audiência públicas",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "04/09/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto",
+        "consulta"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/norma-sobre-regulacao-experimental-na-anp-sera-tema-de-consulta-e-audiencia-publicas",
+      "desc": "Notícias Norma sobre regulação experimental na ANP será tema de consulta e audiência públicas Proposta prevê três modalidades de experimentação para testar novas tecnologias, produtos, serviços e modelos de negócios em ambiente supervisionado. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 04/09/2026 10h25 A Diretoria Colegiada da ANP aprovou a realização de consulta e audiência públicas sobre a minuta de resolução que estabelece as regras para a constituição, instauração e funcionamento de ambientes regulatórios experimentais na autarquia. A iniciativa tem como objetivo criar condições para que novas tecnologias, produtos, serviços e modelos de negócios possam ser test"
+    },
+    {
+      "titulo": "Revisão de regras do RenovaBio para novos distribuidores passará por consulta e audiência públicas",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "04/09/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto",
+        "consulta"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/revisao-de-regras-do-renovabio-para-novos-distribuidores-passara-por-consulta-e-audiencia-publicas",
+      "desc": "Notícias Revisão de regras do RenovaBio para novos distribuidores passará por consulta e audiência públicas Proposta atualiza critérios para definição e comprovação das metas de redução de emissões nos dois primeiros anos de atuação dos distribuidores de combustíveis Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 04/09/2026 09h44 A Diretoria da ANP aprovou hoje (4/9) o relatório de Análise de Impacto Regulatório (AIR) e a realização de consulta, por 45 dias, e audiência públicas sobre a revisão da Resolução ANP nº 791/2019 . Essa norma dispõe sobre a individualização das metas compulsórias anuais de redução de emissões de gases de efeito estufa associadas à comercializa"
     },
     {
       "titulo": "Chamada Pública 001/2026",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "03/09/2026",
+      "data": "04/09/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -185,31 +195,19 @@
       "titulo": "Prefeito Renato Junior vistoria obra no canteiro central da avenida Margarita com nova estrutura e paisagismo",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "03/09/2026",
+      "data": "04/09/2026",
       "impacto": "alto",
       "tags": [
         "alto"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/fiscalizacao/vistoria-obra-canteiro-central-avenida-margarita/",
+      "url": "https://www.manaus.am.gov.br/noticia/fiscalizacao/prefeito-vistoria-obra-canteiro-central-avenida-margarita/",
       "desc": "Fiscalização Prefeito Renato Junior vistoria obras em canteiros centrais na zona Norte com reestruturação para devolver a autoestima de Manaus"
-    },
-    {
-      "titulo": "Prefeito Renato Junior vistoria obras em canteiros centrais na zona Norte com reestruturação para devolver a autoestima de Manaus",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "03/09/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/fiscalizacao/prefeito-vistoria-obras-canteiros-centrais-zona-norte/",
-      "desc": "Fiscalização Prefeito Renato Junior vistoria obra no canteiro central da avenida Margarita com nova estrutura e paisagismo"
     },
     {
       "titulo": "Prefeito Renato Junior vistoria avanço das obras do parque Encontro das Águas Rosa Almeida e destaca o potencial do espaço como novo eixo turístico na zona Leste",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "03/09/2026",
+      "data": "04/09/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -221,7 +219,7 @@
       "titulo": "ANEEL propõe novo indicador para incentivar o cumprimento dos prazos de execução de obras relacionadas ao serviço de distribuição",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "03/09/2026",
+      "data": "04/09/2026",
       "impacto": "medio",
       "tags": [
         "medio",
@@ -232,35 +230,48 @@
       "desc": "Notícias Distribuição ANEEL propõe novo indicador para incentivar o cumprimento dos prazos de execução de obras relacionadas ao serviço de distribuição Os interessados podem enviar contribuições para o e-mail: cp031_2026@aneel.gov.br entre 3/9 e 19/10/26. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 01/09/2026 19h04 A Diretoria da Agência Nacional de Energia Elétrica (ANEEL) aprovou a abertura de Consulta Pública para discutir o estabelecimento de Indicador de Atendimento de Mercado no Serviço Público de Distribuição de Energia Elétrica (IAM). A ideia é que esse indicador contempl e a avaliação simultânea de um conjunto de informações: (i) o percentual de obras efetiv"
     },
     {
-      "titulo": "ANP publica edital do Prêmio ANP de Inovação Tecnológica 2026",
+      "titulo": "ANP realizará consulta e audiência públicas sobre novas exigências de capital social mínimo para agentes do setor de combustíveis",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "03/09/2026",
-      "impacto": "medio",
-      "tags": [
-        "medio"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-publica-edital-do-premio-anp-de-inovacao-tecnologica-2026",
-      "desc": "Notícias Tecnologia e Inovação ANP publica edital do Prêmio ANP de Inovação Tecnológica 2026 Premiação reconhece projetos de PD&I, trabalhos acadêmicos do PRH-ANP, projetos do NAVE-ANP e personalidades da indústria e da academia. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 24/08/2026 11h48 Atualizado em 28/08/2026 10h38 A ANP publicou hoje (24/8) o edital do Prêmio ANP de Inovação Tecnológica 2026 . As inscrições estarão abertas até 8/9/2026. Para esta próxima edição, foi incluída a premiação de projetos vinculados à primeira edição do Programa ANP de Empreendedorismo - NAVE-ANP. Foram mantidas as modalidades contempladas em anos anteriores: Projetos de PD&I, trabalh"
-    },
-    {
-      "titulo": "Prefeito Renato Junior leva demandas de Manaus a presidente Lula e garante R$ 100 milhões para obras na zona Sul",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "03/09/2026",
+      "data": "04/09/2026",
       "impacto": "medio",
       "tags": [
         "medio",
         "consulta"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/investimentos/investimento-demandas-manaus/",
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-realizara-consulta-e-audiencia-publicas-sobre-novas-exigencias-de-capital-social-minimo-para-agentes-do-setor-de-combustiveis",
+      "desc": "Notícias ANP realizará consulta e audiência públicas sobre novas exigências de capital social mínimo para agentes do setor de combustíveis Proposta adequa normas da Agência ao Código de Defesa do Contribuinte. A consulta terá duração de 45 dias. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 04/09/2026 09h47 A Diretoria da ANP aprovou hoje (4/9) a realização de consulta, por 45 dias, e audiência públicas sobre alteração em seis resoluções referentes a agentes regulados do setor de abastecimento. As alterações tratam da atualização do capital social mínimo integralizado, da exigência de comprovação da origem e licitude dos recursos financeiros utilizados para a integrali"
+    },
+    {
+      "titulo": "Prorrogado para 21/9 o prazo para inscrições no Prêmio ANP de Inovação Tecnológica 2026",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "04/09/2026",
+      "impacto": "medio",
+      "tags": [
+        "medio"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/prorrogado-para-21-9-o-prazo-para-inscricoes-no-premio-anp-de-inovacao-tecnologica-2026",
+      "desc": "Notícias Prorrogado para 21/9 o prazo para inscrições no Prêmio ANP de Inovação Tecnológica 2026 Edital com as condições de participação e os procedimentos de inscrição está disponível no site da ANP Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 03/09/2026 15h46 O prazo para inscrição no Prêmio ANP de Inovação Tecnológica 2026 foi prorrogado para 21/9. A data anteriormente prevista era 8/9. Os interessados em participar devem consultar o edital e seus anexos antes de realizar a inscrição. O documento apresenta as condições de participação, a documentação obrigatória, os critérios de julgamento, os procedimentos de inscrição e as demais regras aplicáveis a cada modalida"
+    },
+    {
+      "titulo": "Prefeito Renato Junior leva demandas de Manaus a presidente Lula e garante R$ 100 milhões para obras na zona Sul",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "04/09/2026",
+      "impacto": "medio",
+      "tags": [
+        "medio",
+        "consulta"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/investimentos/prefeito-investimento-demandas-manaus/",
       "desc": "Investimentos Prefeitura de Manaus encerra Audiência Pública do PPA 2026-2029 e PLOA 2026 com foco em regionalização e grandes projetos"
     },
     {
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "03/09/2026",
+      "data": "04/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -272,7 +283,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "03/09/2026",
+      "data": "04/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -285,7 +296,7 @@
       "titulo": "ANEEL mantém bandeira tarifária amarela em setembro",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "03/09/2026",
+      "data": "04/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -298,7 +309,7 @@
       "titulo": "Jornada Empreendedora PRH-ANP 2026: anunciadas as seis equipes finalistas",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "03/09/2026",
+      "data": "04/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -310,7 +321,7 @@
       "titulo": "CGOB: ANP publica Informes Técnicos que permitem início da certificação de produtores e importadores de biometano",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "03/09/2026",
+      "data": "04/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -319,35 +330,10 @@
       "desc": "Notícias CGOB: ANP publica Informes Técnicos que permitem início da certificação de produtores e importadores de biometano Documentos detalham procedimentos e documentação para certificação de origem do biometano com vistas à emissão do CGOB Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 01/09/2026 12h50 A Diretoria da ANP aprovou ontem (31/8) e a Agência publicou hoje (1/9) dois informes técnicos referentes ao Certificado de Garantia de Origem de Biometano (CGOB). Ambos podem ser consultados na página Informes Técnicos do Programa de Incentivo ao Biometano . O Informe Técnico nº 04/CGOB – Procedimentos para certificação do produtor e importador de biometano traz os pro"
     },
     {
-      "titulo": "ANP divulga dados consolidados da produção de petróleo e gás em julho de 2026",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "03/09/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo",
-        "gas"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-divulga-dados-consolidados-da-producao-de-petroleo-e-gas-em-julho-de-2026",
-      "desc": "Notícias ANP divulga dados consolidados da produção de petróleo e gás em julho de 2026 No mês, foram produzidos 5,851milhões de barris de óleo equivalente por dia (boe/d) de petróleo e gás natural. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 01/09/2026 10h41 Em julho de 2026, o Brasil produziu 5,851 milhões de barris de óleo equivalente por dia (boe/d) de petróleo e gás natural. Os dados foram divulgados hoje (1/9) pela ANP no Boletim Mensal da Produção de Petróleo e Gás Natural . Com relação ao petróleo, foram extraídos 4,498 milhões de barris por dia (bbl/d), um aumento de 0,5% na comparação com o mês anterior e 13,6% em relação ao mesmo mês de 2025. A produção de "
-    },
-    {
-      "titulo": "Inscrições para Prêmio ANP de Inovação Tecnológica 2026 vão até 8/9",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "03/09/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/inscricoes-para-premio-anp-de-inovacao-tecnologica-2026-vao-ate-8-9",
-      "desc": "Notícias Inscrições para Prêmio ANP de Inovação Tecnológica 2026 vão até 8/9 Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 31/08/2026 15h44 Estão abertas, até 8/9, as inscrições para o Prêmio ANP de Inovação Tecnológica 2026 . Nesta edição, foi incluída a premiação de projetos vinculados à primeira edição do Programa ANP de Empreendedorismo - NAVE-ANP, e foram mantidas as modalidades contempladas em anos anteriores: Projetos de PD&I, trabalhos do Programa de Formação de Recursos Humanos da ANP (PRH/ANP) e personalidades do setor. O Prêmio tem como objetivo reconhecer iniciativas, projetos, trabalhos acadêmicos e trajetórias profissionais que tenham contribuído de forma"
-    },
-    {
       "titulo": "Consultar minhas solicitações",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "03/09/2026",
+      "data": "04/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -359,7 +345,7 @@
       "titulo": "Consultar Meu Imposto de Renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "03/09/2026",
+      "data": "04/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -371,7 +357,7 @@
       "titulo": "Consultar restituição de imposto de renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "03/09/2026",
+      "data": "04/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -383,7 +369,7 @@
       "titulo": "Consultar dados do Cadastro Único",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "03/09/2026",
+      "data": "04/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -395,7 +381,7 @@
       "titulo": "Creative Commons",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "03/09/2026",
+      "data": "04/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -407,7 +393,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "03/09/2026",
+      "data": "04/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -419,7 +405,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "03/09/2026",
+      "data": "04/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -431,7 +417,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "03/09/2026",
+      "data": "04/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -443,7 +429,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "03/09/2026",
+      "data": "04/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -455,7 +441,7 @@
       "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "03/09/2026",
+      "data": "04/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -470,7 +456,7 @@
       "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "03/09/2026",
+      "data": "04/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -479,48 +465,22 @@
       "desc": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
-      "titulo": "SEMIG Secretaria de Estado de Energia, Mineração e Gás",
+      "titulo": "SEMIG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "03/09/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo",
-        "energia",
-        "gas"
-      ],
-      "url": "https://www.semig.am.gov.br",
-      "desc": "Em cumprimento a Lei n. 9.504/97, o conteúdo dos sites dos órgãos da administração pública direta e indireta do poder executivo estadual estará, durante todo o período eleitoral, restrito a informações sobre prestação de serviços ao cidadão e à Lei de Acesso à Informação. SEMIG\n                        - Secretaria de Estado de Energia, Mineração e Gás Utilizamos cookies para permitir uma melhor experiência em nosso website e para nos ajudar a compreender quais informações são mais úteis e relevantes para você. Por isso é importante que você concorde com a política de uso de cookies da SEMIG - Secretaria de Estado de Energia, Mineração e Gás . Você pode encontrar mais informações sobre quais cookies estamos utilizando e inclusive desabilitá-los em configurações . Utilizamos cookies para per"
-    },
-    {
-      "titulo": "E-mail Integra Amazonas",
-      "orgao": "SEMIG",
-      "tema": "Política Energética / AM",
-      "data": "03/09/2026",
+      "data": "04/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.office.com/?auth=2&home=1",
-      "desc": "E-mail Integra Amazonas"
-    },
-    {
-      "titulo": "semig@semig.am.gov.br",
-      "orgao": "SEMIG",
-      "tema": "Política Energética / AM",
-      "data": "03/09/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.semig.am.gov.br/category/noticias/mailto:semig@semig.am.gov.br",
-      "desc": "semig@semig.am.gov.br"
+      "url": "https://www.semig.am.gov.br/category/noticias/",
+      "desc": "SEMIG — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "03/09/2026",
+      "data": "04/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -529,22 +489,35 @@
       "desc": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
-      "titulo": "Prefeito Renato Junior vistoria retirada do asfalto na Ferreira Pena e destaca que a área entra em nova etapa para se tornar primeira ‘Rua Gastronômica’ de Manaus",
+      "titulo": "‘#SouManaus Passo a Paço 2026’ transforma centro histórico em grande palco da cultura, música, arte e identidade amazônica; confira a programação",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "03/09/2026",
+      "data": "04/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/revitalizacao/retirada-do-asfalto-na-ferreira-pena/",
-      "desc": "Revitalização Ferreira Pena é interditada para início das obras da primeira ‘Rua Gastronômica’ da Prefeitura de Manaus"
+      "url": "https://www.manaus.am.gov.br/noticia/festivais/soumanaus-passo-a-paco-2026-programacao/",
+      "desc": "FESTIVAIS Prefeitura abre primeiro lote de reservas do ‘#SouManaus Passo a Paço 2026’ nesta segunda-feira, 24/8 e anuncia sete pontos para retirada de pulseiras"
+    },
+    {
+      "titulo": "Prefeito Renato Junior vistoria palcos do ‘#SouManaus Passo a Paço 2026’ e destaca 10 dias de programação e geração de trabalho e renda no Centro",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "04/09/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo",
+        "energia"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/eventos/soumanaus-passo-a-paco-2026/",
+      "desc": "Eventos Prefeitura divulga programação completa do ‘SouGamer SouGeek’ no Casarão Cassina e Bernardo Ramos"
     },
     {
       "titulo": "Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "03/09/2026",
+      "data": "04/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -556,7 +529,7 @@
       "titulo": "Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "03/09/2026",
+      "data": "04/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -568,7 +541,7 @@
       "titulo": "Prefeitura realiza 7ª edição do programa ‘Manaus que a Gente Cuida’ no Parque Solimões com anúncio de requalificação de lagoa da comunidade",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "03/09/2026",
+      "data": "04/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -577,10 +550,22 @@
       "desc": "Manaus Prefeitura de Manaus realiza operação especial de trânsito para garantir segurança em duas corridas neste fim de semana"
     },
     {
+      "titulo": "Prefeito Renato Junior vistoria retirada do asfalto na Ferreira Pena e destaca que a área entra em nova etapa para se tornar primeira ‘Rua Gastronômica’ de Manaus",
+      "orgao": "Implurb",
+      "tema": "Planejamento Urbano",
+      "data": "04/09/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/implurb/retirada-do-asfalto-na-ferreira-pena/",
+      "desc": "Revitalização Ferreira Pena é interditada para início das obras da primeira ‘Rua Gastronômica’ da Prefeitura de Manaus"
+    },
+    {
       "titulo": "Parque Encontro das Águas Rosa Almeida avança com novas frentes de obra e reforça ritmo de construção da Prefeitura de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "03/09/2026",
+      "data": "04/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
