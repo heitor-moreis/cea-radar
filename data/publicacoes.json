@@ -1,23 +1,23 @@
 {
-  "ultima_coleta": "10/09/2026 10:47",
+  "ultima_coleta": "11/09/2026 10:47",
   "mes_ano": "Set/2026",
-  "total": 43,
+  "total": 42,
   "fontes": 18,
   "fontes_com_falha": [],
   "stats": {
-    "critico": 3,
-    "alto": 8,
-    "medio": 6,
+    "critico": 2,
+    "alto": 9,
+    "medio": 5,
     "baixo": 26,
-    "consultas_abertas": 4
+    "consultas_abertas": 3
   },
   "por_orgao": {
-    "ANEEL": 8,
     "ANP": 8,
+    "ANEEL": 8,
     "ANA": 5,
     "Prefeitura Manaus": 4,
-    "Implurb": 3,
     "IMMU": 3,
+    "Implurb": 2,
     "AmE": 1,
     "SEFAZ-AM": 1,
     "DOU": 1,
@@ -33,24 +33,10 @@
   },
   "publicacoes": [
     {
-      "titulo": "ANEEL aprova redução nas tarifas da Roraima Energia",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "10/09/2026",
-      "impacto": "critico",
-      "tags": [
-        "critico",
-        "energia",
-        "tarifa"
-      ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-aprova-reducao-nas-tarifas-da-roraima-energia",
-      "desc": "Notícias TARIFAS ANEEL aprova redução nas tarifas da Roraima Energia A redução tarifária média foi de 14,67% Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 02/09/2026 13h08 Atualizado em 02/09/2026 13h12 A diretoria colegiada da Agência Nacional de Energia Elétrica (ANEEL) aprovou nesta terça-feira (1º/9), em circuito deliberativo, redução tarifária média de 14,67% na área de concessão da Roraima Energia S.A. A decisão foi tomada após recálculo das tarifas estabelecidas pela Resolução Homologatória nº 3.565, de 20 de janeiro de 2026 . As tarifas aprovadas foram impactadas pela antecipação dos recursos da repactuação de cotas de Uso de Bem Público (UBP) , conforme prevê "
-    },
-    {
       "titulo": "Aprovada a indicação de 24 blocos na Bacia Potiguar para futuros ciclos da Oferta Permanente de Concessão (OPC)",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "10/09/2026",
+      "data": "11/09/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -62,7 +48,7 @@
       "titulo": "Informações",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "10/09/2026",
+      "data": "11/09/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -72,10 +58,23 @@
       "desc": "Informações Decretos de Situação de Emergência Alteração de Carga Cadastro de Equipamento Vital Cliente Alta Tensão Cliente Mercado Livre Compartilhamento de infraestruturas Contrato Contribuição de Iluminação Pública por Município Decretos de Situação de Emergência Desligamentos Programados Despesas Associadas a CCC Dicas de Consumo Consciente Dicas de Segurança Direitos e Deveres Furto de energia elétrica é crime Iluminação Pública Indicadores de Continuidade Ligação Nova Ligação Provisória Localizar App na Loja Micro/Minigeração Distribuída Normas Técnicas e Manuais Notícias Orçamento de Conexão / Projeto / Vistoria Padrão de Entrada Pesquisa de Curvas de Carga e Hábitos de Consumo Poda e Arborização Programa de Eficiência Energética Programa de Eletrificação Rural Programa de Pesquisa "
     },
     {
+      "titulo": "ANEEL assina novos contratos de geração e transmissão de energia elétrica",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "11/09/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto",
+        "energia"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-assina-novos-contratos-de-geracao-e-transmissao-de-energia-eletrica",
+      "desc": "Notícias TRANSMISSÃO ANEEL assina novos contratos de geração e transmissão de energia elétrica Foram formalizados contratos decorrentes do Leilão de Reserva de Capacidade na forma de Potência e da segunda etapa do Leilão de Transmissão nº 1/2026 Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 10/09/2026 17h59 A Agência Nacional de Energia Elétrica (ANEEL) sediou, na tarde desta quinta-feira (10/9), a cerimônia de assinatura dos contratos resultantes de dois certames realizados em 2026: o Leilão de Reserva de Capacidade na forma de Potência (LRCAP nº 2/2026) e a segunda etapa do Leilão de Transmissão (LT nº 1/2026). A solenidade ocorreu na Sala Plenária da Agência, em Bra"
+    },
+    {
       "titulo": "ANEEL realiza cerimônia para assinatura de contratos de geração e transmissão de energia",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "10/09/2026",
+      "data": "11/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -88,7 +87,7 @@
       "titulo": "Conheça o Portal de Estudos Técnicos da ANEEL",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "10/09/2026",
+      "data": "11/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -101,7 +100,7 @@
       "titulo": "Novas Portarias alteram a estrutura organizacional da ANEEL",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "10/09/2026",
+      "data": "11/09/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -113,7 +112,7 @@
       "titulo": "Comunicado: ANP implementará o Gov.BR Nível Ouro para acesso aos sistemas SRD-GLP e SPA",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "10/09/2026",
+      "data": "11/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -126,7 +125,7 @@
       "titulo": "Aprovada resolução que revisa norma sobre tratamento diferenciado a micro e pequenas empresas",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "10/09/2026",
+      "data": "11/09/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -138,7 +137,7 @@
       "titulo": "Norma sobre regulação experimental na ANP será tema de consulta e audiência públicas",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "10/09/2026",
+      "data": "11/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -151,7 +150,7 @@
       "titulo": "Chamada Pública 001/2026",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "10/09/2026",
+      "data": "11/09/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -163,7 +162,7 @@
       "titulo": "Prefeito Renato Junior vistoria avanço das obras do parque Encontro das Águas Rosa Almeida e destaca o potencial do espaço como novo eixo turístico na zona Leste",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "10/09/2026",
+      "data": "11/09/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -175,7 +174,7 @@
       "titulo": "ANEEL aprova primeira revisão da Agenda Regulatória para o biênio 2026-2027",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "10/09/2026",
+      "data": "11/09/2026",
       "impacto": "medio",
       "tags": [
         "medio",
@@ -188,7 +187,7 @@
       "titulo": "ANEEL propõe novas regras para preparar a rede elétrica para geração solar, baterias e veículos elétricos",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "10/09/2026",
+      "data": "11/09/2026",
       "impacto": "medio",
       "tags": [
         "medio",
@@ -202,7 +201,7 @@
       "titulo": "Leilão marcado para abril de 2027, o primeiro com contratação de baterias na transmissão, entra em consulta pública",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "10/09/2026",
+      "data": "11/09/2026",
       "impacto": "medio",
       "tags": [
         "medio",
@@ -213,24 +212,10 @@
       "desc": "Notícias TRANSMISSÃO Leilão marcado para abril de 2027, o primeiro com contratação de baterias na transmissão, entra em consulta pública ANEEL espera investimento de R$ 12,9 bilhões e criação de 29,5 mil empregos diretos e indiretos Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 08/09/2026 11h53 A Agência Nacional de Energia Elétrica (ANEEL) inicia nesta quinta-feira (10/9) a Consulta Pública nº 032/2026, na qual a sociedade poderá analisar uma versão inicial do edital do Leilão de Transmissão nº 01/2027 e enviar sugestões. O texto em análise se destaca por apresentar, entre os 12 lotes ofertados (detalhados no fim desta nota), o primeiro voltado à contratação de armaze"
     },
     {
-      "titulo": "ANEEL propõe novo indicador para incentivar o cumprimento dos prazos de execução de obras relacionadas ao serviço de distribuição",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "10/09/2026",
-      "impacto": "medio",
-      "tags": [
-        "medio",
-        "energia",
-        "consulta"
-      ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-propoe-novo-indicador-para-incentivar-o-cumprimento-dos-prazos-de-execucao-de-obras-relacionadas-ao-servico-de-distribuicao",
-      "desc": "Notícias Distribuição ANEEL propõe novo indicador para incentivar o cumprimento dos prazos de execução de obras relacionadas ao serviço de distribuição Os interessados podem enviar contribuições para o e-mail: cp031_2026@aneel.gov.br entre 3/9 e 19/10/26. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 01/09/2026 19h04 A Diretoria da Agência Nacional de Energia Elétrica (ANEEL) aprovou a abertura de Consulta Pública para discutir o estabelecimento de Indicador de Atendimento de Mercado no Serviço Público de Distribuição de Energia Elétrica (IAM). A ideia é que esse indicador contempl e a avaliação simultânea de um conjunto de informações: (i) o percentual de obras efetiv"
-    },
-    {
       "titulo": "ANP tomará medidas para coibir desvio do etanol hidratado para fabricação clandestina de bebidas",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "10/09/2026",
+      "data": "11/09/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -242,7 +227,7 @@
       "titulo": "Prêmio ANP de Inovação Tecnológica: live amanhã (09/09) esclarecerá dúvidas para interessados em se candidatar",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "10/09/2026",
+      "data": "11/09/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -254,7 +239,7 @@
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "10/09/2026",
+      "data": "11/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -266,7 +251,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "10/09/2026",
+      "data": "11/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -276,10 +261,23 @@
       "desc": "Edição do dia verificada. Nenhum ato relevante encontrado."
     },
     {
+      "titulo": "ANEEL aprova transferência de controle indireto de 26 concessionárias de transmissão",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "11/09/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo",
+        "energia"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-aprova-transferencia-de-controle-indireto-de-26-concessionarias-de-transmissao",
+      "desc": "Notícias TRANSMISSÃO ANEEL aprova transferência de controle indireto de 26 concessionárias de transmissão Operação prevê a participação conjunta da Caisse de Dépôt et Placement du Québec e do Grupo Energía Bogotá no controle societário das transmissoras. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 11/09/2026 09h27 A Agência Nacional de Energia Elétrica (ANEEL) anuiu nesta sexta-feira (11/9) a transferência de Controle Societário Indireto das concessionárias de serviço público de transmissão de energia elétrica Barreiras Transmissora de Energia S.A., Buritirama Transmissora de Energia S.A., Vale do Sertão Transmissora de Energia S.A., Jaíba Transmissora de Energia S.A"
+    },
+    {
       "titulo": "Operação da ANP no Rio Grande do Sul, em parceria com a Polícia Civil, apreende 14.281 litros de combustíveis líquidos",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "10/09/2026",
+      "data": "11/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -291,7 +289,7 @@
       "titulo": "ANP, em parceria com o Banco Mundial, lança campanha de medição de metano",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "10/09/2026",
+      "data": "11/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -304,7 +302,7 @@
       "titulo": "Consultar minhas solicitações",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "10/09/2026",
+      "data": "11/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -316,7 +314,7 @@
       "titulo": "Consultar Meu Imposto de Renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "10/09/2026",
+      "data": "11/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -328,7 +326,7 @@
       "titulo": "Consultar restituição de imposto de renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "10/09/2026",
+      "data": "11/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -340,7 +338,7 @@
       "titulo": "Consultar dados do Cadastro Único",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "10/09/2026",
+      "data": "11/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -352,7 +350,7 @@
       "titulo": "Creative Commons",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "10/09/2026",
+      "data": "11/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -364,7 +362,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "10/09/2026",
+      "data": "11/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -376,7 +374,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "10/09/2026",
+      "data": "11/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -388,7 +386,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "10/09/2026",
+      "data": "11/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -400,7 +398,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "10/09/2026",
+      "data": "11/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -412,7 +410,7 @@
       "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "10/09/2026",
+      "data": "11/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -427,7 +425,7 @@
       "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "10/09/2026",
+      "data": "11/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -439,7 +437,7 @@
       "titulo": "SEMIG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "10/09/2026",
+      "data": "11/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -451,7 +449,7 @@
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "10/09/2026",
+      "data": "11/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -460,10 +458,22 @@
       "desc": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
+      "titulo": "Prefeito Renato Junior avança tratativas com a Caixa Econômica para projetos de habitação e infraestrutura em Manaus",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "11/09/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/parceria/projetos-de-habitacao-e-infraestrutura-em-manaus/",
+      "desc": "Parceria Prefeitura recebe representante do Unicef no Brasil em visita a Unidade Amiga da Primeira Infância na zona rural"
+    },
+    {
       "titulo": "Prefeito Renato Junior afirma que recuperação de 10 viadutos em Manaus prioriza reconstrução de fissuras e ampliação da segurança viária",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "10/09/2026",
+      "data": "11/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -475,7 +485,7 @@
       "titulo": "Prefeito Renato Junior destaca que ‘#Sou Manaus 2026’ tem recorde de público, com 560 mil pessoas nas primeiras noites, e projeta expansão nacional",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "10/09/2026",
+      "data": "11/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -484,34 +494,22 @@
       "desc": "Página Inicial Notícias Manaus Prefeito Renato Junior destaca que ‘#Sou Manaus 2026’ tem recorde de público, com 560 mil pessoas nas primeiras noites, e projeta expansão nacional Prefeito Renato Junior destaca que ‘#Sou Manaus 2026’ tem recorde de público, com 560 mil pessoas nas primeiras noites, e projeta expansão nacional Por Prefeitura de Manaus 08/09/2026 21h11 Seu navegador não suporta o elemento de áudio. #Paratodosverem – Prefeito de Manaus, Renato Junior, durante coletiva. O “#Sou Manaus Passo a Paço 2026” registrou 260 mil pessoas em um único dia, na segunda, 7/9, e alcançou 560 mil participantes nos quatro primeiros dias de programação, conforme balanço apresentado pelo prefeito Renato Junior na tarde desta terça-feira, 8/9. O número, considerado recorde histórico do festival, r"
     },
     {
-      "titulo": "Palco Alfândega encerra ‘#SouManaus 2026’ reunindo talentos amazonenses e atrações nacionais",
+      "titulo": "Prefeitura de Manaus recupera drenagem profunda no Coroado e reforça infraestrutura para o escoamento das chuvas",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "10/09/2026",
+      "data": "11/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/cultura/palco-alfandega-encerra-soumanaus-com-atracoes-locais-e-nacionais/",
-      "desc": "Página Inicial Notícias Cultura Palco Alfândega encerra ‘#SouManaus 2026’ reunindo talentos amazonenses e atrações nacionais Palco Alfândega encerra ‘#SouManaus 2026’ reunindo talentos amazonenses e atrações nacionais Por Prefeitura de Manaus 08/09/2026 0h24 Seu navegador não suporta o elemento de áudio. O Palco Alfândega encerrou suas atividades nesta segunda-feira, 7/9, no festival “#SouManaus Passo a Paço 2026”, consolidando uma programação que reuniu artistas locais e nacionais do reggae ao funk. A grade da última noite fortaleceu bandas amazonenses, com shows de Johnny Jack Mesclado, Chora Cachorro e Casa de Caba, que dividiram o espaço com atrações nacionais como Yago Oproprio e MC Hariel. A banda Chora Cachorro apresentou seu repertório de brega-rock, marcando o terceiro ano consecu"
-    },
-    {
-      "titulo": "Prefeito Renato Junior anuncia ‘#SouManaus 2027’ com 10 dias de programação, prioridade para artistas locais e ônibus gratuitos a partir das 17h",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "10/09/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/festa/anuncio-soumanaus-2027/",
-      "desc": "Página Inicial Notícias Festa Prefeito Renato Junior anuncia ‘#SouManaus 2027’ com 10 dias de programação, prioridade para artistas locais e ônibus gratuitos a partir das 17h Prefeito Renato Junior anuncia ‘#SouManaus 2027’ com 10 dias de programação, prioridade para artistas locais e ônibus gratuitos a partir das 17h Por Prefeitura de Manaus 08/09/2026 0h23 Seu navegador não suporta o elemento de áudio. #paratodosverem – Prefeito de Manaus, Renato Junior durante coletiva O prefeito de Manaus , Renato Junior, anunciou, nesta segunda-feira, 7/9, mudanças para a próxima edição do “#SouManaus Passo a Paço”. O festival será mantido com 10 dias de programação em 2027, continuará priorizando os artistas amazonenses e terá, pela primeira vez, ônibus gratuitos, a partir das 17h, para a população q"
+      "url": "https://www.manaus.am.gov.br/noticia/servicos/prefeitura-seminf-coroado-drenagem/",
+      "desc": "Serviços Prefeitura de Manaus avança no recapeamento da rua Padre Cícero com aplicação de 60 toneladas de asfalto"
     },
     {
       "titulo": "Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "10/09/2026",
+      "data": "11/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -523,19 +521,19 @@
       "titulo": "Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "10/09/2026",
+      "data": "11/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
       "url": "https://www.manaus.am.gov.br/immu/mobilidade/conclui-instalacao-vigas/",
-      "desc": "Mobilidade Prefeito Renato Junior destaca avanço recorde do complexo viário ‘Passarão’ e anuncia previsão de liberação da alça superior ainda em setembro"
+      "desc": "Página Inicial Notícias Mobilidade Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto Por Prefeitura de Manaus 15/08/2026 21h59 A Prefeitura de Manaus , por meio da Secretaria Municipal de Infraestrutura (Seminf), concluiu, neste sábado, 15/8, um dia antes do prazo previsto, a etapa de içamento das vigas da alça viária do complexo viário Passarão, projeto que vai mudar a realidade da mobilidade da zona Oeste da cidade. Durante todo o sábado, as equipes realizaram a instalação das nove vigas restantes, das 24 que integram o projeto do viaduto. Todas as metas estão sendo alcançadas antes mesmo do previsto, e pensando no bem-estar, qualidade "
     },
     {
       "titulo": "Prefeitura realiza 7ª edição do programa ‘Manaus que a Gente Cuida’ no Parque Solimões com anúncio de requalificação de lagoa da comunidade",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "10/09/2026",
+      "data": "11/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -547,26 +545,13 @@
       "titulo": "Prefeito Renato Junior vistoria retirada do asfalto na Ferreira Pena e destaca que a área entra em nova etapa para se tornar primeira ‘Rua Gastronômica’ de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "10/09/2026",
+      "data": "11/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
       "url": "https://www.manaus.am.gov.br/implurb/retirada-do-asfalto-na-ferreira-pena/",
       "desc": "Revitalização Ferreira Pena é interditada para início das obras da primeira ‘Rua Gastronômica’ da Prefeitura de Manaus"
-    },
-    {
-      "titulo": "Parque Encontro das Águas Rosa Almeida avança com novas frentes de obra e reforça ritmo de construção da Prefeitura de Manaus",
-      "orgao": "Implurb",
-      "tema": "Planejamento Urbano",
-      "data": "10/09/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo",
-        "energia"
-      ],
-      "url": "https://www.manaus.am.gov.br/implurb/prefeitura-implurb-parque-encontro-das-aguas-obras/",
-      "desc": "Página Inicial Notícias Urbanismo Parque Encontro das Águas Rosa Almeida avança com novas frentes de obra e reforça ritmo de construção da Prefeitura de Manaus Parque Encontro das Águas Rosa Almeida avança com novas frentes de obra e reforça ritmo de construção da Prefeitura de Manaus Por Prefeitura de Manaus 21/07/2026 11h01 #paratodosverem – Obra do parque Encontro das Águas Rosa Almeida, no bairro Colônia Antônio Aleixo, zona Leste As obras do parque Encontro das Águas Rosa Almeida, executadas pela Prefeitura de Manaus , avançam em diversas frentes simultâneas de trabalho. Coordenados pelo Instituto Municipal de Planejamento Urbano (Implurb), os serviços contemplam a evolução da estrutura da Oca Niemeyer, além da implantação das redes de infraestrutura, drenagem, instalações elétricas e"
     }
   ]
 }
