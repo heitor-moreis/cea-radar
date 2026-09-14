@@ -1,21 +1,22 @@
 {
-  "ultima_coleta": "11/09/2026 10:47",
+  "ultima_coleta": "14/09/2026 12:47",
   "mes_ano": "Set/2026",
-  "total": 42,
+  "total": 44,
   "fontes": 18,
   "fontes_com_falha": [],
   "stats": {
     "critico": 2,
-    "alto": 9,
+    "alto": 7,
     "medio": 5,
-    "baixo": 26,
-    "consultas_abertas": 3
+    "baixo": 30,
+    "consultas_abertas": 2
   },
   "por_orgao": {
     "ANP": 8,
     "ANEEL": 8,
     "ANA": 5,
     "Prefeitura Manaus": 4,
+    "SEMIG": 3,
     "IMMU": 3,
     "Implurb": 2,
     "AmE": 1,
@@ -28,7 +29,6 @@
     "TAG": 1,
     "Cigás": 1,
     "ARSEPAM": 1,
-    "SEMIG": 1,
     "Seinfra-AM": 1
   },
   "publicacoes": [
@@ -36,7 +36,7 @@
       "titulo": "Aprovada a indicação de 24 blocos na Bacia Potiguar para futuros ciclos da Oferta Permanente de Concessão (OPC)",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "11/09/2026",
+      "data": "14/09/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -48,7 +48,7 @@
       "titulo": "Informações",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "11/09/2026",
+      "data": "14/09/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -61,7 +61,7 @@
       "titulo": "ANEEL assina novos contratos de geração e transmissão de energia elétrica",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "11/09/2026",
+      "data": "14/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -74,7 +74,7 @@
       "titulo": "ANEEL realiza cerimônia para assinatura de contratos de geração e transmissão de energia",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "11/09/2026",
+      "data": "14/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -87,7 +87,7 @@
       "titulo": "Conheça o Portal de Estudos Técnicos da ANEEL",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "11/09/2026",
+      "data": "14/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -97,22 +97,10 @@
       "desc": "Notícias SETOR ELÉTRICO Conheça o Portal de Estudos Técnicos da ANEEL Plataforma reúne estudos de inventário hidrelétrico e de viabilidade aprovados pela Agência Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 08/09/2026 10h21 A Agência Nacional de Energia Elétrica (ANEEL) apresenta o Portal de Estudos Técnicos Aprovados, plataforma digital que reúne estudos de inventário hidrelétrico e de viabilidade aprovados pela Agência. Antes da implantação do portal, o acesso a esses documentos era realizado mediante solicitação à Biblioteca da ANEEL, responsável por localizar e encaminhar os estudos aos interessados. Com a plataforma, as consultas e o acesso aos documentos passara"
     },
     {
-      "titulo": "Novas Portarias alteram a estrutura organizacional da ANEEL",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "11/09/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto"
-      ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/novas-portarias-alteram-a-estrutura-da-aneel",
-      "desc": "Notícias INSTITUCIONAL Novas Portarias alteram a estrutura organizacional da ANEEL Entenda as principais alterações. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 03/09/2026 10h12 Atualizado em 03/09/2026 12h48 Nesta quinta-feira (3/9), foram publicadas portarias que promovem ajustes na estrutura organizacional da ANEEL. Confira os principais destaques: Atualização do Regimento Interno A Portaria Nº 7.155 atualiza o Regimento Interno da ANEEL para refletir a atual estrutura organizacional da Agência. A norma também revisa competências de algumas unidades organizacionais e aperfeiçoa dispositivos relacionados ao funcionamento institucional. Entre as principais mudanças "
-    },
-    {
       "titulo": "Comunicado: ANP implementará o Gov.BR Nível Ouro para acesso aos sistemas SRD-GLP e SPA",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "11/09/2026",
+      "data": "14/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -125,7 +113,7 @@
       "titulo": "Aprovada resolução que revisa norma sobre tratamento diferenciado a micro e pequenas empresas",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "11/09/2026",
+      "data": "14/09/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -134,23 +122,10 @@
       "desc": "Notícias Aprovada resolução que revisa norma sobre tratamento diferenciado a micro e pequenas empresas A revisão de resolução poderá beneficiar cerca de 74 mil estabelecimentos em todo o país. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 04/09/2026 10h29 Atualizado em 04/09/2026 16h06 Diretoria da ANP aprovou hoje (4/9) resolução que fortalece a fiscalização de microempresas e empresas de pequeno porte (MEs e EPPs), com foco em orientação. O regulamento aprovado revisa a Resolução ANP nº 759/2018 , que estabelece critérios para o tratamento diferenciado para esses tipos de empresa atendendo à Lei Complementar nº 123/2006 . Entre as medidas para esses tipos de empresa "
     },
     {
-      "titulo": "Norma sobre regulação experimental na ANP será tema de consulta e audiência públicas",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "11/09/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto",
-        "consulta"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/norma-sobre-regulacao-experimental-na-anp-sera-tema-de-consulta-e-audiencia-publicas",
-      "desc": "Notícias Norma sobre regulação experimental na ANP será tema de consulta e audiência públicas Proposta prevê três modalidades de experimentação para testar novas tecnologias, produtos, serviços e modelos de negócios em ambiente supervisionado. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 04/09/2026 10h25 Atualizado em 09/09/2026 14h11 A Diretoria Colegiada da ANP aprovou a realização de consulta e audiência públicas sobre a minuta de resolução que estabelece as regras para a constituição, instauração e funcionamento de ambientes regulatórios experimentais na autarquia. A iniciativa tem como objetivo criar condições para que novas tecnologias, produtos, serviços e mode"
-    },
-    {
       "titulo": "Chamada Pública 001/2026",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "11/09/2026",
+      "data": "14/09/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -162,7 +137,7 @@
       "titulo": "Prefeito Renato Junior vistoria avanço das obras do parque Encontro das Águas Rosa Almeida e destaca o potencial do espaço como novo eixo turístico na zona Leste",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "11/09/2026",
+      "data": "14/09/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -174,7 +149,7 @@
       "titulo": "ANEEL aprova primeira revisão da Agenda Regulatória para o biênio 2026-2027",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "11/09/2026",
+      "data": "14/09/2026",
       "impacto": "medio",
       "tags": [
         "medio",
@@ -187,7 +162,7 @@
       "titulo": "ANEEL propõe novas regras para preparar a rede elétrica para geração solar, baterias e veículos elétricos",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "11/09/2026",
+      "data": "14/09/2026",
       "impacto": "medio",
       "tags": [
         "medio",
@@ -201,7 +176,7 @@
       "titulo": "Leilão marcado para abril de 2027, o primeiro com contratação de baterias na transmissão, entra em consulta pública",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "11/09/2026",
+      "data": "14/09/2026",
       "impacto": "medio",
       "tags": [
         "medio",
@@ -215,7 +190,7 @@
       "titulo": "ANP tomará medidas para coibir desvio do etanol hidratado para fabricação clandestina de bebidas",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "11/09/2026",
+      "data": "14/09/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -227,7 +202,7 @@
       "titulo": "Prêmio ANP de Inovação Tecnológica: live amanhã (09/09) esclarecerá dúvidas para interessados em se candidatar",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "11/09/2026",
+      "data": "14/09/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -239,7 +214,7 @@
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "11/09/2026",
+      "data": "14/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -251,7 +226,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "11/09/2026",
+      "data": "14/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -261,10 +236,23 @@
       "desc": "Edição do dia verificada. Nenhum ato relevante encontrado."
     },
     {
+      "titulo": "Expansão da matriz elétrica em agosto é de quase 2 GW",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "14/09/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo",
+        "energia"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/expansao-da-matriz-eletrica-em-agosto-e-de-quase-2-gw",
+      "desc": "Notícias GERAÇÃO Expansão da matriz elétrica em agosto é de quase 2 GW Ampliação ao longo de 2026 é de 4,9 GW, com novas geradoras em 15 estados Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 11/09/2026 16h54 O crescimento da oferta de energia elétrica no Brasil em agosto foi de 1.968,37 megawatts (MW). Segundo dados reunidos pela Agência Nacional de Energia Elétrica (ANEEL), entre as 20 novas usinas que entraram em operação comercial no mês, estão três termelétricas (100,87 MW), 15 centrais solares fotovoltaicas (891,00 MW) e duas usinas eólicas (76,50 MW). Ao longo do ano, até 31 de agosto, a expansão na matriz elétrica foi de 4.852,78 MW. Entre as 91 usinas que começ"
+    },
+    {
       "titulo": "ANEEL aprova transferência de controle indireto de 26 concessionárias de transmissão",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "11/09/2026",
+      "data": "14/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -274,10 +262,22 @@
       "desc": "Notícias TRANSMISSÃO ANEEL aprova transferência de controle indireto de 26 concessionárias de transmissão Operação prevê a participação conjunta da Caisse de Dépôt et Placement du Québec e do Grupo Energía Bogotá no controle societário das transmissoras. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 11/09/2026 09h27 A Agência Nacional de Energia Elétrica (ANEEL) anuiu nesta sexta-feira (11/9) a transferência de Controle Societário Indireto das concessionárias de serviço público de transmissão de energia elétrica Barreiras Transmissora de Energia S.A., Buritirama Transmissora de Energia S.A., Vale do Sertão Transmissora de Energia S.A., Jaíba Transmissora de Energia S.A"
     },
     {
+      "titulo": "RenovaBio: ANP prorroga prazo para recebimento de contribuições sobre as novas versões da RenovaCalc",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "14/09/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/renovabio-anp-prorroga-prazo-para-recebimento-de-contribuicoes-sobre-as-novas-versoes-da-renovacalc",
+      "desc": "Notícias RENOVABIO RenovaBio: ANP prorroga prazo para recebimento de contribuições sobre as novas versões da RenovaCalc Interessados poderão encaminhar manifestações até 16/10/2026 Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 11/09/2026 13h35 A ANP prorrogou para 16/10/2026 o prazo para recebimento de contribuições na participação social referente às novas versões da RenovaCalc, iniciada em 17 de agosto . O prazo anterior era 16/9. A iniciativa busca ampliar as oportunidades de participação da sociedade, agentes regulados, comunidade acadêmica e dos demais interessados no processo de atualização da ferramenta, proporcionando mais tempo para análise e apresentação de c"
+    },
+    {
       "titulo": "Operação da ANP no Rio Grande do Sul, em parceria com a Polícia Civil, apreende 14.281 litros de combustíveis líquidos",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "11/09/2026",
+      "data": "14/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -289,7 +289,7 @@
       "titulo": "ANP, em parceria com o Banco Mundial, lança campanha de medição de metano",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "11/09/2026",
+      "data": "14/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -302,7 +302,7 @@
       "titulo": "Consultar minhas solicitações",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "11/09/2026",
+      "data": "14/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -314,7 +314,7 @@
       "titulo": "Consultar Meu Imposto de Renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "11/09/2026",
+      "data": "14/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -326,7 +326,7 @@
       "titulo": "Consultar restituição de imposto de renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "11/09/2026",
+      "data": "14/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -338,7 +338,7 @@
       "titulo": "Consultar dados do Cadastro Único",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "11/09/2026",
+      "data": "14/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -350,7 +350,7 @@
       "titulo": "Creative Commons",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "11/09/2026",
+      "data": "14/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -362,7 +362,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "11/09/2026",
+      "data": "14/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -374,7 +374,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "11/09/2026",
+      "data": "14/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -386,7 +386,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "11/09/2026",
+      "data": "14/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -398,7 +398,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "11/09/2026",
+      "data": "14/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -410,7 +410,7 @@
       "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "11/09/2026",
+      "data": "14/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -425,7 +425,7 @@
       "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "11/09/2026",
+      "data": "14/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -434,22 +434,48 @@
       "desc": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
-      "titulo": "SEMIG — Falha temporária de acesso. Próxima tentativa amanhã.",
+      "titulo": "SEMIG Secretaria de Estado de Energia, Mineração e Gás",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "11/09/2026",
+      "data": "14/09/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo",
+        "energia",
+        "gas"
+      ],
+      "url": "https://www.semig.am.gov.br",
+      "desc": "Em cumprimento a Lei n. 9.504/97, o conteúdo dos sites dos órgãos da administração pública direta e indireta do poder executivo estadual estará, durante todo o período eleitoral, restrito a informações sobre prestação de serviços ao cidadão e à Lei de Acesso à Informação. SEMIG\n                        - Secretaria de Estado de Energia, Mineração e Gás Utilizamos cookies para permitir uma melhor experiência em nosso website e para nos ajudar a compreender quais informações são mais úteis e relevantes para você. Por isso é importante que você concorde com a política de uso de cookies da SEMIG - Secretaria de Estado de Energia, Mineração e Gás . Você pode encontrar mais informações sobre quais cookies estamos utilizando e inclusive desabilitá-los em configurações . Utilizamos cookies para per"
+    },
+    {
+      "titulo": "E-mail Integra Amazonas",
+      "orgao": "SEMIG",
+      "tema": "Política Energética / AM",
+      "data": "14/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.semig.am.gov.br/category/noticias/",
-      "desc": "SEMIG — Falha temporária de acesso. Próxima tentativa amanhã."
+      "url": "https://www.office.com/?auth=2&home=1",
+      "desc": "E-mail Integra Amazonas"
+    },
+    {
+      "titulo": "semig@semig.am.gov.br",
+      "orgao": "SEMIG",
+      "tema": "Política Energética / AM",
+      "data": "14/09/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.semig.am.gov.br/category/noticias/mailto:semig@semig.am.gov.br",
+      "desc": "semig@semig.am.gov.br"
     },
     {
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "11/09/2026",
+      "data": "14/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -461,19 +487,19 @@
       "titulo": "Prefeito Renato Junior avança tratativas com a Caixa Econômica para projetos de habitação e infraestrutura em Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "11/09/2026",
+      "data": "14/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/parceria/projetos-de-habitacao-e-infraestrutura-em-manaus/",
+      "url": "https://www.manaus.am.gov.br/noticia/parceria/prefeito-projetos-de-habitacao-e-infraestrutura-em-manaus/",
       "desc": "Parceria Prefeitura recebe representante do Unicef no Brasil em visita a Unidade Amiga da Primeira Infância na zona rural"
     },
     {
       "titulo": "Prefeito Renato Junior afirma que recuperação de 10 viadutos em Manaus prioriza reconstrução de fissuras e ampliação da segurança viária",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "11/09/2026",
+      "data": "14/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -482,34 +508,34 @@
       "desc": "Modernização Manausprev passa a emitir contracheques de aposentados e pensionistas exclusivamente on-line"
     },
     {
-      "titulo": "Prefeito Renato Junior destaca que ‘#Sou Manaus 2026’ tem recorde de público, com 560 mil pessoas nas primeiras noites, e projeta expansão nacional",
+      "titulo": "Prefeitura de Manaus revitaliza rua no Japiim e melhora acesso à avenida Tefé",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "11/09/2026",
+      "data": "14/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/manaus/balanco-sou-manaus-prefeito/",
-      "desc": "Página Inicial Notícias Manaus Prefeito Renato Junior destaca que ‘#Sou Manaus 2026’ tem recorde de público, com 560 mil pessoas nas primeiras noites, e projeta expansão nacional Prefeito Renato Junior destaca que ‘#Sou Manaus 2026’ tem recorde de público, com 560 mil pessoas nas primeiras noites, e projeta expansão nacional Por Prefeitura de Manaus 08/09/2026 21h11 Seu navegador não suporta o elemento de áudio. #Paratodosverem – Prefeito de Manaus, Renato Junior, durante coletiva. O “#Sou Manaus Passo a Paço 2026” registrou 260 mil pessoas em um único dia, na segunda, 7/9, e alcançou 560 mil participantes nos quatro primeiros dias de programação, conforme balanço apresentado pelo prefeito Renato Junior na tarde desta terça-feira, 8/9. O número, considerado recorde histórico do festival, r"
+      "url": "https://www.manaus.am.gov.br/noticia/infraestrutura/prefeitura-seminf-japiim-asfalto/",
+      "desc": "Infraestrutura Prefeitura de Manaus avança com sinalização da alça superior do viaduto ‘Passarão’ durante a madrugada"
     },
     {
-      "titulo": "Prefeitura de Manaus recupera drenagem profunda no Coroado e reforça infraestrutura para o escoamento das chuvas",
+      "titulo": "Prefeitura de Manaus conclui recuperação da rua do Rei e melhora tráfego no bairro Flores",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "11/09/2026",
+      "data": "14/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/servicos/prefeitura-seminf-coroado-drenagem/",
-      "desc": "Serviços Prefeitura de Manaus avança no recapeamento da rua Padre Cícero com aplicação de 60 toneladas de asfalto"
+      "url": "https://www.manaus.am.gov.br/noticia/mobilidade/prefeitura-seminf-asfalto-ruadorei/",
+      "desc": "Mobilidade Prefeito Renato Junior anuncia entrega da primeira etapa do complexo viário Passarão para quinta-feira, 17"
     },
     {
       "titulo": "Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "11/09/2026",
+      "data": "14/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -521,7 +547,7 @@
       "titulo": "Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "11/09/2026",
+      "data": "14/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -533,7 +559,7 @@
       "titulo": "Prefeitura realiza 7ª edição do programa ‘Manaus que a Gente Cuida’ no Parque Solimões com anúncio de requalificação de lagoa da comunidade",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "11/09/2026",
+      "data": "14/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -545,7 +571,7 @@
       "titulo": "Prefeito Renato Junior vistoria retirada do asfalto na Ferreira Pena e destaca que a área entra em nova etapa para se tornar primeira ‘Rua Gastronômica’ de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "11/09/2026",
+      "data": "14/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
