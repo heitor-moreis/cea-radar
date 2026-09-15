@@ -1,14 +1,14 @@
 {
-  "ultima_coleta": "14/09/2026 12:47",
+  "ultima_coleta": "15/09/2026 11:25",
   "mes_ano": "Set/2026",
-  "total": 44,
+  "total": 43,
   "fontes": 18,
   "fontes_com_falha": [],
   "stats": {
     "critico": 2,
     "alto": 7,
     "medio": 5,
-    "baixo": 30,
+    "baixo": 29,
     "consultas_abertas": 2
   },
   "por_orgao": {
@@ -17,8 +17,8 @@
     "ANA": 5,
     "Prefeitura Manaus": 4,
     "SEMIG": 3,
-    "IMMU": 3,
     "Implurb": 2,
+    "IMMU": 2,
     "AmE": 1,
     "SEFAZ-AM": 1,
     "DOU": 1,
@@ -36,7 +36,7 @@
       "titulo": "Aprovada a indicação de 24 blocos na Bacia Potiguar para futuros ciclos da Oferta Permanente de Concessão (OPC)",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -48,7 +48,7 @@
       "titulo": "Informações",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -61,7 +61,7 @@
       "titulo": "ANEEL assina novos contratos de geração e transmissão de energia elétrica",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -74,7 +74,7 @@
       "titulo": "ANEEL realiza cerimônia para assinatura de contratos de geração e transmissão de energia",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -87,7 +87,7 @@
       "titulo": "Conheça o Portal de Estudos Técnicos da ANEEL",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -100,7 +100,7 @@
       "titulo": "Comunicado: ANP implementará o Gov.BR Nível Ouro para acesso aos sistemas SRD-GLP e SPA",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -113,7 +113,7 @@
       "titulo": "Aprovada resolução que revisa norma sobre tratamento diferenciado a micro e pequenas empresas",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -125,7 +125,7 @@
       "titulo": "Chamada Pública 001/2026",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -137,7 +137,7 @@
       "titulo": "Prefeito Renato Junior vistoria avanço das obras do parque Encontro das Águas Rosa Almeida e destaca o potencial do espaço como novo eixo turístico na zona Leste",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -149,7 +149,7 @@
       "titulo": "ANEEL aprova primeira revisão da Agenda Regulatória para o biênio 2026-2027",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "medio",
       "tags": [
         "medio",
@@ -162,7 +162,7 @@
       "titulo": "ANEEL propõe novas regras para preparar a rede elétrica para geração solar, baterias e veículos elétricos",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "medio",
       "tags": [
         "medio",
@@ -176,7 +176,7 @@
       "titulo": "Leilão marcado para abril de 2027, o primeiro com contratação de baterias na transmissão, entra em consulta pública",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "medio",
       "tags": [
         "medio",
@@ -190,7 +190,7 @@
       "titulo": "ANP tomará medidas para coibir desvio do etanol hidratado para fabricação clandestina de bebidas",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -202,7 +202,7 @@
       "titulo": "Prêmio ANP de Inovação Tecnológica: live amanhã (09/09) esclarecerá dúvidas para interessados em se candidatar",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -214,7 +214,7 @@
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -226,7 +226,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -239,7 +239,7 @@
       "titulo": "Expansão da matriz elétrica em agosto é de quase 2 GW",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -252,7 +252,7 @@
       "titulo": "ANEEL aprova transferência de controle indireto de 26 concessionárias de transmissão",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -265,7 +265,7 @@
       "titulo": "RenovaBio: ANP prorroga prazo para recebimento de contribuições sobre as novas versões da RenovaCalc",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -277,7 +277,7 @@
       "titulo": "Operação da ANP no Rio Grande do Sul, em parceria com a Polícia Civil, apreende 14.281 litros de combustíveis líquidos",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -289,7 +289,7 @@
       "titulo": "ANP, em parceria com o Banco Mundial, lança campanha de medição de metano",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -302,7 +302,7 @@
       "titulo": "Consultar minhas solicitações",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -314,7 +314,7 @@
       "titulo": "Consultar Meu Imposto de Renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -326,7 +326,7 @@
       "titulo": "Consultar restituição de imposto de renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -338,7 +338,7 @@
       "titulo": "Consultar dados do Cadastro Único",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -350,7 +350,7 @@
       "titulo": "Creative Commons",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -362,7 +362,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -374,7 +374,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -386,7 +386,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -398,7 +398,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -410,7 +410,7 @@
       "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -425,7 +425,7 @@
       "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -437,7 +437,7 @@
       "titulo": "SEMIG Secretaria de Estado de Energia, Mineração e Gás",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -451,7 +451,7 @@
       "titulo": "E-mail Integra Amazonas",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -463,7 +463,7 @@
       "titulo": "semig@semig.am.gov.br",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -475,7 +475,7 @@
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -484,70 +484,70 @@
       "desc": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
+      "titulo": "Prefeito Renato Junior sanciona lei aguardada há 25 anos que garante subsídio de até R$ 3 milhões mensais para o transporte complementar de Manaus",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "15/09/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/compromisso/subsidio-de-ate-r-3-milhoes/",
+      "desc": "Compromisso Prefeito Renato Junior afirma que cobrará Estado na Justiça por repasses do Passe Livre Estudantil e que mantém transporte coletivo em dia"
+    },
+    {
       "titulo": "Prefeito Renato Junior avança tratativas com a Caixa Econômica para projetos de habitação e infraestrutura em Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
       "url": "https://www.manaus.am.gov.br/noticia/parceria/prefeito-projetos-de-habitacao-e-infraestrutura-em-manaus/",
-      "desc": "Parceria Prefeitura recebe representante do Unicef no Brasil em visita a Unidade Amiga da Primeira Infância na zona rural"
+      "desc": "Parceria Prefeitura de Manaus e TJ-AM promovem formação em Justiça Restaurativa para fortalecer cultura de paz nas escolas"
     },
     {
-      "titulo": "Prefeito Renato Junior afirma que recuperação de 10 viadutos em Manaus prioriza reconstrução de fissuras e ampliação da segurança viária",
+      "titulo": "Guarda Municipal de Manaus apreende entorpecentes e balanças de precisão no bairro Novo Aleixo",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/modernizacao/recuperacao-10-viadutos/",
-      "desc": "Modernização Manausprev passa a emitir contracheques de aposentados e pensionistas exclusivamente on-line"
+      "url": "https://www.manaus.am.gov.br/noticia/nota/apreende-entorpecentes-e-balancas-de-precisao/",
+      "desc": "Nota Guarda Municipal detém indivíduos com mandado de prisão em aberto e aparelho celular com restrição de roubo"
     },
     {
-      "titulo": "Prefeitura de Manaus revitaliza rua no Japiim e melhora acesso à avenida Tefé",
+      "titulo": "Estudos da Visa Manaus sobre controle sanitário na Amazônia são apresentados em congresso mundial na África do Sul",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/infraestrutura/prefeitura-seminf-japiim-asfalto/",
-      "desc": "Infraestrutura Prefeitura de Manaus avança com sinalização da alça superior do viaduto ‘Passarão’ durante a madrugada"
-    },
-    {
-      "titulo": "Prefeitura de Manaus conclui recuperação da rua do Rei e melhora tráfego no bairro Flores",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "14/09/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/mobilidade/prefeitura-seminf-asfalto-ruadorei/",
-      "desc": "Mobilidade Prefeito Renato Junior anuncia entrega da primeira etapa do complexo viário Passarão para quinta-feira, 17"
+      "url": "https://www.manaus.am.gov.br/noticia/eventos/estudos-visa-manaus-congresso-mundial-africa-do-sul/",
+      "desc": "Eventos Prefeitura de Manaus apresenta experiência na automação do diagnóstico parasitológico em congresso nacional em Santa Catarina"
     },
     {
       "titulo": "Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
       "url": "https://www.manaus.am.gov.br/immu/transito/prefeito-renato-junior-apresenta-tecnologia-transito/",
-      "desc": "Trânsito Prefeitura realiza pesquisa para avaliar implantação de semáforo próximo à creche na zona Leste"
+      "desc": "Página Inicial Notícias Trânsito Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus Por Prefeitura de Manaus 17/08/2026 21h58 #paratodosverem – prefeito Renato Junior fala sobre o painel Manaus passa a contar com uma nova ferramenta para orientar motoristas em tempo real. O primeiro Painel de Mensagem Variável (PMV) da capital foi apresentado nesta segunda-feira, 17/8, pelo prefeito Renato Junior, na avenida Mário Ypiranga Monteiro, na subida do viaduto Miguel Arraes, zona Centro-Sul. Serão exibidas informações sobre acidentes, interdições, obras, congestionamentos e outras ocorrências de trânsito. “Esse é o pri"
     },
     {
       "titulo": "Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -556,22 +556,10 @@
       "desc": "Página Inicial Notícias Mobilidade Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto Por Prefeitura de Manaus 15/08/2026 21h59 A Prefeitura de Manaus , por meio da Secretaria Municipal de Infraestrutura (Seminf), concluiu, neste sábado, 15/8, um dia antes do prazo previsto, a etapa de içamento das vigas da alça viária do complexo viário Passarão, projeto que vai mudar a realidade da mobilidade da zona Oeste da cidade. Durante todo o sábado, as equipes realizaram a instalação das nove vigas restantes, das 24 que integram o projeto do viaduto. Todas as metas estão sendo alcançadas antes mesmo do previsto, e pensando no bem-estar, qualidade "
     },
     {
-      "titulo": "Prefeitura realiza 7ª edição do programa ‘Manaus que a Gente Cuida’ no Parque Solimões com anúncio de requalificação de lagoa da comunidade",
-      "orgao": "IMMU",
-      "tema": "Mobilidade Urbana",
-      "data": "14/09/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/immu/manaus/servicos-acoes-manaus-que-a-gente-cuida/",
-      "desc": "Manaus Prefeitura de Manaus realiza operação especial de trânsito para garantir segurança em duas corridas neste fim de semana"
-    },
-    {
       "titulo": "Prefeito Renato Junior vistoria retirada do asfalto na Ferreira Pena e destaca que a área entra em nova etapa para se tornar primeira ‘Rua Gastronômica’ de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "14/09/2026",
+      "data": "15/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
