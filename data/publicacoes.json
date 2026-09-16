@@ -1,22 +1,21 @@
 {
-  "ultima_coleta": "15/09/2026 11:25",
+  "ultima_coleta": "16/09/2026 11:18",
   "mes_ano": "Set/2026",
-  "total": 43,
+  "total": 41,
   "fontes": 18,
   "fontes_com_falha": [],
   "stats": {
     "critico": 2,
     "alto": 7,
-    "medio": 5,
-    "baixo": 29,
-    "consultas_abertas": 2
+    "medio": 4,
+    "baixo": 28,
+    "consultas_abertas": 1
   },
   "por_orgao": {
     "ANP": 8,
     "ANEEL": 8,
     "ANA": 5,
     "Prefeitura Manaus": 4,
-    "SEMIG": 3,
     "Implurb": 2,
     "IMMU": 2,
     "AmE": 1,
@@ -29,6 +28,7 @@
     "TAG": 1,
     "Cigás": 1,
     "ARSEPAM": 1,
+    "SEMIG": 1,
     "Seinfra-AM": 1
   },
   "publicacoes": [
@@ -36,7 +36,7 @@
       "titulo": "Aprovada a indicação de 24 blocos na Bacia Potiguar para futuros ciclos da Oferta Permanente de Concessão (OPC)",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "15/09/2026",
+      "data": "16/09/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -48,7 +48,7 @@
       "titulo": "Informações",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "15/09/2026",
+      "data": "16/09/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -58,10 +58,24 @@
       "desc": "Informações Decretos de Situação de Emergência Alteração de Carga Cadastro de Equipamento Vital Cliente Alta Tensão Cliente Mercado Livre Compartilhamento de infraestruturas Contrato Contribuição de Iluminação Pública por Município Decretos de Situação de Emergência Desligamentos Programados Despesas Associadas a CCC Dicas de Consumo Consciente Dicas de Segurança Direitos e Deveres Furto de energia elétrica é crime Iluminação Pública Indicadores de Continuidade Ligação Nova Ligação Provisória Localizar App na Loja Micro/Minigeração Distribuída Normas Técnicas e Manuais Notícias Orçamento de Conexão / Projeto / Vistoria Padrão de Entrada Pesquisa de Curvas de Carga e Hábitos de Consumo Poda e Arborização Programa de Eficiência Energética Programa de Eletrificação Rural Programa de Pesquisa "
     },
     {
+      "titulo": "Aprovadas as novas tarifas da Equatorial Pará",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "16/09/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto",
+        "energia",
+        "tarifa"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aprovadas-as-novas-tarifas-da-equatorial-para",
+      "desc": "Notícias TARIFAS Aprovadas as novas tarifas da Equatorial Pará Novos valores serão aplicados a partir da data de publicação da decisão no Diário Oficial Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 15/09/2026 17h12 O reajuste tarifário anual para os clientes da Equatorial Pará Distribuidora de Energia S/A foi aprovado nesta terça-feira (15/9) pela Agência Nacional de Energia Elétrica (ANEEL). A distribuidora, sediada em Belém (PA), atende aproximadamente 3,12 milhões de unidades consumidoras em 228 municípios paraenses. Confira os índices que incidirão nas tarifas: Empresa Consumidores residenciais - B1 Equatorial Pará 6,70% Classe de Consumo – Consumidores cativos Ba"
+    },
+    {
       "titulo": "ANEEL assina novos contratos de geração e transmissão de energia elétrica",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "15/09/2026",
+      "data": "16/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -74,7 +88,7 @@
       "titulo": "ANEEL realiza cerimônia para assinatura de contratos de geração e transmissão de energia",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "15/09/2026",
+      "data": "16/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -84,23 +98,10 @@
       "desc": "Notícias LEILÃO ANEEL realiza cerimônia para assinatura de contratos de geração e transmissão de energia Evento formaliza contratos decorrentes de Leilão de Reserva de Capacidade na forma de Potência e da segunda etapa do Leilão de Transmissão nº 1/2026 Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 09/09/2026 15h04 A Agência Nacional de Energia Elétrica (ANEEL) vai sediar, nesta quinta-feira (10/9), às 15h, na Sala Plenária da Agência, em Brasília (DF), cerimônia de assinatura de contratos decorrentes do Leilão de Reserva de Capacidade na forma de Potência (LRCAP n.º 2/2026) e da segunda etapa do Leilão de Transmissão n.º 1 de 2026. A assinatura será transmitida pelo c"
     },
     {
-      "titulo": "Conheça o Portal de Estudos Técnicos da ANEEL",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "15/09/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto",
-        "energia"
-      ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/conheca-o-portal-de-estudos-tecnicos-da-aneel",
-      "desc": "Notícias SETOR ELÉTRICO Conheça o Portal de Estudos Técnicos da ANEEL Plataforma reúne estudos de inventário hidrelétrico e de viabilidade aprovados pela Agência Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 08/09/2026 10h21 A Agência Nacional de Energia Elétrica (ANEEL) apresenta o Portal de Estudos Técnicos Aprovados, plataforma digital que reúne estudos de inventário hidrelétrico e de viabilidade aprovados pela Agência. Antes da implantação do portal, o acesso a esses documentos era realizado mediante solicitação à Biblioteca da ANEEL, responsável por localizar e encaminhar os estudos aos interessados. Com a plataforma, as consultas e o acesso aos documentos passara"
-    },
-    {
       "titulo": "Comunicado: ANP implementará o Gov.BR Nível Ouro para acesso aos sistemas SRD-GLP e SPA",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "15/09/2026",
+      "data": "16/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -113,7 +114,7 @@
       "titulo": "Aprovada resolução que revisa norma sobre tratamento diferenciado a micro e pequenas empresas",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "15/09/2026",
+      "data": "16/09/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -125,7 +126,7 @@
       "titulo": "Chamada Pública 001/2026",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "15/09/2026",
+      "data": "16/09/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -137,7 +138,7 @@
       "titulo": "Prefeito Renato Junior vistoria avanço das obras do parque Encontro das Águas Rosa Almeida e destaca o potencial do espaço como novo eixo turístico na zona Leste",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "15/09/2026",
+      "data": "16/09/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -146,10 +147,24 @@
       "desc": "Fiscalização Prefeitura intensifica vistorias e monitoramento de imóveis no centro histórico da capital"
     },
     {
+      "titulo": "ANEEL abre consulta pública para aprimorar classificação operacional de usinas do SIN",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "16/09/2026",
+      "impacto": "medio",
+      "tags": [
+        "medio",
+        "energia",
+        "consulta"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-abre-consulta-publica-para-aprimorar-classificacao-operacional-de-usinas-do-sin",
+      "desc": "Notícias GERAÇÃO ANEEL abre consulta pública para aprimorar classificação operacional de usinas do SIN Proposta encaminhada pelo ONS busca atualizar os critérios utilizados para definir o nível de participação das usinas no planejamento, na programação e na operação do sistema elétrico Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 15/09/2026 17h16 A Agência Nacional de Energia Elétrica (ANEEL) aprovou, nesta terça-feira (15/9), a abertura da Consulta Pública nº 034/2026, destinada a receber contribuições da sociedade para o aprimoramento dos critérios de classificação das modalidades de operação das usinas integrantes do Sistema Interligado Nacional (SIN). A classifica"
+    },
+    {
       "titulo": "ANEEL aprova primeira revisão da Agenda Regulatória para o biênio 2026-2027",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "15/09/2026",
+      "data": "16/09/2026",
       "impacto": "medio",
       "tags": [
         "medio",
@@ -159,38 +174,10 @@
       "desc": "Notícias AGENDA REGULATÓRIA ANEEL aprova primeira revisão da Agenda Regulatória para o biênio 2026-2027 Com a inclusão de cinco novas atividades, remanejamento de nove atividades para 2028 e a exclusão de duas, a Agenda ficou com 54 atividades Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 09/09/2026 08h54 Nesta terça-feira (8/9), a diretoria colegiada da Agência Nacional de Energia Elétrica (ANEEL) aprovou, durante Reunião Pública Ordinária, a primeira revisão da Agenda Regulatória para o biênio 2025-2026. O processo simplificado de revisão da Agenda Regulatória ocorre quando se identifica a necessidade de atualização por fato superveniente à aprovação do documento. De"
     },
     {
-      "titulo": "ANEEL propõe novas regras para preparar a rede elétrica para geração solar, baterias e veículos elétricos",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "15/09/2026",
-      "impacto": "medio",
-      "tags": [
-        "medio",
-        "energia",
-        "consulta"
-      ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-propoe-novas-regras-para-preparar-a-rede-eletrica-para-geracao-solar-baterias-e-veiculos-eletricos",
-      "desc": "Notícias GERAÇÃO ANEEL propõe novas regras para preparar a rede elétrica para geração solar, baterias e veículos elétricos Consulta Pública quer ampliar a segurança e a eficiência do sistema elétrico, favorecer a inovação e permitir uma integração mais inteligente dos novos recursos de energia Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 08/09/2026 15h58 A Agência Nacional de Energia Elétrica (ANEEL) abriu Consulta Pública (CP 033/2026) para debater a modernização das regras de conexão de tecnologias como geração solar distribuída, sistemas de armazenamento, veículos elétricos e cargas que podem ajustar seu consumo conforme as condições da rede. A iniciativa busca pre"
-    },
-    {
-      "titulo": "Leilão marcado para abril de 2027, o primeiro com contratação de baterias na transmissão, entra em consulta pública",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "15/09/2026",
-      "impacto": "medio",
-      "tags": [
-        "medio",
-        "energia",
-        "consulta"
-      ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/leilao-marcado-para-abril-de-2027-o-primeiro-com-contratacao-de-baterias-na-transmissao-entra-em-consulta-publica",
-      "desc": "Notícias TRANSMISSÃO Leilão marcado para abril de 2027, o primeiro com contratação de baterias na transmissão, entra em consulta pública ANEEL espera investimento de R$ 12,9 bilhões e criação de 29,5 mil empregos diretos e indiretos Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 08/09/2026 11h53 A Agência Nacional de Energia Elétrica (ANEEL) inicia nesta quinta-feira (10/9) a Consulta Pública nº 032/2026, na qual a sociedade poderá analisar uma versão inicial do edital do Leilão de Transmissão nº 01/2027 e enviar sugestões. O texto em análise se destaca por apresentar, entre os 12 lotes ofertados (detalhados no fim desta nota), o primeiro voltado à contratação de armaze"
-    },
-    {
       "titulo": "ANP tomará medidas para coibir desvio do etanol hidratado para fabricação clandestina de bebidas",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "15/09/2026",
+      "data": "16/09/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -202,7 +189,7 @@
       "titulo": "Prêmio ANP de Inovação Tecnológica: live amanhã (09/09) esclarecerá dúvidas para interessados em se candidatar",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "15/09/2026",
+      "data": "16/09/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -214,7 +201,7 @@
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "15/09/2026",
+      "data": "16/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -226,7 +213,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "15/09/2026",
+      "data": "16/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -236,10 +223,23 @@
       "desc": "Edição do dia verificada. Nenhum ato relevante encontrado."
     },
     {
+      "titulo": "Experimento Energias da Floresta busca levar energia a populações isoladas",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "16/09/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo",
+        "energia"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/experimento-energias-da-floresta-busca-levar-energia-a-populacoes-isoladas",
+      "desc": "Notícias INOVAÇÃO Experimento Energias da Floresta busca levar energia a populações isoladas Com supervisão da ANEEL, a iniciativa reunirá projetos adaptados a comunidades indígenas, quilombolas e outras em regiões remotas Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 15/09/2026 17h11 A Agência Nacional de Energia Elétrica (ANEEL) aprovou, nesta terça-feira (15/9), as regras para o desenvolvimento do Sandbox Regulatório Energias da Floresta. A iniciativa cria um ambiente temporário, supervisionado pela Agência, para testar projetos-piloto de fornecimento de energia elétrica a populações indígenas, quilombolas, ribeirinhas, comunidades tradicionais e agricultores famili"
+    },
+    {
       "titulo": "Expansão da matriz elétrica em agosto é de quase 2 GW",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "15/09/2026",
+      "data": "16/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -252,7 +252,7 @@
       "titulo": "ANEEL aprova transferência de controle indireto de 26 concessionárias de transmissão",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "15/09/2026",
+      "data": "16/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -265,7 +265,7 @@
       "titulo": "RenovaBio: ANP prorroga prazo para recebimento de contribuições sobre as novas versões da RenovaCalc",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "15/09/2026",
+      "data": "16/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -277,7 +277,7 @@
       "titulo": "Operação da ANP no Rio Grande do Sul, em parceria com a Polícia Civil, apreende 14.281 litros de combustíveis líquidos",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "15/09/2026",
+      "data": "16/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -289,7 +289,7 @@
       "titulo": "ANP, em parceria com o Banco Mundial, lança campanha de medição de metano",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "15/09/2026",
+      "data": "16/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -302,7 +302,7 @@
       "titulo": "Consultar minhas solicitações",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "15/09/2026",
+      "data": "16/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -314,7 +314,7 @@
       "titulo": "Consultar Meu Imposto de Renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "15/09/2026",
+      "data": "16/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -326,7 +326,7 @@
       "titulo": "Consultar restituição de imposto de renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "15/09/2026",
+      "data": "16/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -338,7 +338,7 @@
       "titulo": "Consultar dados do Cadastro Único",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "15/09/2026",
+      "data": "16/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -350,7 +350,7 @@
       "titulo": "Creative Commons",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "15/09/2026",
+      "data": "16/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -362,7 +362,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "15/09/2026",
+      "data": "16/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -374,7 +374,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "15/09/2026",
+      "data": "16/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -386,7 +386,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "15/09/2026",
+      "data": "16/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -398,7 +398,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "15/09/2026",
+      "data": "16/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -410,7 +410,7 @@
       "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "15/09/2026",
+      "data": "16/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -425,7 +425,7 @@
       "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "15/09/2026",
+      "data": "16/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -434,48 +434,22 @@
       "desc": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
-      "titulo": "SEMIG Secretaria de Estado de Energia, Mineração e Gás",
+      "titulo": "SEMIG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "15/09/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo",
-        "energia",
-        "gas"
-      ],
-      "url": "https://www.semig.am.gov.br",
-      "desc": "Em cumprimento a Lei n. 9.504/97, o conteúdo dos sites dos órgãos da administração pública direta e indireta do poder executivo estadual estará, durante todo o período eleitoral, restrito a informações sobre prestação de serviços ao cidadão e à Lei de Acesso à Informação. SEMIG\n                        - Secretaria de Estado de Energia, Mineração e Gás Utilizamos cookies para permitir uma melhor experiência em nosso website e para nos ajudar a compreender quais informações são mais úteis e relevantes para você. Por isso é importante que você concorde com a política de uso de cookies da SEMIG - Secretaria de Estado de Energia, Mineração e Gás . Você pode encontrar mais informações sobre quais cookies estamos utilizando e inclusive desabilitá-los em configurações . Utilizamos cookies para per"
-    },
-    {
-      "titulo": "E-mail Integra Amazonas",
-      "orgao": "SEMIG",
-      "tema": "Política Energética / AM",
-      "data": "15/09/2026",
+      "data": "16/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.office.com/?auth=2&home=1",
-      "desc": "E-mail Integra Amazonas"
-    },
-    {
-      "titulo": "semig@semig.am.gov.br",
-      "orgao": "SEMIG",
-      "tema": "Política Energética / AM",
-      "data": "15/09/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.semig.am.gov.br/category/noticias/mailto:semig@semig.am.gov.br",
-      "desc": "semig@semig.am.gov.br"
+      "url": "https://www.semig.am.gov.br/category/noticias/",
+      "desc": "SEMIG — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "15/09/2026",
+      "data": "16/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -487,19 +461,19 @@
       "titulo": "Prefeito Renato Junior sanciona lei aguardada há 25 anos que garante subsídio de até R$ 3 milhões mensais para o transporte complementar de Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "15/09/2026",
+      "data": "16/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/compromisso/subsidio-de-ate-r-3-milhoes/",
+      "url": "https://www.manaus.am.gov.br/noticia/compromisso/prefeito-subsidio-de-ate-r-3-milhoes/",
       "desc": "Compromisso Prefeito Renato Junior afirma que cobrará Estado na Justiça por repasses do Passe Livre Estudantil e que mantém transporte coletivo em dia"
     },
     {
       "titulo": "Prefeito Renato Junior avança tratativas com a Caixa Econômica para projetos de habitação e infraestrutura em Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "15/09/2026",
+      "data": "16/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -508,34 +482,34 @@
       "desc": "Parceria Prefeitura de Manaus e TJ-AM promovem formação em Justiça Restaurativa para fortalecer cultura de paz nas escolas"
     },
     {
-      "titulo": "Guarda Municipal de Manaus apreende entorpecentes e balanças de precisão no bairro Novo Aleixo",
+      "titulo": "Prefeitura de Manaus promove ação de saúde mental para servidores da rede municipal de ensino",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "15/09/2026",
+      "data": "16/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/nota/apreende-entorpecentes-e-balancas-de-precisao/",
-      "desc": "Nota Guarda Municipal detém indivíduos com mandado de prisão em aberto e aparelho celular com restrição de roubo"
+      "url": "https://www.manaus.am.gov.br/noticia/manaus/acao-saude-mental-servidores-semed/",
+      "desc": "Manaus Prefeito Renato Junior destaca que ‘#Sou Manaus 2026’ tem recorde de público, com 560 mil pessoas nas primeiras noites, e projeta expansão nacional"
     },
     {
-      "titulo": "Estudos da Visa Manaus sobre controle sanitário na Amazônia são apresentados em congresso mundial na África do Sul",
+      "titulo": "Sine Manaus oferta 892 vagas de emprego nesta quarta-feira, 16/9",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "15/09/2026",
+      "data": "16/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/eventos/estudos-visa-manaus-congresso-mundial-africa-do-sul/",
-      "desc": "Eventos Prefeitura de Manaus apresenta experiência na automação do diagnóstico parasitológico em congresso nacional em Santa Catarina"
+      "url": "https://www.manaus.am.gov.br/noticia/oportunidade/sine-manaus-892-vagas-emprego-16-9/",
+      "desc": "Página Inicial Notícias Oportunidade Sine Manaus oferta 892 vagas de emprego nesta quarta-feira, 16/9 Sine Manaus oferta 892 vagas de emprego nesta quarta-feira, 16/9 Por Prefeitura de Manaus 15/09/2026 15h40 Seu navegador não suporta o elemento de áudio. #Pratodosverem – Mulher sendo atendida no balcão do Sine Manaus A Prefeitura de Manaus , por meio do Sine Manaus, oferta 892 vagas de emprego em várias áreas de atuação, nesta quarta-feira, 16/9, das 8h às 14h. O candidato pode validar a Carteira Digital e Previdência Social (CTPS) no aplicativo “Carteira de Trabalho Digital” ou acessar o site http://gov.br/trabalho . Para participar da pré-seleção e concorrer a uma das vagas disponíveis, ou receber orientação de cadastro, Carteira de Trabalho Digital e seguro-desemprego, os candidatos de"
     },
     {
       "titulo": "Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "15/09/2026",
+      "data": "16/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -547,7 +521,7 @@
       "titulo": "Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "15/09/2026",
+      "data": "16/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -559,7 +533,7 @@
       "titulo": "Prefeito Renato Junior vistoria retirada do asfalto na Ferreira Pena e destaca que a área entra em nova etapa para se tornar primeira ‘Rua Gastronômica’ de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "15/09/2026",
+      "data": "16/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
