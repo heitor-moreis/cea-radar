@@ -1,25 +1,24 @@
 {
-  "ultima_coleta": "16/09/2026 11:18",
+  "ultima_coleta": "17/09/2026 11:27",
   "mes_ano": "Set/2026",
-  "total": 41,
+  "total": 42,
   "fontes": 18,
   "fontes_com_falha": [],
   "stats": {
-    "critico": 2,
+    "critico": 3,
     "alto": 7,
-    "medio": 4,
-    "baixo": 28,
-    "consultas_abertas": 1
+    "medio": 3,
+    "baixo": 29,
+    "consultas_abertas": 2
   },
   "por_orgao": {
-    "ANP": 8,
     "ANEEL": 8,
-    "ANA": 5,
+    "ANP": 8,
+    "ANA": 6,
     "Prefeitura Manaus": 4,
     "Implurb": 2,
     "IMMU": 2,
     "AmE": 1,
-    "SEFAZ-AM": 1,
     "DOU": 1,
     "DOE-AM": 1,
     "CCEE": 1,
@@ -29,26 +28,15 @@
     "Cigás": 1,
     "ARSEPAM": 1,
     "SEMIG": 1,
+    "SEFAZ-AM": 1,
     "Seinfra-AM": 1
   },
   "publicacoes": [
     {
-      "titulo": "Aprovada a indicação de 24 blocos na Bacia Potiguar para futuros ciclos da Oferta Permanente de Concessão (OPC)",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "16/09/2026",
-      "impacto": "critico",
-      "tags": [
-        "critico"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/aprovada-a-indicacao-de-24-blocos-na-bacia-potiguar-para-futuros-ciclos-da-oferta-permanente-de-concessao-opc",
-      "desc": "Notícias Aprovada a indicação de 24 blocos na Bacia Potiguar para futuros ciclos da Oferta Permanente de Concessão (OPC) Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 04/09/2026 11h00 A Diretoria da ANP aprovou hoje (4/9) a indicação de 24 novos blocos exploratórios na porção terrestre da Bacia Potiguar, com vistas à eventual inclusão em futuros ciclos da Oferta Permanente de Concessão (OPC). Ou seja, as áreas indicadas somente poderão ser disponibilizadas para oferta após o 6º ciclo, previsto para acontecer no dia 07 de outubro 2026. Os blocos aprovados ainda precisarão cumprir etapas como análise ambiental e emissão de Manifestação Conjunta dos Ministérios de Minas e"
-    },
-    {
       "titulo": "Informações",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "16/09/2026",
+      "data": "17/09/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -58,10 +46,49 @@
       "desc": "Informações Decretos de Situação de Emergência Alteração de Carga Cadastro de Equipamento Vital Cliente Alta Tensão Cliente Mercado Livre Compartilhamento de infraestruturas Contrato Contribuição de Iluminação Pública por Município Decretos de Situação de Emergência Desligamentos Programados Despesas Associadas a CCC Dicas de Consumo Consciente Dicas de Segurança Direitos e Deveres Furto de energia elétrica é crime Iluminação Pública Indicadores de Continuidade Ligação Nova Ligação Provisória Localizar App na Loja Micro/Minigeração Distribuída Normas Técnicas e Manuais Notícias Orçamento de Conexão / Projeto / Vistoria Padrão de Entrada Pesquisa de Curvas de Carga e Hábitos de Consumo Poda e Arborização Programa de Eficiência Energética Programa de Eletrificação Rural Programa de Pesquisa "
     },
     {
+      "titulo": "Prefeitura de Manaus informa suspensão temporária do atendimento ao público na USF Luiz Montenegro nesta sexta-feira",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "17/09/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/nota/prefeitura-atendimento-usf-luiz-montenegro/",
+      "desc": "Página Inicial Notícias Nota Prefeitura de Manaus informa suspensão temporária do atendimento ao público na USF Luiz Montenegro nesta sexta-feira Prefeitura de Manaus informa suspensão temporária do atendimento ao público na USF Luiz Montenegro nesta sexta-feira Por Prefeitura de Manaus 17/09/2026 9h53 Seu navegador não suporta o elemento de áudio. A Prefeitura de Manaus, por meio da Secretaria Municipal de Saúde (Semsa) informa a interrupção temporária no atendimento ao público na Unidade de Saúde da Família (USF) Luiz Montenegro, localizada na rua Pico das Águas, 527, Nossa Senhora das Graças, nesta sexta-feira, 18/9, a partir das 13h, para realização de serviços de manutenção e reparos na unidade. Os usuários que precisarem dos serviços da atenção primária neste dia podem buscar atendim"
+    },
+    {
+      "titulo": "Prefeitura de Manaus monitora qualidade do ar devido à presença de fumaça",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "17/09/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/nota/prefeitura-monitoramento-ar-fumaca/",
+      "desc": "Nota Prefeitura de Manaus informa suspensão temporária do atendimento ao público na USF Luiz Montenegro nesta sexta-feira"
+    },
+    {
+      "titulo": "Audiência Pública discutirá revisão das tarifas da CEEE-D em Porto Alegre (RS)",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "17/09/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto",
+        "energia",
+        "consulta",
+        "tarifa"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/audiencia-publica-discutira-revisao-das-tarifas-da-ceee-d-em-porto-alegre-rs",
+      "desc": "Notícias TARIFAS Audiência Pública discutirá revisão das tarifas da CEEE-D em Porto Alegre (RS) A sessão presencial será realizada dia 8/10, em Porto Alegre/RS, no Auditório do Palácio do Ministério Público do Rio Grande do Sul Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 16/09/2026 12h33 Os consumidores atendidos pela Companhia Estadual de Distribuição de Energia Elétrica (CEEE-D) poderão participar da Audiência Pública 007/2026 , que discutirá a Revisão Tarifária Periódica (RTP) da distribuidora. Com sede em Porto Alegre, no estado do Rio Grande do Sul, a distribuidora atende aproximadamente 2,03 milhões unidades consumidoras. A sessão será realizada no dia 8/10, a "
+    },
+    {
       "titulo": "Aprovadas as novas tarifas da Equatorial Pará",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "16/09/2026",
+      "data": "17/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -75,7 +102,7 @@
       "titulo": "ANEEL assina novos contratos de geração e transmissão de energia elétrica",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "16/09/2026",
+      "data": "17/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -88,7 +115,7 @@
       "titulo": "ANEEL realiza cerimônia para assinatura de contratos de geração e transmissão de energia",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "16/09/2026",
+      "data": "17/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -98,10 +125,22 @@
       "desc": "Notícias LEILÃO ANEEL realiza cerimônia para assinatura de contratos de geração e transmissão de energia Evento formaliza contratos decorrentes de Leilão de Reserva de Capacidade na forma de Potência e da segunda etapa do Leilão de Transmissão nº 1/2026 Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 09/09/2026 15h04 A Agência Nacional de Energia Elétrica (ANEEL) vai sediar, nesta quinta-feira (10/9), às 15h, na Sala Plenária da Agência, em Brasília (DF), cerimônia de assinatura de contratos decorrentes do Leilão de Reserva de Capacidade na forma de Potência (LRCAP n.º 2/2026) e da segunda etapa do Leilão de Transmissão n.º 1 de 2026. A assinatura será transmitida pelo c"
     },
     {
+      "titulo": "ANP firma acordo com o Procon de Parauapebas (PA) para fiscalização do abastecimento no município",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "17/09/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-firma-acordo-com-o-procon-de-parauapebas-pa-para-fiscalizacao-do-abastecimento-no-municipio",
+      "desc": "Notícias ANP firma acordo com o Procon de Parauapebas (PA) para fiscalização do abastecimento no município Agência mantém parcerias com órgãos públicos de todo o Brasil. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 17/09/2026 12h06 A ANP celebrou acordo de cooperação técnica e operacional com o Procon Municipal de Parauapebas (PA). O extrato do acordo foi publicado ontem (16/9) no Diário Oficial da União . O foco é a fiscalização de agentes econômicos que atuam no transporte, revenda e comercialização de derivados do petróleo e biocombustíveis. O acordo prevê a atuação conjunta entre os órgãos para a repressão de condutas violadoras da legislação relativa ao setor. O "
+    },
+    {
       "titulo": "Comunicado: ANP implementará o Gov.BR Nível Ouro para acesso aos sistemas SRD-GLP e SPA",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "16/09/2026",
+      "data": "17/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -111,34 +150,10 @@
       "desc": "Notícias Comunicado: ANP implementará o Gov.BR Nível Ouro para acesso aos sistemas SRD-GLP e SPA Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 09/09/2026 10h46 A ANP implementará, no dia 08/10/2026, o Gov.BR Nível Ouro para acesso aos sistemas SRD-GLP e SPA, destinados, respectivamente, a revendas de GLP (gás de cozinha) e pontos de abastecimento (PAs). A partir dessa data, todos os agentes econômicos desses segmentos precisarão obter o Nível Ouro para acesso a esses sistemas. O SRD-GLP e o SPA recebem as solicitações referentes ao cadastro dos agentes econômicos, como requerimentos de autorização para o exercício da atividade e atualizações cadastrais. A transição par"
     },
     {
-      "titulo": "Aprovada resolução que revisa norma sobre tratamento diferenciado a micro e pequenas empresas",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "16/09/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/aprovada-resolucao-sobre-tratamento-diferenciado-a-micro-e-pequenas-empresas-1",
-      "desc": "Notícias Aprovada resolução que revisa norma sobre tratamento diferenciado a micro e pequenas empresas A revisão de resolução poderá beneficiar cerca de 74 mil estabelecimentos em todo o país. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 04/09/2026 10h29 Atualizado em 04/09/2026 16h06 Diretoria da ANP aprovou hoje (4/9) resolução que fortalece a fiscalização de microempresas e empresas de pequeno porte (MEs e EPPs), com foco em orientação. O regulamento aprovado revisa a Resolução ANP nº 759/2018 , que estabelece critérios para o tratamento diferenciado para esses tipos de empresa atendendo à Lei Complementar nº 123/2006 . Entre as medidas para esses tipos de empresa "
-    },
-    {
-      "titulo": "Chamada Pública 001/2026",
-      "orgao": "SEFAZ-AM",
-      "tema": "Tributação / AM",
-      "data": "16/09/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto"
-      ],
-      "url": "https://www.sefaz.am.gov.br/submenu/52317/detalhamento/52318?parent=Chamadas%20P%C3%BAblicas",
-      "desc": "O Estado do Amazonas, por intermédio da Secretaria de Estado da Fazenda, torna pública às instituições financeiras públicas ou privadas de âmbito nacional a abertura da presente Chamada Pública, nos termos deste Edital, com a finalidade de receber propostas para análise da viabilidade de contratação de Operação de Crédito, na modalidade de operação contratual interna, com garantia da União, no valor de R$ 1.462.000.000,00 (Um bilhão e quatrocentos e sessenta e dois milhões de reais), no âmbito do Programa Estadual de Habitação, Infraestrutura, Saneamento e Capitalização do Fundo Garantidor de PPP - PROHABISCAP, nos termos da Resolução CMN n.º 4.995, de 24 de março de 2022, e suas alterações, destinados ao aporte ao Fundo de Infraestrutura e Desenvolvimento do Estado do Amazonas - FIDEAM, a"
-    },
-    {
       "titulo": "Prefeito Renato Junior vistoria avanço das obras do parque Encontro das Águas Rosa Almeida e destaca o potencial do espaço como novo eixo turístico na zona Leste",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "16/09/2026",
+      "data": "17/09/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -150,7 +165,7 @@
       "titulo": "ANEEL abre consulta pública para aprimorar classificação operacional de usinas do SIN",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "16/09/2026",
+      "data": "17/09/2026",
       "impacto": "medio",
       "tags": [
         "medio",
@@ -161,23 +176,10 @@
       "desc": "Notícias GERAÇÃO ANEEL abre consulta pública para aprimorar classificação operacional de usinas do SIN Proposta encaminhada pelo ONS busca atualizar os critérios utilizados para definir o nível de participação das usinas no planejamento, na programação e na operação do sistema elétrico Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 15/09/2026 17h16 A Agência Nacional de Energia Elétrica (ANEEL) aprovou, nesta terça-feira (15/9), a abertura da Consulta Pública nº 034/2026, destinada a receber contribuições da sociedade para o aprimoramento dos critérios de classificação das modalidades de operação das usinas integrantes do Sistema Interligado Nacional (SIN). A classifica"
     },
     {
-      "titulo": "ANEEL aprova primeira revisão da Agenda Regulatória para o biênio 2026-2027",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "16/09/2026",
-      "impacto": "medio",
-      "tags": [
-        "medio",
-        "energia"
-      ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-aprova-primeira-revisao-da-agenda-regulatoria-para-o-bienio-2026-2027",
-      "desc": "Notícias AGENDA REGULATÓRIA ANEEL aprova primeira revisão da Agenda Regulatória para o biênio 2026-2027 Com a inclusão de cinco novas atividades, remanejamento de nove atividades para 2028 e a exclusão de duas, a Agenda ficou com 54 atividades Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 09/09/2026 08h54 Nesta terça-feira (8/9), a diretoria colegiada da Agência Nacional de Energia Elétrica (ANEEL) aprovou, durante Reunião Pública Ordinária, a primeira revisão da Agenda Regulatória para o biênio 2025-2026. O processo simplificado de revisão da Agenda Regulatória ocorre quando se identifica a necessidade de atualização por fato superveniente à aprovação do documento. De"
-    },
-    {
       "titulo": "ANP tomará medidas para coibir desvio do etanol hidratado para fabricação clandestina de bebidas",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "16/09/2026",
+      "data": "17/09/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -189,7 +191,7 @@
       "titulo": "Prêmio ANP de Inovação Tecnológica: live amanhã (09/09) esclarecerá dúvidas para interessados em se candidatar",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "16/09/2026",
+      "data": "17/09/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -201,7 +203,7 @@
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "16/09/2026",
+      "data": "17/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -213,7 +215,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "16/09/2026",
+      "data": "17/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -226,7 +228,7 @@
       "titulo": "Experimento Energias da Floresta busca levar energia a populações isoladas",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "16/09/2026",
+      "data": "17/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -239,7 +241,7 @@
       "titulo": "Expansão da matriz elétrica em agosto é de quase 2 GW",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "16/09/2026",
+      "data": "17/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -252,7 +254,7 @@
       "titulo": "ANEEL aprova transferência de controle indireto de 26 concessionárias de transmissão",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "16/09/2026",
+      "data": "17/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -262,10 +264,36 @@
       "desc": "Notícias TRANSMISSÃO ANEEL aprova transferência de controle indireto de 26 concessionárias de transmissão Operação prevê a participação conjunta da Caisse de Dépôt et Placement du Québec e do Grupo Energía Bogotá no controle societário das transmissoras. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 11/09/2026 09h27 A Agência Nacional de Energia Elétrica (ANEEL) anuiu nesta sexta-feira (11/9) a transferência de Controle Societário Indireto das concessionárias de serviço público de transmissão de energia elétrica Barreiras Transmissora de Energia S.A., Buritirama Transmissora de Energia S.A., Vale do Sertão Transmissora de Energia S.A., Jaíba Transmissora de Energia S.A"
     },
     {
+      "titulo": "ANP segue acompanhando a participação do diesel S500 em todas as regiões do país",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "17/09/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-segue-acompanhando-a-participacao-do-diesel-s500-em-todas-as-regioes-do-pais",
+      "desc": "Notícias ANP segue acompanhando a participação do diesel S500 em todas as regiões do país Infográfico apresenta dados nacionais e regionais sobre as vendas de óleo diesel S500 no primeiro semestre de 2026 Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 17/09/2026 12h22 A ANP divulgou hoje (17/9), em seu site, infográfico atualizado com dados nacionais e regionais sobre as vendas do óleo diesel S500 no primeiro semestre de 2026. Os dados indicam que o S500 vem sendo substituído no Brasil, gradualmente, pelo S10 que tem menor teor de enxofre. Consulte o infográfico . Entre janeiro e junho de 2026, foram vendidos 9,02 milhões de metros cúbicos de óleo diesel S500 no país. O"
+    },
+    {
+      "titulo": "ANP e FGV Energia realizam workshop hoje (17/9) sobre regulação experimental",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "17/09/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo",
+        "energia",
+        "gas"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-e-fgv-energia-realizam-workshop-hoje-17-9-sobre-regulacao-experimental",
+      "desc": "Notícias ANP e FGV Energia realizam workshop hoje (17/9) sobre regulação experimental Encontro apresentará proposta para regulação experimental no setor de petróleo e gás; transmissão será ao vivo pelo YouTube. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 17/09/2026 08h56 A ANP realiza hoje (17/9), a partir das 9h, em parceria com a FGV Energia, o workshop “Proposta de Regulação do Ambiente Regulatório Experimental na ANP”. Embora o evento presencial seja restrito a convidados, o público poderá acompanhar toda a programação ao vivo pelo canal da Agência no YouTube . O objetivo é apresentar e debater a proposta de marco regulatório para os ambientes regulatórios experi"
+    },
+    {
       "titulo": "RenovaBio: ANP prorroga prazo para recebimento de contribuições sobre as novas versões da RenovaCalc",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "16/09/2026",
+      "data": "17/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -277,7 +305,7 @@
       "titulo": "Operação da ANP no Rio Grande do Sul, em parceria com a Polícia Civil, apreende 14.281 litros de combustíveis líquidos",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "16/09/2026",
+      "data": "17/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -286,23 +314,10 @@
       "desc": "Notícias Operação da ANP no Rio Grande do Sul, em parceria com a Polícia Civil, apreende 14.281 litros de combustíveis líquidos Houve ações em 17 estados, realizadas entre 31/8 e 4/9, nas quais foi verificado o cumprimento das normas da Agência. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 04/09/2026 17h42 Atualizado em 04/09/2026 17h46 Entre os dias 31/8 e 4/9, a ANP fiscalizou o mercado de abastecimento em 17 unidades da Federação. Nas ações, os fiscais da Agência verificaram a qualidade dos combustíveis, fornecimento do volume correto pelas bombas medidoras, adequação de equipamentos, documentações, entre outros aspectos das normas da Agência. No período, o destaqu"
     },
     {
-      "titulo": "ANP, em parceria com o Banco Mundial, lança campanha de medição de metano",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "16/09/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo",
-        "gas"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-em-parceria-com-o-banco-mundial-lanca-campanha-de-medicao-de-metano",
-      "desc": "Notícias ANP, em parceria com o Banco Mundial, lança campanha de medição de metano Ação visa promover a capacitação técnica em tecnologias de medição, detecção e quantificação de metano Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 04/09/2026 13h07 A ANP lançou ontem (3/9), em parceria com o Banco Mundial, uma Campanha de Medição de Emissões Metano em ativos de produção de petróleo e gás natural. O lançamento aconteceu em evento no Escritório Central da Agência, no Rio de Janeiro, que reuniu técnicos das duas instituições e representantes de empresas do setor de petróleo e gás natural. A iniciativa busca fortalecer a capacidade da Agência para identificar, medir e prop"
-    },
-    {
       "titulo": "Consultar minhas solicitações",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "16/09/2026",
+      "data": "17/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -314,7 +329,7 @@
       "titulo": "Consultar Meu Imposto de Renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "16/09/2026",
+      "data": "17/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -323,22 +338,10 @@
       "desc": "O número antes das estrelas é a nota dada pelos usuários que utilizaram o serviço e vai de 1 a 5. Depois das estrelas, entre parênteses, é a quantidade de usuários que avaliaram o serviço. Os números são atualizados diariamente."
     },
     {
-      "titulo": "Consultar restituição de imposto de renda",
-      "orgao": "ANA",
-      "tema": "Recursos Hídricos",
-      "data": "16/09/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.gov.br/pt-br/servicos/consultar-restituicao-de-imposto-de-renda?origem=maisacessado_inst",
-      "desc": "O número antes das estrelas é a nota dada pelos usuários que utilizaram o serviço e vai de 1 a 5. Depois das estrelas, entre parênteses, é a quantidade de usuários que avaliaram o serviço. Os números são atualizados diariamente."
-    },
-    {
       "titulo": "Consultar dados do Cadastro Único",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "16/09/2026",
+      "data": "17/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -347,10 +350,34 @@
       "desc": "O número antes das estrelas é a nota dada pelos usuários que utilizaram o serviço e vai de 1 a 5. Depois das estrelas, entre parênteses, é a quantidade de usuários que avaliaram o serviço. Os números são atualizados diariamente."
     },
     {
+      "titulo": "Consultar restituição de imposto de renda",
+      "orgao": "ANA",
+      "tema": "Recursos Hídricos",
+      "data": "17/09/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.gov.br/pt-br/servicos/consultar-restituicao-de-imposto-de-renda?origem=maisacessado_inst",
+      "desc": "O número antes das estrelas é a nota dada pelos usuários que utilizaram o serviço e vai de 1 a 5. Depois das estrelas, entre parênteses, é a quantidade de usuários que avaliaram o serviço. Os números são atualizados diariamente."
+    },
+    {
+      "titulo": "Consultar CNPJ",
+      "orgao": "ANA",
+      "tema": "Recursos Hídricos",
+      "data": "17/09/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.gov.br/pt-br/servicos/consultar-cadastro-nacional-de-pessoas-juridicas?origem=maisacessado_inst",
+      "desc": "O número antes das estrelas é a nota dada pelos usuários que utilizaram o serviço e vai de 1 a 5. Depois das estrelas, entre parênteses, é a quantidade de usuários que avaliaram o serviço. Os números são atualizados diariamente."
+    },
+    {
       "titulo": "Creative Commons",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "16/09/2026",
+      "data": "17/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -362,7 +389,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "16/09/2026",
+      "data": "17/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -374,7 +401,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "16/09/2026",
+      "data": "17/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -386,7 +413,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "16/09/2026",
+      "data": "17/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -398,7 +425,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "16/09/2026",
+      "data": "17/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -410,7 +437,7 @@
       "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "16/09/2026",
+      "data": "17/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -425,7 +452,7 @@
       "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "16/09/2026",
+      "data": "17/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -437,7 +464,7 @@
       "titulo": "SEMIG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "16/09/2026",
+      "data": "17/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -446,10 +473,22 @@
       "desc": "SEMIG — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
+      "titulo": "SEFAZ-AM — Página verificada sem atos relevantes hoje.",
+      "orgao": "SEFAZ-AM",
+      "tema": "Tributação / AM",
+      "data": "17/09/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.sefaz.am.gov.br/noticias",
+      "desc": "SEFAZ-AM — Página verificada sem atos relevantes hoje."
+    },
+    {
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "16/09/2026",
+      "data": "17/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -461,7 +500,7 @@
       "titulo": "Prefeito Renato Junior sanciona lei aguardada há 25 anos que garante subsídio de até R$ 3 milhões mensais para o transporte complementar de Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "16/09/2026",
+      "data": "17/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -473,7 +512,7 @@
       "titulo": "Prefeito Renato Junior avança tratativas com a Caixa Econômica para projetos de habitação e infraestrutura em Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "16/09/2026",
+      "data": "17/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -482,34 +521,10 @@
       "desc": "Parceria Prefeitura de Manaus e TJ-AM promovem formação em Justiça Restaurativa para fortalecer cultura de paz nas escolas"
     },
     {
-      "titulo": "Prefeitura de Manaus promove ação de saúde mental para servidores da rede municipal de ensino",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "16/09/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/manaus/acao-saude-mental-servidores-semed/",
-      "desc": "Manaus Prefeito Renato Junior destaca que ‘#Sou Manaus 2026’ tem recorde de público, com 560 mil pessoas nas primeiras noites, e projeta expansão nacional"
-    },
-    {
-      "titulo": "Sine Manaus oferta 892 vagas de emprego nesta quarta-feira, 16/9",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "16/09/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/oportunidade/sine-manaus-892-vagas-emprego-16-9/",
-      "desc": "Página Inicial Notícias Oportunidade Sine Manaus oferta 892 vagas de emprego nesta quarta-feira, 16/9 Sine Manaus oferta 892 vagas de emprego nesta quarta-feira, 16/9 Por Prefeitura de Manaus 15/09/2026 15h40 Seu navegador não suporta o elemento de áudio. #Pratodosverem – Mulher sendo atendida no balcão do Sine Manaus A Prefeitura de Manaus , por meio do Sine Manaus, oferta 892 vagas de emprego em várias áreas de atuação, nesta quarta-feira, 16/9, das 8h às 14h. O candidato pode validar a Carteira Digital e Previdência Social (CTPS) no aplicativo “Carteira de Trabalho Digital” ou acessar o site http://gov.br/trabalho . Para participar da pré-seleção e concorrer a uma das vagas disponíveis, ou receber orientação de cadastro, Carteira de Trabalho Digital e seguro-desemprego, os candidatos de"
-    },
-    {
       "titulo": "Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "16/09/2026",
+      "data": "17/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -521,7 +536,7 @@
       "titulo": "Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "16/09/2026",
+      "data": "17/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -533,7 +548,7 @@
       "titulo": "Prefeito Renato Junior vistoria retirada do asfalto na Ferreira Pena e destaca que a área entra em nova etapa para se tornar primeira ‘Rua Gastronômica’ de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "16/09/2026",
+      "data": "17/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
