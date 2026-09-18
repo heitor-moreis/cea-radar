@@ -1,14 +1,14 @@
 {
-  "ultima_coleta": "17/09/2026 11:27",
+  "ultima_coleta": "18/09/2026 10:47",
   "mes_ano": "Set/2026",
-  "total": 42,
+  "total": 43,
   "fontes": 18,
   "fontes_com_falha": [],
   "stats": {
-    "critico": 3,
+    "critico": 1,
     "alto": 7,
-    "medio": 3,
-    "baixo": 29,
+    "medio": 2,
+    "baixo": 33,
     "consultas_abertas": 2
   },
   "por_orgao": {
@@ -16,7 +16,7 @@
     "ANP": 8,
     "ANA": 6,
     "Prefeitura Manaus": 4,
-    "Implurb": 2,
+    "Implurb": 3,
     "IMMU": 2,
     "AmE": 1,
     "DOU": 1,
@@ -36,7 +36,7 @@
       "titulo": "Informações",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "17/09/2026",
+      "data": "18/09/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -46,34 +46,10 @@
       "desc": "Informações Decretos de Situação de Emergência Alteração de Carga Cadastro de Equipamento Vital Cliente Alta Tensão Cliente Mercado Livre Compartilhamento de infraestruturas Contrato Contribuição de Iluminação Pública por Município Decretos de Situação de Emergência Desligamentos Programados Despesas Associadas a CCC Dicas de Consumo Consciente Dicas de Segurança Direitos e Deveres Furto de energia elétrica é crime Iluminação Pública Indicadores de Continuidade Ligação Nova Ligação Provisória Localizar App na Loja Micro/Minigeração Distribuída Normas Técnicas e Manuais Notícias Orçamento de Conexão / Projeto / Vistoria Padrão de Entrada Pesquisa de Curvas de Carga e Hábitos de Consumo Poda e Arborização Programa de Eficiência Energética Programa de Eletrificação Rural Programa de Pesquisa "
     },
     {
-      "titulo": "Prefeitura de Manaus informa suspensão temporária do atendimento ao público na USF Luiz Montenegro nesta sexta-feira",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "17/09/2026",
-      "impacto": "critico",
-      "tags": [
-        "critico"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/nota/prefeitura-atendimento-usf-luiz-montenegro/",
-      "desc": "Página Inicial Notícias Nota Prefeitura de Manaus informa suspensão temporária do atendimento ao público na USF Luiz Montenegro nesta sexta-feira Prefeitura de Manaus informa suspensão temporária do atendimento ao público na USF Luiz Montenegro nesta sexta-feira Por Prefeitura de Manaus 17/09/2026 9h53 Seu navegador não suporta o elemento de áudio. A Prefeitura de Manaus, por meio da Secretaria Municipal de Saúde (Semsa) informa a interrupção temporária no atendimento ao público na Unidade de Saúde da Família (USF) Luiz Montenegro, localizada na rua Pico das Águas, 527, Nossa Senhora das Graças, nesta sexta-feira, 18/9, a partir das 13h, para realização de serviços de manutenção e reparos na unidade. Os usuários que precisarem dos serviços da atenção primária neste dia podem buscar atendim"
-    },
-    {
-      "titulo": "Prefeitura de Manaus monitora qualidade do ar devido à presença de fumaça",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "17/09/2026",
-      "impacto": "critico",
-      "tags": [
-        "critico"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/nota/prefeitura-monitoramento-ar-fumaca/",
-      "desc": "Nota Prefeitura de Manaus informa suspensão temporária do atendimento ao público na USF Luiz Montenegro nesta sexta-feira"
-    },
-    {
       "titulo": "Audiência Pública discutirá revisão das tarifas da CEEE-D em Porto Alegre (RS)",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "17/09/2026",
+      "data": "18/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -88,7 +64,7 @@
       "titulo": "Aprovadas as novas tarifas da Equatorial Pará",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "17/09/2026",
+      "data": "18/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -102,7 +78,7 @@
       "titulo": "ANEEL assina novos contratos de geração e transmissão de energia elétrica",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "17/09/2026",
+      "data": "18/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -115,7 +91,7 @@
       "titulo": "ANEEL realiza cerimônia para assinatura de contratos de geração e transmissão de energia",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "17/09/2026",
+      "data": "18/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -128,7 +104,7 @@
       "titulo": "ANP firma acordo com o Procon de Parauapebas (PA) para fiscalização do abastecimento no município",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "17/09/2026",
+      "data": "18/09/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -140,7 +116,7 @@
       "titulo": "Comunicado: ANP implementará o Gov.BR Nível Ouro para acesso aos sistemas SRD-GLP e SPA",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "17/09/2026",
+      "data": "18/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -153,7 +129,7 @@
       "titulo": "Prefeito Renato Junior vistoria avanço das obras do parque Encontro das Águas Rosa Almeida e destaca o potencial do espaço como novo eixo turístico na zona Leste",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "17/09/2026",
+      "data": "18/09/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -165,7 +141,7 @@
       "titulo": "ANEEL abre consulta pública para aprimorar classificação operacional de usinas do SIN",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "17/09/2026",
+      "data": "18/09/2026",
       "impacto": "medio",
       "tags": [
         "medio",
@@ -173,13 +149,13 @@
         "consulta"
       ],
       "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-abre-consulta-publica-para-aprimorar-classificacao-operacional-de-usinas-do-sin",
-      "desc": "Notícias GERAÇÃO ANEEL abre consulta pública para aprimorar classificação operacional de usinas do SIN Proposta encaminhada pelo ONS busca atualizar os critérios utilizados para definir o nível de participação das usinas no planejamento, na programação e na operação do sistema elétrico Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 15/09/2026 17h16 A Agência Nacional de Energia Elétrica (ANEEL) aprovou, nesta terça-feira (15/9), a abertura da Consulta Pública nº 034/2026, destinada a receber contribuições da sociedade para o aprimoramento dos critérios de classificação das modalidades de operação das usinas integrantes do Sistema Interligado Nacional (SIN). A classifica"
+      "desc": "Notícias GERAÇÃO ANEEL abre consulta pública para aprimorar classificação operacional de usinas do SIN Proposta encaminhada pelo ONS busca atualizar os critérios utilizados para definir o nível de participação das usinas no planejamento, na programação e na operação do sistema elétrico Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 15/09/2026 17h16 Atualizado em 17/09/2026 17h30 A Agência Nacional de Energia Elétrica (ANEEL) aprovou, nesta terça-feira (15/9), a abertura da Consulta Pública nº 034/2026, destinada a receber contribuições da sociedade para o aprimoramento dos critérios de classificação das modalidades de operação das usinas integrantes do Sistema Interliga"
     },
     {
       "titulo": "ANP tomará medidas para coibir desvio do etanol hidratado para fabricação clandestina de bebidas",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "17/09/2026",
+      "data": "18/09/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -188,22 +164,10 @@
       "desc": "Notícias ANP tomará medidas para coibir desvio do etanol hidratado para fabricação clandestina de bebidas Estudo sobre o tema foi aprovado pela Diretoria da Agência Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 08/09/2026 16h49 A Diretoria da ANP aprovou, na última semana (02/09), relatório sobre medidas para coibir a adição de etanol hidratado combustível em bebidas, resultado de estudo realizado pela Agência, seguindo diretrizes do Conselho Nacional de Política Energética (CNPE) e do Tribunal de Contas da União (TCU). O estudo concluiu por uma solução definitiva, mas que ainda precisará passar por testes de viabilidade, e uma provisória, que envolverá a revisão da Re"
     },
     {
-      "titulo": "Prêmio ANP de Inovação Tecnológica: live amanhã (09/09) esclarecerá dúvidas para interessados em se candidatar",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "17/09/2026",
-      "impacto": "medio",
-      "tags": [
-        "medio"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/premio-anp-de-inovacao-tecnologica-live-amanha-09-09-esclarecera-duvidas-para-interessados-em-se-candidatar",
-      "desc": "Notícias Prêmio ANP de Inovação Tecnológica: live amanhã (09/09) esclarecerá dúvidas para interessados em se candidatar Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 08/09/2026 12h37 A ANP realizará amanhã (09/09), às 16h, uma live, pela plataforma Microsoft Teams, para apresentar o edital e esclarecer dúvidas sobre o Prêmio ANP de Inovação Tecnológica 2026. Interessados podem acessar, no dia e horário marcados, pelo link . As inscrições estão abertas até 21/09 e o edital e seus anexos podem ser consultados na página do Prêmio ANP . Nesta edição, foi incluída a premiação de projetos vinculados à primeira edição do Programa ANP de Empreendedorismo - NAVE-ANP , e foram m"
-    },
-    {
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "17/09/2026",
+      "data": "18/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -215,7 +179,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "17/09/2026",
+      "data": "18/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -228,20 +192,20 @@
       "titulo": "Experimento Energias da Floresta busca levar energia a populações isoladas",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "17/09/2026",
+      "data": "18/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
         "energia"
       ],
       "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/experimento-energias-da-floresta-busca-levar-energia-a-populacoes-isoladas",
-      "desc": "Notícias INOVAÇÃO Experimento Energias da Floresta busca levar energia a populações isoladas Com supervisão da ANEEL, a iniciativa reunirá projetos adaptados a comunidades indígenas, quilombolas e outras em regiões remotas Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 15/09/2026 17h11 A Agência Nacional de Energia Elétrica (ANEEL) aprovou, nesta terça-feira (15/9), as regras para o desenvolvimento do Sandbox Regulatório Energias da Floresta. A iniciativa cria um ambiente temporário, supervisionado pela Agência, para testar projetos-piloto de fornecimento de energia elétrica a populações indígenas, quilombolas, ribeirinhas, comunidades tradicionais e agricultores famili"
+      "desc": "Notícias INOVAÇÃO Experimento Energias da Floresta busca levar energia a populações isoladas Com supervisão da ANEEL, a iniciativa reunirá projetos adaptados a comunidades indígenas, quilombolas e outras em regiões remotas Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 15/09/2026 17h11 Atualizado em 18/09/2026 10h42 A Agência Nacional de Energia Elétrica (ANEEL) aprovou, nesta terça-feira (15/9), as regras para o desenvolvimento do Sandbox Regulatório Energias da Floresta. A iniciativa cria um ambiente temporário, supervisionado pela Agência, para testar projetos-piloto de fornecimento de energia elétrica a populações indígenas, quilombolas, ribeirinhas, comunidades tra"
     },
     {
       "titulo": "Expansão da matriz elétrica em agosto é de quase 2 GW",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "17/09/2026",
+      "data": "18/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -254,7 +218,7 @@
       "titulo": "ANEEL aprova transferência de controle indireto de 26 concessionárias de transmissão",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "17/09/2026",
+      "data": "18/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -264,10 +228,36 @@
       "desc": "Notícias TRANSMISSÃO ANEEL aprova transferência de controle indireto de 26 concessionárias de transmissão Operação prevê a participação conjunta da Caisse de Dépôt et Placement du Québec e do Grupo Energía Bogotá no controle societário das transmissoras. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 11/09/2026 09h27 A Agência Nacional de Energia Elétrica (ANEEL) anuiu nesta sexta-feira (11/9) a transferência de Controle Societário Indireto das concessionárias de serviço público de transmissão de energia elétrica Barreiras Transmissora de Energia S.A., Buritirama Transmissora de Energia S.A., Vale do Sertão Transmissora de Energia S.A., Jaíba Transmissora de Energia S.A"
     },
     {
+      "titulo": "Regulação experimental foi tema de workshop realizado pela ANP e FGV Energia",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "18/09/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo",
+        "energia"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/regulacao-experimental-foi-tema-de-workshop-realizado-pela-anp-e-fgv-energia",
+      "desc": "Notícias Regulação experimental foi tema de workshop realizado pela ANP e FGV Energia Encontro debateu proposta para ambientes regulatórios experimentais na Agência Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 18/09/2026 09h30 Aconteceu ontem (17/9) o workshop “Proposta de Regulação do Ambiente Regulatório Experimental na ANP”. O evento foi realizado pela Agência, em parceria com a FGV Energia, no auditório da Fundação Getúlio Vargas, no Rio de Janeiro. A gravação pode ser acessada no canal da ANP no YouTube . O objetivo foi apresentar e debater a proposta de marco regulatório para os ambientes regulatórios experimentais da ANP (sandbox regulatório, projeto-piloto e r"
+    },
+    {
+      "titulo": "ROG.e: ANP participará de evento que reúne o setor de energia",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "18/09/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo",
+        "energia"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/rog-e-anp-participara-de-evento-que-reune-o-setor-de-energia",
+      "desc": "Notícias ROG.e: ANP participará de evento que reúne o setor de energia Agência terá estande na feira e representantes no congresso Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 17/09/2026 16h45 A ANP participará da ROG.e um dos principais eventos do setor de energia do país, que ocorre de 21 a 24/9 no Rio de Janeiro. A Agência terá um estande na feira (Pavilhão 2, Estande B11), no qual ocorrerão palestras diárias sobre temas referentes ao setor regulado pela ANP. A programação do estande será divulgada nos perfis da ANP nas redes sociais. O Diretor-Geral da ANP, Artur Watt, participará da abertura do congresso, em 21/9, e dos painéis “Segurança energética e o papel dos"
+    },
+    {
       "titulo": "ANP segue acompanhando a participação do diesel S500 em todas as regiões do país",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "17/09/2026",
+      "data": "18/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -279,7 +269,7 @@
       "titulo": "ANP e FGV Energia realizam workshop hoje (17/9) sobre regulação experimental",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "17/09/2026",
+      "data": "18/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -293,7 +283,7 @@
       "titulo": "RenovaBio: ANP prorroga prazo para recebimento de contribuições sobre as novas versões da RenovaCalc",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "17/09/2026",
+      "data": "18/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -302,22 +292,10 @@
       "desc": "Notícias RENOVABIO RenovaBio: ANP prorroga prazo para recebimento de contribuições sobre as novas versões da RenovaCalc Interessados poderão encaminhar manifestações até 16/10/2026 Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 11/09/2026 13h35 A ANP prorrogou para 16/10/2026 o prazo para recebimento de contribuições na participação social referente às novas versões da RenovaCalc, iniciada em 17 de agosto . O prazo anterior era 16/9. A iniciativa busca ampliar as oportunidades de participação da sociedade, agentes regulados, comunidade acadêmica e dos demais interessados no processo de atualização da ferramenta, proporcionando mais tempo para análise e apresentação de c"
     },
     {
-      "titulo": "Operação da ANP no Rio Grande do Sul, em parceria com a Polícia Civil, apreende 14.281 litros de combustíveis líquidos",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "17/09/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/operacao-da-anp-no-rio-grande-do-sul-em-parceria-com-a-policia-civil-apreende-14-281-litros-de-combustiveis-liquidos",
-      "desc": "Notícias Operação da ANP no Rio Grande do Sul, em parceria com a Polícia Civil, apreende 14.281 litros de combustíveis líquidos Houve ações em 17 estados, realizadas entre 31/8 e 4/9, nas quais foi verificado o cumprimento das normas da Agência. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 04/09/2026 17h42 Atualizado em 04/09/2026 17h46 Entre os dias 31/8 e 4/9, a ANP fiscalizou o mercado de abastecimento em 17 unidades da Federação. Nas ações, os fiscais da Agência verificaram a qualidade dos combustíveis, fornecimento do volume correto pelas bombas medidoras, adequação de equipamentos, documentações, entre outros aspectos das normas da Agência. No período, o destaqu"
-    },
-    {
       "titulo": "Consultar minhas solicitações",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "17/09/2026",
+      "data": "18/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -329,7 +307,7 @@
       "titulo": "Consultar Meu Imposto de Renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "17/09/2026",
+      "data": "18/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -341,7 +319,7 @@
       "titulo": "Consultar dados do Cadastro Único",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "17/09/2026",
+      "data": "18/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -353,7 +331,7 @@
       "titulo": "Consultar restituição de imposto de renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "17/09/2026",
+      "data": "18/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -365,7 +343,7 @@
       "titulo": "Consultar CNPJ",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "17/09/2026",
+      "data": "18/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -377,7 +355,7 @@
       "titulo": "Creative Commons",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "17/09/2026",
+      "data": "18/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -389,7 +367,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "17/09/2026",
+      "data": "18/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -401,7 +379,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "17/09/2026",
+      "data": "18/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -413,7 +391,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "17/09/2026",
+      "data": "18/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -425,7 +403,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "17/09/2026",
+      "data": "18/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -437,7 +415,7 @@
       "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "17/09/2026",
+      "data": "18/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -452,7 +430,7 @@
       "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "17/09/2026",
+      "data": "18/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -464,7 +442,7 @@
       "titulo": "SEMIG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "17/09/2026",
+      "data": "18/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -476,7 +454,7 @@
       "titulo": "SEFAZ-AM — Página verificada sem atos relevantes hoje.",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "17/09/2026",
+      "data": "18/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -488,7 +466,7 @@
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "17/09/2026",
+      "data": "18/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -500,7 +478,7 @@
       "titulo": "Prefeito Renato Junior sanciona lei aguardada há 25 anos que garante subsídio de até R$ 3 milhões mensais para o transporte complementar de Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "17/09/2026",
+      "data": "18/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -509,22 +487,46 @@
       "desc": "Compromisso Prefeito Renato Junior afirma que cobrará Estado na Justiça por repasses do Passe Livre Estudantil e que mantém transporte coletivo em dia"
     },
     {
-      "titulo": "Prefeito Renato Junior avança tratativas com a Caixa Econômica para projetos de habitação e infraestrutura em Manaus",
+      "titulo": "Painel sobre serviços de saúde da prefeitura é apresentado no ‘Planeja Manaus’",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "17/09/2026",
+      "data": "18/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/parceria/prefeito-projetos-de-habitacao-e-infraestrutura-em-manaus/",
-      "desc": "Parceria Prefeitura de Manaus e TJ-AM promovem formação em Justiça Restaurativa para fortalecer cultura de paz nas escolas"
+      "url": "https://www.manaus.am.gov.br/noticia/atencao-primaria/servicos-de-saude-da-prefeitura/",
+      "desc": "Atenção primária Prefeito Renato Junior inaugura nova USF no Monte das Oliveiras e pede acolhimento e escuta qualificada como padrão de atendimento à população"
+    },
+    {
+      "titulo": "Segundo dia do ‘Planeja Manaus’ encerra audiências públicas do PLOA 2027 e consolida atendimento à população",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "18/09/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/acao-conjunta/segundo-dia-planeja-manaus-encerramento/",
+      "desc": "Ação Conjunta ‘Manaus que a Gente Cuida’ intensifica serviços de infraestrutura e limpeza no Educandos e Colônia Oliveira Machado e leva ações às comunidades"
+    },
+    {
+      "titulo": "Prefeitura de Manaus apresenta formação em ‘Inteligência Artificial’ para educadores em encontro nacional",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "18/09/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/eventos/apresentacao-formacao-ia-educadores-encontro-nacional/",
+      "desc": "Eventos Estudos da Visa Manaus sobre controle sanitário na Amazônia são apresentados em congresso mundial na África do Sul"
     },
     {
       "titulo": "Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "17/09/2026",
+      "data": "18/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -536,7 +538,7 @@
       "titulo": "Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "17/09/2026",
+      "data": "18/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -545,10 +547,22 @@
       "desc": "Página Inicial Notícias Mobilidade Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto Por Prefeitura de Manaus 15/08/2026 21h59 A Prefeitura de Manaus , por meio da Secretaria Municipal de Infraestrutura (Seminf), concluiu, neste sábado, 15/8, um dia antes do prazo previsto, a etapa de içamento das vigas da alça viária do complexo viário Passarão, projeto que vai mudar a realidade da mobilidade da zona Oeste da cidade. Durante todo o sábado, as equipes realizaram a instalação das nove vigas restantes, das 24 que integram o projeto do viaduto. Todas as metas estão sendo alcançadas antes mesmo do previsto, e pensando no bem-estar, qualidade "
     },
     {
+      "titulo": "Prefeito Renato Junior avança tratativas com a Caixa Econômica para projetos de habitação e infraestrutura em Manaus",
+      "orgao": "Implurb",
+      "tema": "Planejamento Urbano",
+      "data": "18/09/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/implurb/prefeito-projetos-de-habitacao-e-infraestrutura-em-manaus/",
+      "desc": "Parceria Prefeitura inicia levantamento de dados e mapas para abastecer IBGE sobre novos aglomerados subnormais"
+    },
+    {
       "titulo": "Prefeito Renato Junior vistoria retirada do asfalto na Ferreira Pena e destaca que a área entra em nova etapa para se tornar primeira ‘Rua Gastronômica’ de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "17/09/2026",
+      "data": "18/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
