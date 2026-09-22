@@ -1,15 +1,15 @@
 {
-  "ultima_coleta": "21/09/2026 12:47",
+  "ultima_coleta": "22/09/2026 11:19",
   "mes_ano": "Set/2026",
-  "total": 43,
+  "total": 44,
   "fontes": 18,
   "fontes_com_falha": [],
   "stats": {
     "critico": 1,
     "alto": 8,
     "medio": 1,
-    "baixo": 33,
-    "consultas_abertas": 2
+    "baixo": 34,
+    "consultas_abertas": 3
   },
   "por_orgao": {
     "ANEEL": 8,
@@ -17,7 +17,7 @@
     "ANA": 6,
     "Prefeitura Manaus": 4,
     "Implurb": 3,
-    "IMMU": 2,
+    "IMMU": 3,
     "AmE": 1,
     "DOU": 1,
     "DOE-AM": 1,
@@ -36,7 +36,7 @@
       "titulo": "Informações",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "21/09/2026",
+      "data": "22/09/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -46,10 +46,24 @@
       "desc": "Informações Decretos de Situação de Emergência Alteração de Carga Cadastro de Equipamento Vital Cliente Alta Tensão Cliente Mercado Livre Compartilhamento de infraestruturas Contrato Contribuição de Iluminação Pública por Município Decretos de Situação de Emergência Desligamentos Programados Despesas Associadas a CCC Dicas de Consumo Consciente Dicas de Segurança Direitos e Deveres Furto de energia elétrica é crime Iluminação Pública Indicadores de Continuidade Ligação Nova Ligação Provisória Localizar App na Loja Micro/Minigeração Distribuída Normas Técnicas e Manuais Notícias Orçamento de Conexão / Projeto / Vistoria Padrão de Entrada Pesquisa de Curvas de Carga e Hábitos de Consumo Poda e Arborização Programa de Eficiência Energética Programa de Eletrificação Rural Programa de Pesquisa "
     },
     {
+      "titulo": "ANEEL aprova alterações nas Regras de Comercialização para usinas termelétricas",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "22/09/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto",
+        "energia",
+        "consulta"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-aprova-alteracoes-nas-regras-de-comercializacao-para-usinas-termeletricas",
+      "desc": "Notícias COMERCIALIZAÇÃO ANEEL aprova alterações nas Regras de Comercialização para usinas termelétricas O objetivo foi substituir a atual operacionalização provisória por uma solução permanente Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 22/09/2026 11h45 Nesta terça-feira (21/9), a diretoria colegiada da Agência Nacional de Energia Elétrica (ANEEL) aprovou o resultado da Consulta Pública nº 21/2025 , que tratou do aprimoramento do Módulo 16 das Regras de Comercialização a fim de atender a Resolução Normativa 1.093/2024 . A resolução estabelece critérios e procedimentos para aprovação de Custo Variável Unitário (CVU) de centrais geradoras termelétricas que não possue"
+    },
+    {
       "titulo": "ANEEL divulga terceira edição de 2026 do boletim InfoTarifas",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "21/09/2026",
+      "data": "22/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -62,7 +76,7 @@
       "titulo": "Audiência Pública discutirá revisão das tarifas da CEEE-D em Porto Alegre (RS)",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "21/09/2026",
+      "data": "22/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -77,7 +91,7 @@
       "titulo": "Aprovadas as novas tarifas da Equatorial Pará",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "21/09/2026",
+      "data": "22/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -88,23 +102,10 @@
       "desc": "Notícias TARIFAS Aprovadas as novas tarifas da Equatorial Pará Novos valores serão aplicados a partir da data de publicação da decisão no Diário Oficial Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 15/09/2026 17h12 O reajuste tarifário anual para os clientes da Equatorial Pará Distribuidora de Energia S/A foi aprovado nesta terça-feira (15/9) pela Agência Nacional de Energia Elétrica (ANEEL). A distribuidora, sediada em Belém (PA), atende aproximadamente 3,12 milhões de unidades consumidoras em 228 municípios paraenses. Confira os índices que incidirão nas tarifas: Empresa Consumidores residenciais - B1 Equatorial Pará 6,70% Classe de Consumo – Consumidores cativos Ba"
     },
     {
-      "titulo": "ANEEL assina novos contratos de geração e transmissão de energia elétrica",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "21/09/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto",
-        "energia"
-      ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-assina-novos-contratos-de-geracao-e-transmissao-de-energia-eletrica",
-      "desc": "Notícias TRANSMISSÃO ANEEL assina novos contratos de geração e transmissão de energia elétrica Foram formalizados contratos decorrentes do Leilão de Reserva de Capacidade na forma de Potência e da segunda etapa do Leilão de Transmissão nº 1/2026 Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 10/09/2026 17h59 A Agência Nacional de Energia Elétrica (ANEEL) sediou, na tarde desta quinta-feira (10/9), a cerimônia de assinatura dos contratos resultantes de dois certames realizados em 2026: o Leilão de Reserva de Capacidade na forma de Potência (LRCAP nº 2/2026) e a segunda etapa do Leilão de Transmissão (LT nº 1/2026). A solenidade ocorreu na Sala Plenária da Agência, em Bra"
-    },
-    {
       "titulo": "Ações de fiscalização em São Paulo verificam o cumprimento de normas em 93 agentes",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "21/09/2026",
+      "data": "22/09/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -116,7 +117,7 @@
       "titulo": "ANP firma acordo com o Procon de Parauapebas (PA) para fiscalização do abastecimento no município",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "21/09/2026",
+      "data": "22/09/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -128,7 +129,7 @@
       "titulo": "Comunicado: ANP implementará o Gov.BR Nível Ouro para acesso aos sistemas SRD-GLP e SPA",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "21/09/2026",
+      "data": "22/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -141,7 +142,7 @@
       "titulo": "Prefeito Renato Junior vistoria avanço das obras do parque Encontro das Águas Rosa Almeida e destaca o potencial do espaço como novo eixo turístico na zona Leste",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "21/09/2026",
+      "data": "22/09/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -153,7 +154,7 @@
       "titulo": "ANEEL abre consulta pública para aprimorar classificação operacional de usinas do SIN",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "21/09/2026",
+      "data": "22/09/2026",
       "impacto": "medio",
       "tags": [
         "medio",
@@ -167,7 +168,7 @@
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "21/09/2026",
+      "data": "22/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -179,7 +180,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "21/09/2026",
+      "data": "22/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -192,7 +193,7 @@
       "titulo": "Experimento Energias da Floresta busca levar energia a populações isoladas",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "21/09/2026",
+      "data": "22/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -205,7 +206,7 @@
       "titulo": "Expansão da matriz elétrica em agosto é de quase 2 GW",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "21/09/2026",
+      "data": "22/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -218,7 +219,7 @@
       "titulo": "ANEEL aprova transferência de controle indireto de 26 concessionárias de transmissão",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "21/09/2026",
+      "data": "22/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -231,7 +232,7 @@
       "titulo": "Regulação experimental foi tema de workshop realizado pela ANP e FGV Energia",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "21/09/2026",
+      "data": "22/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -244,7 +245,7 @@
       "titulo": "ROG.e: ANP participará de evento que reúne o setor de energia",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "21/09/2026",
+      "data": "22/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -257,7 +258,7 @@
       "titulo": "ANP segue acompanhando a participação do diesel S500 em todas as regiões do país",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "21/09/2026",
+      "data": "22/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -269,7 +270,7 @@
       "titulo": "ANP e FGV Energia realizam workshop hoje (17/9) sobre regulação experimental",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "21/09/2026",
+      "data": "22/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -283,7 +284,7 @@
       "titulo": "RenovaBio: ANP prorroga prazo para recebimento de contribuições sobre as novas versões da RenovaCalc",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "21/09/2026",
+      "data": "22/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -295,7 +296,7 @@
       "titulo": "Consultar minhas solicitações",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "21/09/2026",
+      "data": "22/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -307,7 +308,7 @@
       "titulo": "Consultar Meu Imposto de Renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "21/09/2026",
+      "data": "22/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -319,7 +320,7 @@
       "titulo": "Consultar dados do Cadastro Único",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "21/09/2026",
+      "data": "22/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -331,7 +332,7 @@
       "titulo": "Consultar restituição de imposto de renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "21/09/2026",
+      "data": "22/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -343,7 +344,7 @@
       "titulo": "Consultar CNPJ",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "21/09/2026",
+      "data": "22/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -355,7 +356,7 @@
       "titulo": "Creative Commons",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "21/09/2026",
+      "data": "22/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -367,7 +368,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "21/09/2026",
+      "data": "22/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -379,7 +380,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "21/09/2026",
+      "data": "22/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -391,7 +392,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "21/09/2026",
+      "data": "22/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -403,7 +404,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "21/09/2026",
+      "data": "22/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -415,7 +416,7 @@
       "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "21/09/2026",
+      "data": "22/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -430,7 +431,7 @@
       "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "21/09/2026",
+      "data": "22/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -442,7 +443,7 @@
       "titulo": "SEMIG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "21/09/2026",
+      "data": "22/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -454,7 +455,7 @@
       "titulo": "SEFAZ-AM — Página verificada sem atos relevantes hoje.",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "21/09/2026",
+      "data": "22/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -466,7 +467,7 @@
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "21/09/2026",
+      "data": "22/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -475,58 +476,71 @@
       "desc": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
+      "titulo": "Prefeitura de Manaus celebra Dia da Árvore com recordes de arborização e doação de mudas",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "22/09/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo",
+        "ambiental"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/meio-ambiente/prefeitura-de-manaus-celebra-dia-da-arvore-e-distribui-mudas/",
+      "desc": "Meio Ambiente Prefeitura de Manaus lança campanha de prevenção às queimadas e reforça ações integradas para coibir focos de calor e incêndios"
+    },
+    {
+      "titulo": "Centro de Artes da Prefeitura de Manaus apresenta espetáculo teatral ‘Quem São Elas?’",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "22/09/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/eventos/prefeitura-centrodeartes-teatro/",
+      "desc": "Eventos Prefeitura abre ‘Semana Nacional de Trânsito 2026’ com serviços de conscientização, saúde e cidadania em Manaus"
+    },
+    {
+      "titulo": "‘SOS Vida’ da Prefeitura de Manaus passa a atender exclusivamente pela central telefônica 0800",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "22/09/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/servicos/prefeitura-semsa-atendimento-sosvida/",
+      "desc": "Serviços Prefeitura de Manaus recupera ruas São João e Izaura e melhora mobilidade no Zumbi dos Palmares"
+    },
+    {
+      "titulo": "Prefeitura de Manaus promove capacitação para o uso de estações disseminadoras de larvicida no combate ao Aedes",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "22/09/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/saude/uso-de-estacoes-disseminadoras/",
+      "desc": "Saúde Projeto ‘Samuzinho’ da prefeitura vai capacitar estudantes para prevenção de acidentes e primeiros socorros"
+    },
+    {
       "titulo": "Prefeito Renato Junior sanciona lei aguardada há 25 anos que garante subsídio de até R$ 3 milhões mensais para o transporte complementar de Manaus",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "21/09/2026",
+      "orgao": "IMMU",
+      "tema": "Mobilidade Urbana",
+      "data": "22/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/compromisso/prefeito-subsidio-de-ate-r-3-milhoes/",
-      "desc": "Compromisso Prefeito Renato Junior afirma que cobrará Estado na Justiça por repasses do Passe Livre Estudantil e que mantém transporte coletivo em dia"
-    },
-    {
-      "titulo": "Prefeitura realiza primeira fase do concurso de Procurador do Município de 3ª classe com seis vagas em Manaus",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "21/09/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/concurso/primeira-fase-concurso-procurador-municipio/",
-      "desc": "Concurso Procuradoria-Geral do Município realiza a primeira fase do concurso para o cargo de Procurador do Município neste domingo, 20/9"
-    },
-    {
-      "titulo": "Sine Manaus oferta 888 vagas de emprego nesta segunda-feira, 21/9",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "21/09/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/oportunidade/sine-manaus-888-vagas-emprego-21-9/",
-      "desc": "Página Inicial Notícias Oportunidade Sine Manaus oferta 888 vagas de emprego nesta segunda-feira, 21/9 Sine Manaus oferta 888 vagas de emprego nesta segunda-feira, 21/9 Por Prefeitura de Manaus 20/09/2026 10h59 Seu navegador não suporta o elemento de áudio. #paratodosverem – Candidatos aguardando atendimento em posto do Sine Manaus A Prefeitura de Manaus , por meio do Sine Manaus, oferta 888 vagas de emprego em várias áreas de atuação, nesta segunda-feira, 21/9, das 8h às 14h. O candidato pode validar a Carteira Digital e Previdência Social (CTPS) no aplicativo “Carteira de Trabalho Digital” ou acessar o site http://gov.br/trabalho . Para participar da pré-seleção e concorrer a uma das vagas disponíveis, ou receber orientação de cadastro, Carteira de Trabalho Digital e seguro-desemprego, o"
-    },
-    {
-      "titulo": "Prefeitura de Manaus avança com serviços de drenagem e infraestrutura no bairro Santa Etelvina",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "21/09/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/obras/servicos-de-drenagem-e-infraestrutura/",
-      "desc": "Obras Parque Encontro das Águas Rosa Almeida entra em nova etapa com concretagem das ‘asas’ desenhadas por Niemeyer"
+      "url": "https://www.manaus.am.gov.br/immu/compromisso/prefeito-subsidio-de-ate-r-3-milhoes/",
+      "desc": "Compromisso Prefeito Renato Junior reafirma subsídio ao transporte alternativo e cobra melhoria no serviço"
     },
     {
       "titulo": "Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "21/09/2026",
+      "data": "22/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -538,19 +552,19 @@
       "titulo": "Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "21/09/2026",
+      "data": "22/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
       "url": "https://www.manaus.am.gov.br/immu/mobilidade/conclui-instalacao-vigas/",
-      "desc": "Página Inicial Notícias Mobilidade Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto Por Prefeitura de Manaus 15/08/2026 21h59 A Prefeitura de Manaus , por meio da Secretaria Municipal de Infraestrutura (Seminf), concluiu, neste sábado, 15/8, um dia antes do prazo previsto, a etapa de içamento das vigas da alça viária do complexo viário Passarão, projeto que vai mudar a realidade da mobilidade da zona Oeste da cidade. Durante todo o sábado, as equipes realizaram a instalação das nove vigas restantes, das 24 que integram o projeto do viaduto. Todas as metas estão sendo alcançadas antes mesmo do previsto, e pensando no bem-estar, qualidade "
+      "desc": "Mobilidade Prefeitura de Manaus libera retorno no ‘Passarão’ e reduz trajeto para motoristas na zona Oeste"
     },
     {
       "titulo": "Prefeito Renato Junior avança tratativas com a Caixa Econômica para projetos de habitação e infraestrutura em Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "21/09/2026",
+      "data": "22/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -562,7 +576,7 @@
       "titulo": "Prefeito Renato Junior vistoria retirada do asfalto na Ferreira Pena e destaca que a área entra em nova etapa para se tornar primeira ‘Rua Gastronômica’ de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "21/09/2026",
+      "data": "22/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
