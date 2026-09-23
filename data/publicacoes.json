@@ -1,19 +1,19 @@
 {
-  "ultima_coleta": "22/09/2026 11:19",
+  "ultima_coleta": "23/09/2026 11:20",
   "mes_ano": "Set/2026",
   "total": 44,
   "fontes": 18,
   "fontes_com_falha": [],
   "stats": {
-    "critico": 1,
-    "alto": 8,
-    "medio": 1,
-    "baixo": 34,
+    "critico": 3,
+    "alto": 9,
+    "medio": 2,
+    "baixo": 30,
     "consultas_abertas": 3
   },
   "por_orgao": {
-    "ANEEL": 8,
     "ANP": 8,
+    "ANEEL": 8,
     "ANA": 6,
     "Prefeitura Manaus": 4,
     "Implurb": 3,
@@ -33,10 +33,34 @@
   },
   "publicacoes": [
     {
+      "titulo": "ANP, Senacon e Procons fazem operação conjunta de fiscalização de combustíveis em 13 estados e no DF",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "23/09/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-senacon-e-procons-fazem-operacao-conjunta-de-fiscalizacao-de-combustiveis-em-13-estados-e-no-df",
+      "desc": "Notícias ANP, Senacon e Procons fazem operação conjunta de fiscalização de combustíveis em 13 estados e no DF Ações acontecem entre 23 e 25/9 com foco nas condições de comercialização de combustíveis e na proteção dos consumidores em especial quanto a preços abusivos Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 23/09/2026 11h58 A ANP, em conjunto com a Secretaria Nacional do Consumidor (Senacon), do Ministério da Justiça e Segurança Pública, e Procons estaduais e municipais, realiza, entre os dias 23 e 25 de setembro, operação conjunta de fiscalização do mercado de combustíveis. As ações serão realizadas simultaneamente em 13 estados e no Distrito Federal. Ao todo, 19"
+    },
+    {
+      "titulo": "ANP aplica mais de R$ 200 milhões em multas a distribuidoras de combustíveis por aumento abusivo de preços",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "23/09/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-aplica-mais-de-r-200-milhoes-em-multas-a-distribuidoras-de-combustiveis-por-aumento-abusivo-de-precos",
+      "desc": "Notícias ANP aplica mais de R$ 200 milhões em multas a distribuidoras de combustíveis por aumento abusivo de preços Decisões de primeira instância constataram elevação abusiva de preços, com casos em que as margens brutas das distribuidoras aumentaram mais de 1.350%. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 23/09/2026 09h18 Atualizado em 23/09/2026 11h17 A ANP aplicou multas a distribuidoras de combustíveis por elevação abusiva de preços, em valor total superior a R$ 200 milhões. As penalidades resultam de decisões de primeira instância administrativa em autos de infração lavrados pelas equipes de fiscalização da ANP. As empresas podem apresentar os recursos previ"
+    },
+    {
       "titulo": "Informações",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "22/09/2026",
+      "data": "23/09/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -46,10 +70,36 @@
       "desc": "Informações Decretos de Situação de Emergência Alteração de Carga Cadastro de Equipamento Vital Cliente Alta Tensão Cliente Mercado Livre Compartilhamento de infraestruturas Contrato Contribuição de Iluminação Pública por Município Decretos de Situação de Emergência Desligamentos Programados Despesas Associadas a CCC Dicas de Consumo Consciente Dicas de Segurança Direitos e Deveres Furto de energia elétrica é crime Iluminação Pública Indicadores de Continuidade Ligação Nova Ligação Provisória Localizar App na Loja Micro/Minigeração Distribuída Normas Técnicas e Manuais Notícias Orçamento de Conexão / Projeto / Vistoria Padrão de Entrada Pesquisa de Curvas de Carga e Hábitos de Consumo Poda e Arborização Programa de Eficiência Energética Programa de Eletrificação Rural Programa de Pesquisa "
     },
     {
+      "titulo": "Portaria que inclui a ANEEL no Sistema Brasileiro de Inteligência é publicada",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "23/09/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto",
+        "energia"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/portaria-que-inclui-a-aneel-no-sistema-brasileiro-de-inteligencia-e-publicada",
+      "desc": "Notícias INSTITUCIONAL Portaria que inclui a ANEEL no Sistema Brasileiro de Inteligência é publicada A Agência passa a compor o Sistema Brasileiro de Inteligência (Sisbin) na condição de órgão associado. O Sisbin tem por finalidade articular as ações de planejamento e execução da atividade de inteligência no País. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 22/09/2026 17h35 A Agência Nacional de Energia Elétrica (ANEEL) passa a fazer parte do Sistema Brasileiro de Inteligência (Sisbin). A portaria que formaliza a inclusão da Agência foi publicada na última sexta-feira (18) no Diário Oficial da União. O Sisbin é composto por um conjunto de órgãos da administração públ"
+    },
+    {
+      "titulo": "Leilão de Transmissão é confirmado para 30 de outubro, com previsão de R$ 8,9 bilhões em investimentos",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "23/09/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto",
+        "energia"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/leilao-de-transmissao-e-confirmado-para-30-de-outubro-com-previsao-de-r-8-9-bilhoes-em-investimentos",
+      "desc": "Notícias TRANSMISSÃO Leilão de Transmissão é confirmado para 30 de outubro, com previsão de R$ 8,9 bilhões em investimentos Licitação negocia oito lotes em sete estados, com expectativa de criação de 20.312 empregos Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 22/09/2026 12h30 O edital do Leilão de Transmissão nº 4/2026 foi aprovado nesta terça-feira (22/9) pela Agência Nacional de Energia Elétrica (ANEEL) e o aviso de licitação será publicado nesta quinta-feira (24/9) no Diário Oficial da União. O leilão está confirmado para 30 de outubro na sede da B3, em São Paulo, com a oferta de oito lotes em sete estados. O leilão visa a contratação de empresas para a construção"
+    },
+    {
       "titulo": "ANEEL aprova alterações nas Regras de Comercialização para usinas termelétricas",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "22/09/2026",
+      "data": "23/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -63,7 +113,7 @@
       "titulo": "ANEEL divulga terceira edição de 2026 do boletim InfoTarifas",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "22/09/2026",
+      "data": "23/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -76,7 +126,7 @@
       "titulo": "Audiência Pública discutirá revisão das tarifas da CEEE-D em Porto Alegre (RS)",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "22/09/2026",
+      "data": "23/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -91,7 +141,7 @@
       "titulo": "Aprovadas as novas tarifas da Equatorial Pará",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "22/09/2026",
+      "data": "23/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -105,7 +155,7 @@
       "titulo": "Ações de fiscalização em São Paulo verificam o cumprimento de normas em 93 agentes",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "22/09/2026",
+      "data": "23/09/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -117,7 +167,7 @@
       "titulo": "ANP firma acordo com o Procon de Parauapebas (PA) para fiscalização do abastecimento no município",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "22/09/2026",
+      "data": "23/09/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -126,23 +176,10 @@
       "desc": "Notícias ANP firma acordo com o Procon de Parauapebas (PA) para fiscalização do abastecimento no município Agência mantém parcerias com órgãos públicos de todo o Brasil. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 17/09/2026 12h06 A ANP celebrou acordo de cooperação técnica e operacional com o Procon Municipal de Parauapebas (PA). O extrato do acordo foi publicado ontem (16/9) no Diário Oficial da União . O foco é a fiscalização de agentes econômicos que atuam no transporte, revenda e comercialização de derivados do petróleo e biocombustíveis. O acordo prevê a atuação conjunta entre os órgãos para a repressão de condutas violadoras da legislação relativa ao setor. O "
     },
     {
-      "titulo": "Comunicado: ANP implementará o Gov.BR Nível Ouro para acesso aos sistemas SRD-GLP e SPA",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "22/09/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto",
-        "gas"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/comunicado-anp-implementara-o-gov-br-nivel-ouro-para-acesso-aos-sistemas-srd-glp-e-spa",
-      "desc": "Notícias Comunicado: ANP implementará o Gov.BR Nível Ouro para acesso aos sistemas SRD-GLP e SPA Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 09/09/2026 10h46 A ANP implementará, no dia 08/10/2026, o Gov.BR Nível Ouro para acesso aos sistemas SRD-GLP e SPA, destinados, respectivamente, a revendas de GLP (gás de cozinha) e pontos de abastecimento (PAs). A partir dessa data, todos os agentes econômicos desses segmentos precisarão obter o Nível Ouro para acesso a esses sistemas. O SRD-GLP e o SPA recebem as solicitações referentes ao cadastro dos agentes econômicos, como requerimentos de autorização para o exercício da atividade e atualizações cadastrais. A transição par"
-    },
-    {
       "titulo": "Prefeito Renato Junior vistoria avanço das obras do parque Encontro das Águas Rosa Almeida e destaca o potencial do espaço como novo eixo turístico na zona Leste",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "22/09/2026",
+      "data": "23/09/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -154,7 +191,7 @@
       "titulo": "ANEEL abre consulta pública para aprimorar classificação operacional de usinas do SIN",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "22/09/2026",
+      "data": "23/09/2026",
       "impacto": "medio",
       "tags": [
         "medio",
@@ -165,10 +202,23 @@
       "desc": "Notícias GERAÇÃO ANEEL abre consulta pública para aprimorar classificação operacional de usinas do SIN Proposta encaminhada pelo ONS busca atualizar os critérios utilizados para definir o nível de participação das usinas no planejamento, na programação e na operação do sistema elétrico Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 15/09/2026 17h16 Atualizado em 17/09/2026 17h30 A Agência Nacional de Energia Elétrica (ANEEL) aprovou, nesta terça-feira (15/9), a abertura da Consulta Pública nº 034/2026, destinada a receber contribuições da sociedade para o aprimoramento dos critérios de classificação das modalidades de operação das usinas integrantes do Sistema Interliga"
     },
     {
+      "titulo": "2ª edição do NAVE – Programa ANP de Empreendedorismo é lançada na ROG.e",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "23/09/2026",
+      "impacto": "medio",
+      "tags": [
+        "medio",
+        "gas"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/2a-edicao-do-nave-2013-programa-anp-de-empreendedorismo-e-lancada-na-rog.e",
+      "desc": "Notícias 2ª edição do NAVE – Programa ANP de Empreendedorismo é lançada na ROG.e Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 22/09/2026 13h22 Foi lançada ontem (21/9), durante a ROG.e, que está acontecendo no Rio de Janeiro, de 21 a 24/9, a segunda edição do NAVE – Programa ANP de Empreendedorismo. O edital será publicado em breve no site da Agência. O evento contou com a participação do Diretor-Geral da ANP, Artur Watt, e da Diretora da Agência Symone Araújo. O programa passou por ajustes para aumentar a efetividade dos investimentos, aprimorar a governança e ampliar a aderência dos projetos às necessidades do setor de petróleo, gás natural e biocombustíveis. O NAVE"
+    },
+    {
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "22/09/2026",
+      "data": "23/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -180,7 +230,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "22/09/2026",
+      "data": "23/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -193,7 +243,7 @@
       "titulo": "Experimento Energias da Floresta busca levar energia a populações isoladas",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "22/09/2026",
+      "data": "23/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -203,36 +253,10 @@
       "desc": "Notícias INOVAÇÃO Experimento Energias da Floresta busca levar energia a populações isoladas Com supervisão da ANEEL, a iniciativa reunirá projetos adaptados a comunidades indígenas, quilombolas e outras em regiões remotas Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 15/09/2026 17h11 Atualizado em 18/09/2026 10h42 A Agência Nacional de Energia Elétrica (ANEEL) aprovou, nesta terça-feira (15/9), as regras para o desenvolvimento do Sandbox Regulatório Energias da Floresta. A iniciativa cria um ambiente temporário, supervisionado pela Agência, para testar projetos-piloto de fornecimento de energia elétrica a populações indígenas, quilombolas, ribeirinhas, comunidades tra"
     },
     {
-      "titulo": "Expansão da matriz elétrica em agosto é de quase 2 GW",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "22/09/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo",
-        "energia"
-      ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/expansao-da-matriz-eletrica-em-agosto-e-de-quase-2-gw",
-      "desc": "Notícias GERAÇÃO Expansão da matriz elétrica em agosto é de quase 2 GW Ampliação ao longo de 2026 é de 4,9 GW, com novas geradoras em 15 estados Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 11/09/2026 16h54 O crescimento da oferta de energia elétrica no Brasil em agosto foi de 1.968,37 megawatts (MW). Segundo dados reunidos pela Agência Nacional de Energia Elétrica (ANEEL), entre as 20 novas usinas que entraram em operação comercial no mês, estão três termelétricas (100,87 MW), 15 centrais solares fotovoltaicas (891,00 MW) e duas usinas eólicas (76,50 MW). Ao longo do ano, até 31 de agosto, a expansão na matriz elétrica foi de 4.852,78 MW. Entre as 91 usinas que começ"
-    },
-    {
-      "titulo": "ANEEL aprova transferência de controle indireto de 26 concessionárias de transmissão",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "22/09/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo",
-        "energia"
-      ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-aprova-transferencia-de-controle-indireto-de-26-concessionarias-de-transmissao",
-      "desc": "Notícias TRANSMISSÃO ANEEL aprova transferência de controle indireto de 26 concessionárias de transmissão Operação prevê a participação conjunta da Caisse de Dépôt et Placement du Québec e do Grupo Energía Bogotá no controle societário das transmissoras. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 11/09/2026 09h27 A Agência Nacional de Energia Elétrica (ANEEL) anuiu nesta sexta-feira (11/9) a transferência de Controle Societário Indireto das concessionárias de serviço público de transmissão de energia elétrica Barreiras Transmissora de Energia S.A., Buritirama Transmissora de Energia S.A., Vale do Sertão Transmissora de Energia S.A., Jaíba Transmissora de Energia S.A"
-    },
-    {
       "titulo": "Regulação experimental foi tema de workshop realizado pela ANP e FGV Energia",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "22/09/2026",
+      "data": "23/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -245,7 +269,7 @@
       "titulo": "ROG.e: ANP participará de evento que reúne o setor de energia",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "22/09/2026",
+      "data": "23/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -258,7 +282,7 @@
       "titulo": "ANP segue acompanhando a participação do diesel S500 em todas as regiões do país",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "22/09/2026",
+      "data": "23/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -267,36 +291,10 @@
       "desc": "Notícias ANP segue acompanhando a participação do diesel S500 em todas as regiões do país Infográfico apresenta dados nacionais e regionais sobre as vendas de óleo diesel S500 no primeiro semestre de 2026 Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 17/09/2026 12h22 A ANP divulgou hoje (17/9), em seu site, infográfico atualizado com dados nacionais e regionais sobre as vendas do óleo diesel S500 no primeiro semestre de 2026. Os dados indicam que o S500 vem sendo substituído no Brasil, gradualmente, pelo S10 que tem menor teor de enxofre. Consulte o infográfico . Entre janeiro e junho de 2026, foram vendidos 9,02 milhões de metros cúbicos de óleo diesel S500 no país. O"
     },
     {
-      "titulo": "ANP e FGV Energia realizam workshop hoje (17/9) sobre regulação experimental",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "22/09/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo",
-        "energia",
-        "gas"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-e-fgv-energia-realizam-workshop-hoje-17-9-sobre-regulacao-experimental",
-      "desc": "Notícias ANP e FGV Energia realizam workshop hoje (17/9) sobre regulação experimental Encontro apresentará proposta para regulação experimental no setor de petróleo e gás; transmissão será ao vivo pelo YouTube. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 17/09/2026 08h56 A ANP realiza hoje (17/9), a partir das 9h, em parceria com a FGV Energia, o workshop “Proposta de Regulação do Ambiente Regulatório Experimental na ANP”. Embora o evento presencial seja restrito a convidados, o público poderá acompanhar toda a programação ao vivo pelo canal da Agência no YouTube . O objetivo é apresentar e debater a proposta de marco regulatório para os ambientes regulatórios experi"
-    },
-    {
-      "titulo": "RenovaBio: ANP prorroga prazo para recebimento de contribuições sobre as novas versões da RenovaCalc",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "22/09/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/renovabio-anp-prorroga-prazo-para-recebimento-de-contribuicoes-sobre-as-novas-versoes-da-renovacalc",
-      "desc": "Notícias RENOVABIO RenovaBio: ANP prorroga prazo para recebimento de contribuições sobre as novas versões da RenovaCalc Interessados poderão encaminhar manifestações até 16/10/2026 Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 11/09/2026 13h35 A ANP prorrogou para 16/10/2026 o prazo para recebimento de contribuições na participação social referente às novas versões da RenovaCalc, iniciada em 17 de agosto . O prazo anterior era 16/9. A iniciativa busca ampliar as oportunidades de participação da sociedade, agentes regulados, comunidade acadêmica e dos demais interessados no processo de atualização da ferramenta, proporcionando mais tempo para análise e apresentação de c"
-    },
-    {
       "titulo": "Consultar minhas solicitações",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "22/09/2026",
+      "data": "23/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -308,7 +306,7 @@
       "titulo": "Consultar Meu Imposto de Renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "22/09/2026",
+      "data": "23/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -320,7 +318,7 @@
       "titulo": "Consultar dados do Cadastro Único",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "22/09/2026",
+      "data": "23/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -332,7 +330,7 @@
       "titulo": "Consultar restituição de imposto de renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "22/09/2026",
+      "data": "23/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -344,7 +342,7 @@
       "titulo": "Consultar CNPJ",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "22/09/2026",
+      "data": "23/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -356,7 +354,7 @@
       "titulo": "Creative Commons",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "22/09/2026",
+      "data": "23/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -368,7 +366,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "22/09/2026",
+      "data": "23/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -380,7 +378,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "22/09/2026",
+      "data": "23/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -392,7 +390,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "22/09/2026",
+      "data": "23/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -404,7 +402,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "22/09/2026",
+      "data": "23/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -416,7 +414,7 @@
       "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "22/09/2026",
+      "data": "23/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -431,7 +429,7 @@
       "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "22/09/2026",
+      "data": "23/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -443,7 +441,7 @@
       "titulo": "SEMIG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "22/09/2026",
+      "data": "23/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -455,7 +453,7 @@
       "titulo": "SEFAZ-AM — Página verificada sem atos relevantes hoje.",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "22/09/2026",
+      "data": "23/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -467,7 +465,7 @@
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "22/09/2026",
+      "data": "23/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -476,59 +474,60 @@
       "desc": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
+      "titulo": "Prefeito Renato Junior amplia irrigação de árvores em Manaus durante período de calor extremo",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "23/09/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo",
+        "ambiental"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/meio-ambiente/prefeito-irrigacao-arvores/",
+      "desc": "Meio Ambiente Prefeitura de Manaus celebra Dia da Árvore com recordes de arborização e doação de mudas"
+    },
+    {
       "titulo": "Prefeitura de Manaus celebra Dia da Árvore com recordes de arborização e doação de mudas",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "22/09/2026",
+      "data": "23/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
         "ambiental"
       ],
       "url": "https://www.manaus.am.gov.br/noticia/meio-ambiente/prefeitura-de-manaus-celebra-dia-da-arvore-e-distribui-mudas/",
-      "desc": "Meio Ambiente Prefeitura de Manaus lança campanha de prevenção às queimadas e reforça ações integradas para coibir focos de calor e incêndios"
+      "desc": "Meio Ambiente Prefeito Renato Junior amplia irrigação de árvores em Manaus durante período de calor extremo"
     },
     {
-      "titulo": "Centro de Artes da Prefeitura de Manaus apresenta espetáculo teatral ‘Quem São Elas?’",
+      "titulo": "Prefeitura de Manaus disponibiliza cadastro para vagas de estágio nos níveis médio e superior",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "22/09/2026",
+      "data": "23/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/eventos/prefeitura-centrodeartes-teatro/",
-      "desc": "Eventos Prefeitura abre ‘Semana Nacional de Trânsito 2026’ com serviços de conscientização, saúde e cidadania em Manaus"
+      "url": "https://www.manaus.am.gov.br/noticia/oportunidade/prefeitura-cadastro-estagio/",
+      "desc": "Página Inicial Notícias Oportunidade Prefeitura de Manaus disponibiliza cadastro para vagas de estágio nos níveis médio e superior Prefeitura de Manaus disponibiliza cadastro para vagas de estágio nos níveis médio e superior Por Prefeitura de Manaus 23/09/2026 10h35 Seu navegador não suporta o elemento de áudio. #paratodosverem – Imagem de estagiário em estação de trabalho A Prefeitura de Manaus, por meio da Secretaria Municipal de Administração e Gestão (Semad), convida estudantes do ensino médio e superior, interessados em atuar na administração pública, a realizarem o cadastro para vagas de estágio. Os jovens que buscam a primeira oportunidade ou a inserção no mercado de trabalho devem efetuar a inscrição de forma on-line, por meio dos agentes integradores parceiros do município. O está"
     },
     {
-      "titulo": "‘SOS Vida’ da Prefeitura de Manaus passa a atender exclusivamente pela central telefônica 0800",
+      "titulo": "Prefeitura de Manaus encerra inscrições do Bolsa Universidade 2027 com suporte presencial inédito e histórias de vida que revelam o impacto do programa",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "22/09/2026",
+      "data": "23/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/servicos/prefeitura-semsa-atendimento-sosvida/",
-      "desc": "Serviços Prefeitura de Manaus recupera ruas São João e Izaura e melhora mobilidade no Zumbi dos Palmares"
-    },
-    {
-      "titulo": "Prefeitura de Manaus promove capacitação para o uso de estações disseminadoras de larvicida no combate ao Aedes",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "22/09/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/saude/uso-de-estacoes-disseminadoras/",
-      "desc": "Saúde Projeto ‘Samuzinho’ da prefeitura vai capacitar estudantes para prevenção de acidentes e primeiros socorros"
+      "url": "https://www.manaus.am.gov.br/noticia/socioinclusao/prefeitura-bolsauniversidade-inscricoes/",
+      "desc": "Socioinclusão Contemplados na segunda chamada dos programas Bolsa Pós-Graduação e Bolsa Idiomas devem entregar documentação de 9 a 11 de junho"
     },
     {
       "titulo": "Prefeito Renato Junior sanciona lei aguardada há 25 anos que garante subsídio de até R$ 3 milhões mensais para o transporte complementar de Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "22/09/2026",
+      "data": "23/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -540,7 +539,7 @@
       "titulo": "Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "22/09/2026",
+      "data": "23/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -552,7 +551,7 @@
       "titulo": "Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "22/09/2026",
+      "data": "23/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -564,7 +563,7 @@
       "titulo": "Prefeito Renato Junior avança tratativas com a Caixa Econômica para projetos de habitação e infraestrutura em Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "22/09/2026",
+      "data": "23/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -576,7 +575,7 @@
       "titulo": "Prefeito Renato Junior vistoria retirada do asfalto na Ferreira Pena e destaca que a área entra em nova etapa para se tornar primeira ‘Rua Gastronômica’ de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "22/09/2026",
+      "data": "23/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
