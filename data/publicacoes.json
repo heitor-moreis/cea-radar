@@ -1,24 +1,24 @@
 {
-  "ultima_coleta": "24/09/2026 11:43",
+  "ultima_coleta": "25/09/2026 11:44",
   "mes_ano": "Set/2026",
-  "total": 46,
+  "total": 44,
   "fontes": 18,
   "fontes_com_falha": [],
   "stats": {
     "critico": 3,
-    "alto": 9,
+    "alto": 10,
     "medio": 2,
-    "baixo": 32,
-    "consultas_abertas": 3
+    "baixo": 29,
+    "consultas_abertas": 4
   },
   "por_orgao": {
     "ANP": 8,
     "ANEEL": 8,
     "ANA": 6,
     "Prefeitura Manaus": 4,
-    "AmE": 3,
     "Implurb": 3,
     "IMMU": 3,
+    "AmE": 1,
     "DOU": 1,
     "DOE-AM": 1,
     "CCEE": 1,
@@ -36,7 +36,7 @@
       "titulo": "ANP, Senacon e Procons fazem operação conjunta de fiscalização de combustíveis em 13 estados e no DF",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "24/09/2026",
+      "data": "25/09/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -48,7 +48,7 @@
       "titulo": "ANP aplica mais de R$ 200 milhões em multas a distribuidoras de combustíveis por aumento abusivo de preços",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "24/09/2026",
+      "data": "25/09/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -60,7 +60,7 @@
       "titulo": "Informações",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "24/09/2026",
+      "data": "25/09/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -73,7 +73,7 @@
       "titulo": "Portaria que inclui a ANEEL no Sistema Brasileiro de Inteligência é publicada",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "24/09/2026",
+      "data": "25/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -86,7 +86,7 @@
       "titulo": "Leilão de Transmissão é confirmado para 30 de outubro, com previsão de R$ 8,9 bilhões em investimentos",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "24/09/2026",
+      "data": "25/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -99,7 +99,7 @@
       "titulo": "ANEEL aprova alterações nas Regras de Comercialização para usinas termelétricas",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "24/09/2026",
+      "data": "25/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -113,7 +113,7 @@
       "titulo": "ANEEL divulga terceira edição de 2026 do boletim InfoTarifas",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "24/09/2026",
+      "data": "25/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -126,7 +126,7 @@
       "titulo": "Audiência Pública discutirá revisão das tarifas da CEEE-D em Porto Alegre (RS)",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "24/09/2026",
+      "data": "25/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -141,7 +141,7 @@
       "titulo": "Aprovadas as novas tarifas da Equatorial Pará",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "24/09/2026",
+      "data": "25/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -152,10 +152,23 @@
       "desc": "Notícias TARIFAS Aprovadas as novas tarifas da Equatorial Pará Novos valores serão aplicados a partir da data de publicação da decisão no Diário Oficial Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 15/09/2026 17h12 O reajuste tarifário anual para os clientes da Equatorial Pará Distribuidora de Energia S/A foi aprovado nesta terça-feira (15/9) pela Agência Nacional de Energia Elétrica (ANEEL). A distribuidora, sediada em Belém (PA), atende aproximadamente 3,12 milhões de unidades consumidoras em 228 municípios paraenses. Confira os índices que incidirão nas tarifas: Empresa Consumidores residenciais - B1 Equatorial Pará 6,70% Classe de Consumo – Consumidores cativos Ba"
     },
     {
+      "titulo": "Audiência pública debate revisão das especificações dos combustíveis de uso aquaviário",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "25/09/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto",
+        "consulta"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/audiencia-publica-debate-revisao-das-especificacoes-dos-combustiveis-de-uso-aquaviario",
+      "desc": "Notícias Audiência pública debate revisão das especificações dos combustíveis de uso aquaviário Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 24/09/2026 17h31 A ANP realizou ontem (23/9) audiência pública sobre minuta que revisa a Resolução ANP nº 903 , de 2022, que estabelece as especificações dos combustíveis de uso aquaviário comercializados no território nacional (óleo diesel marítimo e óleo combustível marítimo). O objetivo da revisão é alinhar as especificações nacionais à evolução tecnológica do setor e aos padrões internacionais mais recentes. A revisão da regulamentação considera as mudanças observadas no mercado de combustíveis marítimos, no contexto da trans"
+    },
+    {
       "titulo": "ANP contrata B3 para assessoria técnica às licitações de E&P",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "24/09/2026",
+      "data": "25/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -168,7 +181,7 @@
       "titulo": "Ações de fiscalização em São Paulo verificam o cumprimento de normas em 93 agentes",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "24/09/2026",
+      "data": "25/09/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -180,7 +193,7 @@
       "titulo": "Prefeito Renato Junior vistoria avanço das obras do parque Encontro das Águas Rosa Almeida e destaca o potencial do espaço como novo eixo turístico na zona Leste",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "24/09/2026",
+      "data": "25/09/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -192,7 +205,7 @@
       "titulo": "ANEEL abre consulta pública para aprimorar classificação operacional de usinas do SIN",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "24/09/2026",
+      "data": "25/09/2026",
       "impacto": "medio",
       "tags": [
         "medio",
@@ -206,7 +219,7 @@
       "titulo": "2ª edição do NAVE – Programa ANP de Empreendedorismo é lançada na ROG.e",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "24/09/2026",
+      "data": "25/09/2026",
       "impacto": "medio",
       "tags": [
         "medio",
@@ -219,7 +232,7 @@
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "24/09/2026",
+      "data": "25/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -231,7 +244,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "24/09/2026",
+      "data": "25/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -244,7 +257,7 @@
       "titulo": "Experimento Energias da Floresta busca levar energia a populações isoladas",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "24/09/2026",
+      "data": "25/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -257,7 +270,7 @@
       "titulo": "2º Workshop da ANP sobre Gas Release será em 29/9",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "24/09/2026",
+      "data": "25/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -270,7 +283,7 @@
       "titulo": "Regulação experimental foi tema de workshop realizado pela ANP e FGV Energia",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "24/09/2026",
+      "data": "25/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -280,23 +293,10 @@
       "desc": "Notícias Regulação experimental foi tema de workshop realizado pela ANP e FGV Energia Encontro debateu proposta para ambientes regulatórios experimentais na Agência Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 18/09/2026 09h30 Atualizado em 21/09/2026 09h58 Aconteceu ontem (17/9) o workshop “Proposta de Regulação do Ambiente Regulatório Experimental na ANP”. O evento foi realizado pela Agência, em parceria com a FGV Energia, no auditório da Fundação Getúlio Vargas, no Rio de Janeiro. A gravação pode ser acessada no canal da ANP no YouTube . O objetivo foi apresentar e debater a proposta de marco regulatório para os ambientes regulatórios experimentais da ANP (sandbox "
     },
     {
-      "titulo": "ROG.e: ANP participará de evento que reúne o setor de energia",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "24/09/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo",
-        "energia"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/rog-e-anp-participara-de-evento-que-reune-o-setor-de-energia",
-      "desc": "Notícias ROG.e: ANP participará de evento que reúne o setor de energia Agência terá estande na feira e representantes no congresso Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 17/09/2026 16h45 A ANP participará da ROG.e um dos principais eventos do setor de energia do país, que ocorre de 21 a 24/9 no Rio de Janeiro. A Agência terá um estande na feira (Pavilhão 2, Estande B11), no qual ocorrerão palestras diárias sobre temas referentes ao setor regulado pela ANP. A programação do estande será divulgada nos perfis da ANP nas redes sociais. O Diretor-Geral da ANP, Artur Watt, participará da abertura do congresso, em 21/9, e dos painéis “Segurança energética e o papel dos"
-    },
-    {
       "titulo": "Consultar minhas solicitações",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "24/09/2026",
+      "data": "25/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -308,7 +308,7 @@
       "titulo": "Consultar Meu Imposto de Renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "24/09/2026",
+      "data": "25/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -320,7 +320,7 @@
       "titulo": "Consultar dados do Cadastro Único",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "24/09/2026",
+      "data": "25/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -332,7 +332,7 @@
       "titulo": "Consultar restituição de imposto de renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "24/09/2026",
+      "data": "25/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -344,7 +344,7 @@
       "titulo": "Consultar CNPJ",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "24/09/2026",
+      "data": "25/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -356,7 +356,7 @@
       "titulo": "Creative Commons",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "24/09/2026",
+      "data": "25/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -368,7 +368,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "24/09/2026",
+      "data": "25/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -380,7 +380,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "24/09/2026",
+      "data": "25/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -392,7 +392,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "24/09/2026",
+      "data": "25/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -404,7 +404,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "24/09/2026",
+      "data": "25/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -413,35 +413,10 @@
       "desc": "TAG — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
-      "titulo": "Micro/Minigeração Distribuída",
-      "orgao": "AmE",
-      "tema": "Energia Elétrica / AM",
-      "data": "24/09/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo",
-        "energia"
-      ],
-      "url": "https://website.ambarenergia-am.com.br/informacoes/micro-minigeracao-distribuida/",
-      "desc": "Micro/Minigeração Distribuída"
-    },
-    {
-      "titulo": "Pesquisa de Curvas de Carga e Hábitos de Consumo",
-      "orgao": "AmE",
-      "tema": "Energia Elétrica / AM",
-      "data": "24/09/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://website.ambarenergia-am.com.br/informacoes/pesquisa-de-curvas-de-carga-e-habitos-de-consumo/",
-      "desc": "Pesquisa de Curvas de Carga e Hábitos de Consumo"
-    },
-    {
       "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "24/09/2026",
+      "data": "25/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -456,7 +431,7 @@
       "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "24/09/2026",
+      "data": "25/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -468,7 +443,7 @@
       "titulo": "SEMIG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "24/09/2026",
+      "data": "25/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -480,7 +455,7 @@
       "titulo": "SEFAZ-AM — Página verificada sem atos relevantes hoje.",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "24/09/2026",
+      "data": "25/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -492,7 +467,7 @@
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "24/09/2026",
+      "data": "25/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -501,22 +476,46 @@
       "desc": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
-      "titulo": "Prefeito Renato Junior reúne com comitê de crise climática para enfrentar os impactos da fumaça e coloca Manaus em estado de atenção",
+      "titulo": "Prefeitura de Manaus entrega 626 títulos definitivos de imóveis e garante segurança jurídica às famílias em diferentes bairros",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "24/09/2026",
+      "data": "25/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/monitoramento/renato-junior-reune-comite-crise-climatica/",
-      "desc": "Página Inicial Notícias Monitoramento Prefeito Renato Junior reúne com comitê de crise climática para enfrentar os impactos da fumaça e coloca Manaus em estado de atenção Prefeito Renato Junior reúne com comitê de crise climática para enfrentar os impactos da fumaça e coloca Manaus em estado de atenção Por Prefeitura de Manaus 24/09/2026 0h43 Seu navegador não suporta o elemento de áudio. O prefeito de Manaus, Renato Junior, comandou nesta quarta-feira, 23/9, no Centro de Cooperação da Cidade (CCC), reunião do Comitê de Crise Climática para mitigar impactos da fumaça em Manaus oriunda de queimadas no interior e estados vizinhos. Durante o encontro, o prefeito colocou a capital em estado de atenção devido ao agravamento da qualidade do ar, que fez com que a cidade amanhecesse nesta quarta-f"
+      "url": "https://www.manaus.am.gov.br/noticia/habitacao/626-titulos-definitivos-de-imoveis/",
+      "desc": "Habitação Prefeito Renato Junior entrega moradias reformadas pelo ‘Casa Manauara’ a famílias do Cidade de Deus e anuncia ampliação do programa para mil casas em 2027"
+    },
+    {
+      "titulo": "Prefeito Renato Junior amplia benefícios de 264 profissionais do programa Mais Médicos e aumenta em mais de 100% auxílio-moradia em Manaus",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "25/09/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/valorizacao/prefeito-reajuste-maismedicos/",
+      "desc": "Valorização ‘Mostra de Trabalhos Pedagógicos de Professores Indígenas’ é encerrada com roda de conversa com anciãos"
+    },
+    {
+      "titulo": "Prefeito Renato Junior reúne com comitê de crise climática para enfrentar os impactos da fumaça e coloca Manaus em estado de atenção",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "25/09/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/monitoramento/prefeito-renato-junior-reune-comite-crise-climatica/",
+      "desc": "Página Inicial Notícias Monitoramento Prefeito Renato Junior reúne com comitê de crise climática para enfrentar os impactos da fumaça e coloca Manaus em estado de atenção Prefeito Renato Junior reúne com comitê de crise climática para enfrentar os impactos da fumaça e coloca Manaus em estado de atenção Por Prefeitura de Manaus 24/09/2026 0h43 Seu navegador não suporta o elemento de áudio. O prefeito de Manaus , Renato Junior, comandou nesta quarta-feira, 23/9, no Centro de Cooperação da Cidade (CCC), reunião do Comitê de Crise Climática para mitigar impactos da fumaça em Manaus oriunda de queimadas no interior e estados vizinhos. Durante o encontro, o prefeito colocou a capital em estado de atenção devido ao agravamento da qualidade do ar, que fez com que a cidade amanhecesse nesta quarta-"
     },
     {
       "titulo": "Prefeitura de Manaus encaminha mais de 100 PcDs para o mercado de trabalho durante Feirão de Empregabilidade",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "24/09/2026",
+      "data": "25/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -525,36 +524,10 @@
       "desc": "Inclusão Prefeito Renato Junior percorre área do festival ‘#SouManaus 2026’ e escuta do público avaliação sobre acessibilidade e organização"
     },
     {
-      "titulo": "Prefeito Renato Junior amplia irrigação de árvores em Manaus durante período de calor extremo",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "24/09/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo",
-        "ambiental"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/meio-ambiente/prefeito-irrigacao-arvores/",
-      "desc": "Meio Ambiente Prefeitura de Manaus celebra Dia da Árvore com recordes de arborização e doação de mudas"
-    },
-    {
-      "titulo": "Prefeitura de Manaus celebra Dia da Árvore com recordes de arborização e doação de mudas",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "24/09/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo",
-        "ambiental"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/meio-ambiente/prefeitura-de-manaus-celebra-dia-da-arvore-e-distribui-mudas/",
-      "desc": "Meio Ambiente Prefeito Renato Junior amplia irrigação de árvores em Manaus durante período de calor extremo"
-    },
-    {
       "titulo": "Prefeito Renato Junior sanciona lei aguardada há 25 anos que garante subsídio de até R$ 3 milhões mensais para o transporte complementar de Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "24/09/2026",
+      "data": "25/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -566,7 +539,7 @@
       "titulo": "Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "24/09/2026",
+      "data": "25/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -578,19 +551,19 @@
       "titulo": "Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "24/09/2026",
+      "data": "25/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
       "url": "https://www.manaus.am.gov.br/immu/mobilidade/conclui-instalacao-vigas/",
-      "desc": "Mobilidade Prefeitura de Manaus libera retorno no ‘Passarão’ e reduz trajeto para motoristas na zona Oeste"
+      "desc": "Mobilidade Prefeitura de Manaus revitaliza faixas de pedestres e linhas de retenção para reforçar segurança no trânsito"
     },
     {
       "titulo": "Prefeito Renato Junior avança tratativas com a Caixa Econômica para projetos de habitação e infraestrutura em Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "24/09/2026",
+      "data": "25/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -602,7 +575,7 @@
       "titulo": "Prefeito Renato Junior vistoria retirada do asfalto na Ferreira Pena e destaca que a área entra em nova etapa para se tornar primeira ‘Rua Gastronômica’ de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "24/09/2026",
+      "data": "25/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
