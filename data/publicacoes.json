@@ -1,14 +1,14 @@
 {
-  "ultima_coleta": "28/09/2026 14:24",
+  "ultima_coleta": "29/09/2026 12:46",
   "mes_ano": "Set/2026",
   "total": 44,
   "fontes": 18,
   "fontes_com_falha": [],
   "stats": {
-    "critico": 4,
+    "critico": 3,
     "alto": 9,
-    "medio": 2,
-    "baixo": 29,
+    "medio": 1,
+    "baixo": 31,
     "consultas_abertas": 4
   },
   "por_orgao": {
@@ -36,7 +36,7 @@
       "titulo": "Total de multas aplicadas pela ANP a distribuidoras de combustíveis por aumento abusivo de preços ultrapassa R$ 700 milhões",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "28/09/2026",
+      "data": "29/09/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -45,34 +45,10 @@
       "desc": "Notícias Total de multas aplicadas pela ANP a distribuidoras de combustíveis por aumento abusivo de preços ultrapassa R$ 700 milhões Foram julgados ao todo dez processos referentes a nove distribuidoras Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 25/09/2026 15h18 As multas aplicadas pela ANP a distribuidoras de combustíveis por elevação abusiva de preços ultrapassam R$ 700 milhões. Foram julgados, pela Agência, dez processos relativos a elevação abusiva de preços. Além dos cinco iniciais que totalizaram em torno de R$ 200 milhões , os outros cinco julgados posteriormente alcançaram cerca de R$ 500 milhões. As penalidades resultam de decisões de primeira instância adm"
     },
     {
-      "titulo": "ANP, Senacon e Procons fazem operação conjunta de fiscalização de combustíveis em 13 estados e no DF",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "28/09/2026",
-      "impacto": "critico",
-      "tags": [
-        "critico"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-senacon-e-procons-fazem-operacao-conjunta-de-fiscalizacao-de-combustiveis-em-13-estados-e-no-df",
-      "desc": "Notícias ANP, Senacon e Procons fazem operação conjunta de fiscalização de combustíveis em 13 estados e no DF Ações acontecem entre 23 e 25/9 com foco nas condições de comercialização de combustíveis e na proteção dos consumidores em especial quanto a preços abusivos Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 23/09/2026 11h58 A ANP, em conjunto com a Secretaria Nacional do Consumidor (Senacon), do Ministério da Justiça e Segurança Pública, e Procons estaduais e municipais, realiza, entre os dias 23 e 25 de setembro, operação conjunta de fiscalização do mercado de combustíveis. As ações serão realizadas simultaneamente em 13 estados e no Distrito Federal. Ao todo, 19"
-    },
-    {
-      "titulo": "ANP aplica mais de R$ 200 milhões em multas a distribuidoras de combustíveis por aumento abusivo de preços",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "28/09/2026",
-      "impacto": "critico",
-      "tags": [
-        "critico"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-aplica-mais-de-r-200-milhoes-em-multas-a-distribuidoras-de-combustiveis-por-aumento-abusivo-de-precos",
-      "desc": "Notícias ANP aplica mais de R$ 200 milhões em multas a distribuidoras de combustíveis por aumento abusivo de preços Decisões de primeira instância constataram elevação abusiva de preços, com casos em que as margens brutas das distribuidoras aumentaram mais de 1.350%. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 23/09/2026 09h18 Atualizado em 23/09/2026 11h17 A ANP aplicou multas a distribuidoras de combustíveis por elevação abusiva de preços, em valor total superior a R$ 200 milhões. As penalidades resultam de decisões de primeira instância administrativa em autos de infração lavrados pelas equipes de fiscalização da ANP. As empresas podem apresentar os recursos previ"
-    },
-    {
       "titulo": "Informações",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "28/09/2026",
+      "data": "29/09/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -82,10 +58,22 @@
       "desc": "Informações Decretos de Situação de Emergência Alteração de Carga Cadastro de Equipamento Vital Cliente Alta Tensão Cliente Mercado Livre Compartilhamento de infraestruturas Contrato Contribuição de Iluminação Pública por Município Decretos de Situação de Emergência Desligamentos Programados Despesas Associadas a CCC Dicas de Consumo Consciente Dicas de Segurança Direitos e Deveres Furto de energia elétrica é crime Iluminação Pública Indicadores de Continuidade Ligação Nova Ligação Provisória Localizar App na Loja Micro/Minigeração Distribuída Normas Técnicas e Manuais Notícias Orçamento de Conexão / Projeto / Vistoria Padrão de Entrada Pesquisa de Curvas de Carga e Hábitos de Consumo Poda e Arborização Programa de Eficiência Energética Programa de Eletrificação Rural Programa de Pesquisa "
     },
     {
+      "titulo": "Prefeitura de Manaus executa obra emergencial de recuperação da drenagem na avenida Djalma Batista",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "29/09/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/intervencao/obra-emergencial-de-drenagem-djalma-batista/",
+      "desc": "Página Inicial Notícias Intervenção Prefeitura de Manaus executa obra emergencial de recuperação da drenagem na avenida Djalma Batista Prefeitura de Manaus executa obra emergencial de recuperação da drenagem na avenida Djalma Batista Por Prefeitura de Manaus 28/09/2026 20h06 Seu navegador não suporta o elemento de áudio. A Prefeitura de Manaus , por meio da Secretaria Municipal de Infraestrutura (Seminf), realizou, nesta segunda-feira, 28/9, uma intervenção emergencial para recuperar um trecho de 20 metros da rede de drenagem profunda da avenida Djalma Batista, no bairro Nossa Senhora das Graças, zona Centro-Sul. O serviço foi necessário após as fortes chuvas registradas nos últimos dias provocarem o desgaste da estrutura. As equipes técnicas da Seminf identificaram a necessidade de interv"
+    },
+    {
       "titulo": "Portaria que inclui a ANEEL no Sistema Brasileiro de Inteligência é publicada",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "28/09/2026",
+      "data": "29/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -98,7 +86,7 @@
       "titulo": "Leilão de Transmissão é confirmado para 30 de outubro, com previsão de R$ 8,9 bilhões em investimentos",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "28/09/2026",
+      "data": "29/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -111,7 +99,7 @@
       "titulo": "ANEEL aprova alterações nas Regras de Comercialização para usinas termelétricas",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "28/09/2026",
+      "data": "29/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -125,7 +113,7 @@
       "titulo": "ANEEL divulga terceira edição de 2026 do boletim InfoTarifas",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "28/09/2026",
+      "data": "29/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -138,7 +126,7 @@
       "titulo": "Audiência Pública discutirá revisão das tarifas da CEEE-D em Porto Alegre (RS)",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "28/09/2026",
+      "data": "29/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -153,7 +141,7 @@
       "titulo": "Aprovadas as novas tarifas da Equatorial Pará",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "28/09/2026",
+      "data": "29/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -164,10 +152,22 @@
       "desc": "Notícias TARIFAS Aprovadas as novas tarifas da Equatorial Pará Novos valores serão aplicados a partir da data de publicação da decisão no Diário Oficial Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 15/09/2026 17h12 O reajuste tarifário anual para os clientes da Equatorial Pará Distribuidora de Energia S/A foi aprovado nesta terça-feira (15/9) pela Agência Nacional de Energia Elétrica (ANEEL). A distribuidora, sediada em Belém (PA), atende aproximadamente 3,12 milhões de unidades consumidoras em 228 municípios paraenses. Confira os índices que incidirão nas tarifas: Empresa Consumidores residenciais - B1 Equatorial Pará 6,70% Classe de Consumo – Consumidores cativos Ba"
     },
     {
+      "titulo": "ANP fez 143 ações de fiscalização na Operação Carga Pesada",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "29/09/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-fez-143-acoes-de-fiscalizacao-na-operacao-carga-pesada",
+      "desc": "Notícias ANP fez 143 ações de fiscalização na Operação Carga Pesada Ação foi desenvolvida pela Agência e Procons de todo o país Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 28/09/2026 16h07 A ANP participou hoje (29/9) da entrevista coletiva na qual o Governo Federal apresentou medidas para conter a alta dos preços dos combustíveis em decorrência do aumento da cotação internacional do barril de petróleo com o prolongamento dos conflitos no Oriente Médio. As iniciativas incluem a manutenção da subvenção de R$ 2,12 por litro de óleo diesel, novas ações de fiscalização da Secretaria Nacional do Consumidor (Senacon). Na coletiva, foram apresentados os resultados da A Oper"
+    },
+    {
       "titulo": "Audiência pública debate revisão das especificações dos combustíveis de uso aquaviário",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "28/09/2026",
+      "data": "29/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -177,23 +177,10 @@
       "desc": "Notícias Audiência pública debate revisão das especificações dos combustíveis de uso aquaviário Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 24/09/2026 17h31 A ANP realizou ontem (23/9) audiência pública sobre minuta que revisa a Resolução ANP nº 903 , de 2022, que estabelece as especificações dos combustíveis de uso aquaviário comercializados no território nacional (óleo diesel marítimo e óleo combustível marítimo). O objetivo da revisão é alinhar as especificações nacionais à evolução tecnológica do setor e aos padrões internacionais mais recentes. A revisão da regulamentação considera as mudanças observadas no mercado de combustíveis marítimos, no contexto da trans"
     },
     {
-      "titulo": "ANP contrata B3 para assessoria técnica às licitações de E&P",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "28/09/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto",
-        "gas"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-contrata-b3-para-assessoria-tecnica-as-licitacoes-de-e-p",
-      "desc": "Notícias ANP contrata B3 para assessoria técnica às licitações de E&P Atribuições como definição das áreas ofertadas, elaboração dos editais e julgamento das propostas permanecem sob a responsabilidade da Agência Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 24/09/2026 10h38 A ANP assinou contrato com a B3 para prestação de assessoria técnica especializada às licitações de áreas para exploração e produção (E&P) de petróleo e gás natural realizadas pela Agência. O contrato - cujo extrato foi publicado ontem (23/9) no Diário Oficial da União (DOU) - tem prazo inicial de cinco anos, com possibilidade de prorrogação nos termos da legislação aplicável. A contratação não tra"
-    },
-    {
       "titulo": "Prefeito Renato Junior vistoria avanço das obras do parque Encontro das Águas Rosa Almeida e destaca o potencial do espaço como novo eixo turístico na zona Leste",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "28/09/2026",
+      "data": "29/09/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -205,7 +192,7 @@
       "titulo": "ANEEL abre consulta pública para aprimorar classificação operacional de usinas do SIN",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "28/09/2026",
+      "data": "29/09/2026",
       "impacto": "medio",
       "tags": [
         "medio",
@@ -216,23 +203,10 @@
       "desc": "Notícias GERAÇÃO ANEEL abre consulta pública para aprimorar classificação operacional de usinas do SIN Proposta encaminhada pelo ONS busca atualizar os critérios utilizados para definir o nível de participação das usinas no planejamento, na programação e na operação do sistema elétrico Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 15/09/2026 17h16 Atualizado em 17/09/2026 17h30 A Agência Nacional de Energia Elétrica (ANEEL) aprovou, nesta terça-feira (15/9), a abertura da Consulta Pública nº 034/2026, destinada a receber contribuições da sociedade para o aprimoramento dos critérios de classificação das modalidades de operação das usinas integrantes do Sistema Interliga"
     },
     {
-      "titulo": "2ª edição do NAVE – Programa ANP de Empreendedorismo é lançada na ROG.e",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "28/09/2026",
-      "impacto": "medio",
-      "tags": [
-        "medio",
-        "gas"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/2a-edicao-do-nave-2013-programa-anp-de-empreendedorismo-e-lancada-na-rog.e",
-      "desc": "Notícias 2ª edição do NAVE – Programa ANP de Empreendedorismo é lançada na ROG.e Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 22/09/2026 13h22 Foi lançada ontem (21/9), durante a ROG.e, que está acontecendo no Rio de Janeiro, de 21 a 24/9, a segunda edição do NAVE – Programa ANP de Empreendedorismo. O edital será publicado em breve no site da Agência. O evento contou com a participação do Diretor-Geral da ANP, Artur Watt, e da Diretora da Agência Symone Araújo. O programa passou por ajustes para aumentar a efetividade dos investimentos, aprimorar a governança e ampliar a aderência dos projetos às necessidades do setor de petróleo, gás natural e biocombustíveis. O NAVE"
-    },
-    {
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "28/09/2026",
+      "data": "29/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -244,7 +218,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "28/09/2026",
+      "data": "29/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -257,7 +231,7 @@
       "titulo": "Experimento Energias da Floresta busca levar energia a populações isoladas",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "28/09/2026",
+      "data": "29/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -267,10 +241,47 @@
       "desc": "Notícias INOVAÇÃO Experimento Energias da Floresta busca levar energia a populações isoladas Com supervisão da ANEEL, a iniciativa reunirá projetos adaptados a comunidades indígenas, quilombolas e outras em regiões remotas Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 15/09/2026 17h11 Atualizado em 18/09/2026 10h42 A Agência Nacional de Energia Elétrica (ANEEL) aprovou, nesta terça-feira (15/9), as regras para o desenvolvimento do Sandbox Regulatório Energias da Floresta. A iniciativa cria um ambiente temporário, supervisionado pela Agência, para testar projetos-piloto de fornecimento de energia elétrica a populações indígenas, quilombolas, ribeirinhas, comunidades tra"
     },
     {
+      "titulo": "2° Workshop sobre Gas Release terá transmissão ao vivo pelo canal da ANP no YouTube",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "29/09/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo",
+        "gas"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/2deg-workshop-sobre-gas-release-tera-transmissao-ao-vivo-pelo-canal-da-anp-no-youtube",
+      "desc": "Notícias 2° Workshop sobre Gas Release terá transmissão ao vivo pelo canal da ANP no YouTube Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 29/09/2026 09h00 Atualizado em 29/09/2026 10h24 A ANP realiza hoje (29/9), a partir das 9h, o 2º Workshop do Programa de Redução da Concentração no Mercado de Gás Natural (Gas Release), com transmissão ao vivo pelo canal da ANP no YouTube . O objetivo do evento é coletar subsídios – a partir das visões de consumidores, produtores, transportadores, distribuidores e representantes de governos e de agências reguladoras estaduais – para a construção, pela ANP, de uma proposta para o Programa Gas Release. Veja a programação . Assessoria "
+    },
+    {
+      "titulo": "Balanço semanal: ANP participa de Operação Carga Pesada, em parceria com a Senacon, de 23 a 25/9",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "29/09/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-participa-de-operacao-carga-pesada-em-parceria-com-a-senacon-de-23-a-25-9",
+      "desc": "Notícias Balanço semanal: ANP participa de Operação Carga Pesada, em parceria com a Senacon, de 23 a 25/9 Além disso, na semana de 21 a 25/9, foram realizadas fiscalizações, pela Agência, em diversos estados Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 28/09/2026 16h30 Atualizado em 28/09/2026 16h32 Entre os dias 23 e 25/9, a ANP atuou, em conjunto com a Senacon, na Operação Carga Pesada, no Rio de Janeiro e São Paulo, e com os Procons nos Estados de Goiás, Minas Gerais, Mato Grosso do Sul, Paraná e Rio Grande do Sul. A operação teve foco nas condições de comercialização de combustíveis e na proteção dos consumidores em especial quanto a preços abusivos. Saiba mais so"
+    },
+    {
+      "titulo": "Anunciados os vencedores da Jornada Empreendedora PRH-ANP 2026",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "29/09/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anunciados-os-vencedores-da-jornada-empreendedora-prh-anp-2026",
+      "desc": "Notícias Anunciados os vencedores da Jornada Empreendedora PRH-ANP 2026 Classificação final dos vencedores será divulgada durante o evento de premiação que acontecerá em Salvador, na Bahia. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 28/09/2026 16h13 A coordenação da Jornada Empreendedora PRH-ANP 2026 anunciou, na última semana (23/9), as três equipes vencedoras do programa. Elas foram selecionadas após apresentação presencial e avalição dos pitches no evento ROG.e, realizado entre 21 e 24/9. Equipes vencedoras, em ordem alfabética: Carbon Nexus — PRH 27/SENAI CIMATEC: Ferramenta de apoio à tomada de decisão para cadeias de suprimento de CO2 (Tema 3: Combustíveis ava"
+    },
+    {
       "titulo": "ROG.e: ANP participou de mais de 40 palestras em evento que reúne o setor de energia",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "28/09/2026",
+      "data": "29/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -284,7 +295,7 @@
       "titulo": "2º Workshop da ANP sobre Gas Release será em 29/9",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "28/09/2026",
+      "data": "29/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -297,7 +308,7 @@
       "titulo": "Consultar minhas solicitações",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "28/09/2026",
+      "data": "29/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -309,7 +320,7 @@
       "titulo": "Consultar Meu Imposto de Renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "28/09/2026",
+      "data": "29/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -321,7 +332,7 @@
       "titulo": "Consultar dados do Cadastro Único",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "28/09/2026",
+      "data": "29/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -333,7 +344,7 @@
       "titulo": "Consultar restituição de imposto de renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "28/09/2026",
+      "data": "29/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -345,7 +356,7 @@
       "titulo": "Consultar CNPJ",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "28/09/2026",
+      "data": "29/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -357,7 +368,7 @@
       "titulo": "Creative Commons",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "28/09/2026",
+      "data": "29/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -369,7 +380,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "28/09/2026",
+      "data": "29/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -381,7 +392,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "28/09/2026",
+      "data": "29/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -393,7 +404,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "28/09/2026",
+      "data": "29/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -405,7 +416,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "28/09/2026",
+      "data": "29/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -417,7 +428,7 @@
       "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "28/09/2026",
+      "data": "29/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -432,7 +443,7 @@
       "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "28/09/2026",
+      "data": "29/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -444,7 +455,7 @@
       "titulo": "SEMIG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "28/09/2026",
+      "data": "29/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -456,7 +467,7 @@
       "titulo": "SEFAZ-AM — Página verificada sem atos relevantes hoje.",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "28/09/2026",
+      "data": "29/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -468,7 +479,7 @@
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "28/09/2026",
+      "data": "29/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -477,58 +488,46 @@
       "desc": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
-      "titulo": "Prefeitura de Manaus entrega 626 títulos definitivos de imóveis e garante segurança jurídica às famílias em diferentes bairros",
+      "titulo": "Prefeito Renato Junior libera mais de R$ 7,4 milhões para o Proesc e garante mais autonomia e agilidade para pequenos reparos em 515 escolas de Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "28/09/2026",
+      "data": "29/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/habitacao/626-titulos-definitivos-de-imoveis/",
-      "desc": "Habitação Prefeito Renato Junior entrega moradias reformadas pelo ‘Casa Manauara’ a famílias do Cidade de Deus e anuncia ampliação do programa para mil casas em 2027"
+      "url": "https://www.manaus.am.gov.br/noticia/educacao/mais-de-r-74-milhoes-para-o-proesc/",
+      "desc": "Página Inicial Notícias Educação Prefeito Renato Junior libera mais de R$ 7,4 milhões para o Proesc e garante mais autonomia e agilidade para pequenos reparos em 515 escolas de Manaus Prefeito Renato Junior libera mais de R$ 7,4 milhões para o Proesc e garante mais autonomia e agilidade para pequenos reparos em 515 escolas de Manaus Por Prefeitura de Manaus 28/09/2026 19h09 Seu navegador não suporta o elemento de áudio. #paratodosverem – Prefeito Renato Junior durante assinatura O prefeito de Manaus , Renato Junior, liberou o repasse de R$ 7.410.430 referente à segunda parcela do exercício de 2026 do Programa Orçamento na Escola (Proesc), coordenado pela Secretaria Municipal de Educação (Semed). O investimento contempla 515 unidades escolares da rede municipal de ensino e descentraliza os "
     },
     {
-      "titulo": "Prefeito Renato Junior amplia benefícios de 264 profissionais do programa Mais Médicos e aumenta em mais de 100% auxílio-moradia em Manaus",
+      "titulo": "Prefeito Renato Junior apresenta ao MP-AM ações de Manaus no combate às queimadas e oferece estrutura para parceria com municípios do Amazonas",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "28/09/2026",
+      "data": "29/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/valorizacao/prefeito-reajuste-maismedicos/",
-      "desc": "Valorização ‘Mostra de Trabalhos Pedagógicos de Professores Indígenas’ é encerrada com roda de conversa com anciãos"
+      "url": "https://www.manaus.am.gov.br/noticia/cooperacao/prefeito-acoes-combate-as-queimadas/",
+      "desc": "Cooperação Prefeito Renato Junior recebe pesquisadores do Inpa e anuncia agenda conjunta para recuperação ambiental, mobilidade e turismo em Manaus"
     },
     {
-      "titulo": "Prefeito Renato Junior reúne com comitê de crise climática para enfrentar os impactos da fumaça e coloca Manaus em estado de atenção",
+      "titulo": "Prefeito Renato Junior reforça limpeza da orla de Manaus com mais de 2,5 mil toneladas de lixo retiradas em 2026",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "28/09/2026",
+      "data": "29/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/monitoramento/prefeito-renato-junior-reune-comite-crise-climatica/",
-      "desc": "Página Inicial Notícias Monitoramento Prefeito Renato Junior reúne com comitê de crise climática para enfrentar os impactos da fumaça e coloca Manaus em estado de atenção Prefeito Renato Junior reúne com comitê de crise climática para enfrentar os impactos da fumaça e coloca Manaus em estado de atenção Por Prefeitura de Manaus 24/09/2026 0h43 Seu navegador não suporta o elemento de áudio. O prefeito de Manaus , Renato Junior, comandou nesta quarta-feira, 23/9, no Centro de Cooperação da Cidade (CCC), reunião do Comitê de Crise Climática para mitigar impactos da fumaça em Manaus oriunda de queimadas no interior e estados vizinhos. Durante o encontro, o prefeito colocou a capital em estado de atenção devido ao agravamento da qualidade do ar, que fez com que a cidade amanhecesse nesta quarta-"
-    },
-    {
-      "titulo": "Prefeitura de Manaus encaminha mais de 100 PcDs para o mercado de trabalho durante Feirão de Empregabilidade",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "28/09/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/inclusao/prefeitura-encaminha-pdcs-mercado-de-trabalho/",
-      "desc": "Inclusão Prefeito Renato Junior percorre área do festival ‘#SouManaus 2026’ e escuta do público avaliação sobre acessibilidade e organização"
+      "url": "https://www.manaus.am.gov.br/noticia/operacao/prefeito-limpeza-orlademanaus/",
+      "desc": "Operação Prefeitura implanta sinalização em mais vias de Manaus para organizar tráfego e proteger pedestres"
     },
     {
       "titulo": "Prefeito Renato Junior sanciona lei aguardada há 25 anos que garante subsídio de até R$ 3 milhões mensais para o transporte complementar de Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "28/09/2026",
+      "data": "29/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -540,7 +539,7 @@
       "titulo": "Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "28/09/2026",
+      "data": "29/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -552,19 +551,19 @@
       "titulo": "Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "28/09/2026",
+      "data": "29/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
       "url": "https://www.manaus.am.gov.br/immu/mobilidade/conclui-instalacao-vigas/",
-      "desc": "Mobilidade Prefeitura de Manaus revitaliza faixas de pedestres e linhas de retenção para reforçar segurança no trânsito"
+      "desc": "Página Inicial Notícias Mobilidade Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto Por Prefeitura de Manaus 15/08/2026 21h59 A Prefeitura de Manaus , por meio da Secretaria Municipal de Infraestrutura (Seminf), concluiu, neste sábado, 15/8, um dia antes do prazo previsto, a etapa de içamento das vigas da alça viária do complexo viário Passarão, projeto que vai mudar a realidade da mobilidade da zona Oeste da cidade. Durante todo o sábado, as equipes realizaram a instalação das nove vigas restantes, das 24 que integram o projeto do viaduto. Todas as metas estão sendo alcançadas antes mesmo do previsto, e pensando no bem-estar, qualidade "
     },
     {
       "titulo": "Prefeito Renato Junior avança tratativas com a Caixa Econômica para projetos de habitação e infraestrutura em Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "28/09/2026",
+      "data": "29/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -576,7 +575,7 @@
       "titulo": "Prefeito Renato Junior vistoria retirada do asfalto na Ferreira Pena e destaca que a área entra em nova etapa para se tornar primeira ‘Rua Gastronômica’ de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "28/09/2026",
+      "data": "29/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
