@@ -1,19 +1,19 @@
 {
-  "ultima_coleta": "29/09/2026 12:46",
+  "ultima_coleta": "30/09/2026 12:38",
   "mes_ano": "Set/2026",
   "total": 44,
   "fontes": 18,
   "fontes_com_falha": [],
   "stats": {
-    "critico": 3,
+    "critico": 5,
     "alto": 9,
-    "medio": 1,
-    "baixo": 31,
+    "medio": 0,
+    "baixo": 30,
     "consultas_abertas": 4
   },
   "por_orgao": {
-    "ANP": 8,
     "ANEEL": 8,
+    "ANP": 8,
     "ANA": 6,
     "Prefeitura Manaus": 4,
     "Implurb": 3,
@@ -33,10 +33,36 @@
   },
   "publicacoes": [
     {
+      "titulo": "ANEEL nega recurso da Enel SP contra decisão que indeferiu perícia técnica relacionada aos eventos climáticos extremos",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "30/09/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico",
+        "energia"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-nega-recurso-da-enel-sp-contra-decisao-que-indeferiu-pericia-tecnica-relacionada-aos-eventos-climaticos-extremos",
+      "desc": "Notícias Distribuição ANEEL nega recurso da Enel SP contra decisão que indeferiu perícia técnica relacionada aos eventos climáticos extremos Com a decisão, fica encerrada a fase instrutória do procedimento administrativo tendente à caducidade da concessão. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 29/09/2026 18h06 A Diretoria da Agência Nacional de Energia Elétrica (ANEEL) decidiu, em Circuito Deliberativo Ordinário, negar o pedido de reconsideração feito pela Enel Distribuição São Paulo – Enel SP contra o indeferimento da solicitação de prova pericial técnica relacionada aos eventos climáticos extremos, especialmente o ocorrido em dezembro de 2025. O indeferimento"
+    },
+    {
+      "titulo": "Eleições 2026: ANEEL determina planos especiais de atendimento para garantir energia durante o período",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "30/09/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico",
+        "energia"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/eleicoes-2026-aneel-determina-planos-especiais-de-atendimento-para-garantir-energia-durante-o-periodo",
+      "desc": "Notícias ELEIÇÃO Eleições 2026: ANEEL determina planos especiais de atendimento para garantir energia durante o período As distribuidoras de energia devem ter atenção especial aos locais de votação, aos tribunais regionais eleitorais e ao Tribunal Superior Eleitoral (TSE), além do atendimento em toda a área de concessão. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 29/09/2026 15h41 A Agência Nacional de Energia Elétrica (ANEEL) enviou ofícios aos agentes do Setor (Geradores, Transmissores e Distribuidores) para que executem ações e medidas especiais que garantam a adequada prestação dos serviços públicos de energia elétrica durante os 1º e o 2º turnos das Eleições Ger"
+    },
+    {
       "titulo": "Total de multas aplicadas pela ANP a distribuidoras de combustíveis por aumento abusivo de preços ultrapassa R$ 700 milhões",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "29/09/2026",
+      "data": "30/09/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -48,7 +74,7 @@
       "titulo": "Informações",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "29/09/2026",
+      "data": "30/09/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -61,19 +87,33 @@
       "titulo": "Prefeitura de Manaus executa obra emergencial de recuperação da drenagem na avenida Djalma Batista",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "29/09/2026",
+      "data": "30/09/2026",
       "impacto": "critico",
       "tags": [
         "critico"
       ],
       "url": "https://www.manaus.am.gov.br/noticia/intervencao/obra-emergencial-de-drenagem-djalma-batista/",
-      "desc": "Página Inicial Notícias Intervenção Prefeitura de Manaus executa obra emergencial de recuperação da drenagem na avenida Djalma Batista Prefeitura de Manaus executa obra emergencial de recuperação da drenagem na avenida Djalma Batista Por Prefeitura de Manaus 28/09/2026 20h06 Seu navegador não suporta o elemento de áudio. A Prefeitura de Manaus , por meio da Secretaria Municipal de Infraestrutura (Seminf), realizou, nesta segunda-feira, 28/9, uma intervenção emergencial para recuperar um trecho de 20 metros da rede de drenagem profunda da avenida Djalma Batista, no bairro Nossa Senhora das Graças, zona Centro-Sul. O serviço foi necessário após as fortes chuvas registradas nos últimos dias provocarem o desgaste da estrutura. As equipes técnicas da Seminf identificaram a necessidade de interv"
+      "desc": "Intervenção Prefeitura de Manaus recupera pavimento da rua Itapitanga com aplicação de 20 toneladas de asfalto"
+    },
+    {
+      "titulo": "Consulta pública propõe metodologia para amortizações de investimentos em geração",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "30/09/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto",
+        "energia",
+        "consulta"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/consulta-publica-propoe-metodologia-para-amortizacoes-de-investimentos-em-geracao",
+      "desc": "Notícias GERAÇÃO Consulta pública propõe metodologia para amortizações de investimentos em geração ANEEL receberá contribuições de 1º a 30 de outubro Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 29/09/2026 18h08 A diretoria colegiada da Agência Nacional de Energia Elétrica (ANEEL) aprovou, nesta terça-feira (29/9), a abertura de Consulta Pública (CP 035/2026) propondo a definição de critérios e metodologia aplicáveis à extensão de prazo suficiente para a amortização de investimentos de acréscimo de capacidade de geração. A Lei 10.438/2002 autoriza a extensão do prazo de outorgas de aproveitamentos hidrelétricos quando houver acréscimo de capacidade instalada compatíve"
     },
     {
       "titulo": "Portaria que inclui a ANEEL no Sistema Brasileiro de Inteligência é publicada",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "29/09/2026",
+      "data": "30/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -86,7 +126,7 @@
       "titulo": "Leilão de Transmissão é confirmado para 30 de outubro, com previsão de R$ 8,9 bilhões em investimentos",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "29/09/2026",
+      "data": "30/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -99,7 +139,7 @@
       "titulo": "ANEEL aprova alterações nas Regras de Comercialização para usinas termelétricas",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "29/09/2026",
+      "data": "30/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -113,7 +153,7 @@
       "titulo": "ANEEL divulga terceira edição de 2026 do boletim InfoTarifas",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "29/09/2026",
+      "data": "30/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -126,7 +166,7 @@
       "titulo": "Audiência Pública discutirá revisão das tarifas da CEEE-D em Porto Alegre (RS)",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "29/09/2026",
+      "data": "30/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -138,24 +178,10 @@
       "desc": "Notícias TARIFAS Audiência Pública discutirá revisão das tarifas da CEEE-D em Porto Alegre (RS) A sessão presencial será realizada dia 8/10, em Porto Alegre/RS, no Auditório do Palácio do Ministério Público do Rio Grande do Sul Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 16/09/2026 12h33 Os consumidores atendidos pela Companhia Estadual de Distribuição de Energia Elétrica (CEEE-D) poderão participar da Audiência Pública 007/2026 , que discutirá a Revisão Tarifária Periódica (RTP) da distribuidora. Com sede em Porto Alegre, no estado do Rio Grande do Sul, a distribuidora atende aproximadamente 2,03 milhões unidades consumidoras. A sessão será realizada no dia 8/10, a "
     },
     {
-      "titulo": "Aprovadas as novas tarifas da Equatorial Pará",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "29/09/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto",
-        "energia",
-        "tarifa"
-      ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aprovadas-as-novas-tarifas-da-equatorial-para",
-      "desc": "Notícias TARIFAS Aprovadas as novas tarifas da Equatorial Pará Novos valores serão aplicados a partir da data de publicação da decisão no Diário Oficial Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 15/09/2026 17h12 O reajuste tarifário anual para os clientes da Equatorial Pará Distribuidora de Energia S/A foi aprovado nesta terça-feira (15/9) pela Agência Nacional de Energia Elétrica (ANEEL). A distribuidora, sediada em Belém (PA), atende aproximadamente 3,12 milhões de unidades consumidoras em 228 municípios paraenses. Confira os índices que incidirão nas tarifas: Empresa Consumidores residenciais - B1 Equatorial Pará 6,70% Classe de Consumo – Consumidores cativos Ba"
-    },
-    {
       "titulo": "ANP fez 143 ações de fiscalização na Operação Carga Pesada",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "29/09/2026",
+      "data": "30/09/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -167,7 +193,7 @@
       "titulo": "Audiência pública debate revisão das especificações dos combustíveis de uso aquaviário",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "29/09/2026",
+      "data": "30/09/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -180,7 +206,7 @@
       "titulo": "Prefeito Renato Junior vistoria avanço das obras do parque Encontro das Águas Rosa Almeida e destaca o potencial do espaço como novo eixo turístico na zona Leste",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "29/09/2026",
+      "data": "30/09/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -189,24 +215,10 @@
       "desc": "Fiscalização Prefeitura intensifica vistorias e monitoramento de imóveis no centro histórico da capital"
     },
     {
-      "titulo": "ANEEL abre consulta pública para aprimorar classificação operacional de usinas do SIN",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "29/09/2026",
-      "impacto": "medio",
-      "tags": [
-        "medio",
-        "energia",
-        "consulta"
-      ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-abre-consulta-publica-para-aprimorar-classificacao-operacional-de-usinas-do-sin",
-      "desc": "Notícias GERAÇÃO ANEEL abre consulta pública para aprimorar classificação operacional de usinas do SIN Proposta encaminhada pelo ONS busca atualizar os critérios utilizados para definir o nível de participação das usinas no planejamento, na programação e na operação do sistema elétrico Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 15/09/2026 17h16 Atualizado em 17/09/2026 17h30 A Agência Nacional de Energia Elétrica (ANEEL) aprovou, nesta terça-feira (15/9), a abertura da Consulta Pública nº 034/2026, destinada a receber contribuições da sociedade para o aprimoramento dos critérios de classificação das modalidades de operação das usinas integrantes do Sistema Interliga"
-    },
-    {
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "29/09/2026",
+      "data": "30/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -218,7 +230,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "29/09/2026",
+      "data": "30/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -228,23 +240,23 @@
       "desc": "Edição do dia verificada. Nenhum ato relevante encontrado."
     },
     {
-      "titulo": "Experimento Energias da Floresta busca levar energia a populações isoladas",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "29/09/2026",
+      "titulo": "ANP realiza 2° Workshop para debater Gas Release",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "30/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
-        "energia"
+        "gas"
       ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/experimento-energias-da-floresta-busca-levar-energia-a-populacoes-isoladas",
-      "desc": "Notícias INOVAÇÃO Experimento Energias da Floresta busca levar energia a populações isoladas Com supervisão da ANEEL, a iniciativa reunirá projetos adaptados a comunidades indígenas, quilombolas e outras em regiões remotas Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 15/09/2026 17h11 Atualizado em 18/09/2026 10h42 A Agência Nacional de Energia Elétrica (ANEEL) aprovou, nesta terça-feira (15/9), as regras para o desenvolvimento do Sandbox Regulatório Energias da Floresta. A iniciativa cria um ambiente temporário, supervisionado pela Agência, para testar projetos-piloto de fornecimento de energia elétrica a populações indígenas, quilombolas, ribeirinhas, comunidades tra"
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-realiza-2deg-workshop-para-debater-gas-release",
+      "desc": "Notícias ANP realiza 2° Workshop para debater Gas Release Gravação está disponível no canal da Agência no YouTube Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 29/09/2026 14h27 A ANP realizou hoje (29/9) o 2º Workshop do Programa de Redução da Concentração no Mercado de Gás Natural (Gas Release), na FGV, no Rio de Janeiro, com transmissão ao vivo. O 1º Workshop sobre o tema foi realizado em março. O objetivo do evento foi coletar subsídios – a partir das visões de consumidores, produtores, transportadores, distribuidores e representantes de governos e de agências reguladoras estaduais – para a construção, pela ANP, de uma proposta para o Programa de Gas Release. Na abe"
     },
     {
       "titulo": "2° Workshop sobre Gas Release terá transmissão ao vivo pelo canal da ANP no YouTube",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "29/09/2026",
+      "data": "30/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -257,7 +269,7 @@
       "titulo": "Balanço semanal: ANP participa de Operação Carga Pesada, em parceria com a Senacon, de 23 a 25/9",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "29/09/2026",
+      "data": "30/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -269,7 +281,7 @@
       "titulo": "Anunciados os vencedores da Jornada Empreendedora PRH-ANP 2026",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "29/09/2026",
+      "data": "30/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -281,7 +293,7 @@
       "titulo": "ROG.e: ANP participou de mais de 40 palestras em evento que reúne o setor de energia",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "29/09/2026",
+      "data": "30/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -292,23 +304,10 @@
       "desc": "Notícias ROG.e: ANP participou de mais de 40 palestras em evento que reúne o setor de energia Total inclui apresentações no estande da Agência, congresso e eventos paralelos Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 25/09/2026 13h26 A ANP teve participação intensa na ROG.e, um dos principais eventos do setor de energia do país, que ocorreu de 21 a 24/9 no Rio de Janeiro. A Agência contou com um estande na feira, no qual foram realizadas palestras diárias. Ao todo, foram, sete palestras, que abordaram os temas: Oferta Permanente; Cláusula de PD&I; Segurança Operacional; Panorama da produção de óleo e gás no Brasil; Aplicativo \"ANP com VC - Postos\" ; Combustível sust"
     },
     {
-      "titulo": "2º Workshop da ANP sobre Gas Release será em 29/9",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "29/09/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo",
-        "gas"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/2o-workshop-da-anp-sobre-gas-release-sera-em-29-9",
-      "desc": "Notícias 2º Workshop da ANP sobre Gas Release será em 29/9 Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 24/09/2026 11h01 O 2º Workshop do Programa de Redução da Concentração no Mercado de Gás Natural (Gas Release) será realizado pela ANP em 29/9, das 9h às 12h, em formato presencial, no Rio de Janeiro, RJ. O 1º Workshop sobre o tema foi realizado em março. O objetivo do evento é a coleta de subsídios – a partir das visões de consumidores, produtores, transportadores, distribuidores e representantes de governos e de agências reguladoras estaduais – para a construção, pela ANP, de uma proposta para o Programa de Redução de Concentração (Gas Release). Para se inscrever, "
-    },
-    {
       "titulo": "Consultar minhas solicitações",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "29/09/2026",
+      "data": "30/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -320,7 +319,7 @@
       "titulo": "Consultar Meu Imposto de Renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "29/09/2026",
+      "data": "30/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -332,7 +331,7 @@
       "titulo": "Consultar dados do Cadastro Único",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "29/09/2026",
+      "data": "30/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -344,7 +343,7 @@
       "titulo": "Consultar restituição de imposto de renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "29/09/2026",
+      "data": "30/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -356,7 +355,7 @@
       "titulo": "Consultar CNPJ",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "29/09/2026",
+      "data": "30/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -368,7 +367,7 @@
       "titulo": "Creative Commons",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "29/09/2026",
+      "data": "30/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -380,7 +379,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "29/09/2026",
+      "data": "30/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -392,7 +391,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "29/09/2026",
+      "data": "30/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -404,7 +403,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "29/09/2026",
+      "data": "30/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -416,7 +415,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "29/09/2026",
+      "data": "30/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -428,7 +427,7 @@
       "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "29/09/2026",
+      "data": "30/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -443,7 +442,7 @@
       "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "29/09/2026",
+      "data": "30/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -455,7 +454,7 @@
       "titulo": "SEMIG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "29/09/2026",
+      "data": "30/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -467,7 +466,7 @@
       "titulo": "SEFAZ-AM — Página verificada sem atos relevantes hoje.",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "29/09/2026",
+      "data": "30/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -479,7 +478,7 @@
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "29/09/2026",
+      "data": "30/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -491,7 +490,7 @@
       "titulo": "Prefeito Renato Junior libera mais de R$ 7,4 milhões para o Proesc e garante mais autonomia e agilidade para pequenos reparos em 515 escolas de Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "29/09/2026",
+      "data": "30/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -503,7 +502,7 @@
       "titulo": "Prefeito Renato Junior apresenta ao MP-AM ações de Manaus no combate às queimadas e oferece estrutura para parceria com municípios do Amazonas",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "29/09/2026",
+      "data": "30/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -515,19 +514,19 @@
       "titulo": "Prefeito Renato Junior reforça limpeza da orla de Manaus com mais de 2,5 mil toneladas de lixo retiradas em 2026",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "29/09/2026",
+      "data": "30/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
       "url": "https://www.manaus.am.gov.br/noticia/operacao/prefeito-limpeza-orlademanaus/",
-      "desc": "Operação Prefeitura implanta sinalização em mais vias de Manaus para organizar tráfego e proteger pedestres"
+      "desc": "Página Inicial Notícias Operação Prefeito Renato Junior reforça limpeza da orla de Manaus com mais de 2,5 mil toneladas de lixo retiradas em 2026 Prefeito Renato Junior reforça limpeza da orla de Manaus com mais de 2,5 mil toneladas de lixo retiradas em 2026 Por Prefeitura de Manaus 28/09/2026 11h29 Seu navegador não suporta o elemento de áudio. #paratodosverem – Prefeito Renato Junior acompanha limpeza da orla de Manaus, no Centro O prefeito de Manaus , Renato Junior, acompanhou a intensificação dos serviços de limpeza na orla da Manaus Moderna, no Centro, na manhã desta segunda-feira, 28/9. A operação mobiliza mais de 500 trabalhadores da limpeza pública, além de aproximadamente 20 caçambas, duas máquinas de grande porte e três balsas para a retirada dos resíduos acumulados na área. Some"
     },
     {
       "titulo": "Prefeito Renato Junior sanciona lei aguardada há 25 anos que garante subsídio de até R$ 3 milhões mensais para o transporte complementar de Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "29/09/2026",
+      "data": "30/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -539,7 +538,7 @@
       "titulo": "Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "29/09/2026",
+      "data": "30/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -551,7 +550,7 @@
       "titulo": "Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "29/09/2026",
+      "data": "30/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -563,7 +562,7 @@
       "titulo": "Prefeito Renato Junior avança tratativas com a Caixa Econômica para projetos de habitação e infraestrutura em Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "29/09/2026",
+      "data": "30/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -575,7 +574,7 @@
       "titulo": "Prefeito Renato Junior vistoria retirada do asfalto na Ferreira Pena e destaca que a área entra em nova etapa para se tornar primeira ‘Rua Gastronômica’ de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "29/09/2026",
+      "data": "30/09/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
