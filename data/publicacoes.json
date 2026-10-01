@@ -1,15 +1,15 @@
 {
-  "ultima_coleta": "30/09/2026 12:38",
-  "mes_ano": "Set/2026",
+  "ultima_coleta": "01/10/2026 13:16",
+  "mes_ano": "Out/2026",
   "total": 44,
   "fontes": 18,
   "fontes_com_falha": [],
   "stats": {
     "critico": 5,
-    "alto": 9,
-    "medio": 0,
-    "baixo": 30,
-    "consultas_abertas": 4
+    "alto": 7,
+    "medio": 1,
+    "baixo": 31,
+    "consultas_abertas": 3
   },
   "por_orgao": {
     "ANEEL": 8,
@@ -36,7 +36,7 @@
       "titulo": "ANEEL nega recurso da Enel SP contra decisão que indeferiu perícia técnica relacionada aos eventos climáticos extremos",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "30/09/2026",
+      "data": "01/10/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -49,7 +49,7 @@
       "titulo": "Eleições 2026: ANEEL determina planos especiais de atendimento para garantir energia durante o período",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "30/09/2026",
+      "data": "01/10/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -62,7 +62,7 @@
       "titulo": "Total de multas aplicadas pela ANP a distribuidoras de combustíveis por aumento abusivo de preços ultrapassa R$ 700 milhões",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "30/09/2026",
+      "data": "01/10/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -74,7 +74,7 @@
       "titulo": "Informações",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "30/09/2026",
+      "data": "01/10/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -87,19 +87,19 @@
       "titulo": "Prefeitura de Manaus executa obra emergencial de recuperação da drenagem na avenida Djalma Batista",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "30/09/2026",
+      "data": "01/10/2026",
       "impacto": "critico",
       "tags": [
         "critico"
       ],
       "url": "https://www.manaus.am.gov.br/noticia/intervencao/obra-emergencial-de-drenagem-djalma-batista/",
-      "desc": "Intervenção Prefeitura de Manaus recupera pavimento da rua Itapitanga com aplicação de 20 toneladas de asfalto"
+      "desc": "Página Inicial Notícias Intervenção Prefeitura de Manaus executa obra emergencial de recuperação da drenagem na avenida Djalma Batista Prefeitura de Manaus executa obra emergencial de recuperação da drenagem na avenida Djalma Batista Por Prefeitura de Manaus 28/09/2026 20h06 Seu navegador não suporta o elemento de áudio. A Prefeitura de Manaus , por meio da Secretaria Municipal de Infraestrutura (Seminf), realizou, nesta segunda-feira, 28/9, uma intervenção emergencial para recuperar um trecho de 20 metros da rede de drenagem profunda da avenida Djalma Batista, no bairro Nossa Senhora das Graças, zona Centro-Sul. O serviço foi necessário após as fortes chuvas registradas nos últimos dias provocarem o desgaste da estrutura. As equipes técnicas da Seminf identificaram a necessidade de interv"
     },
     {
       "titulo": "Consulta pública propõe metodologia para amortizações de investimentos em geração",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "30/09/2026",
+      "data": "01/10/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -113,7 +113,7 @@
       "titulo": "Portaria que inclui a ANEEL no Sistema Brasileiro de Inteligência é publicada",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "30/09/2026",
+      "data": "01/10/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -126,7 +126,7 @@
       "titulo": "Leilão de Transmissão é confirmado para 30 de outubro, com previsão de R$ 8,9 bilhões em investimentos",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "30/09/2026",
+      "data": "01/10/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -139,7 +139,7 @@
       "titulo": "ANEEL aprova alterações nas Regras de Comercialização para usinas termelétricas",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "30/09/2026",
+      "data": "01/10/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -150,38 +150,23 @@
       "desc": "Notícias COMERCIALIZAÇÃO ANEEL aprova alterações nas Regras de Comercialização para usinas termelétricas O objetivo foi substituir a atual operacionalização provisória por uma solução permanente Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 22/09/2026 11h45 Nesta terça-feira (21/9), a diretoria colegiada da Agência Nacional de Energia Elétrica (ANEEL) aprovou o resultado da Consulta Pública nº 21/2025 , que tratou do aprimoramento do Módulo 16 das Regras de Comercialização a fim de atender a Resolução Normativa 1.093/2024 . A resolução estabelece critérios e procedimentos para aprovação de Custo Variável Unitário (CVU) de centrais geradoras termelétricas que não possue"
     },
     {
-      "titulo": "ANEEL divulga terceira edição de 2026 do boletim InfoTarifas",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "30/09/2026",
+      "titulo": "ANP recebe contribuições sobre revisão da norma para registro de graxas e óleos lubrificantes comercializados no Brasil",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "01/10/2026",
       "impacto": "alto",
       "tags": [
         "alto",
-        "tarifa"
+        "consulta"
       ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-divulga-terceira-edicao-de-2026-do-boletim-infotarifas",
-      "desc": "Notícias Tarifas ANEEL divulga terceira edição de 2026 do boletim InfoTarifas O efeito médio atualizado é de elevação de 9,4% para as tarifas em 2026, já considerando os recursos relativos à repactuação de Uso de Bem Público (UBP) que atenuaram os reajustes dos consumidores das regiões Norte e Nordeste Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 18/09/2026 18h05 Atualizado em 21/09/2026 09h49 A terceira edição do boletim InfoTarifas 2026 foi publicada nesta sexta-feira (18/9) com efeito médio tarifário Brasil em 9,4% para este ano. O valor atualizado ficou acima dos índices de inflação projetados do IGP-M (4,4%) e do IPCA (5,0%). A projeção já considera a decisão da "
-    },
-    {
-      "titulo": "Audiência Pública discutirá revisão das tarifas da CEEE-D em Porto Alegre (RS)",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "30/09/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto",
-        "energia",
-        "consulta",
-        "tarifa"
-      ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/audiencia-publica-discutira-revisao-das-tarifas-da-ceee-d-em-porto-alegre-rs",
-      "desc": "Notícias TARIFAS Audiência Pública discutirá revisão das tarifas da CEEE-D em Porto Alegre (RS) A sessão presencial será realizada dia 8/10, em Porto Alegre/RS, no Auditório do Palácio do Ministério Público do Rio Grande do Sul Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 16/09/2026 12h33 Os consumidores atendidos pela Companhia Estadual de Distribuição de Energia Elétrica (CEEE-D) poderão participar da Audiência Pública 007/2026 , que discutirá a Revisão Tarifária Periódica (RTP) da distribuidora. Com sede em Porto Alegre, no estado do Rio Grande do Sul, a distribuidora atende aproximadamente 2,03 milhões unidades consumidoras. A sessão será realizada no dia 8/10, a "
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-recebe-contribuicoes-sobre-revisao-da-norma-para-registro-de-graxas-e-oleos-lubrificantes-comercializados-no-brasil",
+      "desc": "Notícias ANP recebe contribuições sobre revisão da norma para registro de graxas e óleos lubrificantes comercializados no Brasil Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 01/10/2026 10h51 Começa hoje (1 º /10) a tomada de subsídios sobre a revisão da Resolução ANP nº 804/2019 , que estabelece as regras e os critérios para a obtenção do registro de graxas e óleos lubrificantes comercializados no Brasil, definindo também as obrigações de produtores, importadores e detentores do registro. Os subsídios coletados serão utilizados para a elaboração de Relatório de Avaliação de Impacto Regulatório (AIR) sobre o tema, que dará origem a uma futura minuta de resolução. Para "
     },
     {
       "titulo": "ANP fez 143 ações de fiscalização na Operação Carga Pesada",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "30/09/2026",
+      "data": "01/10/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -190,23 +175,10 @@
       "desc": "Notícias ANP fez 143 ações de fiscalização na Operação Carga Pesada Ação foi desenvolvida pela Agência e Procons de todo o país Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 28/09/2026 16h07 A ANP participou hoje (29/9) da entrevista coletiva na qual o Governo Federal apresentou medidas para conter a alta dos preços dos combustíveis em decorrência do aumento da cotação internacional do barril de petróleo com o prolongamento dos conflitos no Oriente Médio. As iniciativas incluem a manutenção da subvenção de R$ 2,12 por litro de óleo diesel, novas ações de fiscalização da Secretaria Nacional do Consumidor (Senacon). Na coletiva, foram apresentados os resultados da A Oper"
     },
     {
-      "titulo": "Audiência pública debate revisão das especificações dos combustíveis de uso aquaviário",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "30/09/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto",
-        "consulta"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/audiencia-publica-debate-revisao-das-especificacoes-dos-combustiveis-de-uso-aquaviario",
-      "desc": "Notícias Audiência pública debate revisão das especificações dos combustíveis de uso aquaviário Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 24/09/2026 17h31 A ANP realizou ontem (23/9) audiência pública sobre minuta que revisa a Resolução ANP nº 903 , de 2022, que estabelece as especificações dos combustíveis de uso aquaviário comercializados no território nacional (óleo diesel marítimo e óleo combustível marítimo). O objetivo da revisão é alinhar as especificações nacionais à evolução tecnológica do setor e aos padrões internacionais mais recentes. A revisão da regulamentação considera as mudanças observadas no mercado de combustíveis marítimos, no contexto da trans"
-    },
-    {
       "titulo": "Prefeito Renato Junior vistoria avanço das obras do parque Encontro das Águas Rosa Almeida e destaca o potencial do espaço como novo eixo turístico na zona Leste",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "30/09/2026",
+      "data": "01/10/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -215,10 +187,23 @@
       "desc": "Fiscalização Prefeitura intensifica vistorias e monitoramento de imóveis no centro histórico da capital"
     },
     {
+      "titulo": "ANEEL, ONS e EPE divulgam nota técnica sobre capacidade para conexão de sistemas de armazenamento nos Leilões de Reserva de Capacidade 2026",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "01/10/2026",
+      "impacto": "medio",
+      "tags": [
+        "medio",
+        "energia"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-ons-e-epe-divulgam-nota-tecnica-sobre-capacidade-para-conexao-de-sistemas-de-armazenamento-nos-leiloes-de-reserva-de-capacidade-2026",
+      "desc": "Notícias ARMAZENAMENTO ANEEL, ONS e EPE divulgam nota técnica sobre capacidade para conexão de sistemas de armazenamento nos Leilões de Reserva de Capacidade 2026 Documento encontra-se disponível nos portais oficiais da ANEEL, ONS e da EPE Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 30/09/2026 22h59 O Operador Nacional do Sistema Elétrico (ONS) divulga hoje, dia 30/09, em conjunto com a Agência Nacional de Energia Elétrica (ANEEL) e a Empresa de Pesquisa Energética (EPE) a Nota Técnica NT-ONS DPL 0095/2026. O documento apresenta os quantitativos da Capacidade Remanescente do Sistema Interligado Nacional (SIN) para conexão de novos Sistemas de Armazenamento de Energia"
+    },
+    {
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "30/09/2026",
+      "data": "01/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -230,7 +215,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "30/09/2026",
+      "data": "01/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -240,10 +225,36 @@
       "desc": "Edição do dia verificada. Nenhum ato relevante encontrado."
     },
     {
+      "titulo": "ANEEL firma acordo para formar Agentes Comunitários de Energia na Amazônia Legal",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "01/10/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo",
+        "energia"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-firma-acordo-para-formar-agentes-comunitarios-de-energia-na-amazonia-legal",
+      "desc": "Notícias ANEEL firma acordo para formar Agentes Comunitários de Energia na Amazônia Legal Parceria com o Instituto Conexão Povos da Floresta e o Serviço Nacional de Aprendizagem Industrial do Rio Grande do Norte prevê capacitação de integrantes de comunidades tradicionais da região Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 30/09/2026 18h47 Atualizado em 30/09/2026 18h50 A Agência Nacional de Energia Elétrica (ANEEL), o Instituto Conexão Povos da Floresta (ICPF) e o Serviço Nacional de Aprendizagem Industrial do Rio Grande do Norte (Senai-RN) assinaram, nesta quarta-feira (30/9), um acordo de cooperação para capacitar e certificar integrantes de comunidades indígena"
+    },
+    {
+      "titulo": "ANP divulga dados consolidados da produção de petróleo e gás em agosto de 2026",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "01/10/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo",
+        "gas"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-divulga-dados-consolidados-da-producao-de-petroleo-e-gas-em-agosto-de-2026",
+      "desc": "Notícias ANP divulga dados consolidados da produção de petróleo e gás em agosto de 2026 Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 01/10/2026 10h40 Em agosto de 2026, o Brasil produziu 6,002 milhões de barris de óleo equivalente por dia (boe/d) de petróleo e gás natural. Os dados foram divulgados hoje (1/10) pela ANP no Boletim Mensal da Produção de Petróleo e Gás Natural . Com relação ao petróleo, foram extraídos 4,615 milhões de barris por dia (bbl/d), um aumento de 2,6% na comparação com o mês anterior e de 18,4% em relação ao mesmo mês de 2025. A produção de gás natural em agosto foi de 220,55 milhões de metros cúbicos por dia (m³/d). Houve aumento de 2,6% frent"
+    },
+    {
       "titulo": "ANP realiza 2° Workshop para debater Gas Release",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "30/09/2026",
+      "data": "01/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -256,7 +267,7 @@
       "titulo": "2° Workshop sobre Gas Release terá transmissão ao vivo pelo canal da ANP no YouTube",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "30/09/2026",
+      "data": "01/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -269,7 +280,7 @@
       "titulo": "Balanço semanal: ANP participa de Operação Carga Pesada, em parceria com a Senacon, de 23 a 25/9",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "30/09/2026",
+      "data": "01/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -281,7 +292,7 @@
       "titulo": "Anunciados os vencedores da Jornada Empreendedora PRH-ANP 2026",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "30/09/2026",
+      "data": "01/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -290,24 +301,10 @@
       "desc": "Notícias Anunciados os vencedores da Jornada Empreendedora PRH-ANP 2026 Classificação final dos vencedores será divulgada durante o evento de premiação que acontecerá em Salvador, na Bahia. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 28/09/2026 16h13 A coordenação da Jornada Empreendedora PRH-ANP 2026 anunciou, na última semana (23/9), as três equipes vencedoras do programa. Elas foram selecionadas após apresentação presencial e avalição dos pitches no evento ROG.e, realizado entre 21 e 24/9. Equipes vencedoras, em ordem alfabética: Carbon Nexus — PRH 27/SENAI CIMATEC: Ferramenta de apoio à tomada de decisão para cadeias de suprimento de CO2 (Tema 3: Combustíveis ava"
     },
     {
-      "titulo": "ROG.e: ANP participou de mais de 40 palestras em evento que reúne o setor de energia",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "30/09/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo",
-        "energia",
-        "gas"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/rog-e-anp-participou-de-mais-de-40-palestras-em-evento-que-reune-o-setor-de-energia",
-      "desc": "Notícias ROG.e: ANP participou de mais de 40 palestras em evento que reúne o setor de energia Total inclui apresentações no estande da Agência, congresso e eventos paralelos Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 25/09/2026 13h26 A ANP teve participação intensa na ROG.e, um dos principais eventos do setor de energia do país, que ocorreu de 21 a 24/9 no Rio de Janeiro. A Agência contou com um estande na feira, no qual foram realizadas palestras diárias. Ao todo, foram, sete palestras, que abordaram os temas: Oferta Permanente; Cláusula de PD&I; Segurança Operacional; Panorama da produção de óleo e gás no Brasil; Aplicativo \"ANP com VC - Postos\" ; Combustível sust"
-    },
-    {
       "titulo": "Consultar minhas solicitações",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "30/09/2026",
+      "data": "01/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -319,7 +316,7 @@
       "titulo": "Consultar Meu Imposto de Renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "30/09/2026",
+      "data": "01/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -331,7 +328,7 @@
       "titulo": "Consultar dados do Cadastro Único",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "30/09/2026",
+      "data": "01/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -343,7 +340,7 @@
       "titulo": "Consultar restituição de imposto de renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "30/09/2026",
+      "data": "01/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -355,7 +352,7 @@
       "titulo": "Consultar CNPJ",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "30/09/2026",
+      "data": "01/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -367,7 +364,7 @@
       "titulo": "Creative Commons",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "30/09/2026",
+      "data": "01/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -379,7 +376,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "30/09/2026",
+      "data": "01/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -391,7 +388,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "30/09/2026",
+      "data": "01/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -403,7 +400,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "30/09/2026",
+      "data": "01/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -415,7 +412,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "30/09/2026",
+      "data": "01/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -427,7 +424,7 @@
       "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "30/09/2026",
+      "data": "01/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -442,7 +439,7 @@
       "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "30/09/2026",
+      "data": "01/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -454,7 +451,7 @@
       "titulo": "SEMIG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "30/09/2026",
+      "data": "01/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -466,7 +463,7 @@
       "titulo": "SEFAZ-AM — Página verificada sem atos relevantes hoje.",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "30/09/2026",
+      "data": "01/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -478,7 +475,7 @@
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "30/09/2026",
+      "data": "01/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -487,10 +484,34 @@
       "desc": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
+      "titulo": "Museu da Cidade de Manaus recebe exposição nacional sobre memórias da pandemia da Covid-19",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "01/10/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/cultura/muma-recebe-exposicao-nacional-memorias-dapandemia/",
+      "desc": "Cultura Projetos apoiados pela Prefeitura de Manaus levam moda indígena e arte amazônica a circuito cultural pela Europa"
+    },
+    {
+      "titulo": "Prefeitura promove Manaus como destino turístico na 53ª Abav Expo, em São Paulo",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "01/10/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/destaque/manaus-como-destino-turistico-na-53a-abav-expo/",
+      "desc": "Destaque Após 6 meses na nova sede, Implurb fortalece atendimento e amplia estrutura para acompanhar crescimento urbanístico de Manaus"
+    },
+    {
       "titulo": "Prefeito Renato Junior libera mais de R$ 7,4 milhões para o Proesc e garante mais autonomia e agilidade para pequenos reparos em 515 escolas de Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "30/09/2026",
+      "data": "01/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -499,34 +520,10 @@
       "desc": "Página Inicial Notícias Educação Prefeito Renato Junior libera mais de R$ 7,4 milhões para o Proesc e garante mais autonomia e agilidade para pequenos reparos em 515 escolas de Manaus Prefeito Renato Junior libera mais de R$ 7,4 milhões para o Proesc e garante mais autonomia e agilidade para pequenos reparos em 515 escolas de Manaus Por Prefeitura de Manaus 28/09/2026 19h09 Seu navegador não suporta o elemento de áudio. #paratodosverem – Prefeito Renato Junior durante assinatura O prefeito de Manaus , Renato Junior, liberou o repasse de R$ 7.410.430 referente à segunda parcela do exercício de 2026 do Programa Orçamento na Escola (Proesc), coordenado pela Secretaria Municipal de Educação (Semed). O investimento contempla 515 unidades escolares da rede municipal de ensino e descentraliza os "
     },
     {
-      "titulo": "Prefeito Renato Junior apresenta ao MP-AM ações de Manaus no combate às queimadas e oferece estrutura para parceria com municípios do Amazonas",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "30/09/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/cooperacao/prefeito-acoes-combate-as-queimadas/",
-      "desc": "Cooperação Prefeito Renato Junior recebe pesquisadores do Inpa e anuncia agenda conjunta para recuperação ambiental, mobilidade e turismo em Manaus"
-    },
-    {
-      "titulo": "Prefeito Renato Junior reforça limpeza da orla de Manaus com mais de 2,5 mil toneladas de lixo retiradas em 2026",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "30/09/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/operacao/prefeito-limpeza-orlademanaus/",
-      "desc": "Página Inicial Notícias Operação Prefeito Renato Junior reforça limpeza da orla de Manaus com mais de 2,5 mil toneladas de lixo retiradas em 2026 Prefeito Renato Junior reforça limpeza da orla de Manaus com mais de 2,5 mil toneladas de lixo retiradas em 2026 Por Prefeitura de Manaus 28/09/2026 11h29 Seu navegador não suporta o elemento de áudio. #paratodosverem – Prefeito Renato Junior acompanha limpeza da orla de Manaus, no Centro O prefeito de Manaus , Renato Junior, acompanhou a intensificação dos serviços de limpeza na orla da Manaus Moderna, no Centro, na manhã desta segunda-feira, 28/9. A operação mobiliza mais de 500 trabalhadores da limpeza pública, além de aproximadamente 20 caçambas, duas máquinas de grande porte e três balsas para a retirada dos resíduos acumulados na área. Some"
-    },
-    {
       "titulo": "Prefeito Renato Junior sanciona lei aguardada há 25 anos que garante subsídio de até R$ 3 milhões mensais para o transporte complementar de Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "30/09/2026",
+      "data": "01/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -538,7 +535,7 @@
       "titulo": "Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "30/09/2026",
+      "data": "01/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -550,19 +547,19 @@
       "titulo": "Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "30/09/2026",
+      "data": "01/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
       "url": "https://www.manaus.am.gov.br/immu/mobilidade/conclui-instalacao-vigas/",
-      "desc": "Página Inicial Notícias Mobilidade Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto Por Prefeitura de Manaus 15/08/2026 21h59 A Prefeitura de Manaus , por meio da Secretaria Municipal de Infraestrutura (Seminf), concluiu, neste sábado, 15/8, um dia antes do prazo previsto, a etapa de içamento das vigas da alça viária do complexo viário Passarão, projeto que vai mudar a realidade da mobilidade da zona Oeste da cidade. Durante todo o sábado, as equipes realizaram a instalação das nove vigas restantes, das 24 que integram o projeto do viaduto. Todas as metas estão sendo alcançadas antes mesmo do previsto, e pensando no bem-estar, qualidade "
+      "desc": "Mobilidade Prefeitura de Manaus prepara operação especial de trânsito para o primeiro turno das Eleições 2026 no domingo"
     },
     {
       "titulo": "Prefeito Renato Junior avança tratativas com a Caixa Econômica para projetos de habitação e infraestrutura em Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "30/09/2026",
+      "data": "01/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -574,7 +571,7 @@
       "titulo": "Prefeito Renato Junior vistoria retirada do asfalto na Ferreira Pena e destaca que a área entra em nova etapa para se tornar primeira ‘Rua Gastronômica’ de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "30/09/2026",
+      "data": "01/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
