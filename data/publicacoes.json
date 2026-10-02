@@ -1,15 +1,15 @@
 {
-  "ultima_coleta": "01/10/2026 13:16",
+  "ultima_coleta": "02/10/2026 12:29",
   "mes_ano": "Out/2026",
   "total": 44,
   "fontes": 18,
   "fontes_com_falha": [],
   "stats": {
-    "critico": 5,
-    "alto": 7,
-    "medio": 1,
-    "baixo": 31,
-    "consultas_abertas": 3
+    "critico": 4,
+    "alto": 8,
+    "medio": 2,
+    "baixo": 30,
+    "consultas_abertas": 5
   },
   "por_orgao": {
     "ANEEL": 8,
@@ -36,7 +36,7 @@
       "titulo": "ANEEL nega recurso da Enel SP contra decisão que indeferiu perícia técnica relacionada aos eventos climáticos extremos",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "01/10/2026",
+      "data": "02/10/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -49,7 +49,7 @@
       "titulo": "Eleições 2026: ANEEL determina planos especiais de atendimento para garantir energia durante o período",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "01/10/2026",
+      "data": "02/10/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -59,22 +59,10 @@
       "desc": "Notícias ELEIÇÃO Eleições 2026: ANEEL determina planos especiais de atendimento para garantir energia durante o período As distribuidoras de energia devem ter atenção especial aos locais de votação, aos tribunais regionais eleitorais e ao Tribunal Superior Eleitoral (TSE), além do atendimento em toda a área de concessão. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 29/09/2026 15h41 A Agência Nacional de Energia Elétrica (ANEEL) enviou ofícios aos agentes do Setor (Geradores, Transmissores e Distribuidores) para que executem ações e medidas especiais que garantam a adequada prestação dos serviços públicos de energia elétrica durante os 1º e o 2º turnos das Eleições Ger"
     },
     {
-      "titulo": "Total de multas aplicadas pela ANP a distribuidoras de combustíveis por aumento abusivo de preços ultrapassa R$ 700 milhões",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "01/10/2026",
-      "impacto": "critico",
-      "tags": [
-        "critico"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/total-de-multas-aplicadas-pela-anp-a-distribuidoras-de-combustiveis-por-aumento-abusivo-de-precos-ultrapassa-r-700-milhoes",
-      "desc": "Notícias Total de multas aplicadas pela ANP a distribuidoras de combustíveis por aumento abusivo de preços ultrapassa R$ 700 milhões Foram julgados ao todo dez processos referentes a nove distribuidoras Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 25/09/2026 15h18 As multas aplicadas pela ANP a distribuidoras de combustíveis por elevação abusiva de preços ultrapassam R$ 700 milhões. Foram julgados, pela Agência, dez processos relativos a elevação abusiva de preços. Além dos cinco iniciais que totalizaram em torno de R$ 200 milhões , os outros cinco julgados posteriormente alcançaram cerca de R$ 500 milhões. As penalidades resultam de decisões de primeira instância adm"
-    },
-    {
       "titulo": "Informações",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "01/10/2026",
+      "data": "02/10/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -87,7 +75,7 @@
       "titulo": "Prefeitura de Manaus executa obra emergencial de recuperação da drenagem na avenida Djalma Batista",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "01/10/2026",
+      "data": "02/10/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -96,10 +84,24 @@
       "desc": "Página Inicial Notícias Intervenção Prefeitura de Manaus executa obra emergencial de recuperação da drenagem na avenida Djalma Batista Prefeitura de Manaus executa obra emergencial de recuperação da drenagem na avenida Djalma Batista Por Prefeitura de Manaus 28/09/2026 20h06 Seu navegador não suporta o elemento de áudio. A Prefeitura de Manaus , por meio da Secretaria Municipal de Infraestrutura (Seminf), realizou, nesta segunda-feira, 28/9, uma intervenção emergencial para recuperar um trecho de 20 metros da rede de drenagem profunda da avenida Djalma Batista, no bairro Nossa Senhora das Graças, zona Centro-Sul. O serviço foi necessário após as fortes chuvas registradas nos últimos dias provocarem o desgaste da estrutura. As equipes técnicas da Seminf identificaram a necessidade de interv"
     },
     {
+      "titulo": "Tomada de Subsídios aberta para aprimoramento da estrutura de dados da BDGD",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "02/10/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto",
+        "energia",
+        "consulta"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/tomada-de-subsidios-aberta-para-aprimoramento-da-estrutura-de-dados-da-bdgd",
+      "desc": "Notícias GERAÇÃO Tomada de Subsídios aberta para aprimoramento da estrutura de dados da BDGD Contribuições serão aceitas a partir desta quinta-feira (1º/10) até 30 de outubro Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 01/10/2026 17h54 A Agência Nacional de Energia Elétrica (ANEEL) abriu nesta quinta-feira (1º/10) Tomada de Subsídios para o aprimoramento da estrutura de dados da Base de Dados Geográfica da Distribuidora (BDGD) com aderência no Manual de Controle Patrimonial do Setor Elétrico (MCPSE) e Manual de Dados da Superintendência de Fiscalização Econômica, Financeira e de Mercado (SFF), versão 1.3. As sugestões poderão ser enviadas entre 1º e 30 de outubro par"
+    },
+    {
       "titulo": "Consulta pública propõe metodologia para amortizações de investimentos em geração",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "01/10/2026",
+      "data": "02/10/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -113,7 +115,7 @@
       "titulo": "Portaria que inclui a ANEEL no Sistema Brasileiro de Inteligência é publicada",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "01/10/2026",
+      "data": "02/10/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -126,7 +128,7 @@
       "titulo": "Leilão de Transmissão é confirmado para 30 de outubro, com previsão de R$ 8,9 bilhões em investimentos",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "01/10/2026",
+      "data": "02/10/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -136,24 +138,36 @@
       "desc": "Notícias TRANSMISSÃO Leilão de Transmissão é confirmado para 30 de outubro, com previsão de R$ 8,9 bilhões em investimentos Licitação negocia oito lotes em sete estados, com expectativa de criação de 20.312 empregos Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 22/09/2026 12h30 O edital do Leilão de Transmissão nº 4/2026 foi aprovado nesta terça-feira (22/9) pela Agência Nacional de Energia Elétrica (ANEEL) e o aviso de licitação será publicado nesta quinta-feira (24/9) no Diário Oficial da União. O leilão está confirmado para 30 de outubro na sede da B3, em São Paulo, com a oferta de oito lotes em sete estados. O leilão visa a contratação de empresas para a construção"
     },
     {
-      "titulo": "ANEEL aprova alterações nas Regras de Comercialização para usinas termelétricas",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "01/10/2026",
+      "titulo": "ANP revisa resolução sobre aquisição de dados técnicos",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "02/10/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-revisa-resolucao-sobre-aquisicao-de-dados-tecnicos",
+      "desc": "Notícias ANP revisa resolução sobre aquisição de dados técnicos O objetivo é adequar o marco normativo às novas competências legais atribuídas à Agência Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 02/10/2026 09h32 A Diretoria da ANP aprovou hoje (2/10) a resolução que revisa a Resolução ANP nº 889/2022 . Essa norma estabelece diretrizes para aquisição, processamento, reprocessamento e regras de acesso aos dados técnicos no âmbito das atividades reguladas pela Agência. O objetivo é adequar o marco normativo às novas competências legais atribuídas à ANP, por meio das leis: - Lei nº 14.948/2024, que instituiu o marco legal do hidrogênio de baixa emissão de carbono; - Le"
+    },
+    {
+      "titulo": "Acesso de terceiros a gasodutos de escoamento e instalações de processamento de gás natural é debatido em audiência pública",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "02/10/2026",
       "impacto": "alto",
       "tags": [
         "alto",
-        "energia",
+        "gas",
         "consulta"
       ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-aprova-alteracoes-nas-regras-de-comercializacao-para-usinas-termeletricas",
-      "desc": "Notícias COMERCIALIZAÇÃO ANEEL aprova alterações nas Regras de Comercialização para usinas termelétricas O objetivo foi substituir a atual operacionalização provisória por uma solução permanente Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 22/09/2026 11h45 Nesta terça-feira (21/9), a diretoria colegiada da Agência Nacional de Energia Elétrica (ANEEL) aprovou o resultado da Consulta Pública nº 21/2025 , que tratou do aprimoramento do Módulo 16 das Regras de Comercialização a fim de atender a Resolução Normativa 1.093/2024 . A resolução estabelece critérios e procedimentos para aprovação de Custo Variável Unitário (CVU) de centrais geradoras termelétricas que não possue"
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/acesso-de-terceiros-a-gasodutos-de-escoamento-e-instalacoes-de-processamento-de-gas-natural-e-debatido-em-audiencia-publica",
+      "desc": "Notícias Acesso de terceiros a gasodutos de escoamento e instalações de processamento de gás natural é debatido em audiência pública Minuta de resolução sobre o tema incorpora diretrizes previstas na regulamentação da Nova Lei do Gás Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 02/10/2026 09h23 Foi realizada ontem (1/10) audiência pública sobre minuta de resolução para regulamentação do acesso não discriminatório e negociado de terceiros interessados aos gasodutos de escoamento da produção e às instalações de tratamento ou processamento de gás natural. A audiência teve como objetivo ampliar a participação social e obter contribuições da sociedade para o aperfeiçoament"
     },
     {
       "titulo": "ANP recebe contribuições sobre revisão da norma para registro de graxas e óleos lubrificantes comercializados no Brasil",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "01/10/2026",
+      "data": "02/10/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -163,34 +177,22 @@
       "desc": "Notícias ANP recebe contribuições sobre revisão da norma para registro de graxas e óleos lubrificantes comercializados no Brasil Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 01/10/2026 10h51 Começa hoje (1 º /10) a tomada de subsídios sobre a revisão da Resolução ANP nº 804/2019 , que estabelece as regras e os critérios para a obtenção do registro de graxas e óleos lubrificantes comercializados no Brasil, definindo também as obrigações de produtores, importadores e detentores do registro. Os subsídios coletados serão utilizados para a elaboração de Relatório de Avaliação de Impacto Regulatório (AIR) sobre o tema, que dará origem a uma futura minuta de resolução. Para "
     },
     {
-      "titulo": "ANP fez 143 ações de fiscalização na Operação Carga Pesada",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "01/10/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-fez-143-acoes-de-fiscalizacao-na-operacao-carga-pesada",
-      "desc": "Notícias ANP fez 143 ações de fiscalização na Operação Carga Pesada Ação foi desenvolvida pela Agência e Procons de todo o país Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 28/09/2026 16h07 A ANP participou hoje (29/9) da entrevista coletiva na qual o Governo Federal apresentou medidas para conter a alta dos preços dos combustíveis em decorrência do aumento da cotação internacional do barril de petróleo com o prolongamento dos conflitos no Oriente Médio. As iniciativas incluem a manutenção da subvenção de R$ 2,12 por litro de óleo diesel, novas ações de fiscalização da Secretaria Nacional do Consumidor (Senacon). Na coletiva, foram apresentados os resultados da A Oper"
-    },
-    {
       "titulo": "Prefeito Renato Junior vistoria avanço das obras do parque Encontro das Águas Rosa Almeida e destaca o potencial do espaço como novo eixo turístico na zona Leste",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "01/10/2026",
+      "data": "02/10/2026",
       "impacto": "alto",
       "tags": [
         "alto"
       ],
       "url": "https://www.manaus.am.gov.br/implurb/avanco-obras-parque-encontro-das-aguas-rosa-almeida/",
-      "desc": "Fiscalização Prefeitura intensifica vistorias e monitoramento de imóveis no centro histórico da capital"
+      "desc": "Fiscalização Prefeitura notifica cidadão por obstrução de calçada após vídeo em que se diz vítima de ‘inveja’"
     },
     {
       "titulo": "ANEEL, ONS e EPE divulgam nota técnica sobre capacidade para conexão de sistemas de armazenamento nos Leilões de Reserva de Capacidade 2026",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "01/10/2026",
+      "data": "02/10/2026",
       "impacto": "medio",
       "tags": [
         "medio",
@@ -200,10 +202,24 @@
       "desc": "Notícias ARMAZENAMENTO ANEEL, ONS e EPE divulgam nota técnica sobre capacidade para conexão de sistemas de armazenamento nos Leilões de Reserva de Capacidade 2026 Documento encontra-se disponível nos portais oficiais da ANEEL, ONS e da EPE Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 30/09/2026 22h59 O Operador Nacional do Sistema Elétrico (ONS) divulga hoje, dia 30/09, em conjunto com a Agência Nacional de Energia Elétrica (ANEEL) e a Empresa de Pesquisa Energética (EPE) a Nota Técnica NT-ONS DPL 0095/2026. O documento apresenta os quantitativos da Capacidade Remanescente do Sistema Interligado Nacional (SIN) para conexão de novos Sistemas de Armazenamento de Energia"
     },
     {
+      "titulo": "Revisão das regras de segurança operacional na exploração e produção será tema de consulta e audiência públicas",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "02/10/2026",
+      "impacto": "medio",
+      "tags": [
+        "medio",
+        "gas",
+        "consulta"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/revisao-das-regras-de-seguranca-operacional-na-exploracao-e-producao-sera-tema-de-consulta-e-audiencia-publicas",
+      "desc": "Notícias Revisão das regras de segurança operacional na exploração e produção será tema de consulta e audiência públicas Proposta incorpora ajustes decorrentes de processo anterior de participação social Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 02/10/2026 09h51 A Diretoria da ANP aprovou hoje (2/10) a realização de consulta pública, por 90 dias, seguida de audiência pública, sobre a revisão e consolidação da estrutura regulatória referente à segurança operacional na exploração e produção de petróleo e gás natural. A proposta trata do regime de segurança operacional para as instalações dessas atividades e do Regulamento Técnico do Sistema de Gestão da Segurança Ope"
+    },
+    {
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "01/10/2026",
+      "data": "02/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -215,7 +231,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "01/10/2026",
+      "data": "02/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -228,7 +244,7 @@
       "titulo": "ANEEL firma acordo para formar Agentes Comunitários de Energia na Amazônia Legal",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "01/10/2026",
+      "data": "02/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -238,10 +254,22 @@
       "desc": "Notícias ANEEL firma acordo para formar Agentes Comunitários de Energia na Amazônia Legal Parceria com o Instituto Conexão Povos da Floresta e o Serviço Nacional de Aprendizagem Industrial do Rio Grande do Norte prevê capacitação de integrantes de comunidades tradicionais da região Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 30/09/2026 18h47 Atualizado em 30/09/2026 18h50 A Agência Nacional de Energia Elétrica (ANEEL), o Instituto Conexão Povos da Floresta (ICPF) e o Serviço Nacional de Aprendizagem Industrial do Rio Grande do Norte (Senai-RN) assinaram, nesta quarta-feira (30/9), um acordo de cooperação para capacitar e certificar integrantes de comunidades indígena"
     },
     {
+      "titulo": "ANP aprova delimitação de 11 novos setores exploratórios nas bacias da Margem Equatorial",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "02/10/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-aprova-delimitacao-de-11-novos-setores-exploratorios-nas-bacias-da-margem-equatorial",
+      "desc": "Notícias ANP aprova delimitação de 11 novos setores exploratórios nas bacias da Margem Equatorial Áreas abrangem cerca de 380 mil km² da extensão da Plataforma Continental Brasileira e contam com 501 novos blocos exploratórios Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 02/10/2026 10h36 A Diretoria da ANP aprovou hoje (2/10) a delimitação de 11 novos setores exploratórios na Margem Equatorial Brasileira, em área incorporada à Plataforma Continental Brasileira, e a configuração de 501 novos blocos exploratórios nesses setores. A decisão atualiza a organização territorial da região após a ampliação do limite exterior da Plataforma Continental Brasileira, conforme decis"
+    },
+    {
       "titulo": "ANP divulga dados consolidados da produção de petróleo e gás em agosto de 2026",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "01/10/2026",
+      "data": "02/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -254,7 +282,7 @@
       "titulo": "ANP realiza 2° Workshop para debater Gas Release",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "01/10/2026",
+      "data": "02/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -267,7 +295,7 @@
       "titulo": "2° Workshop sobre Gas Release terá transmissão ao vivo pelo canal da ANP no YouTube",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "01/10/2026",
+      "data": "02/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -277,34 +305,10 @@
       "desc": "Notícias 2° Workshop sobre Gas Release terá transmissão ao vivo pelo canal da ANP no YouTube Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 29/09/2026 09h00 Atualizado em 29/09/2026 10h24 A ANP realiza hoje (29/9), a partir das 9h, o 2º Workshop do Programa de Redução da Concentração no Mercado de Gás Natural (Gas Release), com transmissão ao vivo pelo canal da ANP no YouTube . O objetivo do evento é coletar subsídios – a partir das visões de consumidores, produtores, transportadores, distribuidores e representantes de governos e de agências reguladoras estaduais – para a construção, pela ANP, de uma proposta para o Programa Gas Release. Veja a programação . Assessoria "
     },
     {
-      "titulo": "Balanço semanal: ANP participa de Operação Carga Pesada, em parceria com a Senacon, de 23 a 25/9",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "01/10/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-participa-de-operacao-carga-pesada-em-parceria-com-a-senacon-de-23-a-25-9",
-      "desc": "Notícias Balanço semanal: ANP participa de Operação Carga Pesada, em parceria com a Senacon, de 23 a 25/9 Além disso, na semana de 21 a 25/9, foram realizadas fiscalizações, pela Agência, em diversos estados Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 28/09/2026 16h30 Atualizado em 28/09/2026 16h32 Entre os dias 23 e 25/9, a ANP atuou, em conjunto com a Senacon, na Operação Carga Pesada, no Rio de Janeiro e São Paulo, e com os Procons nos Estados de Goiás, Minas Gerais, Mato Grosso do Sul, Paraná e Rio Grande do Sul. A operação teve foco nas condições de comercialização de combustíveis e na proteção dos consumidores em especial quanto a preços abusivos. Saiba mais so"
-    },
-    {
-      "titulo": "Anunciados os vencedores da Jornada Empreendedora PRH-ANP 2026",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "01/10/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anunciados-os-vencedores-da-jornada-empreendedora-prh-anp-2026",
-      "desc": "Notícias Anunciados os vencedores da Jornada Empreendedora PRH-ANP 2026 Classificação final dos vencedores será divulgada durante o evento de premiação que acontecerá em Salvador, na Bahia. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 28/09/2026 16h13 A coordenação da Jornada Empreendedora PRH-ANP 2026 anunciou, na última semana (23/9), as três equipes vencedoras do programa. Elas foram selecionadas após apresentação presencial e avalição dos pitches no evento ROG.e, realizado entre 21 e 24/9. Equipes vencedoras, em ordem alfabética: Carbon Nexus — PRH 27/SENAI CIMATEC: Ferramenta de apoio à tomada de decisão para cadeias de suprimento de CO2 (Tema 3: Combustíveis ava"
-    },
-    {
       "titulo": "Consultar minhas solicitações",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "01/10/2026",
+      "data": "02/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -316,7 +320,7 @@
       "titulo": "Consultar Meu Imposto de Renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "01/10/2026",
+      "data": "02/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -328,7 +332,7 @@
       "titulo": "Consultar dados do Cadastro Único",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "01/10/2026",
+      "data": "02/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -340,7 +344,7 @@
       "titulo": "Consultar restituição de imposto de renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "01/10/2026",
+      "data": "02/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -352,7 +356,7 @@
       "titulo": "Consultar CNPJ",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "01/10/2026",
+      "data": "02/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -364,7 +368,7 @@
       "titulo": "Creative Commons",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "01/10/2026",
+      "data": "02/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -376,7 +380,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "01/10/2026",
+      "data": "02/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -388,7 +392,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "01/10/2026",
+      "data": "02/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -400,7 +404,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "01/10/2026",
+      "data": "02/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -412,7 +416,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "01/10/2026",
+      "data": "02/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -424,7 +428,7 @@
       "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "01/10/2026",
+      "data": "02/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -439,7 +443,7 @@
       "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "01/10/2026",
+      "data": "02/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -451,7 +455,7 @@
       "titulo": "SEMIG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "01/10/2026",
+      "data": "02/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -463,7 +467,7 @@
       "titulo": "SEFAZ-AM — Página verificada sem atos relevantes hoje.",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "01/10/2026",
+      "data": "02/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -475,7 +479,7 @@
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "01/10/2026",
+      "data": "02/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -487,7 +491,7 @@
       "titulo": "Museu da Cidade de Manaus recebe exposição nacional sobre memórias da pandemia da Covid-19",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "01/10/2026",
+      "data": "02/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -499,7 +503,7 @@
       "titulo": "Prefeitura promove Manaus como destino turístico na 53ª Abav Expo, em São Paulo",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "01/10/2026",
+      "data": "02/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -511,7 +515,7 @@
       "titulo": "Prefeito Renato Junior libera mais de R$ 7,4 milhões para o Proesc e garante mais autonomia e agilidade para pequenos reparos em 515 escolas de Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "01/10/2026",
+      "data": "02/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -523,7 +527,7 @@
       "titulo": "Prefeito Renato Junior sanciona lei aguardada há 25 anos que garante subsídio de até R$ 3 milhões mensais para o transporte complementar de Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "01/10/2026",
+      "data": "02/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -535,7 +539,7 @@
       "titulo": "Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "01/10/2026",
+      "data": "02/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -547,7 +551,7 @@
       "titulo": "Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "01/10/2026",
+      "data": "02/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -559,7 +563,7 @@
       "titulo": "Prefeito Renato Junior avança tratativas com a Caixa Econômica para projetos de habitação e infraestrutura em Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "01/10/2026",
+      "data": "02/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -571,7 +575,7 @@
       "titulo": "Prefeito Renato Junior vistoria retirada do asfalto na Ferreira Pena e destaca que a área entra em nova etapa para se tornar primeira ‘Rua Gastronômica’ de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "01/10/2026",
+      "data": "02/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
