@@ -1,15 +1,15 @@
 {
-  "ultima_coleta": "06/10/2026 13:04",
+  "ultima_coleta": "07/10/2026 13:41",
   "mes_ano": "Out/2026",
   "total": 43,
   "fontes": 18,
   "fontes_com_falha": [],
   "stats": {
-    "critico": 4,
-    "alto": 7,
+    "critico": 3,
+    "alto": 8,
     "medio": 2,
     "baixo": 30,
-    "consultas_abertas": 6
+    "consultas_abertas": 7
   },
   "por_orgao": {
     "ANEEL": 8,
@@ -36,7 +36,7 @@
       "titulo": "ANEEL abre Consulta Pública para aprimorar regras em função da implantação de Política Nacional de Acesso ao Sistema de Transmissão",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "06/10/2026",
+      "data": "07/10/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -47,23 +47,10 @@
       "desc": "Notícias TRANSMISSÃO ANEEL abre Consulta Pública para aprimorar regras em função da implantação de Política Nacional de Acesso ao Sistema de Transmissão As contribuições serão recebidas de 8 de outubro a 22 de novembro de 2026 Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 06/10/2026 12h36 A abertura da Consulta Pública nº 36/2026 foi aprovada pela diretoria colegiada da Agência Nacional de Energia Elétrica (ANEEL), nesta terça-feira (6/10), com o objetivo de realizar aprimoramentos regulatórios em decorrência da instituição da Política Nacional de Acesso ao Sistema de Transmissão (PNAST) pelo Decreto nº 12.772/ 2025 . A proposta prevê alteração dos módulos 1 e 5 das Re"
     },
     {
-      "titulo": "ANEEL nega recurso da Enel SP contra decisão que indeferiu perícia técnica relacionada aos eventos climáticos extremos",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "06/10/2026",
-      "impacto": "critico",
-      "tags": [
-        "critico",
-        "energia"
-      ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-nega-recurso-da-enel-sp-contra-decisao-que-indeferiu-pericia-tecnica-relacionada-aos-eventos-climaticos-extremos",
-      "desc": "Notícias Distribuição ANEEL nega recurso da Enel SP contra decisão que indeferiu perícia técnica relacionada aos eventos climáticos extremos Com a decisão, fica encerrada a fase instrutória do procedimento administrativo tendente à caducidade da concessão. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 29/09/2026 18h06 A Diretoria da Agência Nacional de Energia Elétrica (ANEEL) decidiu, em Circuito Deliberativo Ordinário, negar o pedido de reconsideração feito pela Enel Distribuição São Paulo – Enel SP contra o indeferimento da solicitação de prova pericial técnica relacionada aos eventos climáticos extremos, especialmente o ocorrido em dezembro de 2025. O indeferimento"
-    },
-    {
       "titulo": "Oferta Permanente: ANP realiza em 07/10 4º Ciclo de Partilha e 6º Ciclo de Concessão",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "06/10/2026",
+      "data": "07/10/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -75,7 +62,7 @@
       "titulo": "Informações",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "06/10/2026",
+      "data": "07/10/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -85,10 +72,38 @@
       "desc": "Informações Decretos de Situação de Emergência Alteração de Carga Cadastro de Equipamento Vital Cliente Alta Tensão Cliente Mercado Livre Compartilhamento de infraestruturas Contrato Contribuição de Iluminação Pública por Município Decretos de Situação de Emergência Desligamentos Programados Despesas Associadas a CCC Dicas de Consumo Consciente Dicas de Segurança Direitos e Deveres Furto de energia elétrica é crime Iluminação Pública Indicadores de Continuidade Ligação Nova Ligação Provisória Localizar App na Loja Micro/Minigeração Distribuída Normas Técnicas e Manuais Notícias Orçamento de Conexão / Projeto / Vistoria Padrão de Entrada Pesquisa de Curvas de Carga e Hábitos de Consumo Poda e Arborização Programa de Eficiência Energética Programa de Eletrificação Rural Programa de Pesquisa "
     },
     {
+      "titulo": "Custeio de sistemas de armazenamento de energia em baterias entra em consulta",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "07/10/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto",
+        "energia",
+        "consulta"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/custeio-de-sistemas-de-armazenamento-de-energia-em-baterias-entra-em-consulta",
+      "desc": "Notícias RESOLUÇÃO Custeio de sistemas de armazenamento de energia em baterias entra em consulta Proposta de norma não abrange o Encargo de Reserva de Capacidade Geral Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 07/10/2026 11h23 A minuta de resolução sobre a base de custeio e a metodologia de rateio do Encargo de Reserva de Capacidade associado à contratação de Sistemas de Armazenamento de Energia em baterias (Ercap-SAE) é tema da Consulta Pública nº 37/2026 e de workshop , conforme aprovado na 20ª Reunião Pública Ordinária da Agência Nacional de Energia Elétrica (ANEEL), na terça-feira (06/10). É importante ressaltar que a proposta trata exclusivamente do Ercap-SAE "
+    },
+    {
+      "titulo": "ANEEL aprova regras para cadastro de agentes e representantes nos Procedimentos de Rede",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "07/10/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto",
+        "energia",
+        "consulta"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-aprova-regras-para-cadastro-de-agentes-e-representantes-nos-procedimentos-de-rede",
+      "desc": "Notícias REGULAÇÃO ANEEL aprova regras para cadastro de agentes e representantes nos Procedimentos de Rede O objetivo é tornar mais claros e padronizados os processos de cadastro e atualização dessas informações, trazendo mais transparência e previsibilidade Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 07/10/2026 09h08 A Agência Nacional de Energia Elétrica (ANEEL) aprovou, nesta terça-feira (6/10), o resultado da Consulta Pública nº 13/2026 que cria o Submódulo 1.4 – Cadastro de Agentes e Representantes, dos Procedimentos de Rede. A decisão também altera a Resolução Normativa nº 903/2020 para incorporar formalmente o novo submódulo à estrutura regulatória vigente. A "
+    },
+    {
       "titulo": "Audiência Pública discutirá revisão das tarifas da CEEE-D em Porto Alegre (RS)",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "06/10/2026",
+      "data": "07/10/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -103,7 +118,7 @@
       "titulo": "Tomada de Subsídios aberta para aprimoramento da estrutura de dados da BDGD",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "06/10/2026",
+      "data": "07/10/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -114,24 +129,10 @@
       "desc": "Notícias GERAÇÃO Tomada de Subsídios aberta para aprimoramento da estrutura de dados da BDGD Contribuições serão aceitas a partir desta quinta-feira (1º/10) até 30 de outubro Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 01/10/2026 17h54 A Agência Nacional de Energia Elétrica (ANEEL) abriu nesta quinta-feira (1º/10) Tomada de Subsídios para o aprimoramento da estrutura de dados da Base de Dados Geográfica da Distribuidora (BDGD) com aderência no Manual de Controle Patrimonial do Setor Elétrico (MCPSE) e Manual de Dados da Superintendência de Fiscalização Econômica, Financeira e de Mercado (SFF), versão 1.3. As sugestões poderão ser enviadas entre 1º e 30 de outubro par"
     },
     {
-      "titulo": "Consulta pública propõe metodologia para amortizações de investimentos em geração",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "06/10/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto",
-        "energia",
-        "consulta"
-      ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/consulta-publica-propoe-metodologia-para-amortizacoes-de-investimentos-em-geracao",
-      "desc": "Notícias GERAÇÃO Consulta pública propõe metodologia para amortizações de investimentos em geração ANEEL receberá contribuições de 1º a 30 de outubro Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 29/09/2026 18h08 A diretoria colegiada da Agência Nacional de Energia Elétrica (ANEEL) aprovou, nesta terça-feira (29/9), a abertura de Consulta Pública (CP 035/2026) propondo a definição de critérios e metodologia aplicáveis à extensão de prazo suficiente para a amortização de investimentos de acréscimo de capacidade de geração. A Lei 10.438/2002 autoriza a extensão do prazo de outorgas de aproveitamentos hidrelétricos quando houver acréscimo de capacidade instalada compatíve"
-    },
-    {
       "titulo": "ANP divulga relatório da consulta pública sobre Programa de Gas Release",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "06/10/2026",
+      "data": "07/10/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -145,7 +146,7 @@
       "titulo": "ANP fiscaliza agentes em 18 estados no período de 28/9 a 2/10",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "06/10/2026",
+      "data": "07/10/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -157,7 +158,7 @@
       "titulo": "ANP debate normas de controle de qualidade dos combustíveis em workshop",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "06/10/2026",
+      "data": "07/10/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -169,7 +170,7 @@
       "titulo": "Gás natural: ANP define a Base Regulatória de Ativos de abertura de cinco transportadoras",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "06/10/2026",
+      "data": "07/10/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -180,37 +181,37 @@
       "desc": "Notícias Gás natural: ANP define a Base Regulatória de Ativos de abertura de cinco transportadoras Trata-se da segunda das três fases do plano de ação definido pela Agência referente às tarifas de transporte em gasodutos Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 02/10/2026 15h16 A Diretoria da ANP aprovou hoje (02/10) a definição da Base Regulatória de Ativos (BRA) de abertura das transportadoras de gás natural, referente ao Ciclo Tarifário 2026-2030. A deliberação alcança as cinco transportadoras consultadas pela Agência: GasOcidente do Mato Grosso Ltda. (GOM), Transportadora Sul-Brasileira de Gás S.A. (TSB), Transportadora Brasileira Gasoduto Bolívia-Brasil S.A. "
     },
     {
-      "titulo": "ANEEL, ONS e EPE divulgam nota técnica sobre capacidade para conexão de sistemas de armazenamento nos Leilões de Reserva de Capacidade 2026",
+      "titulo": "Agência aprova edital dos Leilões de Energia Existente A-1, A-2 e A-3",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "06/10/2026",
+      "data": "07/10/2026",
       "impacto": "medio",
       "tags": [
         "medio",
         "energia"
       ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-ons-e-epe-divulgam-nota-tecnica-sobre-capacidade-para-conexao-de-sistemas-de-armazenamento-nos-leiloes-de-reserva-de-capacidade-2026",
-      "desc": "Notícias ARMAZENAMENTO ANEEL, ONS e EPE divulgam nota técnica sobre capacidade para conexão de sistemas de armazenamento nos Leilões de Reserva de Capacidade 2026 Documento encontra-se disponível nos portais oficiais da ANEEL, ONS e da EPE Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 30/09/2026 22h59 O Operador Nacional do Sistema Elétrico (ONS) divulga hoje, dia 30/09, em conjunto com a Agência Nacional de Energia Elétrica (ANEEL) e a Empresa de Pesquisa Energética (EPE) a Nota Técnica NT-ONS DPL 0095/2026. O documento apresenta os quantitativos da Capacidade Remanescente do Sistema Interligado Nacional (SIN) para conexão de novos Sistemas de Armazenamento de Energia"
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/agencia-aprova-edital-dos-leiloes-de-energia-existente-a-1-a-2-e-a-3",
+      "desc": "Notícias Leilão Agência aprova edital dos Leilões de Energia Existente A-1, A-2 e A-3 O documento prevê a realização da sessão pública dos leilões em 13 de novembro Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 06/10/2026 17h28 Atualizado em 07/10/2026 08h27 Foi aprovado pela diretoria colegiada da Agência Nacional de Energia Elétrica (ANEEL), nesta terça-feira (6/10), o edital dos Leilões nº 7/2026-ANEEL, nº 8/2026-ANEEL e nº 9/2026-ANEEL, denominados, respectivamente, Leilões de Energia Existente “A-1”, “A-2” e “A-3” de 2026. O edital prevê a realização da sessão pública dos leilões em 13 de novembro de 2026, na modalidade híbrido descendente, com lance inicial de qu"
     },
     {
-      "titulo": "Revisão das regras de segurança operacional na exploração e produção será tema de consulta e audiência públicas",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "06/10/2026",
+      "titulo": "ANEEL aprova regra para organizar cortes de geração",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "07/10/2026",
       "impacto": "medio",
       "tags": [
         "medio",
-        "gas",
+        "energia",
         "consulta"
       ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/revisao-das-regras-de-seguranca-operacional-na-exploracao-e-producao-sera-tema-de-consulta-e-audiencia-publicas",
-      "desc": "Notícias Revisão das regras de segurança operacional na exploração e produção será tema de consulta e audiência públicas Proposta incorpora ajustes decorrentes de processo anterior de participação social Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 02/10/2026 09h51 A Diretoria da ANP aprovou hoje (2/10) a realização de consulta pública, por 90 dias, seguida de audiência pública, sobre a revisão e consolidação da estrutura regulatória referente à segurança operacional na exploração e produção de petróleo e gás natural. A proposta trata do regime de segurança operacional para as instalações dessas atividades e do Regulamento Técnico do Sistema de Gestão da Segurança Ope"
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-aprova-regra-para-organizar-cortes-de-geracao",
+      "desc": "Notícias REGULAÇÃO ANEEL aprova regra para organizar cortes de geração Nova norma estabelece ordem para o curtailment num cenário de sobreoferta crescente de energia renovável e traz mais transparência e previsibilidade à operação do sistema elétrico brasileiro. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 06/10/2026 14h42 A Agência Nacional de Energia Elétrica (ANEEL) aprovou nesta terça-feira (6/10), em Reunião Pública Ordinária da Diretoria, a nova regra que define a ordem para cortes obrigatórios de geração de usinas – o chamado curtailment, tema tratado na Consulta Pública nº 45/2019 . A decisão encerra um debate iniciado há sete anos, com ampla participação do s"
     },
     {
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "06/10/2026",
+      "data": "07/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -222,7 +223,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "06/10/2026",
+      "data": "07/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -235,7 +236,7 @@
       "titulo": "ANEEL abre Tomadas de Subsídios sobre limites de DEC e FEC de 14 distribuidoras",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "06/10/2026",
+      "data": "07/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -245,23 +246,22 @@
       "desc": "Notícias DISTRIBUIÇÃO ANEEL abre Tomadas de Subsídios sobre limites de DEC e FEC de 14 distribuidoras Interessados tem prazo entre 1º e 30 de outubro para mandar sugestões por e-mail Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 02/10/2026 15h00 Atualizado em 02/10/2026 15h13 A Agência Nacional de Energia Elétrica (ANEEL) publicou nesta quinta-feira (1º/10) no Diário Oficial da União os avisos de Tomadas de Subsídios destinadas ao estabelecimento de limites de continuidade de DEC e FEC de 14 distribuidoras para o período de 2027 a 2031.  As contribuições serão recebidas entre 1º e 30 de outubro. O DEC, que significa Duração Equivalente de Interrupção por Unidade Consum"
     },
     {
-      "titulo": "ANEEL firma acordo para formar Agentes Comunitários de Energia na Amazônia Legal",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "06/10/2026",
+      "titulo": "4º Ciclo da Oferta Permanente de Partilha da ANP tem sete blocos no Pré-Sal arrematados",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "07/10/2026",
       "impacto": "baixo",
       "tags": [
-        "baixo",
-        "energia"
+        "baixo"
       ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/aneel-firma-acordo-para-formar-agentes-comunitarios-de-energia-na-amazonia-legal",
-      "desc": "Notícias ANEEL firma acordo para formar Agentes Comunitários de Energia na Amazônia Legal Parceria com o Instituto Conexão Povos da Floresta e o Serviço Nacional de Aprendizagem Industrial do Rio Grande do Norte prevê capacitação de integrantes de comunidades tradicionais da região Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 30/09/2026 18h47 Atualizado em 30/09/2026 18h50 A Agência Nacional de Energia Elétrica (ANEEL), o Instituto Conexão Povos da Floresta (ICPF) e o Serviço Nacional de Aprendizagem Industrial do Rio Grande do Norte (Senai-RN) assinaram, nesta quarta-feira (30/9), um acordo de cooperação para capacitar e certificar integrantes de comunidades indígena"
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/4o-ciclo-da-oferta-permanente-de-partilha-da-anp-tem-sete-blocos-no-pre-sal-arrematados",
+      "desc": "Notícias 4º Ciclo da Oferta Permanente de Partilha da ANP tem sete blocos no Pré-Sal arrematados Trata-se do ciclo de Partilha com o maior número de blocos arrematados desde o início da Oferta Permanente até o momento Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 07/10/2026 12h23 Atualizado em 07/10/2026 14h18 No 4º Ciclo da Oferta Permanente de Partilha (OPP), realizado hoje (07/10) pela ANP, no Rio de Janeiro, foram arrematados sete dos 13 blocos em oferta, todos no Polígono do Pré-Sal: Magnetita, Hematita e Azurita, na Bacia de Campos; e Jade, Cruzeiro do Sul, Rubi e Rodocrosita, na Bacia de Santos. Trata-se do ciclo de Partilha com o maior número de blocos arremata"
     },
     {
       "titulo": "ANP sedia um dos principais encontros de reguladores de segurança operacional do mundo",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "06/10/2026",
+      "data": "07/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -273,7 +273,7 @@
       "titulo": "ANP aprova delimitação de 11 novos setores exploratórios nas bacias da Margem Equatorial",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "06/10/2026",
+      "data": "07/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -285,7 +285,7 @@
       "titulo": "Consultar minhas solicitações",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "06/10/2026",
+      "data": "07/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -297,7 +297,7 @@
       "titulo": "Consultar Meu Imposto de Renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "06/10/2026",
+      "data": "07/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -309,7 +309,7 @@
       "titulo": "Consultar dados do Cadastro Único",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "06/10/2026",
+      "data": "07/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -321,7 +321,7 @@
       "titulo": "Consultar restituição de imposto de renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "06/10/2026",
+      "data": "07/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -333,7 +333,7 @@
       "titulo": "Consultar CNPJ",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "06/10/2026",
+      "data": "07/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -345,7 +345,7 @@
       "titulo": "Creative Commons",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "06/10/2026",
+      "data": "07/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -357,7 +357,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "06/10/2026",
+      "data": "07/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -369,7 +369,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "06/10/2026",
+      "data": "07/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -381,7 +381,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "06/10/2026",
+      "data": "07/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -393,7 +393,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "06/10/2026",
+      "data": "07/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -405,7 +405,7 @@
       "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "06/10/2026",
+      "data": "07/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -420,7 +420,7 @@
       "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "06/10/2026",
+      "data": "07/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -432,7 +432,7 @@
       "titulo": "SEMIG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "06/10/2026",
+      "data": "07/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -444,7 +444,7 @@
       "titulo": "SEFAZ-AM — Página verificada sem atos relevantes hoje.",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "06/10/2026",
+      "data": "07/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -456,7 +456,7 @@
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "06/10/2026",
+      "data": "07/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -468,7 +468,7 @@
       "titulo": "Prefeito Renato Junior vistoria obras do Passarão, que chegam a 55% de execução na zona Oeste de Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "06/10/2026",
+      "data": "07/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -480,7 +480,7 @@
       "titulo": "Requalificação da Ferreira Pena avança com instalação de caixas para rede subterrânea de energia e telecomunicações",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "06/10/2026",
+      "data": "07/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -493,7 +493,7 @@
       "titulo": "Museu da Cidade de Manaus recebe exposição nacional sobre memórias da pandemia da Covid-19",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "06/10/2026",
+      "data": "07/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -505,7 +505,7 @@
       "titulo": "Prefeitura promove Manaus como destino turístico na 53ª Abav Expo, em São Paulo",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "06/10/2026",
+      "data": "07/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -517,7 +517,7 @@
       "titulo": "Prefeito Renato Junior sanciona lei aguardada há 25 anos que garante subsídio de até R$ 3 milhões mensais para o transporte complementar de Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "06/10/2026",
+      "data": "07/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -529,19 +529,19 @@
       "titulo": "Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "06/10/2026",
+      "data": "07/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
       "url": "https://www.manaus.am.gov.br/immu/transito/prefeito-renato-junior-apresenta-tecnologia-transito/",
-      "desc": "Página Inicial Notícias Trânsito Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus Por Prefeitura de Manaus 17/08/2026 21h58 #paratodosverem – prefeito Renato Junior fala sobre o painel Manaus passa a contar com uma nova ferramenta para orientar motoristas em tempo real. O primeiro Painel de Mensagem Variável (PMV) da capital foi apresentado nesta segunda-feira, 17/8, pelo prefeito Renato Junior, na avenida Mário Ypiranga Monteiro, na subida do viaduto Miguel Arraes, zona Centro-Sul. Serão exibidas informações sobre acidentes, interdições, obras, congestionamentos e outras ocorrências de trânsito. “Esse é o pri"
+      "desc": "Trânsito Prefeitura de Manaus inicia teste operacional com inversão de sentido na rua do Congresso nesta quarta-feira, no Centro"
     },
     {
       "titulo": "Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "06/10/2026",
+      "data": "07/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -553,7 +553,7 @@
       "titulo": "Prefeito Renato Junior avança tratativas com a Caixa Econômica para projetos de habitação e infraestrutura em Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "06/10/2026",
+      "data": "07/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -565,7 +565,7 @@
       "titulo": "Prefeito Renato Junior vistoria retirada do asfalto na Ferreira Pena e destaca que a área entra em nova etapa para se tornar primeira ‘Rua Gastronômica’ de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "06/10/2026",
+      "data": "07/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
