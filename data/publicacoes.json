@@ -1,5 +1,5 @@
 {
-  "ultima_coleta": "12/10/2026 16:08",
+  "ultima_coleta": "13/10/2026 13:56",
   "mes_ano": "Out/2026",
   "total": 43,
   "fontes": 18,
@@ -7,8 +7,8 @@
   "stats": {
     "critico": 2,
     "alto": 9,
-    "medio": 3,
-    "baixo": 29,
+    "medio": 2,
+    "baixo": 30,
     "consultas_abertas": 7
   },
   "por_orgao": {
@@ -36,7 +36,7 @@
       "titulo": "ANEEL abre Consulta Pública para aprimorar regras em função da implantação de Política Nacional de Acesso ao Sistema de Transmissão",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -50,7 +50,7 @@
       "titulo": "Informações",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -63,7 +63,7 @@
       "titulo": "ANEEL realiza audiência pública para debater revisão tarifária da CEEE-D em Porto Alegre (RS)",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -78,7 +78,7 @@
       "titulo": "Audiência Pública discutirá revisão das tarifas da CEEE-D em Porto Alegre (RS)",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -93,7 +93,7 @@
       "titulo": "Custeio de sistemas de armazenamento de energia em baterias entra em consulta",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -107,7 +107,7 @@
       "titulo": "ANEEL aprova regras para cadastro de agentes e representantes nos Procedimentos de Rede",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -121,7 +121,7 @@
       "titulo": "ANP assina acordo com 23 Secretarias de Fazenda para ampliar acesso a dados do mercado de combustíveis",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -133,7 +133,7 @@
       "titulo": "ANP fará consulta e audiência públicas sobre credenciamento de instituições para projetos de PD&I",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -146,7 +146,7 @@
       "titulo": "ANP firma acordo com o Procon de Guarulhos (SP) para fiscalização do abastecimento no município",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -158,7 +158,7 @@
       "titulo": "ANP publica alterações em seu Regimento Interno",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -170,7 +170,7 @@
       "titulo": "Substituto assumirá em 13/10 Diretoria da ANP",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -182,7 +182,7 @@
       "titulo": "Agência aprova edital dos Leilões de Energia Existente A-1, A-2 e A-3",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "medio",
       "tags": [
         "medio",
@@ -195,7 +195,7 @@
       "titulo": "ANEEL aprova regra para organizar cortes de geração",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "medio",
       "tags": [
         "medio",
@@ -206,22 +206,10 @@
       "desc": "Notícias REGULAÇÃO ANEEL aprova regra para organizar cortes de geração Nova norma estabelece ordem para o curtailment num cenário de sobreoferta crescente de energia renovável e traz mais transparência e previsibilidade à operação do sistema elétrico brasileiro. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 06/10/2026 14h42 A Agência Nacional de Energia Elétrica (ANEEL) aprovou nesta terça-feira (6/10), em Reunião Pública Ordinária da Diretoria, a nova regra que define a ordem para cortes obrigatórios de geração de usinas – o chamado curtailment, tema tratado na Consulta Pública nº 45/2019 . A decisão encerra um debate iniciado há sete anos, com ampla participação do s"
     },
     {
-      "titulo": "Sine Manaus oferta 683 vagas de emprego nesta terça-feira, 13/10",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "12/10/2026",
-      "impacto": "medio",
-      "tags": [
-        "medio"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/oportunidade/vagas-sine-manaus-28/",
-      "desc": "Página Inicial Notícias Oportunidade Sine Manaus oferta 683 vagas de emprego nesta terça-feira, 13/10 Sine Manaus oferta 683 vagas de emprego nesta terça-feira, 13/10 Por Prefeitura de Manaus 12/10/2026 15h33 Seu navegador não suporta o elemento de áudio. A Prefeitura de Manaus, por meio do Sine Manaus, oferta 683 vagas de emprego em várias áreas de atuação, nesta terça–feira, 13/10, das 8h às 14h. O candidato pode validar a Carteira Digital e Previdência Social (CTPS) no aplicativo “Carteira de Trabalho Digital” ou acessar o site http://gov.br/trabalho . Para participar da pré-seleção e concorrer a uma das vagas disponíveis, ou receber orientação de cadastro, Carteira de Trabalho Digital e seguro–desemprego, os candidatos devem comparecer a um dos postos do Sine Manaus: na avenida Constan"
-    },
-    {
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -233,7 +221,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -246,7 +234,7 @@
       "titulo": "ANEEL abre Tomadas de Subsídios sobre limites de DEC e FEC de 14 distribuidoras",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -259,7 +247,7 @@
       "titulo": "ANP aprova estudos geológicos e econômicos do bloco Oeste de Jubarte",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -272,7 +260,7 @@
       "titulo": "ANP retoma restrição à venda de biodiesel entre distribuidores",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -284,7 +272,7 @@
       "titulo": "Reunião da Diretoria da ANP de amanhã (9/10) será transmitida pelo YouTube",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -297,7 +285,7 @@
       "titulo": "Consultar minhas solicitações",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -309,7 +297,7 @@
       "titulo": "Consultar Meu Imposto de Renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -321,7 +309,7 @@
       "titulo": "Consultar dados do Cadastro Único",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -333,7 +321,7 @@
       "titulo": "Consultar restituição de imposto de renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -345,7 +333,7 @@
       "titulo": "Consultar CNPJ",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -357,7 +345,7 @@
       "titulo": "Creative Commons",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -369,7 +357,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -381,7 +369,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -393,7 +381,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -405,7 +393,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -417,7 +405,7 @@
       "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -432,7 +420,7 @@
       "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -444,7 +432,7 @@
       "titulo": "SEMIG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -456,7 +444,7 @@
       "titulo": "SEFAZ-AM — Página verificada sem atos relevantes hoje.",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -468,7 +456,7 @@
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -480,19 +468,19 @@
       "titulo": "Prefeito Renato Junior vistoria obras do Passarão, que chegam a 55% de execução na zona Oeste de Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
       "url": "https://www.manaus.am.gov.br/noticia/mobilidade/prefeito-vistoria-passarao/",
-      "desc": "Mobilidade Prefeito Renato Junior entrega passarela na avenida Torquato Tapajós utilizada diariamente por 4,5 mil pessoas e confirma elevadores para garantir acessibilidade a PcDs"
+      "desc": "Mobilidade Técnicos de transporte da Prefeitura de Manaus acompanham operação da linha C-902 no Santa Etelvina"
     },
     {
       "titulo": "Requalificação da Ferreira Pena avança com instalação de caixas para rede subterrânea de energia e telecomunicações",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -502,22 +490,34 @@
       "desc": "Centro Histórico Oitizeiros da Ferreira Pena são todos incorporados à requalificação da obra da prefeitura"
     },
     {
-      "titulo": "Prefeitura de Manaus participa de articulação entre municípios do Amazonas para fortalecer ações integradas de combate às queimadas",
+      "titulo": "Técnicos de transporte da Prefeitura de Manaus acompanham operação da linha C-902 no Santa Etelvina",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/cooperacao/acoes-integradas-de-combate-as-queimadas/",
-      "desc": "Cooperação Prefeitura de Manaus participa de reunião com o governo federal para alinhar ação conjunta de combate às queimadas vindas de outros municípios e fumaça que compromete a qualidade do ar na capital"
+      "url": "https://www.manaus.am.gov.br/noticia/mobilidade/operacao-linha-c-902-santa-etelvina/",
+      "desc": "Mobilidade Prefeito Renato Junior vistoria obras do Passarão, que chegam a 55% de execução na zona Oeste de Manaus"
+    },
+    {
+      "titulo": "Sine Manaus oferta 897 vagas de emprego nesta quarta-feira, 14/10",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "13/10/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/oportunidade/prefeitura-sine-manaus-vagasempregos-2-2/",
+      "desc": "Página Inicial Notícias Oportunidade Sine Manaus oferta 897 vagas de emprego nesta quarta-feira, 14/10 Sine Manaus oferta 897 vagas de emprego nesta quarta-feira, 14/10 Por Prefeitura de Manaus 13/10/2026 13h15 Seu navegador não suporta o elemento de áudio. #paratodosverem – Mão segura carteira de trabalho; ao fundo, banner do Sine Manaus A Prefeitura de Manaus , por meio do Sine Manaus, oferta 897 vagas de emprego em várias áreas de atuação, nesta quarta–feira, 14/10, das 8h às 14h. O candidato pode validar a Carteira Digital e Previdência Social (CTPS) no aplicativo “Carteira de Trabalho Digital” ou acessar o site http://gov.br/trabalho . Para participar da pré–seleção e concorrer a uma das vagas disponíveis, ou receber orientação de cadastro, Carteira de Trabalho Digital e seguro–desemp"
     },
     {
       "titulo": "Prefeito Renato Junior sanciona lei aguardada há 25 anos que garante subsídio de até R$ 3 milhões mensais para o transporte complementar de Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -529,7 +529,7 @@
       "titulo": "Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -541,19 +541,19 @@
       "titulo": "Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
       "url": "https://www.manaus.am.gov.br/immu/mobilidade/conclui-instalacao-vigas/",
-      "desc": "Mobilidade Prefeito Renato Junior entrega passarela na avenida Torquato Tapajós utilizada diariamente por 4,5 mil pessoas e confirma elevadores para garantir acessibilidade a PcDs"
+      "desc": "Mobilidade Técnicos de transporte da Prefeitura de Manaus acompanham operação da linha C-902 no Santa Etelvina"
     },
     {
       "titulo": "Prefeito Renato Junior avança tratativas com a Caixa Econômica para projetos de habitação e infraestrutura em Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -565,7 +565,7 @@
       "titulo": "Prefeito Renato Junior vistoria retirada do asfalto na Ferreira Pena e destaca que a área entra em nova etapa para se tornar primeira ‘Rua Gastronômica’ de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "12/10/2026",
+      "data": "13/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
