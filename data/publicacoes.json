@@ -1,5 +1,5 @@
 {
-  "ultima_coleta": "16/10/2026 11:10",
+  "ultima_coleta": "19/10/2026 13:20",
   "mes_ano": "Out/2026",
   "total": 43,
   "fontes": 18,
@@ -14,10 +14,10 @@
   "por_orgao": {
     "ANEEL": 8,
     "ANP": 8,
-    "ANA": 6,
+    "ANA": 5,
     "Prefeitura Manaus": 4,
     "IMMU": 3,
-    "Implurb": 2,
+    "Implurb": 3,
     "AmE": 1,
     "DOU": 1,
     "DOE-AM": 1,
@@ -36,7 +36,7 @@
       "titulo": "Informações",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "16/10/2026",
+      "data": "19/10/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -49,7 +49,7 @@
       "titulo": "Reajuste Tarifário da EDP São Paulo é aprovado pela ANEEL",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "16/10/2026",
+      "data": "19/10/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -63,7 +63,7 @@
       "titulo": "Aprovadas novas tarifas para consumidores atendidos pela CPFL Piratininga",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "16/10/2026",
+      "data": "19/10/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -77,7 +77,7 @@
       "titulo": "ANEEL realiza audiência pública para debater revisão tarifária da CEEE-D em Porto Alegre (RS)",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "16/10/2026",
+      "data": "19/10/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -92,7 +92,7 @@
       "titulo": "Audiência Pública discutirá revisão das tarifas da CEEE-D em Porto Alegre (RS)",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "16/10/2026",
+      "data": "19/10/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -107,7 +107,7 @@
       "titulo": "Custeio de sistemas de armazenamento de energia em baterias entra em consulta",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "16/10/2026",
+      "data": "19/10/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -121,7 +121,7 @@
       "titulo": "ANEEL aprova regras para cadastro de agentes e representantes nos Procedimentos de Rede",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "16/10/2026",
+      "data": "19/10/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -135,7 +135,7 @@
       "titulo": "ANP assina acordo com 23 Secretarias de Fazenda para ampliar acesso a dados do mercado de combustíveis",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "16/10/2026",
+      "data": "19/10/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -147,20 +147,20 @@
       "titulo": "ANP fará consulta e audiência públicas sobre credenciamento de instituições para projetos de PD&I",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "16/10/2026",
+      "data": "19/10/2026",
       "impacto": "alto",
       "tags": [
         "alto",
         "consulta"
       ],
       "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-fara-consulta-e-audiencia-publicas-sobre-credenciamento-de-instituicoes-para-projetos-de-pd-i",
-      "desc": "Notícias ANP fará consulta e audiência públicas sobre credenciamento de instituições para projetos de PD&I Proposta busca reduzir a burocracia, a duplicidade de informações e o tempo dedicado ao processo de credenciamento. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 09/10/2026 12h44 A Diretoria da ANP aprovou hoje (9/10) o relatório de Análise de Impacto Regulatório (AIR) e a realização de consulta, por 45 dias, e audiência públicas sobre a revisão da Resolução ANP nº 917/2023 . Essa norma dispõe sobre o credenciamento de unidades de pesquisa para execução de projetos com recursos oriundos da cláusula de pesquisa, desenvolvimento e inovação (PD&I) presente nos contra"
+      "desc": "Notícias ANP fará consulta e audiência públicas sobre credenciamento de instituições para projetos de PD&I Proposta busca reduzir a burocracia, a duplicidade de informações e o tempo dedicado ao processo de credenciamento. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 09/10/2026 12h44 Atualizado em 19/10/2026 10h52 A Diretoria da ANP aprovou hoje (9/10) o relatório de Análise de Impacto Regulatório (AIR) e a realização de consulta, por 45 dias, e audiência públicas sobre a revisão da Resolução ANP nº 917/2023 . Essa norma dispõe sobre o credenciamento de unidades de pesquisa para execução de projetos com recursos oriundos da cláusula de pesquisa, desenvolvimento e inov"
     },
     {
       "titulo": "ANP firma acordo com o Procon de Guarulhos (SP) para fiscalização do abastecimento no município",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "16/10/2026",
+      "data": "19/10/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -169,23 +169,22 @@
       "desc": "Notícias ANP firma acordo com o Procon de Guarulhos (SP) para fiscalização do abastecimento no município Agência mantém parcerias com órgãos públicos de todo o Brasil. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 09/10/2026 11h46 A ANP celebrou acordo de cooperação técnica e operacional com o Procon Municipal de Guarulhos (SP). O extrato do acordo foi publicado hoje (9/10), no Diário Oficial da União . O foco é a fiscalização de agentes econômicos que atuam no transporte, revenda e comercialização de derivados do petróleo e biocombustíveis. O acordo prevê a atuação conjunta entre os órgãos para a repressão de condutas violadoras da legislação relativa ao setor. O term"
     },
     {
-      "titulo": "Agência aprova edital dos Leilões de Energia Existente A-1, A-2 e A-3",
-      "orgao": "ANEEL",
-      "tema": "Energia Elétrica",
-      "data": "16/10/2026",
+      "titulo": "Sine Manaus oferta 732 vagas de emprego nesta terça-feira, 20/10",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "19/10/2026",
       "impacto": "medio",
       "tags": [
-        "medio",
-        "energia"
+        "medio"
       ],
-      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/agencia-aprova-edital-dos-leiloes-de-energia-existente-a-1-a-2-e-a-3",
-      "desc": "Notícias Leilão Agência aprova edital dos Leilões de Energia Existente A-1, A-2 e A-3 O documento prevê a realização da sessão pública dos leilões em 13 de novembro Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 06/10/2026 17h28 Atualizado em 07/10/2026 08h27 Foi aprovado pela diretoria colegiada da Agência Nacional de Energia Elétrica (ANEEL), nesta terça-feira (6/10), o edital dos Leilões nº 7/2026-ANEEL, nº 8/2026-ANEEL e nº 9/2026-ANEEL, denominados, respectivamente, Leilões de Energia Existente “A-1”, “A-2” e “A-3” de 2026. O edital prevê a realização da sessão pública dos leilões em 13 de novembro de 2026, na modalidade híbrido descendente, com lance inicial de qu"
+      "url": "https://www.manaus.am.gov.br/noticia/oportunidade/prefeitura-sinemanaus-vagas2010/",
+      "desc": "Página Inicial Notícias Oportunidade Sine Manaus oferta 732 vagas de emprego nesta terça-feira, 20/10 Sine Manaus oferta 732 vagas de emprego nesta terça-feira, 20/10 Por Prefeitura de Manaus 19/10/2026 13h11 Seu navegador não suporta o elemento de áudio. A Prefeitura de Manaus, por meio do Sine Manaus, oferta 732 vagas de emprego em várias áreas de atuação, nesta terça–feira, 20/10, das 8h às 14h. O candidato pode validar a Carteira Digital e Previdência Social (CTPS) no aplicativo “Carteira de Trabalho Digital” ou acessar o site http://gov.br/trabalho . Para participar da pré–seleção e concorrer a uma das vagas disponíveis, ou receber orientação de cadastro, Carteira de Trabalho Digital e seguro–desemprego, os candidatos devem comparecer a um dos postos do Sine Manaus: na avenida Constan"
     },
     {
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "16/10/2026",
+      "data": "19/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -197,7 +196,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "16/10/2026",
+      "data": "19/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -207,10 +206,23 @@
       "desc": "Edição do dia verificada. Nenhum ato relevante encontrado."
     },
     {
+      "titulo": "Workshop de Esclarecimentos sobre o Leilão de Transmissão será nesta quarta-feira (21)",
+      "orgao": "ANEEL",
+      "tema": "Energia Elétrica",
+      "data": "19/10/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo",
+        "energia"
+      ],
+      "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/2026-defeso-eleitoral/workshop-de-esclarecimentos-sobre-o-leilao-de-transmissao-sera-nesta-quarta-feira-21",
+      "desc": "Notícias Leilão de Transmissão Workshop de Esclarecimentos sobre o Leilão de Transmissão será nesta quarta-feira (21) O evento será transmitido pelo canal da ANEEL no YouTube, a partir das 14h Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 19/10/2026 12h24 A Agência Nacional de Energia Elétrica (ANEEL) realizará na quarta-feira (21/10) o Workshop de Esclarecimentos sobre o Leilão nº 1/2027. O evento será transmitido exclusivamente pelo canal da ANEEL no YouTube , a partir das 14h. Representantes do Ministério de Minas e Energia (MME), da Empresa de Pesquisa Energética (EPE), do Operador Nacional do Sistema Elétrico (ONS) e da ANEEL farão exposições sobre o tema. O leilã"
+    },
+    {
       "titulo": "ANEEL promove Workshop sobre procedimentos para inscrição e habilitação nos primeiros leilões de bateria do setor elétrico",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "16/10/2026",
+      "data": "19/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -220,10 +232,23 @@
       "desc": "Notícias LEILÃO ANEEL promove Workshop sobre procedimentos para inscrição e habilitação nos primeiros leilões de bateria do setor elétrico Regras foram apresentadas no evento transmitido pelo canal da Agência no YouTube Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 14/10/2026 17h06 A Agência Nacional de Energia Elétrica (ANEEL) promoveu nesta quarta-feira (14/10) workshop sobre procedimentos relativos à inscrição e habilitação dos primeiros leilões de baterias do setor elétrico, a serem realizados pela Agência em parceria com a Câmara de Comercialização de Energia Elétrica (CCEE). Transmitido pelo canal da Agência no YouTube, o evento teve a audiência de 335 pessoas co"
     },
     {
+      "titulo": "ANP e Senacon fiscalizam mercado de combustíveis para coibir aumentos abusivos de preços",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "19/10/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo",
+        "gas"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-e-senacon-fiscalizam-mercado-de-combustiveis-para-coibir-aumentos-abusivos-de-precos",
+      "desc": "Notícias ANP e Senacon fiscalizam mercado de combustíveis para coibir aumentos abusivos de preços Operação, que contou com a participação do Procon Paraíba e o apoio da Senasp, fiscalizou 16 agentes econômicos na PB, RS e DF Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 16/10/2026 13h57 A Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP), a Secretaria Nacional do Consumidor (Senacon) e Procons realizaram, nesta quinta-feira (15/10), uma operação conjunta para coibir aumentos abusivos nos preços dos combustíveis e proteger os consumidores. A ação, que contou com o apoio da Secretaria Nacional de Segurança Pública (Senasp), ocorreu na Paraíba, no Rio Gran"
+    },
+    {
       "titulo": "XIV SOMA ANP: Seminário de Segurança Operacional e Meio Ambiente terá transmissão ao vivo",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "16/10/2026",
+      "data": "19/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -231,13 +256,13 @@
         "ambiental"
       ],
       "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/xiv-soma-anp-seminario-de-seguranca-operacional-e-meio-ambiente-tera-transmissao-ao-vivo",
-      "desc": "Notícias XIV SOMA ANP: Seminário de Segurança Operacional e Meio Ambiente terá transmissão ao vivo Encontro será realizado na segunda (19/10) Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 15/10/2026 12h55 O XIV SOMA – Seminário de Segurança Operacional e Meio Ambiente da ANP será realizado na segunda-feira, 19/10, das 9h a 17h, com transmissão ao vivo pelo canal da Agência no YouTube . O SOMA é o evento anual de maior importância para a segurança operacional das atividades de exploração e produção (E&P) de petróleo e gás natural no Brasil. Durante o XIV SOMA serão apresentados os principais temas atualmente acompanhados pela ANP na área de Segurança Operacional, inclui"
+      "desc": "Notícias XIV SOMA ANP: Seminário de Segurança Operacional e Meio Ambiente terá transmissão ao vivo Encontro será realizado na segunda (19/10) Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 15/10/2026 12h55 Atualizado em 16/10/2026 13h10 O XIV SOMA – Seminário de Segurança Operacional e Meio Ambiente da ANP será realizado na segunda-feira, 19/10, das 9h a 17h, com transmissão ao vivo pelo canal da Agência no YouTube . O SOMA é o evento anual de maior importância para a segurança operacional das atividades de exploração e produção (E&P) de petróleo e gás natural no Brasil. Durante o XIV SOMA serão apresentados os principais temas atualmente acompanhados pela ANP na área d"
     },
     {
       "titulo": "ANP credencia B3 S.A. como entidade registradora de Certificado de Garantia de Origem de Biometano (CGOB)",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "16/10/2026",
+      "data": "19/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -249,7 +274,7 @@
       "titulo": "ANP aprova estudos geológicos e econômicos do bloco Oeste de Jubarte",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "16/10/2026",
+      "data": "19/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -262,7 +287,7 @@
       "titulo": "ANP retoma restrição à venda de biodiesel entre distribuidores",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "16/10/2026",
+      "data": "19/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -271,23 +296,10 @@
       "desc": "Notícias ANP retoma restrição à venda de biodiesel entre distribuidores Medida terá duração de 24 meses e busca ampliar a rastreabilidade do biodiesel utilizado na mistura obrigatória ao óleo diesel Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 09/10/2026 11h16 A Diretoria da ANP aprovou hoje (9/10) a retomada da restrição à comercialização de biodiesel entre distribuidores de combustíveis líquidos. A medida terá duração de 24 meses e entrará em vigor no primeiro dia do mês seguinte à sua publicação no Diário Oficial da União. Além disso, foi determinado à área técnica que adote medidas para que, até o fim desse prazo de 24 meses, a Diretoria Colegiada possa deliberar "
     },
     {
-      "titulo": "Reunião da Diretoria da ANP de amanhã (9/10) será transmitida pelo YouTube",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "16/10/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo",
-        "energia"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/reuniao-da-diretoria-da-anp-de-amanha-9-10-sera-transmitida-pelo-youtube",
-      "desc": "Notícias Reunião da Diretoria da ANP de amanhã (9/10) será transmitida pelo YouTube Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 08/10/2026 18h04 Atualizado em 08/10/2026 18h07 Amanhã, 9/10 , a reunião da Diretoria Colegiada da ANP nº 1.192 será transmitida pelo canal da Agência no YouTube , a partir das 9h . Veja o que estará na pauta . Assessoria de Imprensa da ANP (para atendimento dos jornalistas) Siga os perfis temporários da ANP, durante o período eleitoral: Instagram - @anpgovbr.periodoeleitoral Facebook – @anpgovbr.periodoeleitoral X – @anp_p_eleitoral LinkedIn – ANP - Período eleitoral Categoria Energia, Minerais e Combustíveis"
-    },
-    {
       "titulo": "Consultar minhas solicitações",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "16/10/2026",
+      "data": "19/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -299,7 +311,7 @@
       "titulo": "Consultar Meu Imposto de Renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "16/10/2026",
+      "data": "19/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -311,7 +323,7 @@
       "titulo": "Consultar dados do Cadastro Único",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "16/10/2026",
+      "data": "19/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -323,7 +335,7 @@
       "titulo": "Consultar CNPJ",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "16/10/2026",
+      "data": "19/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -332,22 +344,10 @@
       "desc": "O número antes das estrelas é a nota dada pelos usuários que utilizaram o serviço e vai de 1 a 5. Depois das estrelas, entre parênteses, é a quantidade de usuários que avaliaram o serviço. Os números são atualizados diariamente."
     },
     {
-      "titulo": "Consultar restituição de imposto de renda",
-      "orgao": "ANA",
-      "tema": "Recursos Hídricos",
-      "data": "16/10/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.gov.br/pt-br/servicos/consultar-restituicao-de-imposto-de-renda?origem=maisacessado_inst",
-      "desc": "O número antes das estrelas é a nota dada pelos usuários que utilizaram o serviço e vai de 1 a 5. Depois das estrelas, entre parênteses, é a quantidade de usuários que avaliaram o serviço. Os números são atualizados diariamente."
-    },
-    {
       "titulo": "Creative Commons",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "16/10/2026",
+      "data": "19/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -359,7 +359,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "16/10/2026",
+      "data": "19/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -371,7 +371,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "16/10/2026",
+      "data": "19/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -383,7 +383,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "16/10/2026",
+      "data": "19/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -395,7 +395,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "16/10/2026",
+      "data": "19/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -407,7 +407,7 @@
       "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "16/10/2026",
+      "data": "19/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -422,7 +422,7 @@
       "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "16/10/2026",
+      "data": "19/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -434,7 +434,7 @@
       "titulo": "SEMIG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "16/10/2026",
+      "data": "19/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -443,22 +443,22 @@
       "desc": "SEMIG — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
-      "titulo": "SEFAZ-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
+      "titulo": "SEFAZ-AM — Página verificada sem atos relevantes hoje.",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "16/10/2026",
+      "data": "19/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
       "url": "https://www.sefaz.am.gov.br/noticias",
-      "desc": "SEFAZ-AM — Falha temporária de acesso. Próxima tentativa amanhã."
+      "desc": "SEFAZ-AM — Página verificada sem atos relevantes hoje."
     },
     {
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "16/10/2026",
+      "data": "19/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -470,57 +470,43 @@
       "titulo": "Prefeito Renato Junior vistoria obras do Passarão, que chegam a 55% de execução na zona Oeste de Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "16/10/2026",
+      "data": "19/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
       "url": "https://www.manaus.am.gov.br/noticia/mobilidade/prefeito-vistoria-passarao/",
-      "desc": "Mobilidade Técnicos de transporte da Prefeitura de Manaus acompanham operação da linha C-902 no Santa Etelvina"
+      "desc": "Mobilidade Prefeitura de Manaus aplica 180 toneladas de asfalto e avança na recuperação de ruas do Parque Rio Solimões"
     },
     {
-      "titulo": "Requalificação da Ferreira Pena avança com instalação de caixas para rede subterrânea de energia e telecomunicações",
+      "titulo": "Equipe de robótica da rede municipal de Manaus representa o Amazonas em festival nacional no Rio de Janeiro e leva prêmio ‘Inovação’",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "16/10/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo",
-        "energia"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/centro-historico/requalificacao-da-ferreira-pena-avanca/",
-      "desc": "Centro Histórico Oitizeiros da Ferreira Pena são todos incorporados à requalificação da obra da prefeitura"
-    },
-    {
-      "titulo": "Prefeitura reforça vacinação antirrábica gratuita em 27 pontos fixos distribuídos em todas as zonas de Manaus",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "16/10/2026",
+      "data": "19/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/saude-animal/prefeitura-semsa-vacinacaoantirrabica-pontosfixos/",
-      "desc": "SAÚDE ANIMAL Equipes da prefeitura já vacinaram mais de 2,3 mil cães e gatos contra raiva na zona rural terrestre"
+      "url": "https://www.manaus.am.gov.br/noticia/educacao/prefeitura-semed-robotica-premio-inovacao/",
+      "desc": "Educação Educadores da rede municipal de Manaus transformam desafios em oportunidades de aprendizagem"
     },
     {
-      "titulo": "Prefeitura de Manaus beneficia cerca de 4,5 mil famílias na zona Leste com distribuição de 70 mil peixes",
+      "titulo": "Sine Manaus oferta 821 vagas de emprego nesta segunda-feira, 19/10",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "16/10/2026",
+      "data": "19/10/2026",
       "impacto": "baixo",
       "tags": [
-        "baixo",
-        "energia"
+        "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/assistencia-social/programa-jaraqui-da-gente-2/",
-      "desc": "Assistência Social Prefeitura de Manaus garante segurança alimentar para 4 mil famílias do Coroado 2 com programa ‘Jaraqui da Gente’"
+      "url": "https://www.manaus.am.gov.br/noticia/oportunidade/sine-manaus-821-vagas-emprego-19-10/",
+      "desc": "Página Inicial Notícias Oportunidade Sine Manaus oferta 821 vagas de emprego nesta segunda-feira, 19/10 Sine Manaus oferta 821 vagas de emprego nesta segunda-feira, 19/10 Por Prefeitura de Manaus 18/10/2026 9h00 Seu navegador não suporta o elemento de áudio. #paratodosverem – Mão segura carteira de trabalho; ao fundo, banner do Sine Manaus A Prefeitura de Manaus , por meio do Sine Manaus, oferta 821 vagas de emprego em várias áreas de atuação, nesta segunda-feira, 19/10, das 8h às 14h. O candidato pode validar a Carteira Digital e Previdência Social (CTPS) no aplicativo “Carteira de Trabalho Digital” ou acessar o site http://gov.br/trabalho . Para participar da pré-seleção e concorrer a uma das vagas disponíveis, ou receber orientação de cadastro, Carteira de Trabalho Digital e seguro-dese"
     },
     {
       "titulo": "Prefeito Renato Junior sanciona lei aguardada há 25 anos que garante subsídio de até R$ 3 milhões mensais para o transporte complementar de Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "16/10/2026",
+      "data": "19/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -532,7 +518,7 @@
       "titulo": "Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "16/10/2026",
+      "data": "19/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -544,7 +530,7 @@
       "titulo": "Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "16/10/2026",
+      "data": "19/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -553,10 +539,23 @@
       "desc": "Mobilidade Técnicos de transporte da Prefeitura de Manaus acompanham operação da linha C-902 no Santa Etelvina"
     },
     {
+      "titulo": "Requalificação da Ferreira Pena avança com instalação de caixas para rede subterrânea de energia e telecomunicações",
+      "orgao": "Implurb",
+      "tema": "Planejamento Urbano",
+      "data": "19/10/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo",
+        "energia"
+      ],
+      "url": "https://www.manaus.am.gov.br/implurb/requalificacao-da-ferreira-pena-avanca/",
+      "desc": "Centro Histórico Oitizeiros da Ferreira Pena são todos incorporados à requalificação da obra da prefeitura"
+    },
+    {
       "titulo": "Prefeito Renato Junior avança tratativas com a Caixa Econômica para projetos de habitação e infraestrutura em Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "16/10/2026",
+      "data": "19/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -568,7 +567,7 @@
       "titulo": "Prefeito Renato Junior vistoria retirada do asfalto na Ferreira Pena e destaca que a área entra em nova etapa para se tornar primeira ‘Rua Gastronômica’ de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "16/10/2026",
+      "data": "19/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
