@@ -1,23 +1,20 @@
 {
-  "ultima_coleta": "21/10/2026 11:49",
+  "ultima_coleta": "22/10/2026 11:49",
   "mes_ano": "Out/2026",
-  "total": 43,
+  "total": 36,
   "fontes": 18,
   "fontes_com_falha": [],
   "stats": {
     "critico": 3,
     "alto": 4,
     "medio": 4,
-    "baixo": 32,
+    "baixo": 25,
     "consultas_abertas": 2
   },
   "por_orgao": {
     "ANEEL": 8,
     "ANP": 8,
     "ANA": 5,
-    "Prefeitura Manaus": 4,
-    "IMMU": 3,
-    "Implurb": 3,
     "AmE": 1,
     "DOU": 1,
     "DOE-AM": 1,
@@ -29,14 +26,17 @@
     "ARSEPAM": 1,
     "SEMIG": 1,
     "SEFAZ-AM": 1,
-    "Seinfra-AM": 1
+    "Seinfra-AM": 1,
+    "Prefeitura Manaus": 1,
+    "IMMU": 1,
+    "Implurb": 1
   },
   "publicacoes": [
     {
       "titulo": "Acessibilidade na Sede da ANEEL",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "21/10/2026",
+      "data": "22/10/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -48,7 +48,7 @@
       "titulo": "Contratos de Concessão e Permissão",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "21/10/2026",
+      "data": "22/10/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -60,7 +60,7 @@
       "titulo": "Informações",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "21/10/2026",
+      "data": "22/10/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -73,7 +73,7 @@
       "titulo": "Licitações e Contratos",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "21/10/2026",
+      "data": "22/10/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -85,7 +85,7 @@
       "titulo": "Micro e Minigeração Distribuída",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "21/10/2026",
+      "data": "22/10/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -98,7 +98,7 @@
       "titulo": "ANP assina acordo com 23 Secretarias de Fazenda para ampliar acesso a dados do mercado de combustíveis",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "21/10/2026",
+      "data": "22/10/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -110,7 +110,7 @@
       "titulo": "ANP fará consulta e audiência públicas sobre credenciamento de instituições para projetos de PD&I",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "21/10/2026",
+      "data": "22/10/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -123,7 +123,7 @@
       "titulo": "Programa de Pesquisa, Desenvolvimento e Inovação da ANEEL",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "21/10/2026",
+      "data": "22/10/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -135,7 +135,7 @@
       "titulo": "Agenda Regulatória",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "21/10/2026",
+      "data": "22/10/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -147,7 +147,7 @@
       "titulo": "Relatórios e Indicadores",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "21/10/2026",
+      "data": "22/10/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -159,7 +159,7 @@
       "titulo": "Audiência pública sobre o Programa Gas Release tem nova data: 19/11/2026",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "21/10/2026",
+      "data": "22/10/2026",
       "impacto": "medio",
       "tags": [
         "medio",
@@ -173,7 +173,7 @@
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "21/10/2026",
+      "data": "22/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -185,7 +185,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "21/10/2026",
+      "data": "22/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -198,7 +198,7 @@
       "titulo": "Consultar minhas solicitações de ouvidoria",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "21/10/2026",
+      "data": "22/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -210,7 +210,7 @@
       "titulo": "Seminário da ANP debate desempenho da indústria de petróleo e gás em segurança operacional e meio ambiente",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "21/10/2026",
+      "data": "22/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -218,13 +218,13 @@
         "ambiental"
       ],
       "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/seminario-da-anp-debate-desempenho-da-industria-de-petroleo-e-gas-em-seguranca-operacional-e-meio-ambiente-1",
-      "desc": "Notícias Segurança Operacional Seminário da ANP debate desempenho da indústria de petróleo e gás em segurança operacional e meio ambiente XIV SOMA teve transmissão ao vivo pelo YouTube e gravação já está disponível. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 20/10/2026 12h47 Atualizado em 20/10/2026 12h48 A ANP realizou ontem (19/10) o XIV SOMA – Seminário de Segurança Operacional e Meio Ambiente da ANP, com transmissão ao vivo pelo YouTube. Assista à gravação . Na abertura do evento, o Diretor-Geral, Artur Watt, destacou que o SOMA já se consolidou como “um importante espaço de diálogo entre a ANP, os operadores e os demais profissionais envolvidos com a segurança "
+      "desc": "Notícias Segurança Operacional Seminário da ANP debate desempenho da indústria de petróleo e gás em segurança operacional e meio ambiente XIV SOMA teve transmissão ao vivo pelo YouTube e gravação já está disponível. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 20/10/2026 12h47 Atualizado em 21/10/2026 14h45 A ANP realizou ontem (19/10) o XIV SOMA – Seminário de Segurança Operacional e Meio Ambiente da ANP, com transmissão ao vivo pelo YouTube. Assista à gravação . Na abertura do evento, o Diretor-Geral, Artur Watt, destacou que o SOMA já se consolidou como “um importante espaço de diálogo entre a ANP, os operadores e os demais profissionais envolvidos com a segurança "
     },
     {
       "titulo": "ANP e Senacon fiscalizam mercado de combustíveis para coibir aumentos abusivos de preços",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "21/10/2026",
+      "data": "22/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -237,7 +237,7 @@
       "titulo": "XIV SOMA ANP: Seminário de Segurança Operacional e Meio Ambiente terá transmissão ao vivo",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "21/10/2026",
+      "data": "22/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -251,7 +251,7 @@
       "titulo": "ANP credencia B3 S.A. como entidade registradora de Certificado de Garantia de Origem de Biometano (CGOB)",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "21/10/2026",
+      "data": "22/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -263,7 +263,7 @@
       "titulo": "ANP aprova estudos geológicos e econômicos do bloco Oeste de Jubarte",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "21/10/2026",
+      "data": "22/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -276,7 +276,7 @@
       "titulo": "Consultar minhas solicitações",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "21/10/2026",
+      "data": "22/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -288,7 +288,7 @@
       "titulo": "Consultar Meu Imposto de Renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "21/10/2026",
+      "data": "22/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -300,7 +300,7 @@
       "titulo": "Consultar dados do Cadastro Único",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "21/10/2026",
+      "data": "22/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -312,7 +312,7 @@
       "titulo": "Consultar CNPJ",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "21/10/2026",
+      "data": "22/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -324,7 +324,7 @@
       "titulo": "Creative Commons",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "21/10/2026",
+      "data": "22/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -336,7 +336,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "21/10/2026",
+      "data": "22/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -348,7 +348,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "21/10/2026",
+      "data": "22/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -360,7 +360,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "21/10/2026",
+      "data": "22/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -372,7 +372,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "21/10/2026",
+      "data": "22/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -384,7 +384,7 @@
       "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "21/10/2026",
+      "data": "22/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -399,7 +399,7 @@
       "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "21/10/2026",
+      "data": "22/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -411,7 +411,7 @@
       "titulo": "SEMIG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "21/10/2026",
+      "data": "22/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -423,7 +423,7 @@
       "titulo": "SEFAZ-AM — Página verificada sem atos relevantes hoje.",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "21/10/2026",
+      "data": "22/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -435,7 +435,7 @@
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "21/10/2026",
+      "data": "22/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -444,125 +444,40 @@
       "desc": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
-      "titulo": "Prefeito Renato Junior nomeia Viviana Lira na presidência do Fundo Manaus Solidária, Junior Nunes no comando da Semhaf e Elan Alencar na superintendência da UGPM-Água reforçando o time da gestão munic",
+      "titulo": "Prefeitura Manaus — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "21/10/2026",
+      "data": "22/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/gestao/gestao-administracao-manaus/",
-      "desc": "Gestão Prefeito Renato Junior nomeia Jender Lobato na presidência da ManausCult e Márcio Braz assume a vice-presidência"
+      "url": "https://www.manaus.am.gov.br/noticias/",
+      "desc": "Prefeitura Manaus — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
-      "titulo": "Prefeito Renato Junior nomeia Jender Lobato na presidência da ManausCult e Márcio Braz assume a vice-presidência",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "21/10/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/gestao/prefeito-nomeacoes-manauscult/",
-      "desc": "Gestão Prefeito Renato Junior nomeia Viviana Lira na presidência do Fundo Manaus Solidária, Junior Nunes no comando da Semhaf e Elan Alencar na superintendência da UGPM-Água reforçando o time da gestão municipal"
-    },
-    {
-      "titulo": "‘Circuito de Saúde da Mulher’ da Prefeitura de Manaus se encerra com edição na zona Oeste nesta quinta-feira",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "21/10/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/outubro-rosa/prefeitura-semsa-circuitosaudedamulher-zonaoeste/",
-      "desc": "Outubro Rosa ‘Circuito de Saúde da Mulher’ da prefeitura reforça combate ao câncer de mama na zona Leste"
-    },
-    {
-      "titulo": "Alunos de escola ribeirinha de Manaus levam a ciência da Amazônia à Olimpíada Brasileira de Foguetes, no Rio de Janeiro",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "21/10/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/educacao/prefeitura-semed-olimpiadafoguetes/",
-      "desc": "Educação Equipe de robótica da rede municipal de Manaus representa o Amazonas em festival nacional no Rio de Janeiro e leva prêmio ‘Inovação’"
-    },
-    {
-      "titulo": "Prefeito Renato Junior sanciona lei aguardada há 25 anos que garante subsídio de até R$ 3 milhões mensais para o transporte complementar de Manaus",
+      "titulo": "IMMU — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "21/10/2026",
+      "data": "22/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/immu/compromisso/prefeito-subsidio-de-ate-r-3-milhoes/",
-      "desc": "Compromisso Prefeito Renato Junior reafirma subsídio ao transporte alternativo e cobra melhoria no serviço"
+      "url": "https://www.manaus.am.gov.br/immu/noticias/",
+      "desc": "IMMU — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
-      "titulo": "Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus",
-      "orgao": "IMMU",
-      "tema": "Mobilidade Urbana",
-      "data": "21/10/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/immu/transito/prefeito-renato-junior-apresenta-tecnologia-transito/",
-      "desc": "Trânsito Prefeitura de Manaus inicia teste operacional com inversão de sentido na rua do Congresso nesta quarta-feira, no Centro"
-    },
-    {
-      "titulo": "Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto",
-      "orgao": "IMMU",
-      "tema": "Mobilidade Urbana",
-      "data": "21/10/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/immu/mobilidade/conclui-instalacao-vigas/",
-      "desc": "Mobilidade Técnicos de transporte da Prefeitura de Manaus acompanham operação da linha C-902 no Santa Etelvina"
-    },
-    {
-      "titulo": "Requalificação da Ferreira Pena avança com instalação de caixas para rede subterrânea de energia e telecomunicações",
+      "titulo": "Implurb — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "21/10/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo",
-        "energia"
-      ],
-      "url": "https://www.manaus.am.gov.br/implurb/requalificacao-da-ferreira-pena-avanca/",
-      "desc": "Centro Histórico Oitizeiros da Ferreira Pena são todos incorporados à requalificação da obra da prefeitura"
-    },
-    {
-      "titulo": "Prefeito Renato Junior avança tratativas com a Caixa Econômica para projetos de habitação e infraestrutura em Manaus",
-      "orgao": "Implurb",
-      "tema": "Planejamento Urbano",
-      "data": "21/10/2026",
+      "data": "22/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/implurb/prefeito-projetos-de-habitacao-e-infraestrutura-em-manaus/",
-      "desc": "Parceria Prefeitura inicia levantamento de dados e mapas para abastecer IBGE sobre novos aglomerados subnormais"
-    },
-    {
-      "titulo": "Prefeito Renato Junior vistoria retirada do asfalto na Ferreira Pena e destaca que a área entra em nova etapa para se tornar primeira ‘Rua Gastronômica’ de Manaus",
-      "orgao": "Implurb",
-      "tema": "Planejamento Urbano",
-      "data": "21/10/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/implurb/retirada-do-asfalto-na-ferreira-pena/",
-      "desc": "Revitalização Obra do Casarão de São Vicente realizada pela prefeitura avança com recuperação da fachada, fundações e elementos metálicos"
+      "url": "https://www.manaus.am.gov.br/implurb/noticias/",
+      "desc": "Implurb — Falha temporária de acesso. Próxima tentativa amanhã."
     }
   ]
 }
