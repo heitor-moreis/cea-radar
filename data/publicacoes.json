@@ -1,14 +1,14 @@
 {
-  "ultima_coleta": "28/10/2026 12:58",
+  "ultima_coleta": "29/10/2026 13:16",
   "mes_ano": "Out/2026",
   "total": 49,
   "fontes": 18,
   "fontes_com_falha": [],
   "stats": {
-    "critico": 4,
-    "alto": 7,
-    "medio": 4,
-    "baixo": 34,
+    "critico": 5,
+    "alto": 6,
+    "medio": 5,
+    "baixo": 33,
     "consultas_abertas": 1
   },
   "por_orgao": {
@@ -36,7 +36,7 @@
       "titulo": "Acessibilidade na Sede da ANEEL",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -48,7 +48,7 @@
       "titulo": "Contratos de Concessão e Permissão",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -57,10 +57,22 @@
       "desc": "Contratos de Concessão e Permissão"
     },
     {
+      "titulo": "ANP intensifica fiscalização de preços abusivos",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "29/10/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-intensifica-fiscalizacao-de-precos-abusivos",
+      "desc": "Notícias Fiscalização ANP intensifica fiscalização de preços abusivos Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 29/10/2026 11h41 A ANP intensificou nesta quarta-feira (28/10) o combate à prática de preços abusivos em postos revendedores de combustíveis. Foram realizadas 54 ações nos estados do Amazonas, Goiás, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Rio de Janeiro, Rio Grande do Sul, Rio Grande do Norte, São Paulo e Santa Catarina. Nas ações, foram aplicados 17 autos de infração por motivos diversos e 16 notificações para envio de notas fiscais, que serão avaliadas pela Agência. Além de verificar a qualidade dos combustíveis, os fiscais também analisaram em "
+    },
+    {
       "titulo": "Aviso: suspensão do atendimento ao público externo no escritório da ANP em São Paulo em 27/10",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -73,7 +85,7 @@
       "titulo": "Informações",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -86,7 +98,7 @@
       "titulo": "Licitações e Contratos",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -98,7 +110,7 @@
       "titulo": "Micro e Minigeração Distribuída",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -111,7 +123,7 @@
       "titulo": "Alteração de norma sobre monitoramento da mistura obrigatória de biodiesel é debatida em audiência pública",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -124,7 +136,7 @@
       "titulo": "ANP participa de operações conjuntas com a Senacon para a fiscalização do mercado de combustíveis",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -136,7 +148,7 @@
       "titulo": "ANP e PRF firmam acordo de cooperação para fiscalização do setor regulado nas rodovias federais",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -145,22 +157,10 @@
       "desc": "Notícias ANP e PRF firmam acordo de cooperação para fiscalização do setor regulado nas rodovias federais Agência mantém parcerias com órgãos públicos de todo o Brasil. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 23/10/2026 10h55 Atualizado em 23/10/2026 13h09 A ANP celebrou acordo de cooperação técnica e operacional com a Polícia Rodoviária Federal (PRF). O extrato do acordo foi publicado ontem (22/10) no Diário Oficial da União . O objetivo é o desenvolvimento de ações e o estabelecimento de procedimentos mútuos de cooperação a fim de incrementar as ações relativas à segurança pública e viária, e à fiscalização dos setores regulados no âmbito das rodovias federais. "
     },
     {
-      "titulo": "Mercado de solventes é tema de fórum realizado pela ANP",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "28/10/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/mercado-de-solventes-e-tema-de-forum-realizado-pela-anp",
-      "desc": "Notícias Solventes Mercado de solventes é tema de fórum realizado pela ANP Encontro reuniu agentes regulados para troca de experiências e estudos de caso. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 22/10/2026 16h08 Atualizado em 27/10/2026 11h10 Foi realizado hoje (22/10), no Rio de Janeiro, o Fórum de Solventes. O encontro foi voltado aos agentes regulados da cadeia de solventes, incluindo distribuidores, produtores, importadores e consumidores industriais, além de representantes de entidades setoriais, órgãos públicos, especialistas, academia e sociedade em geral. Durante o workshop, técnicos da Agência apresentaram ações regulatórias e de fiscalização relacionada"
-    },
-    {
       "titulo": "Semig destaca avanço do setor de gás natural com licença concedida à Eneva em Silves",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -173,7 +173,7 @@
       "titulo": "Programa de Pesquisa, Desenvolvimento e Inovação da ANEEL",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -185,7 +185,7 @@
       "titulo": "Agenda Regulatória",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -197,7 +197,7 @@
       "titulo": "Relatórios e Indicadores",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -206,10 +206,22 @@
       "desc": "Relatórios e Indicadores"
     },
     {
+      "titulo": "ANP realiza consulta prévia sobre a Agenda Regulatória 2027-2028",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "29/10/2026",
+      "impacto": "medio",
+      "tags": [
+        "medio"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-realiza-consulta-previa-sobre-a-agenda-regulatoria-2027-2028",
+      "desc": "Notícias ANP realiza consulta prévia sobre a Agenda Regulatória 2027-2028 Contribuições podem ser enviadas até 27/11 Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 29/10/2026 10h31 Atualizado em 29/10/2026 11h39 Começou ontem (28/10) e vai até 27/11 a consulta prévia da ANP sobre a proposta preliminar de ações regulatórias que poderão compor a Agenda Regulatória 2027-2028. As ações da Agenda Regulatória vigente que estiverem em andamento e não forem concluídas até o final de 2026 serão automaticamente incorporadas à próxima Agenda. A iniciativa tem por objetivo obter contribuições de agentes econômicos, consumidores e usuários de bens e serviços da indústria do petróleo"
+    },
+    {
       "titulo": "Publicada alteração em item do edital do Prêmio ANP 2026",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -221,7 +233,7 @@
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -233,7 +245,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -246,7 +258,7 @@
       "titulo": "Consultar minhas solicitações de ouvidoria",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -258,7 +270,7 @@
       "titulo": "ANP está retomando o uso dos perfis oficiais nas redes sociais",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -267,24 +279,10 @@
       "desc": "Notícias ANP está retomando o uso dos perfis oficiais nas redes sociais Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 26/10/2026 17h59 Com o fim do período eleitoral, em 25/10, a ANP reativou, hoje (26/10), os seguintes perfis oficiais: Instagram: https://www.instagram.com/anpgovbr/ Facebook: https://www.facebook.com/ANPgovbr X: https://x.com/ANPgovbr NAVE: https://www.linkedin.com/showcase/nave-anp/ PRH: https://www.linkedin.com/showcase/prhanp O perfil temporário do LinkedIn ( http://linkedin.com/company/anpgovbr-periodoeleitoral ) criado para o período eleitoral, será utilizado até que ocorra a reativação do perfil oficial ( https://www.linkedin.com/company/agencia-"
     },
     {
-      "titulo": "Encontro Nacional do PRH-ANP reúne 414 participantes com foco em formação e inovação",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "28/10/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo",
-        "energia",
-        "gas"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/encontro-nacional-do-prh-anp-reune-414-participantes-com-foco-em-formacao-e-inovacao",
-      "desc": "Notícias Encontro Nacional do PRH-ANP reúne 414 participantes com foco em formação e inovação Realizado pela ANP, com apoio da FAPESP, evento reuniu a comunidade acadêmica do programa e empresas para conectar a formação de profissionais aos desafios do setor de energia. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 22/10/2026 18h30 Atualizado em 23/10/2026 09h36 A Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) realizou, de 19 a 21 de outubro, o Encontro Nacional do Programa de Formação de Recursos Humanos da ANP — PRH-ANP 2026. Com apoio da Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP), o evento ocorreu nas instalações do SENAI CIMATE"
-    },
-    {
       "titulo": "Consultar minhas solicitações",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -296,7 +294,7 @@
       "titulo": "Consultar Meu Imposto de Renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -308,7 +306,7 @@
       "titulo": "Consultar dados do Cadastro Único",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -320,7 +318,7 @@
       "titulo": "Creative Commons",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -332,7 +330,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -344,7 +342,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -356,7 +354,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -368,7 +366,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -380,7 +378,7 @@
       "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -395,7 +393,7 @@
       "titulo": "Investimento de R$ 9 milhões da Cigás viabiliza implantação do Gasoduto Distrito Portuário",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -408,7 +406,7 @@
       "titulo": "Cigás conclui interligação da estação da UTE Manaus 1 ao Centro de Controle Operacional",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -421,7 +419,7 @@
       "titulo": "Estudantes do curso de Engenharia de Petróleo e Gás da UFAM visitam a Cigás",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -434,7 +432,7 @@
       "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -446,7 +444,7 @@
       "titulo": "Semig garante mais comodidade ao público com lounges e pontos de recarga em Parintins",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -460,7 +458,7 @@
       "titulo": "Festival de Parintins 2026: Experiência de realidade virtual é destaque no estande da Semig no Turistódromo",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -474,7 +472,7 @@
       "titulo": "Semig e Comissão de Energia da Aleam identificam mais de 200 famílias sem energia elétrica no Alto Solimões",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -488,7 +486,7 @@
       "titulo": "Chegada do gás natural à UTE Manaus I marca avanço histórico para o setor energético do Amazonas",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -502,7 +500,7 @@
       "titulo": "SEFAZ-AM — Página verificada sem atos relevantes hoje.",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -514,7 +512,7 @@
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -526,7 +524,7 @@
       "titulo": "Prefeito Renato Junior nomeia Viviana Lira na presidência do Fundo Manaus Solidária, Junior Nunes no comando da Semhaf e Elan Alencar na superintendência da UGPM-Água reforçando o time da gestão munic",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -538,7 +536,7 @@
       "titulo": "Prefeito Renato Junior nomeia Jender Lobato na presidência da ManausCult e Márcio Braz assume a vice-presidência",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -547,34 +545,34 @@
       "desc": "Gestão Prefeito Renato Junior nomeia Viviana Lira na presidência do Fundo Manaus Solidária, Junior Nunes no comando da Semhaf e Elan Alencar na superintendência da UGPM-Água reforçando o time da gestão municipal"
     },
     {
-      "titulo": "Sine Manaus oferta 694 vagas de emprego nesta quinta-feira, 29/10",
+      "titulo": "Prefeitura de Manaus avança em projeto da praça da Amizade no bairro Colônia Japonesa",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/oportunidade/prefeitura-semtepi-sinemanaus-vagas2910/",
-      "desc": "Oportunidade Prefeitura de Manaus promove 4º Megafeirão de Empregabilidade com mais de 2 mil vagas de emprego"
+      "url": "https://www.manaus.am.gov.br/noticia/planejamento/reuniao-projeto-praca-amizade-colonia-japonesa/",
+      "desc": "Planejamento Prefeitura de Manaus lança Manual de Conduta Ética da Semad e apresenta o novo Plano de Integridade para agentes públicos"
     },
     {
-      "titulo": "Prefeitura de Manaus convoca candidatos no concurso da Guarda Municipal para matrícula no Curso de Formação",
+      "titulo": "Prefeitura de Manaus abre inscrições para curso gratuito de Metrologia Básica com 60 vagas",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/concurso/matricula-no-curso-de-formacao/",
-      "desc": "Concurso Prefeitura alerta para reta final de inscrições no concurso da Manausprev com salários de até R$ 9,1 mil"
+      "url": "https://www.manaus.am.gov.br/noticia/capacitacao/inscricoes-curso-gratuito-metrologia-basica/",
+      "desc": "Página Inicial Notícias Capacitação Prefeitura de Manaus abre inscrições para curso gratuito de Metrologia Básica com 60 vagas Prefeitura de Manaus abre inscrições para curso gratuito de Metrologia Básica com 60 vagas Por Prefeitura de Manaus 29/10/2026 12h10 Seu navegador não suporta o elemento de áudio. #paratodosverem – Candidatos participando de curso promovido pela Semtepi A Prefeitura de Manaus , por meio da Secretaria Municipal do Trabalho, Empreendedorismo e Inovação (Semtepi), em parceria com o Centro de Inovação Tecnológica (CIT), abre, nesta quinta-feira, 29/10, as inscrições para o curso de Metrologia Básica, com 60 vagas disponíveis. As inscrições estarão abertas de 29/10 a 3/11, e o curso será realizado de 4 a 6/11, das 9h às 12h, na Central do Empreendedor, localizada no sho"
     },
     {
       "titulo": "Prefeito Renato Junior sanciona lei aguardada há 25 anos que garante subsídio de até R$ 3 milhões mensais para o transporte complementar de Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -586,7 +584,7 @@
       "titulo": "Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -598,7 +596,7 @@
       "titulo": "Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -610,7 +608,7 @@
       "titulo": "Requalificação da Ferreira Pena avança com instalação de caixas para rede subterrânea de energia e telecomunicações",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -623,7 +621,7 @@
       "titulo": "Prefeito Renato Junior avança tratativas com a Caixa Econômica para projetos de habitação e infraestrutura em Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -635,7 +633,7 @@
       "titulo": "Prefeito Renato Junior vistoria retirada do asfalto na Ferreira Pena e destaca que a área entra em nova etapa para se tornar primeira ‘Rua Gastronômica’ de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "28/10/2026",
+      "data": "29/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
