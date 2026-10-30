@@ -1,15 +1,15 @@
 {
-  "ultima_coleta": "29/10/2026 13:16",
+  "ultima_coleta": "30/10/2026 12:57",
   "mes_ano": "Out/2026",
   "total": 49,
   "fontes": 18,
   "fontes_com_falha": [],
   "stats": {
     "critico": 5,
-    "alto": 6,
-    "medio": 5,
-    "baixo": 33,
-    "consultas_abertas": 1
+    "alto": 8,
+    "medio": 4,
+    "baixo": 32,
+    "consultas_abertas": 2
   },
   "por_orgao": {
     "ANEEL": 8,
@@ -36,7 +36,7 @@
       "titulo": "Acessibilidade na Sede da ANEEL",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -48,7 +48,7 @@
       "titulo": "Contratos de Concessão e Permissão",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -57,10 +57,23 @@
       "desc": "Contratos de Concessão e Permissão"
     },
     {
+      "titulo": "ANP orienta postos sobre venda de combustíveis em recipientes transportáveis durante emergência ambiental no Amazonas",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "30/10/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico",
+        "gas"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-orienta-postos-sobre-venda-de-combustiveis-em-recipientes-transportaveis-durante-emergencia-ambiental-no-amazonas",
+      "desc": "Notícias ANP orienta postos sobre venda de combustíveis em recipientes transportáveis durante emergência ambiental no Amazonas Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 29/10/2026 16h08 Atualizado em 29/10/2026 17h48 A Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) emitiu orientações aos postos revendedores de combustíveis do estado do Amazonas em razão da situação de emergência decorrente dos incêndios florestais. A ANP esclarece que a comercialização de combustíveis automotivos em recipientes transportáveis é regulada pela Resolução ANP nº 948/2023 , que veda o abastecimento em garrafas, embalagens improvisadas ou quaisquer recipientes que não "
+    },
+    {
       "titulo": "ANP intensifica fiscalização de preços abusivos",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -69,23 +82,10 @@
       "desc": "Notícias Fiscalização ANP intensifica fiscalização de preços abusivos Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 29/10/2026 11h41 A ANP intensificou nesta quarta-feira (28/10) o combate à prática de preços abusivos em postos revendedores de combustíveis. Foram realizadas 54 ações nos estados do Amazonas, Goiás, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Rio de Janeiro, Rio Grande do Sul, Rio Grande do Norte, São Paulo e Santa Catarina. Nas ações, foram aplicados 17 autos de infração por motivos diversos e 16 notificações para envio de notas fiscais, que serão avaliadas pela Agência. Além de verificar a qualidade dos combustíveis, os fiscais também analisaram em "
     },
     {
-      "titulo": "Aviso: suspensão do atendimento ao público externo no escritório da ANP em São Paulo em 27/10",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "29/10/2026",
-      "impacto": "critico",
-      "tags": [
-        "critico",
-        "energia"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/aviso-suspensao-do-atendimento-ao-publico-externo-no-escritorio-da-anp-em-sao-paulo-em-27-10",
-      "desc": "Notícias Aviso: suspensão do atendimento ao público externo no escritório da ANP em São Paulo em 27/10 Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 26/10/2026 15h56 Atualizado em 26/10/2026 19h03 Informamos que no dia 27/10/2026 o protocolo e o atendimento presencial no Centro Regional de Fiscalização de Abastecimento de São Paulo serão suspensos , retornando no dia 28/10/2026. O envio de documentos poderá ser realizado eletronicamente pelo sistema SEI . Categoria Energia, Minerais e Combustíveis"
-    },
-    {
       "titulo": "Informações",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -98,7 +98,7 @@
       "titulo": "Licitações e Contratos",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -110,7 +110,7 @@
       "titulo": "Micro e Minigeração Distribuída",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -120,47 +120,75 @@
       "desc": "As regras aplicáveis à MMGD foram alteradas pela ANEEL, com aprimoramentos que modificaram, entre outras disposições, os limites de potência instalada e as modalidades de participação no SCEE. Isso ocorreu, por exemplo, por meio das Resoluções Normativas nº 687, de 24 de novembro de 2015, e nº 786, de 17 de outubro de 2017. Nova atualização, prevista inicialmente para 2019, foi realizada por meio da Resolução Normativa nº 1.059, de 7 de fevereiro de 2023. Esse Ato promoveu adequações dos regulamentos da ANEEL às disposições da Lei nº 14.300, de 7 de janeiro de 2022, bem como aos estudos promovidos desde 2018, além de consolidar as disposições referentes à MMGD e ao SCEE nas condições gerais de fornecimento de energia (Resolução Normativa nº 1.000/2021). É importante lembrar, ainda, da veda"
     },
     {
-      "titulo": "Alteração de norma sobre monitoramento da mistura obrigatória de biodiesel é debatida em audiência pública",
+      "titulo": "ANP antecipa regulamentação da certificação de hidrogênio de baixa emissão de carbono",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-antecipa-regulamentacao-da-certificacao-de-hidrogenio-de-baixa-emissao-de-carbono",
+      "desc": "Notícias Hidrogênio ANP antecipa regulamentação da certificação de hidrogênio de baixa emissão de carbono Tema, que estava proposto na consulta prévia da Agenda Regulatória 2027-2028, será incluído na de 2025-2026. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 29/10/2026 17h51 A Diretoria da ANP aprovou hoje (29/10) a inclusão da ação “Regulamentação do Sistema Brasileiro de Cert ificação de Hidrogênio de Baixo Carbono” na Agenda Regulatória 2025-2026 da Agência e a atualização do documento “Hidrogênio de Baixa Emissão de Carbono – Manual para Solicitação de Autorizações”. A decisão faz parte das medidas adotadas pela ANP para implementar as competências regulatórias r"
+    },
+    {
+      "titulo": "Expediente no protocolo e atendimento nas unidades da ANP no dia 30/10",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "30/10/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto",
+        "energia"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/expediente-no-protocolo-e-atendimento-nas-unidades-da-anp-no-dia-30-10",
+      "desc": "Notícias Expediente no protocolo e atendimento nas unidades da ANP no dia 30/10 Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 29/10/2026 16h20 Em razão do ponto facultativo em comemoração ao Dia do Servidor Público, que foi transferido para sexta-feira, 30/10/2026 , não haverá expediente nos protocolos nem atendimentos nos escritórios e nos centros regionais de fiscalização da ANP. A transferência foi oficializada por portaria publicada no Diário Oficial da União na última terça-feira (27/10) . O envio de documentos poderá ser realizado eletronicamente pelo sistema SEI . Categoria Energia, Minerais e Combustíveis"
+    },
+    {
+      "titulo": "PD&I: aprovada abertura de consulta e audiência públicas sobre revisão das regras de investimentos",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "30/10/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto",
+        "gas",
+        "consulta"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/pd-i-aprovada-abertura-de-consulta-e-audiencia-publicas-sobre-revisao-das-regras-de-investimentos",
+      "desc": "Notícias PD&I: aprovada abertura de consulta e audiência públicas sobre revisão das regras de investimentos Iniciativa visa ampliar a rastreabilidade dos recursos e a capacidade de acompanhamento dos resultados Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 29/10/2026 16h00 A Diretoria da ANP aprovou o Relatório de Análise de Impacto Regulatório (AIR) e a realização de Consulta e Audiência Públicas sobre a proposta de revisão da Resolução ANP nº 918/2023. O regulamento disciplina a aplicação dos recursos da Cláusula de Pesquisa, Desenvolvimento e Inovação — PD&I prevista nos contratos de exploração e produção (E&P) de petróleo e gás natural. Os recursos da Cláusula de P"
+    },
+    {
+      "titulo": "ANP fará consulta pública sobre regulamentação do Programa Nacional de Combustível Sustentável de Aviação (ProBioQAV)",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "30/10/2026",
       "impacto": "alto",
       "tags": [
         "alto",
         "consulta"
       ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/alteracao-de-norma-sobre-monitoramento-da-mistura-obrigatoria-de-biodiesel-e-debatida-em-audiencia-publica",
-      "desc": "Notícias Alteração de norma sobre monitoramento da mistura obrigatória de biodiesel é debatida em audiência pública Uso de dados fiscais eletrônicos poderá agilizar o acompanhamento do cumprimento das regras pelos distribuidores Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 27/10/2026 18h01 Atualizado em 27/10/2026 18h02 Foi realizada hoje (27/10), de forma virtual, audiência pública para o recebimento de contribuições sobre minuta de resolução que altera duas resoluções da ANP relativas ao biodiesel e à remessa de dados dos agentes regulados à ANP. O objetivo da revisão é implementar obrigações legais relacionadas à comprovação, pelos distribuidores de combustíveis, d"
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-fara-consulta-publica-sobre-regulamentacao-do-programa-nacional-de-combustivel-sustentavel-de-aviacao-probioqav",
+      "desc": "Notícias ANP fará consulta pública sobre regulamentação do Programa Nacional de Combustível Sustentável de Aviação (ProBioQAV) Proposta integra a implementação do Programa e contribui para o avanço da descarbonização do setor aéreo Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 29/10/2026 15h11 A Diretoria da ANP aprovou hoje (29/10), a realização de consulta e audiência públicas sobre a proposta de regulamentação do Programa Nacional de Combustível Sustentável de Aviação (ProBioQAV). A iniciativa representa mais uma etapa na construção do ambiente regulatório para o desenvolvimento do mercado de combustível sustentável de aviação, conhecido pela sigla em inglês SAF. A "
     },
     {
-      "titulo": "ANP participa de operações conjuntas com a Senacon para a fiscalização do mercado de combustíveis",
+      "titulo": "Aprovada resolução sobre cessão de contratos de E&P",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "alto",
       "tags": [
-        "alto"
+        "alto",
+        "gas"
       ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-participa-de-operacoes-conjuntas-com-a-senacon-para-a-fiscalizacao-do-mercado-de-combustiveis",
-      "desc": "Notícias ANP participa de operações conjuntas com a Senacon para a fiscalização do mercado de combustíveis Ações aconteceram em quatro estados e no Distrito Federal. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 26/10/2026 10h52 Entre os dias 13 e 23/10, a ANP fiscalizou o mercado de abastecimento em 18 unidades da Federação. Nas ações, os fiscais da Agência verificaram qualidade dos combustíveis, fornecimento do volume correto pelas bombas medidoras, adequação de equipamentos, documentações, entre outros aspectos das normas da Agência. No período, foram realizadas novas operações em conjunto com a Senacon no Distrito Federal e nos estados da Paraíba, Rio de Janeiro, R"
-    },
-    {
-      "titulo": "ANP e PRF firmam acordo de cooperação para fiscalização do setor regulado nas rodovias federais",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "29/10/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-e-prf-firmam-acordo-de-cooperacao-para-fiscalizacao-do-setor-regulado-nas-rodovias-federais",
-      "desc": "Notícias ANP e PRF firmam acordo de cooperação para fiscalização do setor regulado nas rodovias federais Agência mantém parcerias com órgãos públicos de todo o Brasil. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 23/10/2026 10h55 Atualizado em 23/10/2026 13h09 A ANP celebrou acordo de cooperação técnica e operacional com a Polícia Rodoviária Federal (PRF). O extrato do acordo foi publicado ontem (22/10) no Diário Oficial da União . O objetivo é o desenvolvimento de ações e o estabelecimento de procedimentos mútuos de cooperação a fim de incrementar as ações relativas à segurança pública e viária, e à fiscalização dos setores regulados no âmbito das rodovias federais. "
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/aprovada-resolucao-sobre-cessao-de-contratos-de-e-p",
+      "desc": "Notícias Aprovada resolução sobre cessão de contratos de E&P Iniciativa visa à modernização e à simplificação da governança regulatória Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 29/10/2026 14h39 Atualizado em 29/10/2026 17h44 A Diretoria da ANP aprovou hoje (29/10) resolução que disciplina os processos de cessão de contratos de exploração e produção de petróleo e gás natural (E&P). O novo regulamento substitui a Resolução ANP nº 785/2019 e extingue o Comitê de Avaliação das Propostas de Parcerias (CAPP), previsto na Portaria ANP 132/2022 , cujas atribuições passarão a ser desempenhadas diretamente pelas áreas técnicas da Agência envolvidas nos processos de cessão. "
     },
     {
       "titulo": "Semig destaca avanço do setor de gás natural com licença concedida à Eneva em Silves",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -173,7 +201,7 @@
       "titulo": "Programa de Pesquisa, Desenvolvimento e Inovação da ANEEL",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -185,7 +213,7 @@
       "titulo": "Agenda Regulatória",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -197,7 +225,7 @@
       "titulo": "Relatórios e Indicadores",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -209,7 +237,7 @@
       "titulo": "ANP realiza consulta prévia sobre a Agenda Regulatória 2027-2028",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -218,22 +246,10 @@
       "desc": "Notícias ANP realiza consulta prévia sobre a Agenda Regulatória 2027-2028 Contribuições podem ser enviadas até 27/11 Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 29/10/2026 10h31 Atualizado em 29/10/2026 11h39 Começou ontem (28/10) e vai até 27/11 a consulta prévia da ANP sobre a proposta preliminar de ações regulatórias que poderão compor a Agenda Regulatória 2027-2028. As ações da Agenda Regulatória vigente que estiverem em andamento e não forem concluídas até o final de 2026 serão automaticamente incorporadas à próxima Agenda. A iniciativa tem por objetivo obter contribuições de agentes econômicos, consumidores e usuários de bens e serviços da indústria do petróleo"
     },
     {
-      "titulo": "Publicada alteração em item do edital do Prêmio ANP 2026",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "29/10/2026",
-      "impacto": "medio",
-      "tags": [
-        "medio"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/publicada-alteracao-em-item-do-edital-do-premio-anp-2026",
-      "desc": "Notícias Publicada alteração em item do edital do Prêmio ANP 2026 Mudança se refere somente à modalidade Projetos de PD&I. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 23/10/2026 13h13 A ANP publicou nova versão do edital da edição 2026 do Prêmio ANP de Inovação Tecnológica. A versão atualizada do documento apresenta alteração no item 5.9, referente à modalidade Projetos de PD&I e está disponível no site da Agência . A versão anterior do edital previa que todas as cinco categorias da modalidade Projetos de PD&I estariam subdivididas em duas subcategorias: I. Projetos individuais ou conjuntos de projetos cujo valor total seja igual ou inferior a R$ 8 milhões e II. Proj"
-    },
-    {
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -245,7 +261,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -258,7 +274,7 @@
       "titulo": "Consultar minhas solicitações de ouvidoria",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -267,22 +283,10 @@
       "desc": "Consultar minhas solicitações de ouvidoria"
     },
     {
-      "titulo": "ANP está retomando o uso dos perfis oficiais nas redes sociais",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "29/10/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-esta-retomando-o-uso-dos-perfis-oficiais-nas-redes-sociais",
-      "desc": "Notícias ANP está retomando o uso dos perfis oficiais nas redes sociais Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 26/10/2026 17h59 Com o fim do período eleitoral, em 25/10, a ANP reativou, hoje (26/10), os seguintes perfis oficiais: Instagram: https://www.instagram.com/anpgovbr/ Facebook: https://www.facebook.com/ANPgovbr X: https://x.com/ANPgovbr NAVE: https://www.linkedin.com/showcase/nave-anp/ PRH: https://www.linkedin.com/showcase/prhanp O perfil temporário do LinkedIn ( http://linkedin.com/company/anpgovbr-periodoeleitoral ) criado para o período eleitoral, será utilizado até que ocorra a reativação do perfil oficial ( https://www.linkedin.com/company/agencia-"
-    },
-    {
       "titulo": "Consultar minhas solicitações",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -294,7 +298,7 @@
       "titulo": "Consultar Meu Imposto de Renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -306,7 +310,7 @@
       "titulo": "Consultar dados do Cadastro Único",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -318,7 +322,7 @@
       "titulo": "Creative Commons",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -330,7 +334,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -342,7 +346,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -354,7 +358,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -366,7 +370,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -378,7 +382,7 @@
       "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -393,7 +397,7 @@
       "titulo": "Investimento de R$ 9 milhões da Cigás viabiliza implantação do Gasoduto Distrito Portuário",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -406,7 +410,7 @@
       "titulo": "Cigás conclui interligação da estação da UTE Manaus 1 ao Centro de Controle Operacional",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -419,7 +423,7 @@
       "titulo": "Estudantes do curso de Engenharia de Petróleo e Gás da UFAM visitam a Cigás",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -432,7 +436,7 @@
       "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -444,7 +448,7 @@
       "titulo": "Semig garante mais comodidade ao público com lounges e pontos de recarga em Parintins",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -458,7 +462,7 @@
       "titulo": "Festival de Parintins 2026: Experiência de realidade virtual é destaque no estande da Semig no Turistódromo",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -472,7 +476,7 @@
       "titulo": "Semig e Comissão de Energia da Aleam identificam mais de 200 famílias sem energia elétrica no Alto Solimões",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -486,7 +490,7 @@
       "titulo": "Chegada do gás natural à UTE Manaus I marca avanço histórico para o setor energético do Amazonas",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -500,7 +504,7 @@
       "titulo": "SEFAZ-AM — Página verificada sem atos relevantes hoje.",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -512,7 +516,7 @@
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -524,7 +528,7 @@
       "titulo": "Prefeito Renato Junior nomeia Viviana Lira na presidência do Fundo Manaus Solidária, Junior Nunes no comando da Semhaf e Elan Alencar na superintendência da UGPM-Água reforçando o time da gestão munic",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -536,7 +540,7 @@
       "titulo": "Prefeito Renato Junior nomeia Jender Lobato na presidência da ManausCult e Márcio Braz assume a vice-presidência",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -545,34 +549,35 @@
       "desc": "Gestão Prefeito Renato Junior nomeia Viviana Lira na presidência do Fundo Manaus Solidária, Junior Nunes no comando da Semhaf e Elan Alencar na superintendência da UGPM-Água reforçando o time da gestão municipal"
     },
     {
-      "titulo": "Prefeitura de Manaus avança em projeto da praça da Amizade no bairro Colônia Japonesa",
+      "titulo": "Prefeitura de Manaus conclui matrículas para o Curso de Formação da Guarda Municipal com estrutura de atendimento ágil na Espi",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/planejamento/reuniao-projeto-praca-amizade-colonia-japonesa/",
-      "desc": "Planejamento Prefeitura de Manaus lança Manual de Conduta Ética da Semad e apresenta o novo Plano de Integridade para agentes públicos"
+      "url": "https://www.manaus.am.gov.br/noticia/concurso/curso-de-formacao-da-guarda-municipal/",
+      "desc": "Concurso Prefeitura de Manaus convoca candidatos no concurso da Guarda Municipal para matrícula no Curso de Formação"
     },
     {
-      "titulo": "Prefeitura de Manaus abre inscrições para curso gratuito de Metrologia Básica com 60 vagas",
+      "titulo": "Prefeitura de Manaus amplia ordenamento de cabos com sistema e tecnologia no centro da capital",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "baixo",
       "tags": [
-        "baixo"
+        "baixo",
+        "energia"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/capacitacao/inscricoes-curso-gratuito-metrologia-basica/",
-      "desc": "Página Inicial Notícias Capacitação Prefeitura de Manaus abre inscrições para curso gratuito de Metrologia Básica com 60 vagas Prefeitura de Manaus abre inscrições para curso gratuito de Metrologia Básica com 60 vagas Por Prefeitura de Manaus 29/10/2026 12h10 Seu navegador não suporta o elemento de áudio. #paratodosverem – Candidatos participando de curso promovido pela Semtepi A Prefeitura de Manaus , por meio da Secretaria Municipal do Trabalho, Empreendedorismo e Inovação (Semtepi), em parceria com o Centro de Inovação Tecnológica (CIT), abre, nesta quinta-feira, 29/10, as inscrições para o curso de Metrologia Básica, com 60 vagas disponíveis. As inscrições estarão abertas de 29/10 a 3/11, e o curso será realizado de 4 a 6/11, das 9h às 12h, na Central do Empreendedor, localizada no sho"
+      "url": "https://www.manaus.am.gov.br/noticia/operacao/ordenamento-cabos-sistema-tecnologia-centro/",
+      "desc": "Página Inicial Notícias Operação Prefeitura de Manaus amplia ordenamento de cabos com sistema e tecnologia no centro da capital Prefeitura de Manaus amplia ordenamento de cabos com sistema e tecnologia no centro da capital Por Prefeitura de Manaus 29/10/2026 16h33 Seu navegador não suporta o elemento de áudio. #paratodosverem – Equipes de empresas de telecomunicações e da concessionária de energia elétrica executando a retirada de fios e cabos sem uso em poste de via do centro de Manaus A Prefeitura de Manaus está ampliando o trabalho de ordenamento da fiação aérea no centro histórico, com uma nova etapa que vai além da retirada de cabos obsoletos. A iniciativa prevê a reorganização dos fios que permanecem em uso, o levantamento da infraestrutura dos postes e o acompanhamento digital de ca"
     },
     {
       "titulo": "Prefeito Renato Junior sanciona lei aguardada há 25 anos que garante subsídio de até R$ 3 milhões mensais para o transporte complementar de Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -584,7 +589,7 @@
       "titulo": "Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -596,7 +601,7 @@
       "titulo": "Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -608,7 +613,7 @@
       "titulo": "Requalificação da Ferreira Pena avança com instalação de caixas para rede subterrânea de energia e telecomunicações",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -621,7 +626,7 @@
       "titulo": "Prefeito Renato Junior avança tratativas com a Caixa Econômica para projetos de habitação e infraestrutura em Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -633,7 +638,7 @@
       "titulo": "Prefeito Renato Junior vistoria retirada do asfalto na Ferreira Pena e destaca que a área entra em nova etapa para se tornar primeira ‘Rua Gastronômica’ de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "29/10/2026",
+      "data": "30/10/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
