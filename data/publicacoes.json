@@ -1,23 +1,23 @@
 {
-  "ultima_coleta": "30/10/2026 12:57",
-  "mes_ano": "Out/2026",
+  "ultima_coleta": "02/11/2026 16:39",
+  "mes_ano": "Nov/2026",
   "total": 49,
   "fontes": 18,
   "fontes_com_falha": [],
   "stats": {
-    "critico": 5,
+    "critico": 7,
     "alto": 8,
     "medio": 4,
-    "baixo": 32,
+    "baixo": 30,
     "consultas_abertas": 2
   },
   "por_orgao": {
     "ANEEL": 8,
     "ANP": 8,
     "SEMIG": 5,
-    "ANA": 4,
     "Cigás": 4,
     "Prefeitura Manaus": 4,
+    "ANA": 4,
     "IMMU": 3,
     "Implurb": 3,
     "AmE": 1,
@@ -36,7 +36,7 @@
       "titulo": "Acessibilidade na Sede da ANEEL",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -48,7 +48,7 @@
       "titulo": "Contratos de Concessão e Permissão",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -60,7 +60,7 @@
       "titulo": "ANP orienta postos sobre venda de combustíveis em recipientes transportáveis durante emergência ambiental no Amazonas",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -73,7 +73,7 @@
       "titulo": "ANP intensifica fiscalização de preços abusivos",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -85,7 +85,7 @@
       "titulo": "Informações",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -95,10 +95,35 @@
       "desc": "Informações Decretos de Situação de Emergência Alteração de Carga Cadastro de Equipamento Vital Cliente Alta Tensão Cliente Mercado Livre Compartilhamento de infraestruturas Contrato Contribuição de Iluminação Pública por Município Decretos de Situação de Emergência Desligamentos Programados Despesas Associadas a CCC Dicas de Consumo Consciente Dicas de Segurança Direitos e Deveres Furto de energia elétrica é crime Iluminação Pública Indicadores de Continuidade Ligação Nova Ligação Provisória Localizar App na Loja Micro/Minigeração Distribuída Normas Técnicas e Manuais Notícias Orçamento de Conexão / Projeto / Vistoria Padrão de Entrada Pesquisa de Curvas de Carga e Hábitos de Consumo Poda e Arborização Programa de Eficiência Energética Programa de Eletrificação Rural Programa de Pesquisa "
     },
     {
+      "titulo": "Cigás apresenta planejamento do simulado de emergência com gás natural a parceiros",
+      "orgao": "Cigás",
+      "tema": "Gás Natural / AM",
+      "data": "02/11/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico",
+        "gas"
+      ],
+      "url": "https://www.cigas.com.br/post/cigás-apresenta-planejamento-do-simulado-de-emergência-com-gás-natural-a-parceiros",
+      "desc": "Cigás apresenta planejamento do simulado de emergência com gás natural a parceiros"
+    },
+    {
+      "titulo": "Prefeito Renato Junior vistoria troca de juntas de dilatação em viaduto sem manutenção há mais de 30 anos",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "02/11/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/intervencao/vistoria-troca-juntas-dilatacao-viaduto/",
+      "desc": "Intervenção Prefeitura de Manaus recupera drenagem profunda no Coroado e atende solicitação de moradores"
+    },
+    {
       "titulo": "Licitações e Contratos",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -110,7 +135,7 @@
       "titulo": "Micro e Minigeração Distribuída",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -123,7 +148,7 @@
       "titulo": "ANP antecipa regulamentação da certificação de hidrogênio de baixa emissão de carbono",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -135,7 +160,7 @@
       "titulo": "Expediente no protocolo e atendimento nas unidades da ANP no dia 30/10",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -148,7 +173,7 @@
       "titulo": "PD&I: aprovada abertura de consulta e audiência públicas sobre revisão das regras de investimentos",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -162,7 +187,7 @@
       "titulo": "ANP fará consulta pública sobre regulamentação do Programa Nacional de Combustível Sustentável de Aviação (ProBioQAV)",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -175,7 +200,7 @@
       "titulo": "Aprovada resolução sobre cessão de contratos de E&P",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -188,7 +213,7 @@
       "titulo": "Semig destaca avanço do setor de gás natural com licença concedida à Eneva em Silves",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -201,7 +226,7 @@
       "titulo": "Programa de Pesquisa, Desenvolvimento e Inovação da ANEEL",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -213,7 +238,7 @@
       "titulo": "Agenda Regulatória",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -225,7 +250,7 @@
       "titulo": "Relatórios e Indicadores",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -237,7 +262,7 @@
       "titulo": "ANP realiza consulta prévia sobre a Agenda Regulatória 2027-2028",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -249,7 +274,7 @@
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -261,7 +286,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -274,7 +299,7 @@
       "titulo": "Consultar minhas solicitações de ouvidoria",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -286,7 +311,7 @@
       "titulo": "Consultar minhas solicitações",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -298,7 +323,7 @@
       "titulo": "Consultar Meu Imposto de Renda",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -310,7 +335,7 @@
       "titulo": "Consultar dados do Cadastro Único",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -322,7 +347,7 @@
       "titulo": "Creative Commons",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -334,7 +359,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -346,7 +371,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -358,7 +383,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -370,7 +395,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -382,7 +407,7 @@
       "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -397,7 +422,7 @@
       "titulo": "Investimento de R$ 9 milhões da Cigás viabiliza implantação do Gasoduto Distrito Portuário",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -410,7 +435,7 @@
       "titulo": "Cigás conclui interligação da estação da UTE Manaus 1 ao Centro de Controle Operacional",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -420,23 +445,10 @@
       "desc": "Cigás conclui interligação da estação da UTE Manaus 1 ao Centro de Controle Operacional"
     },
     {
-      "titulo": "Estudantes do curso de Engenharia de Petróleo e Gás da UFAM visitam a Cigás",
-      "orgao": "Cigás",
-      "tema": "Gás Natural / AM",
-      "data": "30/10/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo",
-        "gas"
-      ],
-      "url": "https://www.cigas.com.br/post/estudantes-do-curso-de-engenharia-de-petróleo-e-gás-da-ufam-visitam-a-cigás",
-      "desc": "Estudantes do curso de Engenharia de Petróleo e Gás da UFAM visitam a Cigás"
-    },
-    {
       "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -448,7 +460,7 @@
       "titulo": "Semig garante mais comodidade ao público com lounges e pontos de recarga em Parintins",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -462,7 +474,7 @@
       "titulo": "Festival de Parintins 2026: Experiência de realidade virtual é destaque no estande da Semig no Turistódromo",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -476,7 +488,7 @@
       "titulo": "Semig e Comissão de Energia da Aleam identificam mais de 200 famílias sem energia elétrica no Alto Solimões",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -490,7 +502,7 @@
       "titulo": "Chegada do gás natural à UTE Manaus I marca avanço histórico para o setor energético do Amazonas",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -504,7 +516,7 @@
       "titulo": "SEFAZ-AM — Página verificada sem atos relevantes hoje.",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -516,7 +528,7 @@
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -525,59 +537,46 @@
       "desc": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
-      "titulo": "Prefeito Renato Junior nomeia Viviana Lira na presidência do Fundo Manaus Solidária, Junior Nunes no comando da Semhaf e Elan Alencar na superintendência da UGPM-Água reforçando o time da gestão munic",
+      "titulo": "Prefeito Renato Junior mobiliza mais de mil servidores para receber cerca de 700 mil visitantes nos cemitérios neste Dia de Finados e cuidar da memória das pessoas que se dedicaram em vida por Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/gestao/prefeito-gestao-administracao-manaus/",
-      "desc": "Gestão Prefeito Renato Junior nomeia Jender Lobato na presidência da ManausCult e Márcio Braz assume a vice-presidência"
+      "url": "https://www.manaus.am.gov.br/noticia/homenagem/movimentacao-cemiterio-finados/",
+      "desc": "Homenagem Milhares de pessoas antecipam visitas aos cemitérios de Manaus e encontram campos-santos preparados pela prefeitura"
     },
     {
-      "titulo": "Prefeito Renato Junior nomeia Jender Lobato na presidência da ManausCult e Márcio Braz assume a vice-presidência",
+      "titulo": "Sine Manaus oferta 323 vagas de emprego nesta terça-feira, 03/11",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/gestao/prefeito-nomeacoes-manauscult/",
-      "desc": "Gestão Prefeito Renato Junior nomeia Viviana Lira na presidência do Fundo Manaus Solidária, Junior Nunes no comando da Semhaf e Elan Alencar na superintendência da UGPM-Água reforçando o time da gestão municipal"
+      "url": "https://www.manaus.am.gov.br/noticia/oportunidade/vagas-emprego-sine-3/",
+      "desc": "Oportunidade Concurso público da Prefeitura de Manaus para auditor-fiscal da Semef terá provas neste domingo"
     },
     {
-      "titulo": "Prefeitura de Manaus conclui matrículas para o Curso de Formação da Guarda Municipal com estrutura de atendimento ágil na Espi",
+      "titulo": "Prefeitura de Manaus é classificada em programa federal de promoção da igualdade racial",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/concurso/curso-de-formacao-da-guarda-municipal/",
-      "desc": "Concurso Prefeitura de Manaus convoca candidatos no concurso da Guarda Municipal para matrícula no Curso de Formação"
-    },
-    {
-      "titulo": "Prefeitura de Manaus amplia ordenamento de cabos com sistema e tecnologia no centro da capital",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "30/10/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo",
-        "energia"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/operacao/ordenamento-cabos-sistema-tecnologia-centro/",
-      "desc": "Página Inicial Notícias Operação Prefeitura de Manaus amplia ordenamento de cabos com sistema e tecnologia no centro da capital Prefeitura de Manaus amplia ordenamento de cabos com sistema e tecnologia no centro da capital Por Prefeitura de Manaus 29/10/2026 16h33 Seu navegador não suporta o elemento de áudio. #paratodosverem – Equipes de empresas de telecomunicações e da concessionária de energia elétrica executando a retirada de fios e cabos sem uso em poste de via do centro de Manaus A Prefeitura de Manaus está ampliando o trabalho de ordenamento da fiação aérea no centro histórico, com uma nova etapa que vai além da retirada de cabos obsoletos. A iniciativa prevê a reorganização dos fios que permanecem em uso, o levantamento da infraestrutura dos postes e o acompanhamento digital de ca"
+      "url": "https://www.manaus.am.gov.br/noticia/reconhecimento/reconhecimento-igualdade-racial/",
+      "desc": "Reconhecimento Professora da Prefeitura de Manaus recebe prêmio nacional por projeto de educação ambiental em creche municipal"
     },
     {
       "titulo": "Prefeito Renato Junior sanciona lei aguardada há 25 anos que garante subsídio de até R$ 3 milhões mensais para o transporte complementar de Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -589,7 +588,7 @@
       "titulo": "Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -601,7 +600,7 @@
       "titulo": "Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -613,7 +612,7 @@
       "titulo": "Requalificação da Ferreira Pena avança com instalação de caixas para rede subterrânea de energia e telecomunicações",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -626,7 +625,7 @@
       "titulo": "Prefeito Renato Junior avança tratativas com a Caixa Econômica para projetos de habitação e infraestrutura em Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -638,7 +637,7 @@
       "titulo": "Prefeito Renato Junior vistoria retirada do asfalto na Ferreira Pena e destaca que a área entra em nova etapa para se tornar primeira ‘Rua Gastronômica’ de Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "30/10/2026",
+      "data": "02/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
