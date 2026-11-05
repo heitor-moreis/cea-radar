@@ -1,12 +1,12 @@
 {
-  "ultima_coleta": "04/11/2026 14:26",
+  "ultima_coleta": "05/11/2026 14:31",
   "mes_ano": "Nov/2026",
-  "total": 47,
+  "total": 44,
   "fontes": 18,
   "fontes_com_falha": [],
   "stats": {
-    "critico": 5,
-    "alto": 10,
+    "critico": 4,
+    "alto": 8,
     "medio": 4,
     "baixo": 28,
     "consultas_abertas": 3
@@ -15,11 +15,10 @@
     "ANEEL": 8,
     "ANP": 8,
     "ANA": 6,
-    "SEMIG": 5,
     "Prefeitura Manaus": 4,
     "IMMU": 3,
+    "SEFAZ-AM": 2,
     "Implurb": 2,
-    "AmE": 1,
     "Cigás": 1,
     "DOU": 1,
     "DOE-AM": 1,
@@ -27,8 +26,9 @@
     "ONS": 1,
     "Petrobras": 1,
     "TAG": 1,
+    "AmE": 1,
     "ARSEPAM": 1,
-    "SEFAZ-AM": 1,
+    "SEMIG": 1,
     "Seinfra-AM": 1
   },
   "publicacoes": [
@@ -36,7 +36,7 @@
       "titulo": "Acessibilidade na Sede da ANEEL",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "04/11/2026",
+      "data": "05/11/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -48,7 +48,7 @@
       "titulo": "Contratos de Concessão e Permissão",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "04/11/2026",
+      "data": "05/11/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -60,7 +60,7 @@
       "titulo": "ANP orienta postos sobre venda de combustíveis em recipientes transportáveis durante emergência ambiental no Amazonas",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "04/11/2026",
+      "data": "05/11/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -70,23 +70,10 @@
       "desc": "Notícias ANP orienta postos sobre venda de combustíveis em recipientes transportáveis durante emergência ambiental no Amazonas Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 29/10/2026 16h08 Atualizado em 29/10/2026 17h48 A Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) emitiu orientações aos postos revendedores de combustíveis do estado do Amazonas em razão da situação de emergência decorrente dos incêndios florestais. A ANP esclarece que a comercialização de combustíveis automotivos em recipientes transportáveis é regulada pela Resolução ANP nº 948/2023 , que veda o abastecimento em garrafas, embalagens improvisadas ou quaisquer recipientes que não "
     },
     {
-      "titulo": "Informações",
-      "orgao": "AmE",
-      "tema": "Energia Elétrica / AM",
-      "data": "04/11/2026",
-      "impacto": "critico",
-      "tags": [
-        "critico",
-        "energia"
-      ],
-      "url": "https://website.ambarenergia-am.com.br/informacoes/decretos-de-situacao-de-emergencia/",
-      "desc": "Informações Decretos de Situação de Emergência Alteração de Carga Cadastro de Equipamento Vital Cliente Alta Tensão Cliente Mercado Livre Compartilhamento de infraestruturas Contrato Contribuição de Iluminação Pública por Município Decretos de Situação de Emergência Desligamentos Programados Despesas Associadas a CCC Dicas de Consumo Consciente Dicas de Segurança Direitos e Deveres Furto de energia elétrica é crime Iluminação Pública Indicadores de Continuidade Ligação Nova Ligação Provisória Localizar App na Loja Micro/Minigeração Distribuída Normas Técnicas e Manuais Notícias Orçamento de Conexão / Projeto / Vistoria Padrão de Entrada Pesquisa de Curvas de Carga e Hábitos de Consumo Poda e Arborização Programa de Eficiência Energética Programa de Eletrificação Rural Programa de Pesquisa "
-    },
-    {
       "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "04/11/2026",
+      "data": "05/11/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -94,13 +81,13 @@
         "ambiental"
       ],
       "url": "https://www.cigas.com.br/post/cigás-apresenta-planejamento-do-simulado-de-emergência-com-gás-natural-a-parceiros",
-      "desc": "Cigás apresenta planejamento do simulado de emergência com gás natural a parceiros há 5 dias 2 min de leitura Exercício reunirá instituições estaduais e municipais para avaliar a atuação integrada em situações críticas A Companhia de Gás do Amazonas (Cigás) alinhou, com órgãos estaduais e municipais, os procedimentos técnicos para a realização de seu próximo simulado de emergência com gás natural. O planejamento foi apresentado em reunião do Sistema Integrado de Coordenação, Comunicação, Comando e Controle do Amazonas (SIC3-AM), vinculado à Secretaria de Estado de Segurança Pública (SSP-AM). O treinamento ocorrerá no dia 25 de novembro, às 9h, na rua Rio Quixito, localizada no Distrito Industrial (zona Sul de Manaus). O simulado busca avaliar os procedimentos de resposta a emergências envo"
+      "desc": "Cigás apresenta planejamento do simulado de emergência com gás natural a parceiros há 6 dias 2 min de leitura Exercício reunirá instituições estaduais e municipais para avaliar a atuação integrada em situações críticas A Companhia de Gás do Amazonas (Cigás) alinhou, com órgãos estaduais e municipais, os procedimentos técnicos para a realização de seu próximo simulado de emergência com gás natural. O planejamento foi apresentado em reunião do Sistema Integrado de Coordenação, Comunicação, Comando e Controle do Amazonas (SIC3-AM), vinculado à Secretaria de Estado de Segurança Pública (SSP-AM). O treinamento ocorrerá no dia 25 de novembro, às 9h, na rua Rio Quixito, localizada no Distrito Industrial (zona Sul de Manaus). O simulado busca avaliar os procedimentos de resposta a emergências envo"
     },
     {
       "titulo": "Licitações e Contratos",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "04/11/2026",
+      "data": "05/11/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -112,7 +99,7 @@
       "titulo": "Micro e Minigeração Distribuída",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "04/11/2026",
+      "data": "05/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -125,7 +112,7 @@
       "titulo": "ANP antecipa regulamentação da certificação de hidrogênio de baixa emissão de carbono",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "04/11/2026",
+      "data": "05/11/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -137,7 +124,7 @@
       "titulo": "Expediente no protocolo e atendimento nas unidades da ANP no dia 30/10",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "04/11/2026",
+      "data": "05/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -150,7 +137,7 @@
       "titulo": "PD&I: aprovada abertura de consulta e audiência públicas sobre revisão das regras de investimentos",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "04/11/2026",
+      "data": "05/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -164,7 +151,7 @@
       "titulo": "ANP fará consulta pública sobre regulamentação do Programa Nacional de Combustível Sustentável de Aviação (ProBioQAV)",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "04/11/2026",
+      "data": "05/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -174,23 +161,10 @@
       "desc": "Notícias ANP fará consulta pública sobre regulamentação do Programa Nacional de Combustível Sustentável de Aviação (ProBioQAV) Proposta integra a implementação do Programa e contribui para o avanço da descarbonização do setor aéreo Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 29/10/2026 15h11 Atualizado em 03/11/2026 10h38 A Diretoria da ANP aprovou hoje (29/10), a realização de consulta e audiência públicas sobre a proposta de regulamentação do Programa Nacional de Combustível Sustentável de Aviação (ProBioQAV). A iniciativa representa mais uma etapa na construção do ambiente regulatório para o desenvolvimento do mercado de combustível sustentável de aviação, conheci"
     },
     {
-      "titulo": "Aprovada resolução sobre cessão de contratos de E&P",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "04/11/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto",
-        "gas"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/aprovada-resolucao-sobre-cessao-de-contratos-de-e-p",
-      "desc": "Notícias Aprovada resolução sobre cessão de contratos de E&P Iniciativa visa à modernização e à simplificação da governança regulatória Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 29/10/2026 14h39 Atualizado em 29/10/2026 17h44 A Diretoria da ANP aprovou hoje (29/10) resolução que disciplina os processos de cessão de contratos de exploração e produção de petróleo e gás natural (E&P). O novo regulamento substitui a Resolução ANP nº 785/2019 e extingue o Comitê de Avaliação das Propostas de Parcerias (CAPP), previsto na Portaria ANP 132/2022 , cujas atribuições passarão a ser desempenhadas diretamente pelas áreas técnicas da Agência envolvidas nos processos de cessão. "
-    },
-    {
       "titulo": "Implementação da Tarifa Social de Água e Esgoto avança em municípios onde vivem cerca de 157,7 milhões de brasileiros",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "04/11/2026",
+      "data": "05/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -203,7 +177,7 @@
       "titulo": "ANA publica Resolução com orientações aos reguladores infranacionais de saneamento sobre adequação das tarifas à reforma tributária",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "04/11/2026",
+      "data": "05/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -213,23 +187,10 @@
       "desc": "Notícias SANEAMENTO BÁSICO ANA publica Resolução com orientações aos reguladores infranacionais de saneamento sobre adequação das tarifas à reforma tributária Orientação busca evitar cobrança em duplicidade na transição para o novo sistema de tributação, que começa a valer para os serviços de água e esgoto em janeiro de 2027 Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 28/10/2026 10h27 Atualizado em 04/11/2026 09h23 Logotipo da ANA Foi publicada no Diário Oficial da União (DOU) desta segunda-feira (26), a resolução da Agência Nacional de Águas e Saneamento Básico (ANA) que aprova a divulgação da Nota Técnica nº 40/2026 . O documento reúne orientações para as entidades"
     },
     {
-      "titulo": "Semig destaca avanço do setor de gás natural com licença concedida à Eneva em Silves",
-      "orgao": "SEMIG",
-      "tema": "Política Energética / AM",
-      "data": "04/11/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto",
-        "gas"
-      ],
-      "url": "https://www.semig.am.gov.br/semig-destaca-avanco-do-setor-de-gas-natural-com-licenca-concedida-a-eneva-em-silves/",
-      "desc": "Semig destaca avanço do setor de gás natural com licença concedida à Eneva em Silves 19 de jun de 2026 | 11:31 Ouvir Compartilhar Tweet Autorização concedida pelo Ipaam fortalece a política do Governo do Amazonas para expansão da produção de gás natural e consolida o estado como polo estratégico do setor energético nacional Licença concedida à Eneva                                                                  FOTO: Divulgação/Semig A atuação do Governo do Amazonas para impulsionar o setor energético do estado ganhou mais um importante reforço nesta quinta-feira (18/06), durante a 320ª Reunião Ordinária do Conselho de Desenvolvimento do Estado do Amazonas (Codam). Na ocasião, a Eneva S.A. recebeu do Instituto de Proteção Ambiental do Amazonas (Ipaam) a Licença de Instalação (LI nº 0932/"
-    },
-    {
       "titulo": "Programa de Pesquisa, Desenvolvimento e Inovação da ANEEL",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "04/11/2026",
+      "data": "05/11/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -241,7 +202,7 @@
       "titulo": "Agenda Regulatória",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "04/11/2026",
+      "data": "05/11/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -253,7 +214,7 @@
       "titulo": "Relatórios e Indicadores",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "04/11/2026",
+      "data": "05/11/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -265,7 +226,7 @@
       "titulo": "Consulta pública com foco na participação do Brasil na 3ª Conferência da ONU sobre a Água entra na reta final",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "04/11/2026",
+      "data": "05/11/2026",
       "impacto": "medio",
       "tags": [
         "medio",
@@ -278,7 +239,7 @@
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "04/11/2026",
+      "data": "05/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -290,7 +251,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "04/11/2026",
+      "data": "05/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -303,7 +264,7 @@
       "titulo": "Consultar minhas solicitações de ouvidoria",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "04/11/2026",
+      "data": "05/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -312,10 +273,22 @@
       "desc": "Consultar minhas solicitações de ouvidoria"
     },
     {
+      "titulo": "Mudança de data: próxima reunião de Diretoria da ANP será na segunda, 09/11, às 12h",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "05/11/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/mudanca-de-data-proxima-reuniao-de-diretoria-da-anp-sera-na-segunda-09-11-as-12h",
+      "desc": "Notícias Mudança de data: próxima reunião de Diretoria da ANP será na segunda, 09/11, às 12h Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 05/11/2026 10h11 A próxima reunião da Diretoria Colegiada da ANP (nº 1.194) será na segunda-feira, 09/11, às 12h. A reunião estava prevista anteriormente para amanhã, 06/11, às 9h. A reunião nº 1.194 será transmitida ao vivo pelo canal da ANP no YouTube . Clique aqui para consultar a pauta dos assuntos que serão debatidos. Assessoria de Imprensa da ANP (para atendimento dos jornalistas) Siga os perfis da ANP nas redes sociais: Instagram: https://www.instagram.com/anpgovbr/ Facebook: https://www.facebook.com/ANPgovbr X: https://x.com"
+    },
+    {
       "titulo": "Produção de petróleo e gás natural bate novo recorde em setembro",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "04/11/2026",
+      "data": "05/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -328,7 +301,7 @@
       "titulo": "ANP enviará ao Cade processos contra distribuidoras por elevação abusiva de preços de combustíveis",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "04/11/2026",
+      "data": "05/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -340,7 +313,7 @@
       "titulo": "Evento híbrido em celebração à Política Nacional de Segurança de Barragens acontece nesta quarta (4) com transmissão ao vivo no YouTube da ANA",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "04/11/2026",
+      "data": "05/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -352,7 +325,7 @@
       "titulo": "Piauí, Ceará e Maranhão sediam oficinas para aprimorar Diagnóstico do Plano Integrado de Recursos Hídricos da Bacia Hidrográfica do Rio Parnaíba",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "04/11/2026",
+      "data": "05/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -364,7 +337,7 @@
       "titulo": "Conselho do Programa Hidrológico Intergovernamental da UNESCO, presidido por diretora da ANA, aprova iniciativas para a agenda global da água",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "04/11/2026",
+      "data": "05/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -376,7 +349,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "04/11/2026",
+      "data": "05/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -388,7 +361,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "04/11/2026",
+      "data": "05/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -400,7 +373,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "04/11/2026",
+      "data": "05/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -412,7 +385,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "04/11/2026",
+      "data": "05/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -421,10 +394,22 @@
       "desc": "TAG — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
+      "titulo": "AmE — Falha temporária de acesso. Próxima tentativa amanhã.",
+      "orgao": "AmE",
+      "tema": "Energia Elétrica / AM",
+      "data": "05/11/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://website.ambarenergia-am.com.br/informacoes/destaques/",
+      "desc": "AmE — Falha temporária de acesso. Próxima tentativa amanhã."
+    },
+    {
       "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "04/11/2026",
+      "data": "05/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -433,78 +418,46 @@
       "desc": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
-      "titulo": "Semig garante mais comodidade ao público com lounges e pontos de recarga em Parintins",
+      "titulo": "SEMIG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "04/11/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo",
-        "energia",
-        "gas"
-      ],
-      "url": "https://www.semig.am.gov.br/semig-garante-mais-comodidade-ao-publico-com-lounges-e-pontos-de-recarga-em-parintins/",
-      "desc": "Semig garante mais comodidade ao público com lounges e pontos de recarga em Parintins 01 de jul de 2026 | 13:18 Ouvir Compartilhar Tweet Ações da Semig oferecem recarga gratuita para dispositivos móveis e espaços de convivência, unindo inovação, sustentabilidade e conforto durante o 59º Festival Folclórico de Parintins. Lounges instagramáveis com recarga por indução nos camarotes    FOTOS: Divulgação/Semig A Secretaria de Estado de Energia, Mineração e Gás (Semig), por meio do projeto Semig Transforma Parintins, está proporcionando mais comodidade aos moradores e turistas que participam do 59º Festival Folclórico de Parintins. A iniciativa do Governo do Amazonas disponibiliza lounges instagramáveis com carregamento por indução no Bumbódromo e totens de recarga para celulares e dispositivos"
-    },
-    {
-      "titulo": "Festival de Parintins 2026: Experiência de realidade virtual é destaque no estande da Semig no Turistódromo",
-      "orgao": "SEMIG",
-      "tema": "Política Energética / AM",
-      "data": "04/11/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo",
-        "energia",
-        "gas"
-      ],
-      "url": "https://www.semig.am.gov.br/festival-de-parintins-2026-experiencia-de-realidade-virtual-e-destaque-no-estande-da-semig-no-turistodromo/",
-      "desc": "Festival de Parintins 2026: Experiência de realidade virtual é destaque no estande da Semig no Turistódromo 01 de jul de 2026 | 11:04 Ouvir Compartilhar Tweet Tecnologia imersiva mostra a navegação pelos rios amazônicos e a inovação da rabeta elétrica Passeio virtual com óculos 3D no estande da Semig          FOTO: Divulgação/Semig A experiência de realidade virtual tem encantado moradores e turistas que visitam o estande da Secretaria de Estado de Energia, Mineração e Gás (Semig) no 59º Festival Folclórico de Parintins. A atração integra o projeto ‘Semig Transforma Parintins’ e convida o público a embarcar em um passeio imersivo pelos rios amazônicos, apresentando, de forma interativa, a tecnologia da rabeta elétrica e seu potencial para uma navegação mais sustentável. Com o uso de óculos"
-    },
-    {
-      "titulo": "Semig e Comissão de Energia da Aleam identificam mais de 200 famílias sem energia elétrica no Alto Solimões",
-      "orgao": "SEMIG",
-      "tema": "Política Energética / AM",
-      "data": "04/11/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo",
-        "energia",
-        "gas"
-      ],
-      "url": "https://www.semig.am.gov.br/semig-e-comissao-de-energia-da-aleam-identificam-mais-de-200-familias-sem-energia-eletrica-no-alto-solimoes/",
-      "desc": "Semig e Comissão de Energia da Aleam identificam mais de 200 famílias sem energia elétrica no Alto Solimões 29 de maio de 2026 | 12:28 Ouvir Compartilhar Tweet Levantamento realizado em comunidades de Benjamin Constant e São Paulo de Olivença subsidiará ações para inclusão de moradores no programa de universalização do acesso à energia FOTO: Divulgação/Semig Entre os dias 15 e 20 de maio de 2026, a Secretaria de Estado de Energia, Mineração e Gás do Amazonas (Semig), em parceria com a Comissão de Energia da Assembleia Legislativa do Amazonas (Aleam), realizou visitas técnicas às comunidades de Bom Sucesso, no município de Benjamin Constant, e Vendaval e Campo Alegre, em São Paulo de Olivença. A ação integra o projeto Energia que Transforma , que tem como objetivo identificar demandas relac"
-    },
-    {
-      "titulo": "Chegada do gás natural à UTE Manaus I marca avanço histórico para o setor energético do Amazonas",
-      "orgao": "SEMIG",
-      "tema": "Política Energética / AM",
-      "data": "04/11/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo",
-        "energia",
-        "gas"
-      ],
-      "url": "https://www.semig.am.gov.br/chegada-do-gas-natural-a-ute-manaus-i-marca-avanco-historico-para-o-setor-energetico-do-amazonas/",
-      "desc": "Chegada do gás natural à UTE Manaus I marca avanço histórico para o setor energético do Amazonas 26 de maio de 2026 | 12:48 Ouvir Compartilhar Tweet Semig acompanha início da etapa de testes e comissionamento da usina, que terá operação comercial antecipada para setembro de 2026 Usina Termelétrica (UTE) – Manaus I                    FOTO: Divulgação/Semig A Secretaria de Estado de Energia, Mineração e Gás (Semig) participou nesta segunda-feira (25/05), da inauguração da chegada do gás natural à Usina Termelétrica (UTE) Manaus I, marco que representa o início da primeira etapa de testes e comissionamento da usina e sinaliza a entrada do empreendimento em fase operacional. Representando o governador Roberto Cidade, o secretário da Semig, Ronney Peixoto, acompanhou a cerimônia ao lado de repr"
-    },
-    {
-      "titulo": "SEFAZ-AM — Página verificada sem atos relevantes hoje.",
-      "orgao": "SEFAZ-AM",
-      "tema": "Tributação / AM",
-      "data": "04/11/2026",
+      "data": "05/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.sefaz.am.gov.br/noticias",
-      "desc": "SEFAZ-AM — Página verificada sem atos relevantes hoje."
+      "url": "https://www.semig.am.gov.br/category/noticias/",
+      "desc": "SEMIG — Falha temporária de acesso. Próxima tentativa amanhã."
+    },
+    {
+      "titulo": "70 Anos do Conselho de Recursos Fiscais",
+      "orgao": "SEFAZ-AM",
+      "tema": "Tributação / AM",
+      "data": "05/11/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.sefaz.am.gov.br/noticias/33513",
+      "desc": "Conselho de Recursos Fiscais da Sefaz celebra 70 anos de atuação no Estado do Amazonas com vasta programação direcionada para a área tributária. O evento acontece nos dias 26 e 27 de novembro, no auditório Arivaldo Silveira Fontes, localizado na Avenida Rodrigo Otávio nº 2394, prédio do Senai-AM, Distrito Industrial."
+    },
+    {
+      "titulo": "Escola de Manaus representa o Amazonas em premiação nacional de Educação Fiscal",
+      "orgao": "SEFAZ-AM",
+      "tema": "Tributação / AM",
+      "data": "05/11/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.sefaz.am.gov.br/noticias/33493",
+      "desc": "A Escola Estadual Governador Melo e Póvoas, localizada na zona Oeste de Manaus, está entre os 17 finalistas da 14ª edição do Prêmio Nacional de Educação Fiscal, na categoria Escolas. A instituição concorre com o projeto “EFA: Educação Fiscal no Amazonas: Participar, Fiscalizar e Transformar”, idealizado pela professora Deylla Lopes Garcez e desenvolvido por 196 estudantes."
     },
     {
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "04/11/2026",
+      "data": "05/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -513,22 +466,34 @@
       "desc": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
+      "titulo": "Prefeito Renato Junior recebe embaixador do Japão e discute cooperação para o futuro de Manaus",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "05/11/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/diplomacia/cooperacao-para-o-futuro-de-manaus/",
+      "desc": "Página Inicial Notícias Diplomacia Prefeito Renato Junior recebe embaixador do Japão e discute cooperação para o futuro de Manaus Prefeito Renato Junior recebe embaixador do Japão e discute cooperação para o futuro de Manaus Por Prefeitura de Manaus 04/11/2026 22h17 Seu navegador não suporta o elemento de áudio. #paratodosverem – Prefeito Renato Junior, embaixador do Japão no Brasil, Yasushi Noguchi, o cônsul-geral do Japão em Manaus, Yuichi Miyagawa e autoridades O prefeito de Manaus, Renato Junior, recebeu, nesta quarta-feira, 4/11, o embaixador do Japão no Brasil, Yasushi Noguchi, e o cônsul-geral do Japão em Manaus, Yuichi Miyagawa. A comitiva está na cidade para as comemorações dos 50 anos da Moto Honda da Amazônia. No encontro, o prefeito apresentou desafios e projetos da capital e t"
+    },
+    {
       "titulo": "Prefeito Renato Junior celebra Teatro Amazonas como Patrimônio Mundial da Unesco e destaca reconhecimento do espaço mais democrático para o acesso à cultura",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "04/11/2026",
+      "data": "05/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
       "url": "https://www.manaus.am.gov.br/noticia/valorizacao/teatro-patrimonio-mundial/",
-      "desc": "Valorização Prefeitura promove homenagem e orientação a recém-aposentados durante celebração alusiva ao aniversário de Manaus"
+      "desc": "Valorização Teatro Amazonas recebe certificado de Patrimônio Mundial e reconhecimento destaca trabalho técnico da Prefeitura de Manaus"
     },
     {
       "titulo": "Prefeito Renato Junior mobiliza mais de mil servidores para receber cerca de 700 mil visitantes nos cemitérios neste Dia de Finados e cuidar da memória das pessoas que se dedicaram em vida por Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "04/11/2026",
+      "data": "05/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -537,34 +502,22 @@
       "desc": "Homenagem Milhares de pessoas antecipam visitas aos cemitérios de Manaus e encontram campos-santos preparados pela prefeitura"
     },
     {
-      "titulo": "Prefeitura de Manaus e Associação Nacer firmam parceria para fortalecer o turismo local e pedagógico com o projeto ‘Roteiros do Saber’",
+      "titulo": "Prefeitura de Manaus alcança 66% da obra do complexo viário Passarão e avança para construção da rotatória na zona Oeste",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "04/11/2026",
+      "data": "05/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/incentivo/projeto-roteiros-do-saber/",
-      "desc": "Página Inicial Notícias INCENTIVO Prefeitura de Manaus e Associação Nacer firmam parceria para fortalecer o turismo local e pedagógico com o projeto ‘Roteiros do Saber’ Prefeitura de Manaus e Associação Nacer firmam parceria para fortalecer o turismo local e pedagógico com o projeto ‘Roteiros do Saber’ Por Prefeitura de Manaus 04/11/2026 14h14 Seu navegador não suporta o elemento de áudio. #paratodosverem – Equipes da Semed e ManausCult durante apresentação de projeto Em parceria com a Prefeitura de Manaus, por meio da Secretaria Municipal de Educação (Semed) e da Fundação Municipal de Cultura, Turismo e Eventos (ManausCult), a Associação Nacer iniciou, nesta terça-feira, 3/11, as atividades do projeto “Roteiros do Saber, Inspirando Jovens e Qualificando Profissionais para o Turismo Manaua"
-    },
-    {
-      "titulo": "OCI Oncológica da Prefeitura de Manaus agiliza exames e favorece diagnóstico precoce do câncer de mama",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "04/11/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/saude/prefeitura-semsa-ocioncologica/",
-      "desc": "Saúde Prefeitura de Manaus alerta para a importância do pré-natal e tratamento precoce na prevenção de sífilis em recém-nascidos"
+      "url": "https://www.manaus.am.gov.br/noticia/mobilidade/prefeitura-obra-passarao66/",
+      "desc": "Mobilidade Prefeitura de Manaus realiza operação especial de trânsito e transporte e garante tranquilidade e segurança no 2º turno das eleições"
     },
     {
       "titulo": "Prefeito Renato Junior sanciona lei aguardada há 25 anos que garante subsídio de até R$ 3 milhões mensais para o transporte complementar de Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "04/11/2026",
+      "data": "05/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -576,7 +529,7 @@
       "titulo": "Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "04/11/2026",
+      "data": "05/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -588,7 +541,7 @@
       "titulo": "Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "04/11/2026",
+      "data": "05/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -600,7 +553,7 @@
       "titulo": "Requalificação da Ferreira Pena avança com instalação de caixas para rede subterrânea de energia e telecomunicações",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "04/11/2026",
+      "data": "05/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -613,7 +566,7 @@
       "titulo": "Prefeito Renato Junior avança tratativas com a Caixa Econômica para projetos de habitação e infraestrutura em Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "04/11/2026",
+      "data": "05/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
