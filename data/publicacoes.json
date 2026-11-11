@@ -1,5 +1,5 @@
 {
-  "ultima_coleta": "10/11/2026 14:27",
+  "ultima_coleta": "11/11/2026 14:19",
   "mes_ano": "Nov/2026",
   "total": 49,
   "fontes": 18,
@@ -7,9 +7,9 @@
   "stats": {
     "critico": 3,
     "alto": 13,
-    "medio": 3,
-    "baixo": 30,
-    "consultas_abertas": 2
+    "medio": 4,
+    "baixo": 29,
+    "consultas_abertas": 3
   },
   "por_orgao": {
     "ANEEL": 8,
@@ -36,7 +36,7 @@
       "titulo": "Acessibilidade na Sede da ANEEL",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -48,7 +48,7 @@
       "titulo": "Contratos de Concessão e Permissão",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -60,7 +60,7 @@
       "titulo": "Informações",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -73,7 +73,7 @@
       "titulo": "Licitações e Contratos",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -85,7 +85,7 @@
       "titulo": "Micro e Minigeração Distribuída",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -98,7 +98,7 @@
       "titulo": "Revisão de regras do RenovaBio para novos distribuidores é tema de audiência pública",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -111,7 +111,7 @@
       "titulo": "Gás natural: ANP suspende temporariamente terceira fase da revisão tarifária do transporte",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -126,7 +126,7 @@
       "titulo": "ANP publica terceira fase de alteração em seu Regimento Interno",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -138,7 +138,7 @@
       "titulo": "ANP participa de ações de auxílio ao combate a incêndios na Amazônia",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -150,7 +150,7 @@
       "titulo": "ANP aprova as primeiras certificações de produtores de biometano para emissão de CGOBs",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -162,7 +162,7 @@
       "titulo": "Substituta assumirá em 10/11 Diretoria 3 da ANP",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -175,20 +175,20 @@
       "titulo": "Inscrições para webinário sobre adequação das tarifas de água e esgoto à reforma tributária terminam nesta quarta-feira (11)",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
         "tarifa"
       ],
       "url": "https://www.gov.br/ana/pt-br/assuntos/noticias-e-eventos/noticias/inscricoes-para-webinario-sobre-adequacao-das-tarifas-de-agua-e-esgoto-a-reforma-tributaria-terminam-nesta-quarta-feira-11",
-      "desc": "Notícias SANEAMENTO BÁSICO Inscrições para webinário sobre adequação das tarifas de água e esgoto à reforma tributária terminam nesta quarta-feira (11) Encontro on-line, em 12 de novembro, vai esclarecer as dúvidas de entidades reguladoras infranacionais (ERIs) e companhias de saneamento sobre a transição para o novo modelo de tributação. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 10/11/2026 08h35 Informações sobre o Webinário Orientações da ANA para Reforma Tributária: Apresentação Geral, Orientações e Esclarecimentos Terminam nesta quarta-feira, 11 de novembro, as inscrições para o Webinário Orientações da ANA para Reforma Tributária: Apresentação Geral, Orientaçõ"
+      "desc": "Notícias SANEAMENTO BÁSICO Inscrições para webinário sobre adequação das tarifas de água e esgoto à reforma tributária terminam nesta quarta-feira (11) Encontro on-line, em 12 de novembro, vai esclarecer as dúvidas de entidades reguladoras infranacionais (ERIs) e companhias de saneamento sobre a transição para o novo modelo de tributação. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 10/11/2026 08h35 Atualizado em 10/11/2026 19h19 Informações sobre o Webinário Orientações da ANA para Reforma Tributária: Apresentação Geral, Orientações e Esclarecimentos Terminam nesta quarta-feira, 11 de novembro, as inscrições para o Webinário Orientações da ANA para Reforma Tributária"
     },
     {
       "titulo": "Agência debate outorga para lançamento de efluentes em rios temporários durante o Simpósio de Recursos Hídricos do Nordeste",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -200,7 +200,7 @@
       "titulo": "Webinário sobre adequação das tarifas de água e esgoto à reforma tributária está com inscrições abertas até 11 de novembro",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -213,7 +213,7 @@
       "titulo": "Implementação da Tarifa Social de Água e Esgoto avança em municípios onde vivem cerca de 157,7 milhões de brasileiros",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -226,7 +226,7 @@
       "titulo": "Semig destaca avanço do setor de gás natural com licença concedida à Eneva em Silves",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -239,7 +239,7 @@
       "titulo": "Programa de Pesquisa, Desenvolvimento e Inovação da ANEEL",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -251,7 +251,7 @@
       "titulo": "Agenda Regulatória",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -263,7 +263,7 @@
       "titulo": "Relatórios e Indicadores",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -272,10 +272,23 @@
       "desc": "Relatórios e Indicadores"
     },
     {
+      "titulo": "Audiência pública debate novas exigências de capital social mínimo para agentes do setor de combustíveis",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "11/11/2026",
+      "impacto": "medio",
+      "tags": [
+        "medio",
+        "consulta"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/audiencia-publica-debate-novas-exigencias-de-capital-social-minimo-para-agentes-do-setor-de-combustiveis",
+      "desc": "Notícias Audiência pública debate novas exigências de capital social mínimo para agentes do setor de combustíveis Proposta adequa normas da Agência ao Código de Defesa do Contribuinte Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 11/11/2026 13h30 Aconteceu ontem (10/11) a audiência pública sobre alteração em seis resoluções referentes a agentes regulados do setor de abastecimento. As alterações tratam da atualização do capital social mínimo integralizado, da exigência de comprovação da origem e licitude dos recursos financeiros utilizados para a integralização do capital social e da identificação do titular efetivo da pessoa jurídica. A revisão é necessária para adequa"
+    },
+    {
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -287,7 +300,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -300,7 +313,7 @@
       "titulo": "Consultar minhas solicitações de ouvidoria",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -312,7 +325,7 @@
       "titulo": "Mudança de data: próxima reunião de Diretoria da ANP será na segunda, 09/11, às 12h",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -321,23 +334,10 @@
       "desc": "Notícias Mudança de data: próxima reunião de Diretoria da ANP será na segunda, 09/11, às 12h Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 05/11/2026 10h11 A próxima reunião da Diretoria Colegiada da ANP (nº 1.194) será na segunda-feira, 09/11, às 12h. A reunião estava prevista anteriormente para amanhã, 06/11, às 9h. A reunião nº 1.194 será transmitida ao vivo pelo canal da ANP no YouTube . Clique aqui para consultar a pauta dos assuntos que serão debatidos. Assessoria de Imprensa da ANP (para atendimento dos jornalistas) Siga os perfis da ANP nas redes sociais: Instagram: https://www.instagram.com/anpgovbr/ Facebook: https://www.facebook.com/ANPgovbr X: https://x.com"
     },
     {
-      "titulo": "Produção de petróleo e gás natural bate novo recorde em setembro",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "10/11/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo",
-        "gas"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/producao-de-petroleo-e-gas-natural-bate-novo-recorde-em-setembro",
-      "desc": "Notícias Produção de petróleo e gás natural bate novo recorde em setembro No mês, foram produzidos 4,711 MMbbl/d de petróleo e 223.980 m³/d de gás natural. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 03/11/2026 11h21 Em setembro de 2026, o Brasil produziu 6,120 milhões de barris de óleo equivalente por dia (boe/d) de petróleo e gás natural, atingindo novo recorde. O recorde anterior havia sido registrado em agosto, quando a produção ultrapassou pela primeira vez a marca dos 6 milhões de boe/d. Os dados foram divulgados hoje (3/11) pela ANP no Boletim Mensal da Produção de Petróleo e Gás Natural . Com relação ao petróleo, foram extraídos 4,711 milhões de barris por di"
-    },
-    {
       "titulo": "ANA, AXIA Energia, SGB e empresas contratadas alinham execução de projeto de modernização da Rede Hidrometeorológica Nacional",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -350,7 +350,7 @@
       "titulo": "Evento híbrido em celebração à Política Nacional de Segurança de Barragens acontece nesta quarta (4) com transmissão ao vivo no YouTube da ANA",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -362,7 +362,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -374,7 +374,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -386,7 +386,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -398,7 +398,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -410,7 +410,7 @@
       "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -425,7 +425,7 @@
       "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -437,7 +437,7 @@
       "titulo": "Semig garante mais comodidade ao público com lounges e pontos de recarga em Parintins",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -451,7 +451,7 @@
       "titulo": "Festival de Parintins 2026: Experiência de realidade virtual é destaque no estande da Semig no Turistódromo",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -465,7 +465,7 @@
       "titulo": "Semig e Comissão de Energia da Aleam identificam mais de 200 famílias sem energia elétrica no Alto Solimões",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -479,7 +479,7 @@
       "titulo": "Chegada do gás natural à UTE Manaus I marca avanço histórico para o setor energético do Amazonas",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -493,7 +493,7 @@
       "titulo": "70 Anos do Conselho de Recursos Fiscais",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -505,7 +505,7 @@
       "titulo": "Escola de Manaus representa o Amazonas em premiação nacional de Educação Fiscal",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -517,7 +517,7 @@
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -529,7 +529,7 @@
       "titulo": "Prefeito Renato Junior firma compromisso de reforçar a segurança no centro de Manaus com os novos 200 guardas municipais",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -541,7 +541,7 @@
       "titulo": "Prefeito Renato Junior recebe toneladas de materiais na Seminf e reforça que manutenção da drenagem é a principal solução contra alagamentos em Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -553,31 +553,31 @@
       "titulo": "Prefeito Renato Junior vistoria na madrugada troca de juntas de dilatação do viaduto Ayrton Senna para garantir mais segurança no trânsito de Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
       "url": "https://www.manaus.am.gov.br/noticia/servicos/obras-viaduto-ayrton-senna/",
-      "desc": "Serviços Prefeitura de Manaus intensifica ações preventivas de limpeza e desobstrução em diferentes bairros da capital"
+      "desc": "Serviços Prefeitura de Manaus realiza manutenção em redes de drenagem com frentes de obras simultâneas na capital"
     },
     {
-      "titulo": "Prefeitura de Manaus remove oito semirreboques estacionados de forma irregular no Distrito Industrial",
+      "titulo": "Sine Manaus oferta 734 vagas de emprego nesta quinta-feira, 12/11",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/transito/prefeitura-immu-operacao-semirreboques/",
-      "desc": "Trânsito Prefeitura de Manaus inicia teste operacional com inversão de sentido na rua do Congresso nesta quarta-feira, no Centro"
+      "url": "https://www.manaus.am.gov.br/noticia/oportunidade/sine-manaus-734-vagas-emprego-12-11/",
+      "desc": "Página Inicial Notícias Oportunidade Sine Manaus oferta 734 vagas de emprego nesta quinta-feira, 12/11 Sine Manaus oferta 734 vagas de emprego nesta quinta-feira, 12/11 Por Prefeitura de Manaus 11/11/2026 13h48 Seu navegador não suporta o elemento de áudio. #paratodosverem – Oferta de vagas de emprego no Sine Manaus A Prefeitura de Manaus , por meio do Sine Manaus, oferta 734 vagas de emprego em várias áreas de atuação, nesta quinta-feira, 12/11, das 8h às 14h. O candidato pode validar a Carteira Digital e Previdência Social (CTPS) no aplicativo “Carteira de Trabalho Digital” ou acessar o site http://gov.br/trabalho . Para participar da pré-seleção e concorrer a uma das vagas disponíveis, ou receber orientação de cadastro, Carteira de Trabalho Digital e seguro-desemprego, os candidatos dev"
     },
     {
       "titulo": "Prefeito Renato Junior sanciona lei aguardada há 25 anos que garante subsídio de até R$ 3 milhões mensais para o transporte complementar de Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -589,7 +589,7 @@
       "titulo": "Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -601,7 +601,7 @@
       "titulo": "Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -613,7 +613,7 @@
       "titulo": "Prefeito Renato Junior celebra Teatro Amazonas como Patrimônio Mundial da Unesco e destaca reconhecimento do espaço mais democrático para o acesso à cultura",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -625,7 +625,7 @@
       "titulo": "Requalificação da Ferreira Pena avança com instalação de caixas para rede subterrânea de energia e telecomunicações",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -638,7 +638,7 @@
       "titulo": "Prefeito Renato Junior avança tratativas com a Caixa Econômica para projetos de habitação e infraestrutura em Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "10/11/2026",
+      "data": "11/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
