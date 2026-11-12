@@ -1,5 +1,5 @@
 {
-  "ultima_coleta": "11/11/2026 14:19",
+  "ultima_coleta": "12/11/2026 14:44",
   "mes_ano": "Nov/2026",
   "total": 49,
   "fontes": 18,
@@ -36,7 +36,7 @@
       "titulo": "Acessibilidade na Sede da ANEEL",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -48,7 +48,7 @@
       "titulo": "Contratos de Concessão e Permissão",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -60,7 +60,7 @@
       "titulo": "Informações",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -73,7 +73,7 @@
       "titulo": "Licitações e Contratos",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -85,7 +85,7 @@
       "titulo": "Micro e Minigeração Distribuída",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -95,10 +95,23 @@
       "desc": "As regras aplicáveis à MMGD foram alteradas pela ANEEL, com aprimoramentos que modificaram, entre outras disposições, os limites de potência instalada e as modalidades de participação no SCEE. Isso ocorreu, por exemplo, por meio das Resoluções Normativas nº 687, de 24 de novembro de 2015, e nº 786, de 17 de outubro de 2017. Nova atualização, prevista inicialmente para 2019, foi realizada por meio da Resolução Normativa nº 1.059, de 7 de fevereiro de 2023. Esse Ato promoveu adequações dos regulamentos da ANEEL às disposições da Lei nº 14.300, de 7 de janeiro de 2022, bem como aos estudos promovidos desde 2018, além de consolidar as disposições referentes à MMGD e ao SCEE nas condições gerais de fornecimento de energia (Resolução Normativa nº 1.000/2021). É importante lembrar, ainda, da veda"
     },
     {
+      "titulo": "ANP amplia capacidade de fiscalização da fase de exploração com aquisição de drone",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "12/11/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto",
+        "gas"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-amplia-capacidade-de-fiscalizacao-da-fase-de-exploracao-com-aquisicao-de-drone",
+      "desc": "Notícias ANP amplia capacidade de fiscalização da fase de exploração com aquisição de drone Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 12/11/2026 12h09 A ANP adquiriu, no início de novembro, uma aeronave remotamente pilotada (drone), modelo DJI Matrice 4E, com o objetivo de aprimorar as atividades de fiscalização da fase de exploração dos contratos de E&P (exploração e produção de petróleo e gás natural). Atualmente, estão sob gestão da Agência aproximadamente 400 contratos, sendo mais de 220 localizados em bacias terrestres, onde está prevista a maior utilização do equipamento. A iniciativa representa um avanço na modernização dos instrumentos utilizados pela Agênc"
+    },
+    {
       "titulo": "Revisão de regras do RenovaBio para novos distribuidores é tema de audiência pública",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -111,7 +124,7 @@
       "titulo": "Gás natural: ANP suspende temporariamente terceira fase da revisão tarifária do transporte",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -126,7 +139,7 @@
       "titulo": "ANP publica terceira fase de alteração em seu Regimento Interno",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -138,7 +151,7 @@
       "titulo": "ANP participa de ações de auxílio ao combate a incêndios na Amazônia",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -150,7 +163,7 @@
       "titulo": "ANP aprova as primeiras certificações de produtores de biometano para emissão de CGOBs",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -159,23 +172,10 @@
       "desc": "Notícias ANP aprova as primeiras certificações de produtores de biometano para emissão de CGOBs Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 06/11/2026 14h18 Atualizado em 06/11/2026 14h19 A ANP aprovou as primeiras certificações de produtores de biometano com vistas à emissão de Certificados de Garantia de Origem de Biometano (CGOB), marco relevante para a implementação do mercado brasileiro de certificação de origem e rastreabilidade do biometano. Foram aprovadas as certificações de três produtores de biometano que atestam a conformidade destes produtores aos requisitos estabelecidos na Resolução ANP nº 996/2026 , habilitando-os para a emissão de CGOBs. A relação do"
     },
     {
-      "titulo": "Substituta assumirá em 10/11 Diretoria 3 da ANP",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "11/11/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto",
-        "ambiental"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/substituta-assumira-em-10-11-diretoria-3-da-anp",
-      "desc": "Notícias Substituta assumirá em 10/11 Diretoria 3 da ANP Amanda Gondim é a atual superintendente de Tecnologia e Meio Ambiente da Agência Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 05/11/2026 16h11 Foi publicada hoje (5/11), no Diário Oficial da União (DOU), a portaria da ANP que convoca a atual superintendente de Tecnologia e Meio Ambiente, Amanda Gondim, para assumir, a partir de 10/11, o cargo de Diretora Substituta da Agência. A vaga a ser ocupada por Amanda Gondim será aberta com o final do mandato do Diretor Fernando Moura, na Diretoria 3, em 9/11/2026. A legislação prevê que as diretorias vagas nas agências reguladoras federais devem ser ocupadas por servidor"
-    },
-    {
       "titulo": "Inscrições para webinário sobre adequação das tarifas de água e esgoto à reforma tributária terminam nesta quarta-feira (11)",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -188,7 +188,7 @@
       "titulo": "Agência debate outorga para lançamento de efluentes em rios temporários durante o Simpósio de Recursos Hídricos do Nordeste",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -200,7 +200,7 @@
       "titulo": "Webinário sobre adequação das tarifas de água e esgoto à reforma tributária está com inscrições abertas até 11 de novembro",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -213,7 +213,7 @@
       "titulo": "Implementação da Tarifa Social de Água e Esgoto avança em municípios onde vivem cerca de 157,7 milhões de brasileiros",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -226,7 +226,7 @@
       "titulo": "Semig destaca avanço do setor de gás natural com licença concedida à Eneva em Silves",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -239,7 +239,7 @@
       "titulo": "Programa de Pesquisa, Desenvolvimento e Inovação da ANEEL",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -251,7 +251,7 @@
       "titulo": "Agenda Regulatória",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -263,7 +263,7 @@
       "titulo": "Relatórios e Indicadores",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -275,7 +275,7 @@
       "titulo": "Audiência pública debate novas exigências de capital social mínimo para agentes do setor de combustíveis",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "medio",
       "tags": [
         "medio",
@@ -288,7 +288,7 @@
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -300,7 +300,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -313,7 +313,7 @@
       "titulo": "Consultar minhas solicitações de ouvidoria",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -322,22 +322,22 @@
       "desc": "Consultar minhas solicitações de ouvidoria"
     },
     {
-      "titulo": "Mudança de data: próxima reunião de Diretoria da ANP será na segunda, 09/11, às 12h",
+      "titulo": "ANP encaminha recomendações a distribuidores e importadores sobre comercialização de metanol e outros solventes",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/mudanca-de-data-proxima-reuniao-de-diretoria-da-anp-sera-na-segunda-09-11-as-12h",
-      "desc": "Notícias Mudança de data: próxima reunião de Diretoria da ANP será na segunda, 09/11, às 12h Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 05/11/2026 10h11 A próxima reunião da Diretoria Colegiada da ANP (nº 1.194) será na segunda-feira, 09/11, às 12h. A reunião estava prevista anteriormente para amanhã, 06/11, às 9h. A reunião nº 1.194 será transmitida ao vivo pelo canal da ANP no YouTube . Clique aqui para consultar a pauta dos assuntos que serão debatidos. Assessoria de Imprensa da ANP (para atendimento dos jornalistas) Siga os perfis da ANP nas redes sociais: Instagram: https://www.instagram.com/anpgovbr/ Facebook: https://www.facebook.com/ANPgovbr X: https://x.com"
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-encaminha-recomendacoes-a-distribuidores-e-importadores-sobre-comercializacao-de-metanol-e-outros-solventes",
+      "desc": "Notícias ANP encaminha recomendações a distribuidores e importadores sobre comercialização de metanol e outros solventes Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 12/11/2026 11h30 A ANP encaminhou, em 6/11, a distribuidores de solventes e empresas autorizadas como agente de comércio exterior, ofício com recomendações de boas práticas na comercialização de solventes. Essas boas práticas devem ser incorporadas pelas empresas às suas atividades de análise de clientes previamente e após à comercialização. A ação dá continuidade à série de iniciativas da ANP para melhoria do ambiente regulatório e para incentivar condutas preventivas pelos agentes regulados nas operaçõe"
     },
     {
       "titulo": "ANA, AXIA Energia, SGB e empresas contratadas alinham execução de projeto de modernização da Rede Hidrometeorológica Nacional",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -350,7 +350,7 @@
       "titulo": "Evento híbrido em celebração à Política Nacional de Segurança de Barragens acontece nesta quarta (4) com transmissão ao vivo no YouTube da ANA",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -362,7 +362,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -374,7 +374,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -386,7 +386,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -398,7 +398,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -410,7 +410,7 @@
       "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -425,7 +425,7 @@
       "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -434,10 +434,24 @@
       "desc": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
+      "titulo": "Semig destaca potencial do Amazonas para Data Centers durante a 3ª edição do Amazônia Solar Business",
+      "orgao": "SEMIG",
+      "tema": "Política Energética / AM",
+      "data": "12/11/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo",
+        "energia",
+        "gas"
+      ],
+      "url": "https://www.semig.am.gov.br/semig-destaca-potencial-do-amazonas-para-data-centers-durante-a-3a-edicao-do-amazonia-solar-business/",
+      "desc": "Semig destaca potencial do Amazonas para Data Centers durante a 3ª edição do Amazônia Solar Business 12 de nov de 2026 | 13:45 Ouvir Compartilhar Tweet Secretário Ronney Peixoto representou o Governo do Amazonas na abertura do evento e apresentou oportunidades para o desenvolvimento do setor, com destaque para o gás natural e a diversificação da matriz energética 3ª edição do Amazônia Solar Business A Secretaria de Estado de Energia, Mineração e Gás (Semig) participou, nesta quinta-feira (12/11), da abertura da 3ª edição do Amazônia Solar Business 2026, realizada no Clube da Ordem dos Advogados do Brasil, Seccional Amazonas (OAB-AM), em Manaus. Representando o Governo do Amazonas, o secretário Ronney Peixoto ministrou a primeira palestra do evento, com o tema “Programa Estadual para Data C"
+    },
+    {
       "titulo": "Semig garante mais comodidade ao público com lounges e pontos de recarga em Parintins",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -451,7 +465,7 @@
       "titulo": "Festival de Parintins 2026: Experiência de realidade virtual é destaque no estande da Semig no Turistódromo",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -465,7 +479,7 @@
       "titulo": "Semig e Comissão de Energia da Aleam identificam mais de 200 famílias sem energia elétrica no Alto Solimões",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -476,24 +490,10 @@
       "desc": "Semig e Comissão de Energia da Aleam identificam mais de 200 famílias sem energia elétrica no Alto Solimões 29 de maio de 2026 | 12:28 Ouvir Compartilhar Tweet Levantamento realizado em comunidades de Benjamin Constant e São Paulo de Olivença subsidiará ações para inclusão de moradores no programa de universalização do acesso à energia FOTO: Divulgação/Semig Entre os dias 15 e 20 de maio de 2026, a Secretaria de Estado de Energia, Mineração e Gás do Amazonas (Semig), em parceria com a Comissão de Energia da Assembleia Legislativa do Amazonas (Aleam), realizou visitas técnicas às comunidades de Bom Sucesso, no município de Benjamin Constant, e Vendaval e Campo Alegre, em São Paulo de Olivença. A ação integra o projeto Energia que Transforma , que tem como objetivo identificar demandas relac"
     },
     {
-      "titulo": "Chegada do gás natural à UTE Manaus I marca avanço histórico para o setor energético do Amazonas",
-      "orgao": "SEMIG",
-      "tema": "Política Energética / AM",
-      "data": "11/11/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo",
-        "energia",
-        "gas"
-      ],
-      "url": "https://www.semig.am.gov.br/chegada-do-gas-natural-a-ute-manaus-i-marca-avanco-historico-para-o-setor-energetico-do-amazonas/",
-      "desc": "Chegada do gás natural à UTE Manaus I marca avanço histórico para o setor energético do Amazonas 26 de maio de 2026 | 12:48 Ouvir Compartilhar Tweet Semig acompanha início da etapa de testes e comissionamento da usina, que terá operação comercial antecipada para setembro de 2026 Usina Termelétrica (UTE) – Manaus I                    FOTO: Divulgação/Semig A Secretaria de Estado de Energia, Mineração e Gás (Semig) participou nesta segunda-feira (25/05), da inauguração da chegada do gás natural à Usina Termelétrica (UTE) Manaus I, marco que representa o início da primeira etapa de testes e comissionamento da usina e sinaliza a entrada do empreendimento em fase operacional. Representando o governador Roberto Cidade, o secretário da Semig, Ronney Peixoto, acompanhou a cerimônia ao lado de repr"
-    },
-    {
       "titulo": "70 Anos do Conselho de Recursos Fiscais",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -505,7 +505,7 @@
       "titulo": "Escola de Manaus representa o Amazonas em premiação nacional de Educação Fiscal",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -517,7 +517,7 @@
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -529,7 +529,7 @@
       "titulo": "Prefeito Renato Junior firma compromisso de reforçar a segurança no centro de Manaus com os novos 200 guardas municipais",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -541,7 +541,7 @@
       "titulo": "Prefeito Renato Junior recebe toneladas de materiais na Seminf e reforça que manutenção da drenagem é a principal solução contra alagamentos em Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -553,31 +553,31 @@
       "titulo": "Prefeito Renato Junior vistoria na madrugada troca de juntas de dilatação do viaduto Ayrton Senna para garantir mais segurança no trânsito de Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
       "url": "https://www.manaus.am.gov.br/noticia/servicos/obras-viaduto-ayrton-senna/",
-      "desc": "Serviços Prefeitura de Manaus realiza manutenção em redes de drenagem com frentes de obras simultâneas na capital"
+      "desc": "Serviços Prefeitura de Manaus avança para nova etapa das obras de infraestrutura na rua Canumã, no bairro Petrópolis"
     },
     {
-      "titulo": "Sine Manaus oferta 734 vagas de emprego nesta quinta-feira, 12/11",
+      "titulo": "Prefeitura de Manaus promove reunião para fortalecer a educação permanente dos trabalhadores da assistência social",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/oportunidade/sine-manaus-734-vagas-emprego-12-11/",
-      "desc": "Página Inicial Notícias Oportunidade Sine Manaus oferta 734 vagas de emprego nesta quinta-feira, 12/11 Sine Manaus oferta 734 vagas de emprego nesta quinta-feira, 12/11 Por Prefeitura de Manaus 11/11/2026 13h48 Seu navegador não suporta o elemento de áudio. #paratodosverem – Oferta de vagas de emprego no Sine Manaus A Prefeitura de Manaus , por meio do Sine Manaus, oferta 734 vagas de emprego em várias áreas de atuação, nesta quinta-feira, 12/11, das 8h às 14h. O candidato pode validar a Carteira Digital e Previdência Social (CTPS) no aplicativo “Carteira de Trabalho Digital” ou acessar o site http://gov.br/trabalho . Para participar da pré-seleção e concorrer a uma das vagas disponíveis, ou receber orientação de cadastro, Carteira de Trabalho Digital e seguro-desemprego, os candidatos dev"
+      "url": "https://www.manaus.am.gov.br/noticia/reuniao/reuniao-educacao-permanente-assistencia-social/",
+      "desc": "Reunião Prefeito Renato Junior articula agenda conjunta com governador eleito Omar Aziz, senador Eduardo Braga e 36 vereadores durante reunião em favor de Manaus"
     },
     {
       "titulo": "Prefeito Renato Junior sanciona lei aguardada há 25 anos que garante subsídio de até R$ 3 milhões mensais para o transporte complementar de Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -589,7 +589,7 @@
       "titulo": "Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -601,19 +601,19 @@
       "titulo": "Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
       "url": "https://www.manaus.am.gov.br/immu/mobilidade/conclui-instalacao-vigas/",
-      "desc": "Mobilidade Prefeitura de Manaus garante gratuidade no transporte público para candidatos do Enem e beneficia estudantes em todas as zonas da capital"
+      "desc": "Mobilidade Prefeitura une equipes técnicas do Implurb e IMMU para estudar novas soluções para o transporte público de Manaus"
     },
     {
       "titulo": "Prefeito Renato Junior celebra Teatro Amazonas como Patrimônio Mundial da Unesco e destaca reconhecimento do espaço mais democrático para o acesso à cultura",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -625,7 +625,7 @@
       "titulo": "Requalificação da Ferreira Pena avança com instalação de caixas para rede subterrânea de energia e telecomunicações",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -638,7 +638,7 @@
       "titulo": "Prefeito Renato Junior avança tratativas com a Caixa Econômica para projetos de habitação e infraestrutura em Manaus",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "11/11/2026",
+      "data": "12/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
