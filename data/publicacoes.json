@@ -1,15 +1,15 @@
 {
-  "ultima_coleta": "16/11/2026 16:50",
+  "ultima_coleta": "17/11/2026 15:34",
   "mes_ano": "Nov/2026",
   "total": 48,
   "fontes": 18,
   "fontes_com_falha": [],
   "stats": {
-    "critico": 3,
-    "alto": 15,
+    "critico": 4,
+    "alto": 13,
     "medio": 4,
-    "baixo": 26,
-    "consultas_abertas": 3
+    "baixo": 27,
+    "consultas_abertas": 2
   },
   "por_orgao": {
     "ANEEL": 8,
@@ -36,7 +36,7 @@
       "titulo": "Acessibilidade na Sede da ANEEL",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -48,7 +48,7 @@
       "titulo": "Contratos de Concessão e Permissão",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -57,10 +57,22 @@
       "desc": "Contratos de Concessão e Permissão"
     },
     {
+      "titulo": "Oferta Permanente: ANP homologa resultados do 6º Ciclo de Concessão e do 4º Ciclo de Partilha",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "17/11/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/oferta-permanente-anp-homologa-resultados-do-6o-ciclo-de-concessao-e-do-4o-ciclo-de-partilha",
+      "desc": "Notícias Oferta Permanente: ANP homologa resultados do 6º Ciclo de Concessão e do 4º Ciclo de Partilha Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 17/11/2026 12h14 A ANP publicou ontem (16/11) a homologação parcial do resultado do 6º Ciclo da Oferta Permanente de Concessão (OPC6) e a homologação do resultado do 4º Ciclo da Oferta Permanente de Partilha de Produção (OPP4) , cujas sessões públicas foram realizadas em 7 de outubro de 2026. Na OPC6, foram arrematadas três áreas com acumulações marginais e 49 blocos exploratórios por nove licitantes vencedoras. As áreas e os blocos estão localizados nas bacias de Campos, Ceará, Parnaíba, Potiguar, Recôncavo, Tacutu e Tuca"
+    },
+    {
       "titulo": "Informações",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -73,7 +85,7 @@
       "titulo": "Licitações e Contratos",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -85,7 +97,7 @@
       "titulo": "Micro e Minigeração Distribuída",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -98,7 +110,7 @@
       "titulo": "ANP realiza ações de fiscalização no mercado de abastecimento em 22 estados",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -110,7 +122,7 @@
       "titulo": "ANP retoma discussão da revisão tarifária das transportadoras de gás natural após fim das negociações entre Petrobras e NTS",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -124,7 +136,7 @@
       "titulo": "ANP amplia capacidade de fiscalização da fase de exploração com aquisição de drone",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -137,7 +149,7 @@
       "titulo": "Revisão de regras do RenovaBio para novos distribuidores é tema de audiência pública",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -147,25 +159,10 @@
       "desc": "Notícias Revisão de regras do RenovaBio para novos distribuidores é tema de audiência pública Proposta atualiza critérios para definição e comprovação das metas de redução de emissões nos dois primeiros anos de atuação dos distribuidores de combustíveis Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 10/11/2026 11h57 Foi realizada ontem (9/11) a audiência pública sobre a revisão da Resolução ANP nº 791/2019 . A norma dispõe sobre a individualização das metas compulsórias anuais de redução de emissões de gases de efeito estufa associadas à comercialização de combustíveis, no âmbito do RenovaBio (a Política Nacional de Biocombustíveis). A revisão foi motivada pela publicaç"
     },
     {
-      "titulo": "Gás natural: ANP suspende temporariamente terceira fase da revisão tarifária do transporte",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "16/11/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto",
-        "gas",
-        "consulta",
-        "tarifa"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/gas-natural-anp-suspende-temporariamente-terceira-fase-da-revisao-tarifaria-do-transporte",
-      "desc": "Notícias Gás natural: ANP suspende temporariamente terceira fase da revisão tarifária do transporte Agência também avaliará possibilidade de soluções consensuais entre carregadores e transportadoras Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 09/11/2026 17h26 A Diretoria da ANP decidiu hoje (9/11) sobrestar (suspender temporariamente), por 15 dias, a ação regulatória que trata da terceira fase da revisão tarifária do transporte de gás natural para o ciclo 2026–2030. Essa fase se refere à abertura de consulta e audiência públicas sobre metodologia, Receita Máxima Permitida (RMP) e tarifas de transporte. Também ficaram sobrestadas as análises dos recursos enviados pela"
-    },
-    {
       "titulo": "Nova resolução da ANA traz orientações complementares para as contas de água e esgoto na transição tributária",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -177,7 +174,7 @@
       "titulo": "Inscrições para webinário sobre adequação das tarifas de água e esgoto à reforma tributária terminam nesta quarta-feira (11)",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -190,7 +187,7 @@
       "titulo": "Agência debate outorga para lançamento de efluentes em rios temporários durante o Simpósio de Recursos Hídricos do Nordeste",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -202,7 +199,7 @@
       "titulo": "Webinário sobre adequação das tarifas de água e esgoto à reforma tributária está com inscrições abertas até 11 de novembro",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -215,7 +212,7 @@
       "titulo": "Implementação da Tarifa Social de Água e Esgoto avança em municípios onde vivem cerca de 157,7 milhões de brasileiros",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -228,7 +225,7 @@
       "titulo": "Semig destaca avanço do setor de gás natural com licença concedida à Eneva em Silves",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -238,22 +235,10 @@
       "desc": "Semig destaca avanço do setor de gás natural com licença concedida à Eneva em Silves 19 de jun de 2026 | 11:31 Ouvir Compartilhar Tweet Autorização concedida pelo Ipaam fortalece a política do Governo do Amazonas para expansão da produção de gás natural e consolida o estado como polo estratégico do setor energético nacional Licença concedida à Eneva                                                                  FOTO: Divulgação/Semig A atuação do Governo do Amazonas para impulsionar o setor energético do estado ganhou mais um importante reforço nesta quinta-feira (18/06), durante a 320ª Reunião Ordinária do Conselho de Desenvolvimento do Estado do Amazonas (Codam). Na ocasião, a Eneva S.A. recebeu do Instituto de Proteção Ambiental do Amazonas (Ipaam) a Licença de Instalação (LI nº 0932/"
     },
     {
-      "titulo": "Prefeitura de Manaus intensifica fiscalização de trânsito em quatro zonas da cidade e registra 21 autuações",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "16/11/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/transito/prefeitura-immu-fiscalizacao-autuacao/",
-      "desc": "Trânsito Prefeitura de Manaus remove oito semirreboques estacionados de forma irregular no Distrito Industrial"
-    },
-    {
       "titulo": "Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -265,7 +250,7 @@
       "titulo": "Programa de Pesquisa, Desenvolvimento e Inovação da ANEEL",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -277,7 +262,7 @@
       "titulo": "Agenda Regulatória",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -289,7 +274,7 @@
       "titulo": "Relatórios e Indicadores",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -301,7 +286,7 @@
       "titulo": "Audiência pública debate novas exigências de capital social mínimo para agentes do setor de combustíveis",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "medio",
       "tags": [
         "medio",
@@ -314,7 +299,7 @@
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -326,7 +311,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -339,7 +324,7 @@
       "titulo": "Consultar minhas solicitações de ouvidoria",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -351,7 +336,7 @@
       "titulo": "Divulgados finalistas do Prêmio ANP de Inovação Tecnológica 2026",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -363,7 +348,7 @@
       "titulo": "ANP encaminha recomendações a distribuidores e importadores sobre comercialização de metanol e outros solventes",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -375,7 +360,7 @@
       "titulo": "ANA, AXIA Energia, SGB e empresas contratadas alinham execução de projeto de modernização da Rede Hidrometeorológica Nacional",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -388,7 +373,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -400,7 +385,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -412,7 +397,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -424,7 +409,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -436,7 +421,7 @@
       "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -451,7 +436,7 @@
       "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -463,7 +448,7 @@
       "titulo": "Semig nas Escolas encerra atividades de 2026 com edição para estudantes da Escola Estadual Nossa Senhora Aparecida",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -477,7 +462,7 @@
       "titulo": "Semig destaca potencial do Amazonas para Data Centers durante a 3ª edição do Amazônia Solar Business",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -491,7 +476,7 @@
       "titulo": "Semig garante mais comodidade ao público com lounges e pontos de recarga em Parintins",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -505,7 +490,7 @@
       "titulo": "Festival de Parintins 2026: Experiência de realidade virtual é destaque no estande da Semig no Turistódromo",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -519,7 +504,7 @@
       "titulo": "70 Anos do Conselho de Recursos Fiscais",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -531,7 +516,7 @@
       "titulo": "Escola de Manaus representa o Amazonas em premiação nacional de Educação Fiscal",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -543,7 +528,7 @@
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -555,7 +540,7 @@
       "titulo": "Prefeito Renato Junior abre programação de ‘Um Sonho Mágico de Natal’ no parque Gigantes da Floresta e marca início das festividades em Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -567,7 +552,7 @@
       "titulo": "Prefeito Renato Junior anuncia 60% de execução das obras da primeira rua gastronômica de Manaus e destaca resgate de pedras históricas",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -576,22 +561,34 @@
       "desc": "Centro Histórico Prefeitura amplia espaços públicos que transformam a cidade e fortalecem economia, turismo e convivência"
     },
     {
-      "titulo": "Prefeitura promove seminário para fortalecer vigilância e resposta ao sarampo em Manaus",
+      "titulo": "Prefeitura de Manaus supera meta anual em outubro com mais de 48 mil mudas plantadas na capital",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/prevencao/acoes-saude-vigilancia/",
-      "desc": "Prevenção Prefeitura de Manaus realiza manutenção em rede de drenagem profunda no bairro Tancredo Neves"
+      "url": "https://www.manaus.am.gov.br/noticia/arborizacao/superacao-meta-anual-mudas-plantadas/",
+      "desc": "Arborização Prefeito Renato Junior destaca recorde de mais de 47 mil mudas plantadas em 2026 durante revitalização de canteiro central da avenida Max Teixeira"
+    },
+    {
+      "titulo": "Prefeitura de Manaus inicia campanha de arrecadação de materiais escolares para crianças e adolescentes acolhidos pelo Saicamp",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "17/11/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/solidariedade/campanha-arrecadacao-materiais-escolares-acolhidos-saicamp/",
+      "desc": "Solidariedade Prefeitura fortalece ações de ESG com doação de potes para armazenamento de leite materno"
     },
     {
       "titulo": "Prefeito Renato Junior sanciona lei aguardada há 25 anos que garante subsídio de até R$ 3 milhões mensais para o transporte complementar de Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -603,7 +600,7 @@
       "titulo": "Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -615,7 +612,7 @@
       "titulo": "Prefeito Renato Junior celebra Teatro Amazonas como Patrimônio Mundial da Unesco e destaca reconhecimento do espaço mais democrático para o acesso à cultura",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -627,7 +624,7 @@
       "titulo": "Requalificação da Ferreira Pena avança com instalação de caixas para rede subterrânea de energia e telecomunicações",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "16/11/2026",
+      "data": "17/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
