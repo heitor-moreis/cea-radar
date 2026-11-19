@@ -1,13 +1,13 @@
 {
-  "ultima_coleta": "18/11/2026 15:17",
+  "ultima_coleta": "19/11/2026 15:20",
   "mes_ano": "Nov/2026",
   "total": 48,
   "fontes": 18,
   "fontes_com_falha": [],
   "stats": {
-    "critico": 4,
-    "alto": 13,
-    "medio": 4,
+    "critico": 6,
+    "alto": 12,
+    "medio": 3,
     "baixo": 27,
     "consultas_abertas": 2
   },
@@ -21,13 +21,13 @@
     "SEFAZ-AM": 2,
     "Implurb": 2,
     "AmE": 1,
+    "Cigás": 1,
     "DOU": 1,
     "DOE-AM": 1,
     "CCEE": 1,
     "ONS": 1,
     "Petrobras": 1,
     "TAG": 1,
-    "Cigás": 1,
     "ARSEPAM": 1,
     "Seinfra-AM": 1
   },
@@ -36,7 +36,7 @@
       "titulo": "Acessibilidade na Sede da ANEEL",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -48,7 +48,7 @@
       "titulo": "Contratos de Concessão e Permissão",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -57,10 +57,23 @@
       "desc": "Contratos de Concessão e Permissão"
     },
     {
+      "titulo": "Regulamentação do Programa Nacional de Combustível Sustentável de Aviação (ProBioQAV) é debatida em audiência pública",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "19/11/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico",
+        "consulta"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/regulamentacao-do-programa-nacional-de-combustivel-sustentavel-de-aviacao-probioqav-e-debatida-em-audiencia-publica",
+      "desc": "Notícias Regulamentação do Programa Nacional de Combustível Sustentável de Aviação (ProBioQAV) é debatida em audiência pública Proposta contribui para o avanço da descarbonização do setor aéreo Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 19/11/2026 09h39 A ANP realizou ontem (18/11) a audiência pública sobre a proposta de regulamentação do Programa Nacional de Combustível Sustentável de Aviação (ProBioQAV), instituído pela Lei do Combustível do Futuro (Lei nº 14.993/2024) e regulamentado pelo Decreto nº 13.094/2026. A iniciativa representa mais uma etapa na construção do ambiente regulatório para o desenvolvimento do mercado de combustível sustentável de aviação, con"
+    },
+    {
       "titulo": "Oferta Permanente: ANP homologa resultados do 6º Ciclo de Concessão e do 4º Ciclo de Partilha",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -72,7 +85,7 @@
       "titulo": "Informações",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -82,10 +95,25 @@
       "desc": "Informações Decretos de Situação de Emergência Alteração de Carga Cadastro de Equipamento Vital Cliente Alta Tensão Cliente Mercado Livre Compartilhamento de infraestruturas Contrato Contribuição de Iluminação Pública por Município Decretos de Situação de Emergência Desligamentos Programados Despesas Associadas a CCC Dicas de Consumo Consciente Dicas de Segurança Direitos e Deveres Furto de energia elétrica é crime Iluminação Pública Indicadores de Continuidade Ligação Nova Ligação Provisória Localizar App na Loja Micro/Minigeração Distribuída Normas Técnicas e Manuais Notícias Orçamento de Conexão / Projeto / Vistoria Padrão de Entrada Pesquisa de Curvas de Carga e Hábitos de Consumo Poda e Arborização Programa de Eficiência Energética Programa de Eletrificação Rural Programa de Pesquisa "
     },
     {
+      "titulo": "MEIO AMBIENTE",
+      "orgao": "Cigás",
+      "tema": "Gás Natural / AM",
+      "data": "19/11/2026",
+      "impacto": "critico",
+      "tags": [
+        "critico",
+        "energia",
+        "gas",
+        "ambiental"
+      ],
+      "url": "https://www.cigas.com.br/post/cigás-avalia-nível-de-eficiência-no-atendimento-a-emergências-durante-simulado",
+      "desc": "Cigás avalia nível de eficiência no atendimento a emergências durante simulado há 7 horas 3 min de leitura Atividade ocorrerá no próximo dia 25, na rua Rio Quixito, bairro Vila Buriti No dia 25 de novembro, a Companhia de Gás do Amazonas (Cigás) realiza o 12º Simulado de Emergência na rede de distribuição de gás natural (RDGN), a partir das 8h50. A atividade ocorrerá nas proximidades do City Gate Vila Buriti, localizado na rua Rio Quixito, bairro Vila Buriti (zona Sul de Manaus). O objetivo do exercício é avaliar a capacidade de resposta da Cigás e dos órgãos envolvidos diante de situações emergenciais, testando os procedimentos operacionais. Também tem por finalidade fortalecer a integração entre as equipes parceiras no atendimento a ocorrências, bem como analisar a efetividade dos proced"
+    },
+    {
       "titulo": "Licitações e Contratos",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -97,7 +125,7 @@
       "titulo": "Micro e Minigeração Distribuída",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -107,10 +135,25 @@
       "desc": "As regras aplicáveis à MMGD foram alteradas pela ANEEL, com aprimoramentos que modificaram, entre outras disposições, os limites de potência instalada e as modalidades de participação no SCEE. Isso ocorreu, por exemplo, por meio das Resoluções Normativas nº 687, de 24 de novembro de 2015, e nº 786, de 17 de outubro de 2017. Nova atualização, prevista inicialmente para 2019, foi realizada por meio da Resolução Normativa nº 1.059, de 7 de fevereiro de 2023. Esse Ato promoveu adequações dos regulamentos da ANEEL às disposições da Lei nº 14.300, de 7 de janeiro de 2022, bem como aos estudos promovidos desde 2018, além de consolidar as disposições referentes à MMGD e ao SCEE nas condições gerais de fornecimento de energia (Resolução Normativa nº 1.000/2021). É importante lembrar, ainda, da veda"
     },
     {
+      "titulo": "ANP realizará consulta pública sobre receitas e tarifas de transporte de gás natural para 2026-2030",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "19/11/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto",
+        "gas",
+        "consulta",
+        "tarifa"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-realizara-consulta-publica-sobre-receitas-e-tarifas-de-transporte-de-gas-natural-para-2026-2030",
+      "desc": "Notícias ANP realizará consulta pública sobre receitas e tarifas de transporte de gás natural para 2026-2030 Trata-se da terceira fase do plano de ação da Agência eferente às tarifas de transporte em gasodutos Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 18/11/2026 18h09 Atualizado em 19/11/2026 09h22 A Diretoria da ANP aprovou hoje (18/11) a abertura de consulta pública, por dez dias, sobre a metodologia de formação da Receita Máxima Permitida (RMP), os custos operacionais e as tarifas individuais de transporte de gás natural para o ciclo tarifário 2026-2030. A matéria corresponde à terceira fase do Plano de Ação aprovado pela Diretoria Colegiada em 6/11/2025 , refer"
+    },
+    {
       "titulo": "ANP realiza ações de fiscalização no mercado de abastecimento em 22 estados",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -122,7 +165,7 @@
       "titulo": "ANP retoma discussão da revisão tarifária das transportadoras de gás natural após fim das negociações entre Petrobras e NTS",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -136,7 +179,7 @@
       "titulo": "ANP amplia capacidade de fiscalização da fase de exploração com aquisição de drone",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -146,23 +189,10 @@
       "desc": "Notícias ANP amplia capacidade de fiscalização da fase de exploração com aquisição de drone Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 12/11/2026 12h09 A ANP adquiriu, no início de novembro, uma aeronave remotamente pilotada (drone), modelo DJI Matrice 4E, com o objetivo de aprimorar as atividades de fiscalização da fase de exploração dos contratos de E&P (exploração e produção de petróleo e gás natural). Atualmente, estão sob gestão da Agência aproximadamente 400 contratos, sendo mais de 220 localizados em bacias terrestres, onde está prevista a maior utilização do equipamento. A iniciativa representa um avanço na modernização dos instrumentos utilizados pela Agênc"
     },
     {
-      "titulo": "Revisão de regras do RenovaBio para novos distribuidores é tema de audiência pública",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "18/11/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto",
-        "consulta"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/revisao-de-regras-do-renovabio-para-novos-distribuidores-e-tema-de-audiencia-publica",
-      "desc": "Notícias Revisão de regras do RenovaBio para novos distribuidores é tema de audiência pública Proposta atualiza critérios para definição e comprovação das metas de redução de emissões nos dois primeiros anos de atuação dos distribuidores de combustíveis Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 10/11/2026 11h57 Foi realizada ontem (9/11) a audiência pública sobre a revisão da Resolução ANP nº 791/2019 . A norma dispõe sobre a individualização das metas compulsórias anuais de redução de emissões de gases de efeito estufa associadas à comercialização de combustíveis, no âmbito do RenovaBio (a Política Nacional de Biocombustíveis). A revisão foi motivada pela publicaç"
-    },
-    {
       "titulo": "Nova resolução da ANA traz orientações complementares para as contas de água e esgoto na transição tributária",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -174,7 +204,7 @@
       "titulo": "Inscrições para webinário sobre adequação das tarifas de água e esgoto à reforma tributária terminam nesta quarta-feira (11)",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -187,7 +217,7 @@
       "titulo": "Agência debate outorga para lançamento de efluentes em rios temporários durante o Simpósio de Recursos Hídricos do Nordeste",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -199,7 +229,7 @@
       "titulo": "Webinário sobre adequação das tarifas de água e esgoto à reforma tributária está com inscrições abertas até 11 de novembro",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -209,23 +239,10 @@
       "desc": "Notícias Webinário sobre adequação das tarifas de água e esgoto à reforma tributária está com inscrições abertas até 11 de novembro Encontro on-line em 12 de novembro apresenta às entidades reguladoras infranacionais (ERIs) as orientações da ANA para a transição ao novo modelo de tributação, que começa em janeiro de 2027. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 06/11/2026 15h06 Atualizado em 06/11/2026 17h49 Webinário Orientações da ANA para Reforma Tributária: Adequação das Tarifas de Água e Esgoto Estão abertas, até a próxima quarta-feira, 11 de novembro, por meio de formulário eletrônico , as inscrições para o Webinário Orientações da ANA para Reforma Tributár"
     },
     {
-      "titulo": "Implementação da Tarifa Social de Água e Esgoto avança em municípios onde vivem cerca de 157,7 milhões de brasileiros",
-      "orgao": "ANA",
-      "tema": "Recursos Hídricos",
-      "data": "18/11/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto",
-        "tarifa"
-      ],
-      "url": "https://www.gov.br/ana/pt-br/assuntos/noticias-e-eventos/noticias/implementacao-da-tarifa-social-de-agua-e-esgoto-avanca-em-municipios-onde-vivem-cerca-de-157-7-milhoes-de-brasileiros",
-      "desc": "Notícias SANEAMENTO BÁSICO Implementação da Tarifa Social de Água e Esgoto avança em municípios onde vivem cerca de 157,7 milhões de brasileiros Entre agosto e setembro, número de municípios com a Tarifa Social já implementada aumenta 1.930 para 1.933, sendo que o total da população que vive nessas localidades é de 96,5 milhões de habitantes. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 04/11/2026 08h59 Atualizado em 04/11/2026 09h21 Dona de casa enche garrafa PET com água em torneira\n    - Foto:\n    Eraldo Peres / Banco de Imagens ANA Na comparação de dados de agosto e setembro, a Agência Nacional de Águas e Saneamento Básico (ANA) informa que houve aumento no número"
-    },
-    {
       "titulo": "Semig destaca avanço do setor de gás natural com licença concedida à Eneva em Silves",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -238,7 +255,7 @@
       "titulo": "Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -250,7 +267,7 @@
       "titulo": "Programa de Pesquisa, Desenvolvimento e Inovação da ANEEL",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -262,7 +279,7 @@
       "titulo": "Agenda Regulatória",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -274,7 +291,7 @@
       "titulo": "Relatórios e Indicadores",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -283,23 +300,10 @@
       "desc": "Relatórios e Indicadores"
     },
     {
-      "titulo": "Audiência pública debate novas exigências de capital social mínimo para agentes do setor de combustíveis",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "18/11/2026",
-      "impacto": "medio",
-      "tags": [
-        "medio",
-        "consulta"
-      ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/audiencia-publica-debate-novas-exigencias-de-capital-social-minimo-para-agentes-do-setor-de-combustiveis",
-      "desc": "Notícias Audiência pública debate novas exigências de capital social mínimo para agentes do setor de combustíveis Proposta adequa normas da Agência ao Código de Defesa do Contribuinte Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 11/11/2026 13h30 Aconteceu ontem (10/11) a audiência pública sobre alteração em seis resoluções referentes a agentes regulados do setor de abastecimento. As alterações tratam da atualização do capital social mínimo integralizado, da exigência de comprovação da origem e licitude dos recursos financeiros utilizados para a integralização do capital social e da identificação do titular efetivo da pessoa jurídica. A revisão é necessária para adequa"
-    },
-    {
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -311,7 +315,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -324,7 +328,7 @@
       "titulo": "Consultar minhas solicitações de ouvidoria",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -333,10 +337,23 @@
       "desc": "Consultar minhas solicitações de ouvidoria"
     },
     {
+      "titulo": "Gás natural: ANP nega pedido de reconsideração da ATGás sobre uso do método RCM na definição da Base Regulatória de Ativos",
+      "orgao": "ANP",
+      "tema": "Gás Natural / Petróleo",
+      "data": "19/11/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo",
+        "gas"
+      ],
+      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/gas-natural-anp-nega-pedido-de-reconsideracao-da-atgas-sobre-uso-do-metodo-rcm-na-definicao-da-base-regulatoria-de-ativos",
+      "desc": "Notícias Gás natural: ANP nega pedido de reconsideração da ATGás sobre uso do método RCM na definição da Base Regulatória de Ativos Também foram negados pedidos de duas transportadoras de efeito suspensivo da Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 18/11/2026 18h15 A Diretoria da ANP decidiu hoje (18/11) negar provimento ao pedido de reconsideração apresentado pela Associação de Empresas de Transporte de Gás Natural por Gasoduto (ATGás) contra a Decisão de Diretoria nº 733/2026 , que definiu a Base Regulatória de Ativos (BRA) de abertura de cinco transportadoras de gás natural. A decisão concluiu a segunda das três fases do plano de ação da Agência para a revisão"
+    },
+    {
       "titulo": "Divulgados finalistas do Prêmio ANP de Inovação Tecnológica 2026",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -345,22 +362,22 @@
       "desc": "Notícias Divulgados finalistas do Prêmio ANP de Inovação Tecnológica 2026 Este ano, além das categorias anteriores de projetos de PD&I, PRH-ANP e personalidades, haverá nova categoria para o NAVE-ANP Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 12/11/2026 17h11 A ANP publicou hoje (12/11), em seu site, a relação de finalistas do Prêmio ANP de Inovação Tecnológica 2026 . Os vencedores serão anunciados na cerimônia de premiação, que será realizada em dezembro. Nesta edição, haverá cinco categorias de projetos que utilizam recursos da Cláusula de Pesquisa, Desenvolvimento e Inovação (PD&I), duas categorias de personalidades do setor e três categorias do Programa de Forma"
     },
     {
-      "titulo": "ANP encaminha recomendações a distribuidores e importadores sobre comercialização de metanol e outros solventes",
-      "orgao": "ANP",
-      "tema": "Gás Natural / Petróleo",
-      "data": "18/11/2026",
+      "titulo": "Não basta não ser racista; é preciso ser antirracista: encontro na ANA marca o Dia da Consciência Negra",
+      "orgao": "ANA",
+      "tema": "Recursos Hídricos",
+      "data": "19/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.gov.br/anp/pt-br/canais_atendimento/imprensa/noticias-comunicados/anp-encaminha-recomendacoes-a-distribuidores-e-importadores-sobre-comercializacao-de-metanol-e-outros-solventes",
-      "desc": "Notícias ANP encaminha recomendações a distribuidores e importadores sobre comercialização de metanol e outros solventes Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 12/11/2026 11h30 A ANP encaminhou, em 6/11, a distribuidores de solventes e empresas autorizadas como agente de comércio exterior, ofício com recomendações de boas práticas na comercialização de solventes. Essas boas práticas devem ser incorporadas pelas empresas às suas atividades de análise de clientes previamente e após à comercialização. A ação dá continuidade à série de iniciativas da ANP para melhoria do ambiente regulatório e para incentivar condutas preventivas pelos agentes regulados nas operaçõe"
+      "url": "https://www.gov.br/ana/pt-br/assuntos/noticias-e-eventos/noticias/nao-basta-nao-ser-racista-e-preciso-ser-antirracista-encontro-na-ana-marca-o-dia-da-consciencia-negra",
+      "desc": "Notícias Não basta não ser racista; é preciso ser antirracista: encontro na ANA marca o Dia da Consciência Negra Palestra da deputada distrital eleita Keka Bagno e relatos de servidores(as) e colaboradores(as) levaram ao centro do debate o racismo estrutural e institucional e seus reflexos no acesso à água e ao saneamento básico. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 18/11/2026 17h33 Atualizado em 18/11/2026 17h43 Participantes da abertura do evento Dia da Consciência Negra: Ouvir, Refletir e Transformar Participantes da roda de conversa do evento Dia da Consciência Negra: Ouvir, Refletir e Transformar Participantes do evento Dia da Consciência Negra: Ouvir, Re"
     },
     {
       "titulo": "ANA, AXIA Energia, SGB e empresas contratadas alinham execução de projeto de modernização da Rede Hidrometeorológica Nacional",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -373,7 +390,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -385,7 +402,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -397,7 +414,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -409,7 +426,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -418,25 +435,10 @@
       "desc": "TAG — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
-      "titulo": "MEIO AMBIENTE",
-      "orgao": "Cigás",
-      "tema": "Gás Natural / AM",
-      "data": "18/11/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo",
-        "energia",
-        "gas",
-        "ambiental"
-      ],
-      "url": "https://www.cigas.com.br/cogeracao",
-      "desc": "É a produção simultânea e de maneira sequenciada de duas ou mais formas de energia a partir de um único combustível. O processo mais comum é a produção de eletricidade e energia térmica (calor ou frio) a partir do uso de gás natural e/ou de biomassa, entre outros."
-    },
-    {
       "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -448,7 +450,7 @@
       "titulo": "Semig nas Escolas encerra atividades de 2026 com edição para estudantes da Escola Estadual Nossa Senhora Aparecida",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -462,7 +464,7 @@
       "titulo": "Semig destaca potencial do Amazonas para Data Centers durante a 3ª edição do Amazônia Solar Business",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -476,7 +478,7 @@
       "titulo": "Semig garante mais comodidade ao público com lounges e pontos de recarga em Parintins",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -490,7 +492,7 @@
       "titulo": "Festival de Parintins 2026: Experiência de realidade virtual é destaque no estande da Semig no Turistódromo",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -504,7 +506,7 @@
       "titulo": "70 Anos do Conselho de Recursos Fiscais",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -516,7 +518,7 @@
       "titulo": "Escola de Manaus representa o Amazonas em premiação nacional de Educação Fiscal",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -528,7 +530,7 @@
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -537,10 +539,22 @@
       "desc": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
+      "titulo": "Prefeito Renato Junior lança operação para desassorear igarapés de Manaus antes das chuvas com início de serviços no bairro Redenção",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "19/11/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/prevencao/prefeito-operacao-para-desassorear-igarapes-de-manaus/",
+      "desc": "Prevenção Prefeitura de Manaus intensifica serviços de desobstrução e manutenção das redes de drenagem na capital"
+    },
+    {
       "titulo": "Prefeito Renato Junior abre programação de ‘Um Sonho Mágico de Natal’ no parque Gigantes da Floresta e marca início das festividades em Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -552,7 +566,7 @@
       "titulo": "Prefeito Renato Junior anuncia 60% de execução das obras da primeira rua gastronômica de Manaus e destaca resgate de pedras históricas",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -561,34 +575,22 @@
       "desc": "Centro Histórico Prefeitura amplia espaços públicos que transformam a cidade e fortalecem economia, turismo e convivência"
     },
     {
-      "titulo": "Prefeitura leva projeto ‘Condutor Consciente’ a motoristas de transportadora e reforça orientações para um trânsito mais seguro",
+      "titulo": "Conselho Municipal de Saúde promove Semana do Controle Social e evento chega à zona Leste com debate sobre jogos on-line e saúde mental",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/palestra/projeto-condutor-consciente-motoristas-transportadora/",
-      "desc": "Palestra Prefeitura de Manaus promove ação de educação financeira e orienta servidores e idosos sobre prevenção a superendividamento e golpes"
-    },
-    {
-      "titulo": "Sine Manaus oferta 721 vagas de emprego nesta quinta-feira, 19/11",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "18/11/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/oportunidade/prefeitura-sine-manaus-vagas1911/",
-      "desc": "Página Inicial Notícias Oportunidade Sine Manaus oferta 721 vagas de emprego nesta quinta-feira, 19/11 Sine Manaus oferta 721 vagas de emprego nesta quinta-feira, 19/11 Por Prefeitura de Manaus 18/11/2026 14h51 Seu navegador não suporta o elemento de áudio. #paratodosverem – Mãos segurando um carteira de trabalho. A Prefeitura de Manaus , por meio do Sine Manaus, oferta 721 vagas de emprego em várias áreas de atuação, nesta quinta-feira, 19/11, das 8h às 14h. O candidato pode validar a Carteira Digital e Previdência Social (CTPS) no aplicativo “Carteira de Trabalho Digital” ou acessar o site http://gov.br/trabalho. Para participar da pré–seleção e concorrer a uma das vagas disponíveis, ou receber orientação de cadastro, Carteira de Trabalho Digital e seguro–desemprego, os candidatos devem "
+      "url": "https://www.manaus.am.gov.br/noticia/eventos/cms-promove-semana-do-controle-social-zona-leste/",
+      "desc": "Eventos Prefeitura de Manaus participa de congresso para fortalecer estratégias de integração e qualificação do SUS"
     },
     {
       "titulo": "Prefeito Renato Junior sanciona lei aguardada há 25 anos que garante subsídio de até R$ 3 milhões mensais para o transporte complementar de Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -600,7 +602,7 @@
       "titulo": "Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -612,7 +614,7 @@
       "titulo": "Prefeito Renato Junior celebra Teatro Amazonas como Patrimônio Mundial da Unesco e destaca reconhecimento do espaço mais democrático para o acesso à cultura",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -624,7 +626,7 @@
       "titulo": "Requalificação da Ferreira Pena avança com instalação de caixas para rede subterrânea de energia e telecomunicações",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "18/11/2026",
+      "data": "19/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
