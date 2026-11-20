@@ -1,13 +1,13 @@
 {
-  "ultima_coleta": "19/11/2026 15:20",
+  "ultima_coleta": "20/11/2026 15:00",
   "mes_ano": "Nov/2026",
-  "total": 48,
+  "total": 49,
   "fontes": 18,
   "fontes_com_falha": [],
   "stats": {
     "critico": 6,
-    "alto": 12,
-    "medio": 3,
+    "alto": 11,
+    "medio": 5,
     "baixo": 27,
     "consultas_abertas": 2
   },
@@ -18,8 +18,8 @@
     "SEMIG": 5,
     "Prefeitura Manaus": 4,
     "IMMU": 3,
+    "Implurb": 3,
     "SEFAZ-AM": 2,
-    "Implurb": 2,
     "AmE": 1,
     "Cigás": 1,
     "DOU": 1,
@@ -36,7 +36,7 @@
       "titulo": "Acessibilidade na Sede da ANEEL",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -48,7 +48,7 @@
       "titulo": "Contratos de Concessão e Permissão",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -60,7 +60,7 @@
       "titulo": "Regulamentação do Programa Nacional de Combustível Sustentável de Aviação (ProBioQAV) é debatida em audiência pública",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -73,7 +73,7 @@
       "titulo": "Oferta Permanente: ANP homologa resultados do 6º Ciclo de Concessão e do 4º Ciclo de Partilha",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "critico",
       "tags": [
         "critico"
@@ -85,7 +85,7 @@
       "titulo": "Informações",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -98,7 +98,7 @@
       "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -113,7 +113,7 @@
       "titulo": "Licitações e Contratos",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -125,7 +125,7 @@
       "titulo": "Micro e Minigeração Distribuída",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -138,7 +138,7 @@
       "titulo": "ANP realizará consulta pública sobre receitas e tarifas de transporte de gás natural para 2026-2030",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -153,7 +153,7 @@
       "titulo": "ANP realiza ações de fiscalização no mercado de abastecimento em 22 estados",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -165,7 +165,7 @@
       "titulo": "ANP retoma discussão da revisão tarifária das transportadoras de gás natural após fim das negociações entre Petrobras e NTS",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -179,7 +179,7 @@
       "titulo": "ANP amplia capacidade de fiscalização da fase de exploração com aquisição de drone",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -192,7 +192,7 @@
       "titulo": "Nova resolução da ANA traz orientações complementares para as contas de água e esgoto na transição tributária",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -204,7 +204,7 @@
       "titulo": "Inscrições para webinário sobre adequação das tarifas de água e esgoto à reforma tributária terminam nesta quarta-feira (11)",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -217,7 +217,7 @@
       "titulo": "Agência debate outorga para lançamento de efluentes em rios temporários durante o Simpósio de Recursos Hídricos do Nordeste",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -226,23 +226,10 @@
       "desc": "Notícias 18º SRHNe Agência debate outorga para lançamento de efluentes em rios temporários durante o Simpósio de Recursos Hídricos do Nordeste Coordenadora de Outorga da ANA apresenta panorama da temática considerando rios de domínio da União Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 09/11/2026 15h51 Atualizado em 09/11/2026 16h24 Coordenadora de Outorga da ANA, Priscyla Conti de Mesquita, faz apresentação durante a mesa redonda “Outorga para lançamento de efluentes em rios intermitentes: experiências dos órgãos gestores do Nordeste” Coordenadora da Outorga da ANA, Priscyla Conti de Mesquita (à dir.) faz apresentação durante a mesa redonda “Outorga para lançamento "
     },
     {
-      "titulo": "Webinário sobre adequação das tarifas de água e esgoto à reforma tributária está com inscrições abertas até 11 de novembro",
-      "orgao": "ANA",
-      "tema": "Recursos Hídricos",
-      "data": "19/11/2026",
-      "impacto": "alto",
-      "tags": [
-        "alto",
-        "tarifa"
-      ],
-      "url": "https://www.gov.br/ana/pt-br/assuntos/noticias-e-eventos/noticias/webinario-sobre-adequacao-das-tarifas-de-agua-e-esgoto-a-reforma-tributaria-esta-com-inscricoes-abertas-ate-11-de-novembro",
-      "desc": "Notícias Webinário sobre adequação das tarifas de água e esgoto à reforma tributária está com inscrições abertas até 11 de novembro Encontro on-line em 12 de novembro apresenta às entidades reguladoras infranacionais (ERIs) as orientações da ANA para a transição ao novo modelo de tributação, que começa em janeiro de 2027. Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 06/11/2026 15h06 Atualizado em 06/11/2026 17h49 Webinário Orientações da ANA para Reforma Tributária: Adequação das Tarifas de Água e Esgoto Estão abertas, até a próxima quarta-feira, 11 de novembro, por meio de formulário eletrônico , as inscrições para o Webinário Orientações da ANA para Reforma Tributár"
-    },
-    {
       "titulo": "Semig destaca avanço do setor de gás natural com licença concedida à Eneva em Silves",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -255,7 +242,7 @@
       "titulo": "Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "alto",
       "tags": [
         "alto"
@@ -267,7 +254,7 @@
       "titulo": "Programa de Pesquisa, Desenvolvimento e Inovação da ANEEL",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -279,7 +266,7 @@
       "titulo": "Agenda Regulatória",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -291,7 +278,7 @@
       "titulo": "Relatórios e Indicadores",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "medio",
       "tags": [
         "medio"
@@ -300,10 +287,34 @@
       "desc": "Relatórios e Indicadores"
     },
     {
+      "titulo": "Resultado preliminar do primeiro chamamento do Produtor de Água reconhece 22 novos projetos de conservação de água e solo",
+      "orgao": "ANA",
+      "tema": "Recursos Hídricos",
+      "data": "20/11/2026",
+      "impacto": "medio",
+      "tags": [
+        "medio"
+      ],
+      "url": "https://www.gov.br/ana/pt-br/assuntos/noticias-e-eventos/noticias/resultado-preliminar-do-primeiro-chamamento-do-produtor-de-agua-reconhece-22-novos-projetos-de-conservacao-de-agua-e-solo",
+      "desc": "Notícias PRODUTOR DE ÁGUA Resultado preliminar do primeiro chamamento do Produtor de Água reconhece 22 novos projetos de conservação de água e solo Iniciativas de nove unidades da Federação, nas cinco regiões do País, passam a integrar o portfólio do Programa Produtor de Água; prazo para recursos termina em 1º de dezembro Compartilhe: Compartilhe por Facebook Compartilhe por Twitter Compartilhe por LinkedIn Compartilhe por WhatsApp link para Copiar para área de transferência Publicado em 19/11/2026 18h11 Atualizado em 19/11/2026 18h19 Projeto Produtor de Água no Pipiripau (DF)\n    - Foto:\n    Raylton Alves / Banco de Imagens ANA Vinte e dois novos programas e projetos de conservação de água e solo foram reconhecidos no resultado preliminar do primeiro edital de chamamento público do Progra"
+    },
+    {
+      "titulo": "Prefeitura de Manaus lança edital de apoio a bandas e blocos para o Carnaval 2027",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "20/11/2026",
+      "impacto": "medio",
+      "tags": [
+        "medio"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/apoio/prefeitura-manauscult-carnaval2027/",
+      "desc": "Apoio Prefeito Renato Junior participa de festival gospel que une música e solidariedade em benefício de comunidades ribeirinhas"
+    },
+    {
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -315,7 +326,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -328,7 +339,7 @@
       "titulo": "Consultar minhas solicitações de ouvidoria",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -340,7 +351,7 @@
       "titulo": "Gás natural: ANP nega pedido de reconsideração da ATGás sobre uso do método RCM na definição da Base Regulatória de Ativos",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -353,7 +364,7 @@
       "titulo": "Divulgados finalistas do Prêmio ANP de Inovação Tecnológica 2026",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -365,7 +376,7 @@
       "titulo": "Não basta não ser racista; é preciso ser antirracista: encontro na ANA marca o Dia da Consciência Negra",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -377,7 +388,7 @@
       "titulo": "ANA, AXIA Energia, SGB e empresas contratadas alinham execução de projeto de modernização da Rede Hidrometeorológica Nacional",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -390,7 +401,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -402,7 +413,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -414,7 +425,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -426,7 +437,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -438,7 +449,7 @@
       "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -450,7 +461,7 @@
       "titulo": "Semig nas Escolas encerra atividades de 2026 com edição para estudantes da Escola Estadual Nossa Senhora Aparecida",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -464,7 +475,7 @@
       "titulo": "Semig destaca potencial do Amazonas para Data Centers durante a 3ª edição do Amazônia Solar Business",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -478,7 +489,7 @@
       "titulo": "Semig garante mais comodidade ao público com lounges e pontos de recarga em Parintins",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -492,7 +503,7 @@
       "titulo": "Festival de Parintins 2026: Experiência de realidade virtual é destaque no estande da Semig no Turistódromo",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -506,7 +517,7 @@
       "titulo": "70 Anos do Conselho de Recursos Fiscais",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -518,7 +529,7 @@
       "titulo": "Escola de Manaus representa o Amazonas em premiação nacional de Educação Fiscal",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -530,7 +541,7 @@
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -542,7 +553,7 @@
       "titulo": "Prefeito Renato Junior lança operação para desassorear igarapés de Manaus antes das chuvas com início de serviços no bairro Redenção",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -554,7 +565,7 @@
       "titulo": "Prefeito Renato Junior abre programação de ‘Um Sonho Mágico de Natal’ no parque Gigantes da Floresta e marca início das festividades em Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -563,34 +574,22 @@
       "desc": "Celebração Dia Mundial do Urbanismo destaca planejamento e atuação da prefeitura no desenvolvimento de Manaus"
     },
     {
-      "titulo": "Prefeito Renato Junior anuncia 60% de execução das obras da primeira rua gastronômica de Manaus e destaca resgate de pedras históricas",
+      "titulo": "Cruzeiro internacional chega a Manaus com mais de mil visitantes e impulsiona o turismo na capital",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/centro-historico/prefeito-obras-da-primeira-rua-gastronomica-de-manaus/",
-      "desc": "Centro Histórico Prefeitura amplia espaços públicos que transformam a cidade e fortalecem economia, turismo e convivência"
-    },
-    {
-      "titulo": "Conselho Municipal de Saúde promove Semana do Controle Social e evento chega à zona Leste com debate sobre jogos on-line e saúde mental",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "19/11/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/eventos/cms-promove-semana-do-controle-social-zona-leste/",
-      "desc": "Eventos Prefeitura de Manaus participa de congresso para fortalecer estratégias de integração e qualificação do SUS"
+      "url": "https://www.manaus.am.gov.br/noticia/turismo/prefeitura-manauscult-receptivo-cruzeiro/",
+      "desc": "Turismo Prefeitura de Manaus promove potencial turístico da capital na 38ª edição do Festuris, no Rio Grande do Sul"
     },
     {
       "titulo": "Prefeito Renato Junior sanciona lei aguardada há 25 anos que garante subsídio de até R$ 3 milhões mensais para o transporte complementar de Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -602,7 +601,7 @@
       "titulo": "Prefeitura de Manaus conclui instalação das vigas no Complexo Viário Passarão antes do prazo previsto",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -611,10 +610,22 @@
       "desc": "Mobilidade Prefeitura de Manaus intensifica operação ‘Sucata’ na zona Norte e remove quatro veículos abandonados no bairro Cidade Nova"
     },
     {
+      "titulo": "Prefeito Renato Junior anuncia 60% de execução das obras da primeira rua gastronômica de Manaus e destaca resgate de pedras históricas",
+      "orgao": "Implurb",
+      "tema": "Planejamento Urbano",
+      "data": "20/11/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/implurb/prefeito-obras-da-primeira-rua-gastronomica-de-manaus/",
+      "desc": "Centro Histórico Prefeitura amplia espaços públicos que transformam a cidade e fortalecem economia, turismo e convivência"
+    },
+    {
       "titulo": "Prefeito Renato Junior celebra Teatro Amazonas como Patrimônio Mundial da Unesco e destaca reconhecimento do espaço mais democrático para o acesso à cultura",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -626,7 +637,7 @@
       "titulo": "Requalificação da Ferreira Pena avança com instalação de caixas para rede subterrânea de energia e telecomunicações",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "19/11/2026",
+      "data": "20/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
