@@ -1,14 +1,14 @@
 {
-  "ultima_coleta": "24/11/2026 17:02",
+  "ultima_coleta": "25/11/2026 16:27",
   "mes_ano": "Nov/2026",
   "total": 30,
   "fontes": 18,
   "fontes_com_falha": [],
   "stats": {
     "critico": 2,
-    "alto": 1,
+    "alto": 2,
     "medio": 0,
-    "baixo": 27,
+    "baixo": 26,
     "consultas_abertas": 0
   },
   "por_orgao": {
@@ -36,7 +36,7 @@
       "titulo": "Informações",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "24/11/2026",
+      "data": "25/11/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -49,7 +49,7 @@
       "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "24/11/2026",
+      "data": "25/11/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -58,13 +58,13 @@
         "ambiental"
       ],
       "url": "https://www.cigas.com.br/post/cigás-conclui-planejamento-para-o-12º-simulado-de-emergência-na-rede-de-distribuição-de-gás-natural",
-      "desc": "Cigás conclui planejamento para o 12º Simulado de Emergência na rede de distribuição de gás natural há 1 dia 3 min de leitura Exercício será realizado a partir das 8h50 desta quarta-feira, no bairro Vila Buruti A dois dias do 12º Simulado de Emergência na Rede de Distribuição de Gás Natural (RDGN), a Cigás concluiu todas as etapas de planejamento. O treinamento acontece nesta quarta-feira (25/11), às 8h50, nas proximidades do City Gate Vila Buriti, localizado na rua Rio Quixito, bairro Vila Buriti, zona Sul de Manaus. Além da articulação interinstitucional junto a órgãos das áreas de segurança, saúde e mobilidade urbana para o estabelecimento de cooperação e a viabilização de infraestrutura e equipamentos, a fase preparatória do simulado foi marcada pela conclusão da ação de sensibilização"
+      "desc": "Cigás conclui planejamento para o 12º Simulado de Emergência na rede de distribuição de gás natural há 2 dias 3 min de leitura Exercício será realizado a partir das 8h50 desta quarta-feira, no bairro Vila Buruti A dois dias do 12º Simulado de Emergência na Rede de Distribuição de Gás Natural (RDGN), a Cigás concluiu todas as etapas de planejamento. O treinamento acontece nesta quarta-feira (25/11), às 8h50, nas proximidades do City Gate Vila Buriti, localizado na rua Rio Quixito, bairro Vila Buriti, zona Sul de Manaus. Além da articulação interinstitucional junto a órgãos das áreas de segurança, saúde e mobilidade urbana para o estabelecimento de cooperação e a viabilização de infraestrutura e equipamentos, a fase preparatória do simulado foi marcada pela conclusão da ação de sensibilizaçã"
     },
     {
       "titulo": "Semig destaca avanço do setor de gás natural com licença concedida à Eneva em Silves",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "24/11/2026",
+      "data": "25/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -74,10 +74,22 @@
       "desc": "Semig destaca avanço do setor de gás natural com licença concedida à Eneva em Silves 19 de jun de 2026 | 11:31 Ouvir Compartilhar Tweet Autorização concedida pelo Ipaam fortalece a política do Governo do Amazonas para expansão da produção de gás natural e consolida o estado como polo estratégico do setor energético nacional Licença concedida à Eneva                                                                  FOTO: Divulgação/Semig A atuação do Governo do Amazonas para impulsionar o setor energético do estado ganhou mais um importante reforço nesta quinta-feira (18/06), durante a 320ª Reunião Ordinária do Conselho de Desenvolvimento do Estado do Amazonas (Codam). Na ocasião, a Eneva S.A. recebeu do Instituto de Proteção Ambiental do Amazonas (Ipaam) a Licença de Instalação (LI nº 0932/"
     },
     {
+      "titulo": "Prefeitura intensifica fiscalização com operações ‘Trânsito Seguro’ e ‘Natal’ em todas as zonas de Manaus",
+      "orgao": "IMMU",
+      "tema": "Mobilidade Urbana",
+      "data": "25/11/2026",
+      "impacto": "alto",
+      "tags": [
+        "alto"
+      ],
+      "url": "https://www.manaus.am.gov.br/immu/acao/operacoes-transito-seguro-natal-fiscalizacao/",
+      "desc": "Ação Prefeitura de Manaus realiza operação ‘Transporte Legal’ e intensifica fiscalização de veículos irregulares"
+    },
+    {
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "24/11/2026",
+      "data": "25/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -89,7 +101,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "24/11/2026",
+      "data": "25/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -102,7 +114,7 @@
       "titulo": "ANEEL — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "24/11/2026",
+      "data": "25/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -114,7 +126,7 @@
       "titulo": "ANP — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "24/11/2026",
+      "data": "25/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -126,7 +138,7 @@
       "titulo": "ANA — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "24/11/2026",
+      "data": "25/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -138,7 +150,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "24/11/2026",
+      "data": "25/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -150,7 +162,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "24/11/2026",
+      "data": "25/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -162,7 +174,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "24/11/2026",
+      "data": "25/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -174,7 +186,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "24/11/2026",
+      "data": "25/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -186,7 +198,7 @@
       "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "24/11/2026",
+      "data": "25/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -198,7 +210,7 @@
       "titulo": "Semig nas Escolas encerra atividades de 2026 com edição para estudantes da Escola Estadual Nossa Senhora Aparecida",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "24/11/2026",
+      "data": "25/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -212,7 +224,7 @@
       "titulo": "Semig destaca potencial do Amazonas para Data Centers durante a 3ª edição do Amazônia Solar Business",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "24/11/2026",
+      "data": "25/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -226,7 +238,7 @@
       "titulo": "Semig garante mais comodidade ao público com lounges e pontos de recarga em Parintins",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "24/11/2026",
+      "data": "25/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -240,7 +252,7 @@
       "titulo": "Festival de Parintins 2026: Experiência de realidade virtual é destaque no estande da Semig no Turistódromo",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "24/11/2026",
+      "data": "25/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -254,7 +266,7 @@
       "titulo": "70 Anos do Conselho de Recursos Fiscais",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "24/11/2026",
+      "data": "25/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -266,7 +278,7 @@
       "titulo": "Escola de Manaus representa o Amazonas em premiação nacional de Educação Fiscal",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "24/11/2026",
+      "data": "25/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -278,7 +290,7 @@
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "24/11/2026",
+      "data": "25/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -287,10 +299,22 @@
       "desc": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
+      "titulo": "Prefeito Renato Junior lança sistema que permite monitorar em tempo real caminhões de coleta de lixo em Manaus",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "25/11/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/modernizacao/sistema-de-monitoramento-semulsp/",
+      "desc": "Modernização Prefeitura de Manaus facilita acesso de aposentados e pensionistas a serviços da Manausprev sem sair de casa"
+    },
+    {
       "titulo": "Prefeito Renato Junior apresenta  pedras portuguesas de lioz de volta à calçada da rua gastronômica de Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "24/11/2026",
+      "data": "25/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -299,46 +323,34 @@
       "desc": "Centro Histórico Obras da Prefeitura de Manaus na rua gastronômica avançam com serviços simultâneos nos dois trechos"
     },
     {
-      "titulo": "Prefeito Renato Junior lança operação para desassorear igarapés de Manaus antes das chuvas com início de serviços no bairro Redenção",
+      "titulo": "Prefeitura encerra projeto ‘Samuzinho Manaus’ e promove aprendizado sobre primeiros socorros e cidadania entre estudantes da rede municipal",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "24/11/2026",
+      "data": "25/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/prevencao/prefeito-operacao-para-desassorear-igarapes-de-manaus/",
-      "desc": "Página Inicial Notícias Prevenção Prefeito Renato Junior lança operação para desassorear igarapés de Manaus antes das chuvas com início de serviços no bairro Redenção Prefeito Renato Junior lança operação para desassorear igarapés de Manaus antes das chuvas com início de serviços no bairro Redenção Por Prefeitura de Manaus 18/11/2026 18h43 Seu navegador não suporta o elemento de áudio. #paratodosverem – Prefeito Renato Junior realizando lançamento dos serviços O prefeito de Manaus , Renato Junior, deu a largada, nesta quarta-feira, 18/11, a uma operação preventiva de desassoreamento dos igarapés da cidade antes do período chuvoso. A ação mobiliza 700 garis da Secretaria Municipal de Limpeza Urbana (Semulsp), com serviços nos igarapés do Franco, Sapolândia, São Francisco, Passarinho e Mindu"
+      "url": "https://www.manaus.am.gov.br/noticia/educacao/encerramento-samuzinho-manaus/",
+      "desc": "Educação Estudantes da Prefeitura de Manaus conquistam prêmio de ‘Melhor Comunicação Oral’ em feira de ciências do Sesi"
     },
     {
-      "titulo": "Prefeitura de Manaus atua com diferentes frentes de obras no bairro Flores, na zona Centro-Sul",
+      "titulo": "Educação de Jovens e Adultos da Prefeitura de Manaus será homenageada na 1ª edição do ‘Prêmio Brasil de Ensino de Matemática’",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "24/11/2026",
+      "data": "25/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/servicos/diferentes-frentes-de-obras-no-bairro-flores/",
-      "desc": "Página Inicial Notícias Serviços Prefeitura de Manaus atua com diferentes frentes de obras no bairro Flores, na zona Centro-Sul Prefeitura de Manaus atua com diferentes frentes de obras no bairro Flores, na zona Centro-Sul Por Prefeitura de Manaus 24/11/2026 16h55 Seu navegador não suporta o elemento de áudio. #paratodosverem – Equipe da Seminf realizando trabalhos de implantação de rede de drenagem A Prefeitura de Manaus, por meio da Secretaria Municipal de Infraestrutura (Seminf), realizou, nesta terça-feira, 24/11, serviços de melhorias na infraestrutura do bairro Flores, na zona Centro-Sul da capital. A rua Barão de Indaiá recebeu os trabalhos de implantação de rede de drenagem, enquanto a rua Souza Campos recebeu manutenção asfáltica, devolvendo trafegabilidade para os condutores da á"
-    },
-    {
-      "titulo": "Iniciativas da Prefeitura de Manaus para prevenção do câncer do colo do útero são reconhecidas pelo Ministério da Saúde",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "24/11/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/destaque/iniciativas-prevencao-cancer-colo-utero-reconhecidas/",
-      "desc": "Destaque Prefeitura de Manaus celebra Dia do Conselheiro Tutelar e reconhece atuação na defesa dos direitos de crianças e adolescentes"
+      "url": "https://www.manaus.am.gov.br/noticia/premiacao/premio-brasil-de-ensino-de-matematica/",
+      "desc": "Premiação Prefeitura de Manaus premia estudantes e professores no 2º Concurso Tecendo Letras – Legado Literário"
     },
     {
       "titulo": "Prefeito Renato Junior sanciona lei aguardada há 25 anos que garante subsídio de até R$ 3 milhões mensais para o transporte complementar de Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "24/11/2026",
+      "data": "25/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -350,7 +362,7 @@
       "titulo": "Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "24/11/2026",
+      "data": "25/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -359,22 +371,10 @@
       "desc": "Página Inicial Notícias Trânsito Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus Por Prefeitura de Manaus 17/08/2026 21h58 #paratodosverem – prefeito Renato Junior fala sobre o painel Manaus passa a contar com uma nova ferramenta para orientar motoristas em tempo real. O primeiro Painel de Mensagem Variável (PMV) da capital foi apresentado nesta segunda-feira, 17/8, pelo prefeito Renato Junior, na avenida Mário Ypiranga Monteiro, na subida do viaduto Miguel Arraes, zona Centro-Sul. Serão exibidas informações sobre acidentes, interdições, obras, congestionamentos e outras ocorrências de trânsito. “Esse é o pri"
     },
     {
-      "titulo": "Prefeitura de Manaus revitaliza sinalização de trânsito no porto da Ceasa e em outras vias da capital",
-      "orgao": "IMMU",
-      "tema": "Mobilidade Urbana",
-      "data": "24/11/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/immu/operacao/sinalizacao-transito-porto-ceasa-outras-vias/",
-      "desc": "Página Inicial Notícias Operação Prefeitura de Manaus revitaliza sinalização de trânsito no porto da Ceasa e em outras vias da capital Prefeitura de Manaus revitaliza sinalização de trânsito no porto da Ceasa e em outras vias da capital Por Prefeitura de Manaus 24/11/2026 13h48 #paratodosverem – Equipe do IMMU executando a revitalização da sinalização viária em via de Manaus A Prefeitura de Manaus , por meio do Instituto Municipal de Mobilidade Urbana (IMMU), está reforçando os serviços de sinalização viária em diferentes pontos da cidade, com destaque para a revitalização do entorno do porto da Ceasa, localizado no bairro Vila Buriti, zona Sul. O local é um dos principais pontos de acesso às balsas que fazem a travessia de veículos em direção à rodovia BR-319 e outros municípios do estado"
-    },
-    {
       "titulo": "Prefeito Renato Junior anuncia 60% de execução das obras da primeira rua gastronômica de Manaus e destaca resgate de pedras históricas",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "24/11/2026",
+      "data": "25/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -386,7 +386,7 @@
       "titulo": "Prefeito Renato Junior celebra Teatro Amazonas como Patrimônio Mundial da Unesco e destaca reconhecimento do espaço mais democrático para o acesso à cultura",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "24/11/2026",
+      "data": "25/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -398,7 +398,7 @@
       "titulo": "Requalificação da Ferreira Pena avança com instalação de caixas para rede subterrânea de energia e telecomunicações",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "24/11/2026",
+      "data": "25/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
