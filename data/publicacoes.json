@@ -1,22 +1,22 @@
 {
-  "ultima_coleta": "26/11/2026 16:09",
+  "ultima_coleta": "27/11/2026 15:54",
   "mes_ano": "Nov/2026",
-  "total": 30,
+  "total": 31,
   "fontes": 18,
   "fontes_com_falha": [],
   "stats": {
     "critico": 2,
     "alto": 1,
     "medio": 0,
-    "baixo": 27,
+    "baixo": 28,
     "consultas_abertas": 0
   },
   "por_orgao": {
     "SEMIG": 5,
     "Prefeitura Manaus": 4,
+    "SEFAZ-AM": 3,
     "IMMU": 3,
     "Implurb": 3,
-    "SEFAZ-AM": 2,
     "AmE": 1,
     "Cigás": 1,
     "DOU": 1,
@@ -36,7 +36,7 @@
       "titulo": "Informações",
       "orgao": "AmE",
       "tema": "Energia Elétrica / AM",
-      "data": "26/11/2026",
+      "data": "27/11/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -49,7 +49,7 @@
       "titulo": "MEIO AMBIENTE",
       "orgao": "Cigás",
       "tema": "Gás Natural / AM",
-      "data": "26/11/2026",
+      "data": "27/11/2026",
       "impacto": "critico",
       "tags": [
         "critico",
@@ -58,13 +58,13 @@
         "ambiental"
       ],
       "url": "https://www.cigas.com.br/post/cigás-realiza-12º-simulado-de-emergência-para-avaliar-procedimentos-de-segurança-e-resposta-operacio",
-      "desc": "Cigás realiza 12º Simulado de Emergência para avaliar procedimentos de segurança e resposta operacional há 1 hora 4 min de leitura Exercício avaliou a capacidade de resposta das equipes e a atuação integrada dos órgãos parceiros diante de um vazamento simulado na rede de gás natural Com foco no aprimoramento contínuo dos procedimentos de segurança operacional e na avaliação dos protocolos de atendimento a situações emergenciais, a Companhia de Gás do Amazonas (Cigás) realizou, nesta quarta-feira (25), a 12ª edição do Simulado de Emergência na rede de distribuição de gás natural (RDGN). A atividade ocorreu na rua Rio Quixito, nas proximidades do City Gate Vila Buriti, zona Sul de Manaus, e reuniu equipes da Companhia e de órgãos que atuam na segurança, saúde e fiscalização. A simulação envo"
+      "desc": "Cigás realiza 12º Simulado de Emergência para avaliar procedimentos de segurança e resposta operacional há 24 horas 4 min de leitura Exercício avaliou a capacidade de resposta das equipes e a atuação integrada dos órgãos parceiros diante de um vazamento simulado na rede de gás natural Com foco no aprimoramento contínuo dos procedimentos de segurança operacional e na avaliação dos protocolos de atendimento a situações emergenciais, a Companhia de Gás do Amazonas (Cigás) realizou, nesta quarta-feira (25), a 12ª edição do Simulado de Emergência na rede de distribuição de gás natural (RDGN). A atividade ocorreu na rua Rio Quixito, nas proximidades do City Gate Vila Buriti, zona Sul de Manaus, e reuniu equipes da Companhia e de órgãos que atuam na segurança, saúde e fiscalização. A simulação en"
     },
     {
       "titulo": "Semig destaca avanço do setor de gás natural com licença concedida à Eneva em Silves",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "26/11/2026",
+      "data": "27/11/2026",
       "impacto": "alto",
       "tags": [
         "alto",
@@ -77,7 +77,7 @@
       "titulo": "DOU — Página verificada sem atos relevantes hoje.",
       "orgao": "DOU",
       "tema": "Publicações Oficiais Federais",
-      "data": "26/11/2026",
+      "data": "27/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -89,7 +89,7 @@
       "titulo": "DOE-AM — Verificado hoje sem atos relevantes",
       "orgao": "DOE-AM",
       "tema": "Atos Oficiais Estaduais",
-      "data": "26/11/2026",
+      "data": "27/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -102,7 +102,7 @@
       "titulo": "ANEEL — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ANEEL",
       "tema": "Energia Elétrica",
-      "data": "26/11/2026",
+      "data": "27/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -114,7 +114,7 @@
       "titulo": "ANP — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ANP",
       "tema": "Gás Natural / Petróleo",
-      "data": "26/11/2026",
+      "data": "27/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -126,7 +126,7 @@
       "titulo": "ANA — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ANA",
       "tema": "Recursos Hídricos",
-      "data": "26/11/2026",
+      "data": "27/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -138,7 +138,7 @@
       "titulo": "CCEE — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "CCEE",
       "tema": "Comercialização de Energia",
-      "data": "26/11/2026",
+      "data": "27/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -150,7 +150,7 @@
       "titulo": "ONS — Página verificada sem atos relevantes hoje.",
       "orgao": "ONS",
       "tema": "Operação do Sistema",
-      "data": "26/11/2026",
+      "data": "27/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -162,7 +162,7 @@
       "titulo": "Petrobras — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Petrobras",
       "tema": "Petróleo e Gás",
-      "data": "26/11/2026",
+      "data": "27/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -174,7 +174,7 @@
       "titulo": "TAG — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "TAG",
       "tema": "Transporte de Gás",
-      "data": "26/11/2026",
+      "data": "27/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -186,7 +186,7 @@
       "titulo": "ARSEPAM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "ARSEPAM",
       "tema": "Regulação Estadual / AM",
-      "data": "26/11/2026",
+      "data": "27/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -198,7 +198,7 @@
       "titulo": "Semig nas Escolas encerra atividades de 2026 com edição para estudantes da Escola Estadual Nossa Senhora Aparecida",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "26/11/2026",
+      "data": "27/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -212,7 +212,7 @@
       "titulo": "Semig destaca potencial do Amazonas para Data Centers durante a 3ª edição do Amazônia Solar Business",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "26/11/2026",
+      "data": "27/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -226,7 +226,7 @@
       "titulo": "Semig garante mais comodidade ao público com lounges e pontos de recarga em Parintins",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "26/11/2026",
+      "data": "27/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -240,7 +240,7 @@
       "titulo": "Festival de Parintins 2026: Experiência de realidade virtual é destaque no estande da Semig no Turistódromo",
       "orgao": "SEMIG",
       "tema": "Política Energética / AM",
-      "data": "26/11/2026",
+      "data": "27/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -251,10 +251,22 @@
       "desc": "Festival de Parintins 2026: Experiência de realidade virtual é destaque no estande da Semig no Turistódromo 01 de jul de 2026 | 11:04 Ouvir Compartilhar Tweet Tecnologia imersiva mostra a navegação pelos rios amazônicos e a inovação da rabeta elétrica Passeio virtual com óculos 3D no estande da Semig          FOTO: Divulgação/Semig A experiência de realidade virtual tem encantado moradores e turistas que visitam o estande da Secretaria de Estado de Energia, Mineração e Gás (Semig) no 59º Festival Folclórico de Parintins. A atração integra o projeto ‘Semig Transforma Parintins’ e convida o público a embarcar em um passeio imersivo pelos rios amazônicos, apresentando, de forma interativa, a tecnologia da rabeta elétrica e seu potencial para uma navegação mais sustentável. Com o uso de óculos"
     },
     {
+      "titulo": "Conselho de Recursos Fiscais da Sefaz-AM celebra 70 anos com debate sobre justiça fiscal",
+      "orgao": "SEFAZ-AM",
+      "tema": "Tributação / AM",
+      "data": "27/11/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.sefaz.am.gov.br/noticias/33593",
+      "desc": "O Conselho de Recursos Fiscais (CRF) da Secretaria de Estado da Fazenda do Amazonas (Sefaz-AM) deu início, na manhã desta quinta-feira (26/11), em Manaus, as comemorações pelas sete décadas de história. O evento, que tem o tema “70 Anos de Justiça Fiscal”, continua até sexta-feira (27/11) com homenagens, mesas-redondas, palestras e atividades técnicas. A abertura contou com a presença do vice-governador, Serafim Corrêa, conselheiros, representantes do setor produtivo, especialistas e servidores do Fisco. Eles celebram a trajetória da instituição e discutem o papel da justiça fiscal no desenvolvimento do Amazonas."
+    },
+    {
       "titulo": "70 Anos do Conselho de Recursos Fiscais",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "26/11/2026",
+      "data": "27/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -266,7 +278,7 @@
       "titulo": "Escola de Manaus representa o Amazonas em premiação nacional de Educação Fiscal",
       "orgao": "SEFAZ-AM",
       "tema": "Tributação / AM",
-      "data": "26/11/2026",
+      "data": "27/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -278,7 +290,7 @@
       "titulo": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã.",
       "orgao": "Seinfra-AM",
       "tema": "Infraestrutura / AM",
-      "data": "26/11/2026",
+      "data": "27/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -287,10 +299,22 @@
       "desc": "Seinfra-AM — Falha temporária de acesso. Próxima tentativa amanhã."
     },
     {
+      "titulo": "Prefeitura de Manaus reforça ações de combate à fumaça e proteção à saúde da população",
+      "orgao": "Prefeitura Manaus",
+      "tema": "Gestão Municipal",
+      "data": "27/11/2026",
+      "impacto": "baixo",
+      "tags": [
+        "baixo"
+      ],
+      "url": "https://www.manaus.am.gov.br/noticia/cuidados/acoes-de-combate-a-fumaca/",
+      "desc": "Cuidados Prefeitura de Manaus promove palestra e reforça importância do autocuidado e da prevenção à saúde masculina de servidores"
+    },
+    {
       "titulo": "Prefeito Renato Junior lança sistema que permite monitorar em tempo real caminhões de coleta de lixo em Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "26/11/2026",
+      "data": "27/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -302,7 +326,7 @@
       "titulo": "Prefeito Renato Junior apresenta  pedras portuguesas de lioz de volta à calçada da rua gastronômica de Manaus",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "26/11/2026",
+      "data": "27/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -311,34 +335,22 @@
       "desc": "Centro Histórico Obras da Prefeitura de Manaus na rua gastronômica avançam com serviços simultâneos nos dois trechos"
     },
     {
-      "titulo": "Prefeitura de Manaus incentiva protagonismo feminino na ciência em escola municipal ribeirinha",
+      "titulo": "Equipes da prefeitura promovem ação de saúde para trabalhadores da construção civil na zona Centro-Sul",
       "orgao": "Prefeitura Manaus",
       "tema": "Gestão Municipal",
-      "data": "26/11/2026",
+      "data": "27/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
       ],
-      "url": "https://www.manaus.am.gov.br/noticia/educacao/protagonismo-feminino-na-ciencia/",
-      "desc": "Educação Prefeitura encerra projeto ‘Samuzinho Manaus’ e promove aprendizado sobre primeiros socorros e cidadania entre estudantes da rede municipal"
-    },
-    {
-      "titulo": "Prefeitura de Manaus registra alta de 281% na área regularizada por meio do Habite-se",
-      "orgao": "Prefeitura Manaus",
-      "tema": "Gestão Municipal",
-      "data": "26/11/2026",
-      "impacto": "baixo",
-      "tags": [
-        "baixo"
-      ],
-      "url": "https://www.manaus.am.gov.br/noticia/planejamento-urbano/prefeitura-implurb-habite-se-alta/",
-      "desc": "Planejamento Urbano Prefeitura de Manaus supera 7 milhões de metros quadrados licenciados para novas construções desde 2021"
+      "url": "https://www.manaus.am.gov.br/noticia/atendimento/acao-saude-trabalhadores-construcao-civil-zona-centro-sul/",
+      "desc": "Atendimento Escola de Transporte Inclusivo da Prefeitura de Manaus realiza treinamento para motoristas e cobradores de ônibus"
     },
     {
       "titulo": "Prefeito Renato Junior sanciona lei aguardada há 25 anos que garante subsídio de até R$ 3 milhões mensais para o transporte complementar de Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "26/11/2026",
+      "data": "27/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -350,7 +362,7 @@
       "titulo": "Prefeito Renato Junior apresenta tecnologia que leva informações do trânsito em tempo real aos motoristas em Manaus",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "26/11/2026",
+      "data": "27/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -362,7 +374,7 @@
       "titulo": "Prefeitura de Manaus denuncia furto de mais de 300 metros de cabos semafóricos",
       "orgao": "IMMU",
       "tema": "Mobilidade Urbana",
-      "data": "26/11/2026",
+      "data": "27/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
@@ -375,7 +387,7 @@
       "titulo": "Prefeito Renato Junior anuncia 60% de execução das obras da primeira rua gastronômica de Manaus e destaca resgate de pedras históricas",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "26/11/2026",
+      "data": "27/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -387,7 +399,7 @@
       "titulo": "Prefeito Renato Junior celebra Teatro Amazonas como Patrimônio Mundial da Unesco e destaca reconhecimento do espaço mais democrático para o acesso à cultura",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "26/11/2026",
+      "data": "27/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo"
@@ -399,7 +411,7 @@
       "titulo": "Requalificação da Ferreira Pena avança com instalação de caixas para rede subterrânea de energia e telecomunicações",
       "orgao": "Implurb",
       "tema": "Planejamento Urbano",
-      "data": "26/11/2026",
+      "data": "27/11/2026",
       "impacto": "baixo",
       "tags": [
         "baixo",
